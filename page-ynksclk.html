@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Affan - PWA Mobile HTML Template">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0134d4">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+    <title>ProMeTHeuS</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="img/icons/icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/icon-180x180.png">
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tiny-slider.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css">
+    <link rel="stylesheet" href="css/rangeslider.css">
+    <link rel="stylesheet" href="css/vanilla-dataTables.min.css">
+    <link rel="stylesheet" href="css/apexcharts.css">
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="manifest.json">
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div class="spinner-grow text-primary" role="status"><span class="visually-hidden">Loading...</span></div>
+    </div>
+    <!-- Internet Connection Status -->
+    <!-- # This code for showing internet connection status -->
+    <div class="internet-connection-status" id="internetStatus"></div>
+    <!-- Dark mode switching -->
+    <div class="dark-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="dark-mode-text text-center">
+          <svg class="bi bi-moon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M14.53 10.53a7 7 0 0 1-9.058-9.058A7.003 7.003 0 0 0 8 15a7.002 7.002 0 0 0 6.53-4.47z"></path>
+          </svg>
+          <p class="mb-0">Switching to dark mode</p>
+        </div>
+        <div class="light-mode-text text-center">
+          <svg class="bi bi-brightness-high" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"></path>
+          </svg>
+          <p class="mb-0">Switching to light mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- RTL mode switching -->
+    <div class="rtl-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="rtl-mode-text text-center">
+          <svg class="bi bi-text-right" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm4-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to RTL mode</p>
+        </div>
+        <div class="ltr-mode-text text-center">
+          <svg class="bi bi-text-left" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to default mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- Setting Popup Overlay -->
+    <div id="setting-popup-overlay"></div>
+    <!-- Setting Popup Card -->
+    <div class="card setting-popup-card shadow-lg" id="settingCard">
+      <div class="card-body">
+        <div class="container">
+          <div class="setting-heading d-flex align-items-center justify-content-between mb-3">
+            <p class="mb-0">Settings</p>
+            <div class="btn-close" id="settingCardClose"></div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="availabilityStatus" checked>
+              <label class="form-check-label" for="availabilityStatus">Availability status</label>
+            </div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="sendMeNotifications" checked>
+              <label class="form-check-label" for="sendMeNotifications">Send me notifications</label>
+            </div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="darkSwitch">
+              <label class="form-check-label" for="darkSwitch">Dark mode</label>
+            </div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" id="rtlSwitch">
+              <label class="form-check-label" for="rtlSwitch">RTL mode</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Header Area -->
+    <div class="header-area" id="headerArea">
+      <div class="container">
+        <!-- Header Content -->
+        <div class="header-content position-relative d-flex align-items-center justify-content-between">
+          <!-- Back Button -->
+          <div class="back-button"><a href="elements.html">
+              <svg class="bi bi-arrow-left-short" width="32" height="32" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"></path>
+              </svg></a></div>
+          <!-- Page Title -->
+          <div class="page-heading">
+            <h3 class="mb-0">YANKESİCİLİK</h3>
+          </div>
+          <!-- Settings -->
+          <div class="setting-wrapper">
+            <div class="setting-trigger-btn" id="settingTriggerBtn">
+              <svg class="bi bi-gear" width="18" height="18" viewBox="0 0 16 16" fill="url(#gradientSettings)" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                  <linearGradient id="gradientSettings" spreadMethod="pad" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0" style="stop-color: #0134d4; stop-opacity:1;"></stop>
+                    <stop offset="100%" style="stop-color: #28a745; stop-opacity:1;"></stop>
+                  </linearGradient>
+                </defs>
+                <path fill-rule="evenodd" d="M8.837 1.626c-.246-.835-1.428-.835-1.674 0l-.094.319A1.873 1.873 0 0 1 4.377 3.06l-.292-.16c-.764-.415-1.6.42-1.184 1.185l.159.292a1.873 1.873 0 0 1-1.115 2.692l-.319.094c-.835.246-.835 1.428 0 1.674l.319.094a1.873 1.873 0 0 1 1.115 2.693l-.16.291c-.415.764.42 1.6 1.185 1.184l.292-.159a1.873 1.873 0 0 1 2.692 1.116l.094.318c.246.835 1.428.835 1.674 0l.094-.319a1.873 1.873 0 0 1 2.693-1.115l.291.16c.764.415 1.6-.42 1.184-1.185l-.159-.291a1.873 1.873 0 0 1 1.116-2.693l.318-.094c.835-.246.835-1.428 0-1.674l-.319-.094a1.873 1.873 0 0 1-1.115-2.692l.16-.292c.415-.764-.42-1.6-1.185-1.184l-.291.159A1.873 1.873 0 0 1 8.93 1.945l-.094-.319zm-2.633-.283c.527-1.79 3.065-1.79 3.592 0l.094.319a.873.873 0 0 0 1.255.52l.292-.16c1.64-.892 3.434.901 2.54 2.541l-.159.292a.873.873 0 0 0 .52 1.255l.319.094c1.79.527 1.79 3.065 0 3.592l-.319.094a.873.873 0 0 0-.52 1.255l.16.292c.893 1.64-.902 3.434-2.541 2.54l-.292-.159a.873.873 0 0 0-1.255.52l-.094.319c-.527 1.79-3.065 1.79-3.592 0l-.094-.319a.873.873 0 0 0-1.255-.52l-.292.16c-1.64.893-3.433-.902-2.54-2.541l.159-.292a.873.873 0 0 0-.52-1.255l-.319-.094c-1.79-.527-1.79-3.065 0-3.592l.319-.094a.873.873 0 0 0 .52-1.255l-.16-.292c-.892-1.64.902-3.433 2.541-2.54l.292.159a.873.873 0 0 0 1.255-.52l.094-.319z"></path>
+                <path fill-rule="evenodd" d="M8 5.754a2.246 2.246 0 1 0 0 4.492 2.246 2.246 0 0 0 0-4.492zM4.754 8a3.246 3.246 0 1 1 6.492 0 3.246 3.246 0 0 1-6.492 0z"></path>
+              </svg><span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page-content-wrapper">
+      <div class="container">
+        <div class="pt-3 d-block"></div>
+        <div class="blog-details-post-thumbnail position-relative">
+          <!-- Post Image --><img class="w-100 rounded-lg" src="img/bg-img/24.png" alt="">
+          <!-- Post Bookmark --><a class="post-bookmark position-absolute card-badge" ></a>
+        </div>
+      </div>
+      <div class="blog-description py-3">
+        <div class="container">
+          <h6 class="mb-3">Yankesicilik</h6>
+		  <div style="text-align: justify;">
+          <p class="fz-14">Halkın yoğun olarak bulunduğu alışveriş merkezlerinde, semt pazarlarında, otobüs terminallerinde, erkeklerin ceplerinden bayanların omuz çantalarının içinden para ve değerli eşyalarının kalabalıktan faydalanılarak fark ettirilmeden alınması Türk Ceza Kanununda elde veya üstte taşınan eşyayı özel beceriyle almak olarak tanımlanmıştır.
+          <p class="fz-14">Bu suçu işleyenler ellerinde hafif bir eşya (gazete, kazak, ceket) dışında bir şey taşımazlar. Belirtilen yerlerde mağdurun dikkatinin dağıldığı veya dikkatinin bir yere yoğunlaştığı zamanı seçerler veya mağdurun dikkatini dağıtarak çalma işlemini gerçekleştirirler.
+		  Bir veya birden fazla kişiyle hareket ederler. Alışveriş merkezlerinde, pastanelerde, piknik alanlarında, bayan kuaförlerinde, düğün salonlarında, lokantalarda, kapısı açık bırakılan otolarda ve kuyumcularda yapılmaktadır. Bu gibi yerlerde bulunan kişilerin, içerisinde para ve mücevherlerin bulunduğu çanta,
+		  cüzdan ve cep telefonlarını bulundukları yerin içerisinde masanın üzerine veya alışveriş arabalarının içerisine bıraktıkları bu esnada alış verişe veya muhabbete daldıkları anda çanta,
+		  cüzdan ve cep telefonlarını unuttukları art niyetli insanların bu durumdan istifade ederek çanta, cüzdan ve telefonları çaldıkları, vatandaşların bu olayı daha sonra fark ettikleri bir hırsızlık türüdür.</p>
+		        <!-- All Comments -->
+      <div class="rating-and-review-wrapper pb-3 mt-3">
+	  <div style="text-align: justify;">
+        <div class="container">
+          <h6 class="mb-3">TCK'da Yankesicilik Suçu</h6>
+          <p class="fz-14">Yankesicilik Türk Ceza Kanunu’nda ayrı olarak tanımlanmış bir suç değildir. Hırsızlık Suçunun Nitelikli halidir.Türk Ceza Kanunumuzu 142/2 maddesinde düzenlenen nitelikli hallere göre;</p>
+		  <p class="fz-14"> ➢ Suçun elde veya üstte taşınan eşyayı çekip almak suretiyle ya da özel beceriyle işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur. İş bu suçun beden veya ruh bakımından kendisini savunamayacak durumda olan kimseye karşı işlenmesi halinde, verilecek ceza üçte biri oranına kadar artırılır. Yani; suçu işleyen kimse hakkında altı yıla hükmolunacak ise verilecek ceza üçte biri oranında arttırılarak sekiz yıla hükmolunur. Kapkaç ve yankesicilik suretiyle işlenen suçlar bu nitelikli unsurun kapsamındadır.</p>
+		  <p class="fz-14"> ➢ Suçun kişinin malını koruyamayacak durumda olmasından veya ölmesinden yararlanarak işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur.</p>
+		  <p class="fz-14"> ➢ Suçun doğal bir afetin veya toplumsal olayların meydana getirdiği korku veya kargaşadan yararlanarak işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur.</p>
+		  <p class="fz-14"> ➢ Suçun haksız yere elde bulundurulan veya taklit anahtarla ya da diğer bir aletle kilit açmak veya kilitlenmesini engellemek suretiyle işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur.</p>
+		  <p class="fz-14"> ➢ Suçun bilişim sistemlerinin kullanılması suretiyle işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur. Bu nitelikli unsurun en yaygın uygulaması, bir başkasının hesabında bulunan paranın bilişim sistemleri kullanılarak failin veya bir başkasının hesabına aktarılmasında görülür.</p>
+		  <p class="fz-14"> ➢ Suçun tanınmamak için tedbir alarak veya yetkisi olmadığı halde resmi sıfat takınarak işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur.</p>
+		  <p class="fz-14"> ➢ Suçun büyük veya küçükbaş hayvan hakkında işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur. Kümes hayvanlarının çalınması durumunda bu nitelikli unsur uygulanmaz.</p>
+		  <p class="fz-14"> ➢ Suçun herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina ve eklentileri içinde muhafaza altına alınmış eşya hakkında işlenmesi halinde beş yıldan on yıla kadar hapis cezasına hükmolunur. Örneğin kapıları ve camları kilitlenmek suretiyle muhafaza altına alınmış olan aracın, kapı kilitlerinin zorlanarak açılması ve aracın içindeki eşyanın ya da aracın çalınması bu kapsamdadır.</p>
+		  <p class="fz-14"> Bunlarla birlikte hırsızlık suçunun; sıvı veya gaz hâlindeki enerji hakkında ve bunların nakline, işlenmesine veya depolanmasına ait tesislerde işlenmesi halinde, beş yıldan on iki yıla kadar hapis cezasına hükmolunur. Bu fiilin bir örgütün faaliyeti çerçevesinde işlenmesi halinde, ceza yarı oranında artırılır ve on bin güne kadar adlî para cezasına hükmolunur(TCK Madde 142/3).</p>
+		  Yankesiciler halkın yoğun olarak bulunduğu yerleri (çarşı merkezleri, semt pazarları, hastaneler, toplu taşıma araçları) tercih etmektedirler.
+		  Genellikle mağdurun dikkatini dağıtan hareketler yapmak, bir tarafına çarpmak, lafa tutmak, sarılmak, üstünü aramak, önünde kavga yapar görünürken üzerine abanmak şeklinde işlenmektedir.</p>
+		  <p class="fz-14"> Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici de olsa aksaması hâlinde, yukarıdaki fıkralar hükümlerine göre verilecek ceza yarısından iki katına kadar artırılır(TCK Madde 142/5).</p>
+		  <p class="fz-14"> Hırsızlık suçunun gece vakti işlenmesi halinde verilecek ceza yarı oranında arttırılır. Gece vakti; güneşin batmasından bir saat sonra başlayan ve güneşin doğmasından bir saat önceye kadar devam eden zaman süresini ifade eder.</p>
+		  <p class="fz-14"> Hırsızlık suçunun konusunu 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Yasası kapsamına giren kültür varlıkları oluşturuyor ise faile verilecek ceza üçte birinden az olmamak üzere iki katına kadar arttırılarak hükmolunur(2863 sayılı Y. m.75).</p>
+        </div><pre lang="html">			
+      </div>
+      <!-- All Comments -->
+      <div class="rating-and-review-wrapper pb-3 mt-3">
+	  <div style="text-align: justify;">
+        <div class="container">
+          <h6 class="mb-3">Yankesicilikte Başvurulan Yöntemler</h6>
+          <!-- Rating Review -->
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Muslukçuluk</h6><p class="fz-14">Camide abdest almakta olan kişinin ceketi üzerine kendi ceketini asmak suretiyle, diğer cekette bulunan para veya eşyanın alınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Tantanacılık</h6><p class="fz-14">Yürümekte olan genellikle yaşlının önünde iki veya üç şahsın birbirleri ile kavga eder görüntüsü vererek aralarına aldıkları kişinin cebinde bulunan paranın çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Söğüşçülük</h6><p class="fz-14">Aşırı alkol almanın etkisi ile kendisini kaybeden, sızan, açıkta uyuyan kişilerin üzerinden para ve kıymetli eşyalarının alınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Madaracılık</h6><p class="fz-14">Kişiyi tanıyor gibi yaklaşıp, el şakaları yaparken üzerinde bulunan para ve cüzdanının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Silkeleme</h6><p class="fz-14">Kişiyi tanıyor gibi yaklaşıp, başından geçen bir olayı anlatırken kişinin kemerinden ve elbisesinden tutup, tartaklar gibi yaparak para ve cüzdanının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Pislikçilik</h6><p class="fz-14">Genellikle yaşlıların ceket ve pantolonlarına bulaştırdıkları pislikleri temizlemek bahanesiyle, yardım etme görüntüsü vererek kişinin üzerindeki para ve cüzdanlarının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Teker üstü</h6><p class="fz-14">Toplu taşım araçlarının içerisindeki sıkışıklıktan faydalanarak kişinin çantasından veya cebinden paralarının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Tırnakçılık</h6><p class="fz-14">Para bozdurmak veya para saymak bahanesi ile banknotların içerisinden bir kısmının alınarak eksiltilmesidir.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Vaybabamcılık</h6><p class="fz-14">Kişiyi tanıyor gibi yaklaşıp, sarıldığı esnada hissettirmeden cebindeki parası veya değerli eşyasının alınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Cepçilik</h6><p class="fz-14">Genellikle halkın yoğun olarak bulunduğu dolmuş veya otobüs duraklarında, alışveriş merkezlerinde, toplantı yerlerinde, miting alanında kişilerin sıkıştırılmak suretiyle cebinden parasının veya cüzdanının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Aç-Kapacılık</h6><p class="fz-14">Adres sorma veya başka bir nedenle kişiye yanaşıp, gideceği yere kadar götürme teklifinde bulunulup, otonun arka koltuğu eşya ile doldurulduğundan kişinin ön koltuktaki ikinci kişinin yanına oturtulması sağlandıktan sonra, otonun kapısının tam kapanmadığı gibi bahanelerle sıkıştırılan kişinin cebinden cüzdanının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Çantacılık</h6><p class="fz-14">Omuzda veya elde taşınan çantanın fermuarının veya kapağının açılarak içerisinden cüzdan para veya cep telefonunun çalınmasıdır.</p>
+				</div><pre lang="html">	
+                </div></ul></div>
+	  <div class="page-content-wrapper">
+      <div class="container">
+        <div class="pt-3 d-block"></div>
+        <div class="blog-details-post-thumbnail position-relative">
+          <!-- Post Image --><img class="w-100 rounded-lg" src="img/bg-img/25.png" alt="">
+          <!-- Post Bookmark --><a class="post-bookmark position-absolute card-badge" ></a>
+        </div>
+      </div>
+	        <!-- All Comments -->
+      <div class="rating-and-review-wrapper pb-3 mt-3">
+	  <div style="text-align: justify;">
+        <div class="container">
+          <h6 class="mb-3">Yankesicilik Suçunun İşlendiği Yerler</h6>
+          <!-- Rating Review -->
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Pazar Yerlerinde</h6><p class="fz-14">Alışveriş yapan kişilerin tezgâhtan mal seçtikleri sırada sıkıştırılarak ceplerinde veya çantalarında bulunan para veya para cüzdanlarının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Otobüs Durakları ve Vapur İskelelerinde</h6><p class="fz-14">Kişinin otobüse bineceği sırada, kalabalık içerisinde bulunan yankesicilerden birisinin mağdurun önüne geçip engel yaparak, arkada bulunan ikinci yankesicinin kişinin cep veya çantasına ellerini sokarak para veya para cüzdanlarının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Çarşı ve Alışveriş Merkezlerinde</h6><p class="fz-14">Çarşı veya Alışveriş Merkezlerinde kişinin vitrinde bulunan eşyalara baktıkları sırada cebinden para veya çantasının içinden para cüzdanlarının el sokularak çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Metro ve Tren İçlerinde veya İstasyonlarında</h6><p class="fz-14">Ekseriyetle mesai başlangıç veya bitiş saatlerinde, toplu taşıma aracına binecek kişinin telaşından yararlanarak cebinde bulunan para ve değerli eşyalarının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Hastane İçinde, Polikliniklerde</h6><p class="fz-14">Hastane asansörlerinin veya polikliniklerin önünde sıra bekleyen hasta ya da hasta yakınlarının içinde bulundukları durumdan faydalanarak kişilerin ceplerinde ve çantalarında bulunan paralarının çalınmasıdır.</p>
+                </div></ul></div>
+          <div class="rating-review-content">
+            <ul class="ps-2">
+                <div class="rating-comment">
+				<h6><img src="img/bg-img/2.png"> Cami ve Mescitlerde</h6><p class="fz-14">Camide abdest almakta olan kişinin ceketi üzerine kendi ceketini asmak suretiyle, diğer cekette bulunan para veya eşyanın alınmasıdır.</p>
+				</div><pre lang="html">	
+                </div></ul></div>
+          </div>
+        </div>
+      </div>
+    <!-- Footer Nav -->
+    <div class="footer-nav-area" id="footerNav">
+      <div class="container px-0">
+        <!-- =================================== -->
+        <!-- Paste your Footer Content from here -->
+        <!-- =================================== -->
+        <!-- Footer Content -->
+        <div class="footer-nav position-relative">
+          <ul class="h-100 d-flex align-items-center justify-content-between ps-0">
+            <li class="active"><a href="index.html">
+                <svg class="bi bi-house" width="20" height="20" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M2 13.5V7h1v6.5a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5V7h1v6.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5zm11-11V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"></path>
+                  <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"></path>
+                </svg><span>Home</span></a></li>
+            <li><a href="work.html">
+                <svg class="bi bi-collection" width="20" height="20" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M14.5 13.5h-13A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5zm-13 1A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zM2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1z"></path>
+                </svg><span>Work</span></a></li>
+            <li><a href="books.html">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+				<path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/></svg>
+			</svg><span>Ebook</span></a></li>
+            <li><a href="audiobooks.html">
+                <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" class="bi bi-headphones" viewBox="0 0 16 16">
+				<path d="M8 3a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8a6 6 0 1 1 12 0v5a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1V8a5 5 0 0 0-5-5z"/></svg>
+                </svg><span>AudioBook</span></a></li>
+            <li><a href="search.html">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
+                </svg><span>Search</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- All JavaScript Files -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/slideToggle.min.js"></script>
+    <script src="js/internet-status.js"></script>
+    <script src="js/tiny-slider.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/rangeslider.min.js"></script>
+    <script src="js/vanilla-dataTables.min.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/magic-grid.min.js"></script>
+    <script src="js/dark-rtl.js"></script>
+    <script src="js/active.js"></script>
+    <!-- PWA -->
+    <script src="js/pwa.js"></script>
+  </body>
+</html>

@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="tr" >
+
+<head>
+
+  <meta charset="UTF-8">
+  
+<link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />
+<meta name="apple-mobile-web-app-title" content="CodePen">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />
+
+<link rel="mask-icon" type="" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" />
+
+
+  <title>CodePen - Elastic search</title>
+  
+  
+  <link rel='stylesheet' href='https://unpkg.com/mustard-ui@latest/dist/css/mustard-ui.min.css'>
+  
+<style>
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+
+body {
+  background-color: #18191b;
+  font-family: Lato, sans-serif;
+}
+
+.container {
+  width: 400px;
+  position: absolute;
+  top: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: slide-down 1s ease-out;
+}
+
+h1 {
+  color: #fff;
+  font-family: 'Monoton', cursive;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+a {
+  display: none;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  position: relative;
+}
+
+li {
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #b0d12a;
+  cursor: pointer;
+  font-weight: 700;
+  margin-left: 2;
+  transition: margin-left .125s ease-in;
+
+}
+
+li a {
+  float: right;
+}
+
+li.active {
+  color: #db1616; 
+  margin-left: -20px;
+}
+
+li.active a {
+  display: inline-block;
+}
+
+@keyframes slide-down {
+  0% {
+    top: -150px;
+  }
+  40% {
+    top: 20px;
+  }
+  70% {
+    top: 10px;
+  }
+  100% {
+    top: 15px;
+  }
+}
+</style>
+
+ <script>
+  window.console = window.console || function(t) {};
+</script>
+
+  
+  
+  <script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+    <script>
+  window.console = window.console || function(t) {};
+</script>
+
+  
+  
+  <script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+
+
+</head>
+
+<body translate="no" >
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+<input type="text" style="width: 250px; height: 40px;" autocomplete="off" name="searchTags" id="searchTags" placeholder="Kitap Adı / Yazar Adı " />
+
+
+    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-157cd5b220a5c80d4ff8e0e70ac069bffd87a61252088146915e8726e5d9f147.js"></script>
+
+  
+      <script id="rendered-js" >
+//Aramalarda büyük küçük harf duyarlılığı için
+jQuery.expr[':'].contains = function (a, i, m) {
+  return jQuery(a).text().toUpperCase().
+  indexOf(m[3].toUpperCase()) >= 0;
+};
+
+$(document).ready(function () {
+
+  // keyup ile inputa herhangi bir değer girilince fonksiyonu tetikliyoruz
+  $("#searchTags").keyup(function () {
+
+    // inputa yazılan değeri alıyoruz
+    var value = $("#searchTags").val();
+
+    // eğer input içinde değer yoksa yani boşsa tüm menüyü çıkartıyoruz
+    if (value.length == 0) {
+
+      $("#menuFull li").show();
+
+      // arama yapılmışsa ilk olarak tüm menüyü gizliyoruz ve girilen değer ile eşleşen kısmı çıkarıyoruz
+    } else {
+
+      $("#menuFull li").hide();
+      $("#menuFull li:contains(" + value + ")").show();
+
+    }
+
+  });
+
+});
+//# sourceURL=pen.js
+    </script>
+
+</head>
+
+
+<body translate="no" >
+  <div class="container">
+  <h1>E-Kitap Dinle</h1>
+  <ul id="menuFull"> 
+<li class="song">Şimdi'nin Gücü -  Echart Tolle<a href="S001.html">Dinle</a></li>
+<li class="song">Sokrates Ne Demek İstiyor - Filozoflar Serisi<a href="S002.html">Dinle</a></li>
+<li class="song">Savaşçı - Doğan Cüceloğlu<a href="S003.html">Dinle</a></li>
+<li class="song">Arap Hayri - Sabahattin Ali<a href="S004.html">Dinle</a></li>
+<li class="song">Asfalt Yol - Sabahattin Ali<a href="S005.html">Dinle</a></li>
+<li class="song">Ayran-  Sabahattin Ali<a href="S006.html">Dinle</a></li>
+<li class="song">Bahis - Anton Çehov<a href="S007.html">Dinle</a></li>
+<li class="song">Bir Firar - Sabahattin Ali<a href="S008.html">Dinle</a></li>
+<li class="song">Bir Orman Hikayesi - Sabahattin Ali<a href="S009.html">Dinle</a></li>
+<li class="song">Bir siyah Fanila İçin - Sabahattin Ali<a href="S010.html">Dinle</a></li>
+<li class="song">Birdenbire Sönen Kandilin Hikayesi - Sabahattin Ali<a href="S011.html">Dinle</a></li>
+<li class="song">Sinyal Memuru - Charles Dickens<a href="S012.html">Dinle</a></li>
+<li class="song">Değirmen - Sabahattin Ali<a href="S013.html">Dinle</a></li>
+<li class="song">Duvar - Sabahattin Ali<a href="S014.html">Dinle</a></li>
+<li class="song">Dönüşüm - Franz Kafka<a href="S015.html">Dinle</a></li>
+<li class="song">Kanal - Sabahattin Ali<a href="S016.html">Dinle</a></li>
+<li class="song">Koyun Masalı - Sabahattin Ali<a href="S017.html">Dinle</a></li>
+<li class="song">Eskici - Refik Halit Karay<a href="S018.html">Dinle</a></li>
+<li class="song">Duygusal Zeka - Kişisel Gelişim<a href="S019.html">Dinle</a></li>
+<li class="song">Kırlangıçlar - Sabahattin Ali<a href="S020.html">Dinle</a></li>
+<li class="song">Noel Hediyesi - O. Henry<a href="S021.html">Dinle</a></li>
+<li class="song">Palto - Nikolay Gogol<a href="S022.html">Dinle</a></li>
+<li class="song">Arabalar Beş Kuruşa - Sabahattin Ali<a href="S023.html">Dinle</a></li>
+<li class="song">Düşman - Sabahattin Ali<a href="S024.html">Dinle</a></li>
+<li class="song">Hasan Boğuldu - Sabahattin Ali<a href="S025.html">Dinle</a></li>
+<li class="song">Isıtmak İçin - Sabahattin Ali<a href="S026.html">Dinle</a></li>
+<li class="song">Mehtaplı Bir Gece - Sabahattin Ali<a href="S027.html">Dinle</a></li>
+<li class="song">Pazarcı - Sabahattin Ali<a href="S028.html">Dinle</a></li>
+<li class="song">Satranç - Stefan Zweig<a href="S029.html">Dinle</a></li>
+<li class="song">Ses - Stefan Zweig<a href="S030.html">Dinle</a></li>
+<li class="song">Sokrates in Savunması - Platon<a href="S031.html">Dinle</a></li>
+<li class="song">Sırça Köşk - Sabahattin Ali<a href="S032.html">Dinle</a></li>
+<li class="song">Tanrı Gerçeği Bilir - Lev Nikolayeviç Tolstoy<a href="S033.html">Dinle</a></li>
+<li class="song">Üç Ölüm - Tolstoy<a href="S034.html">Dinle</a></li>
+<li class="song">Vahşetin Çağrısı - Jack London<a href="S035.html">Dinle</a></li>
+<li class="song">Viyolonsel - Sabahattin Ali<a href="S036.html">Dinle</a></li>
+<li class="song">Yargı - Franz Kafka<a href="S037.html">Dinle</a></li>
+<li class="song">Yeraltından Notlar - Fyodor Dostoyevski<a href="S038.html">Dinle</a></li>
+<li class="song">Çaydanlık - Sabahattin Ali<a href="S039.html">Dinle</a></li>
+<li class="song">Ütopya - Thomas More<a href="S040.html">Dinle</a></li>
+<li class="song">İki Şehrin Hikayesi - Charles Dickens<a href="S041.html">Dinle</a></li>
+<li class="song">İlk Aşk - İvan Turgenyev<a href="S042.html">Dinle</a></li>
+<li class="song">Korkunç Bir Gece - Anton Çehov<a href="S043.html">Dinle</a></li>
+<li class="song">Kuş Kapanı - Stefan Zweig<a href="S044.html">Dinle</a></li>
+<li class="song">Mesut İnsanlar Fotoğrafhanesi - Z. Osman Saba<a href="S045.html">Dinle</a></li>
+<li class="song">Morgue Sokağı Cinayetleri - Edgar Allan Poe<a href="S046.html">Dinle</a></li>
+<li class="song">Mutlu Prens - Oscar Wilde<a href="S047.html">Dinle</a></li>
+<li class="song">Mutsuzluk - Anton Çehov<a href="S048.html">Dinle</a></li>
+<li class="song">Benekli Kordon - Arthur Conan Doyle<a href="S049.html">Dinle</a></li>
+<li class="song">Bohemya'da Skandal - Arthur Conan Doyle<a href="S050.html">Dinle</a></li>
+<li class="song">Kızıl Saçlılar Kulübü - Arthur Conan Doyle<a href="S051.html">Dinle</a></li>
+<li class="song">Mavi Yakut - Arthur Conan Doyle<a href="S052.html">Dinle</a></li>
+<li class="song">Şeytan - Halil Cibran<a href="S053.html">Dinle</a></li>
+<li class="song">İvan’ın Sırrı - Lev Nikolayeviç Tolstoy<a href="S054.html">Dinle</a></li>
+<li class="song">Bir Delinin Hatıra Defteri - Gogol<a href="S055.html">Dinle</a></li>
+<li class="song">Boğulan Adam - Anton Çehov<a href="S056.html">Dinle</a></li>
+<li class="song">Dürüst Hırsız - Fyodor Dostoyevski<a href="S057.html">Dinle</a></li>
+<li class="song">Ermişin Bahçesi - Halil Cibran<a href="S058.html">Dinle</a></li>
+<li class="song">Ermiş - Halil Cibran<a href="S059.html">Dinle</a></li>
+<li class="song">Gece Geçen Serseriler - Jack London<a href="S060.html">Dinle</a></li>
+<li class="song">Gramofon Avrat - Sabahattin Ali<a href="S061.html">Dinle</a></li>
+<li class="song">Hanende Melek - Sabahattin Ali<a href="S062.html">Dinle</a></li>
+<li class="song">Karanfilsiz - Adalet Ağaoğlu<a href="S063.html">Dinle</a></li>
+<li class="song">Yoksul Köylünün Oğlu - Lev Nikolayeviç Tolstoy<a href="S064.html">Dinle</a></li>
+<li class="song">Usher Evinin Çöküşü - Edgar Allan Poe<a href="S065.html">Dinle</a></li>
+<li class="song">Yol Arkadaşım - Maksim Gorki<a href="S066.html">Dinle</a></li>
+<li class="song">İnsana Çok Toprak Gerekir mi? - Lev Nikolayeviç Tolstoy<a href="S067.html">Dinle</a></li>
+<li class="song">Aşk Aslında Nedir? - Arthur Schopenhauer <a href="S068.html">Dinle</a></li>
+<li class="song">Yoksulların Ölümü - George Orwell<a href="S069.html">Dinle</a></li>
+<li class="song">Baharın Tesiri - Ömer Seyfettin<a href="S070.html">Dinle</a></li>
+<li class="song">Çirkince - Sabahattin Ali<a href="S071.html">Dinle</a></li>
+<li class="song">Beyaz Mantolu Adam - Oğuz Atay<a href="S081.html">Dinle</a></li>
+<li class="song">Bilinmeyen Bir Kadının Mektubu - Stefan Zweig<a href="S082.html">Dinle</a></li>
+<li class="song">Bir Çöküşün Öyküsü - Stefan Zweig<a href="S083.html">Dinle</a></li>
+<li class="song">Bir ilkbahar Hikayesi - Sait Faik Abasıyanık<a href="S084.html">Dinle</a></li>
+<li class="song">Duvardaki Leke - Virginia Woolf<a href="S085.html">Dinle</a></li>
+<li class="song">Dülger Balığının Ölümü - Sait Faik Abasıyanık<a href="S086.html">Dinle</a></li>
+<li class="song">Eftalikus'un Kahvesi - Sait Faik Abasıyanık<a href="S087.html">Dinle</a></li>
+<li class="song">Ferhunde Kalfa - Halit Ziya Uşaklıgil<a href="S088.html">Dinle</a></li>
+<li class="song">Haritada Bir Nokta - Sait Faik Abasıyanık<a href="S089.html">Dinle</a></li>
+<li class="song">Kar Yağarken - Halit Ziya Uşaklıgil<a href="S090.html">Dinle</a></li>
+<li class="song">Kurtarılamayan Şaheser -  Sabahattin Ali<a href="S091.html">Dinle</a></li>
+<li class="song">Küçük Köpekli Kadın - Anton Çehov<a href="S092.html">Dinle</a></li>
+<li class="song">Demiryolu Hikayecileri - Oğuz Atay<a href="S093.html">Dinle</a></li>
+<li class="song">Martı Jonathan Livingston - Richard Bach<a href="S094.html">Dinle</a></li>
+<li class="song">Perili Ev - Virginia Woolf<a href="S095.html">Dinle</a></li>
+<li class="song">Selam - Sabahattin Ali<a href="S096.html">Dinle</a></li>
+<li class="song">Ses - Sabahattin Ali<a href="S097.html">Dinle</a></li>
+<li class="song">Unutulan - Oğuz Atay<a href="S098.html">Dinle</a></li>
+<li class="song">Aristotales Ne Demek İstiyor ? - Filozoflar Serisi<a href="S099.html">Dinle</a></li>
+<li class="song">Ay Işığı Sokağı - Stefan Zweig<a href="S112.html">Dinle</a></li>
+<li class="song">Küçük Prens - Antoine de Saint-Exupéry<a href="S113.html">Dinle</a></li>
+<li class="song">Freud Ne Demek İstiyor ? - Kişisel Gelişim Serisi <a href="S124.html">Dinle</a></li>
+<li class="song">The Secret Ne Demek İstiyor ? - Kişisel Gelişim Serisi<a href="S125.html">Dinle</a></li>
+<li class="song">2890 Yılında - Jules Verne<a href="001.html">Dinle</a></li>
+<li class="song">Acı - Anton Çehov<a href="002.html">Dinle</a></li>
+<li class="song">Adaları Seven Adam - D.H. Lawrence<a href="003.html">Dinle</a></li>
+<li class="song">Adsız Kent - H. P. Lovecraft<a href="004.html">Dinle</a></li>
+<li class="song">Akla Kara - Voltaire<a href="005.html">Dinle</a></li>
+<li class="song">Aktris - Agatha Christie<a href="006.html">Dinle</a></li>
+<li class="song">Albaya Mektup - Gabriel Garcia<a href="007.html">Dinle</a></li>
+<li class="song">Alyoşka’nın Yüreği - Mihail Şolohov<a href="008.html">Dinle</a></li>
+<li class="song">Amontillado Fıçısı - Edgar Allan POE<a href="009.html">Dinle</a></li>
+<li class="song">Annemin Günahı - Yeorgios Vizinos<a href="010.html">Dinle</a></li>
+<li class="song">Aoste Şehrinin Cüzamlısı - Xavier de Maistre<a href="011.html">Dinle</a></li>
+<li class="song">Apollon Ve Tamara - Mihail Zoşçenko<a href="012.html">Dinle</a></li>
+<li class="song">Aptalcık - Nikolay Leskov<a href="013.html">Dinle</a></li>
+<li class="song">Asılmış Adamın Gelini - Charles Dickens<a href="014.html">Dinle</a></li>
+<li class="song">Asker Çocuğu - Cengiz Aytmatov<a href="015.html">Dinle</a></li>
+<li class="song">Aslan ve Unicorn - George Orwell<a href="016.html">Dinle</a></li>
+<li class="song">Aşık Garip - Mihail Lermontov<a href="017.html">Dinle</a></li>
+<li class="song">Aşk Üzerine - Anton Çehov<a href="018.html">Dinle</a></li>
+<li class="song">At Tüccarının Kızı - D. H. Lawrence<a href="019.html">Dinle</a></li>
+<li class="song">Ateş Piramiti - Arthur Machen<a href="020.html">Dinle</a></li>
+<li class="song">Ateş ve Buz - Ray Bradbury<a href="021.html">Dinle</a></li>
+<li class="song">Ateş Yakmak - Jack London<a href="022.html">Dinle</a></li>
+<li class="song">Ateşi Kıvılcımken Söndürmeli - Tolstoy<a href="023.html">Dinle</a></li>
+<li class="song">Augsburg Tebeşir Dairesi - Bertolt Brecht<a href="024.html">Dinle</a></li>
+<li class="song">Avcı Graccus - Franz Kafka<a href="025.html">Dinle</a></li>
+<li class="song">Ay Bataklığı - H.P. Lovecraft<a href="026.html">Dinle</a></li>
+<li class="song">Aylaklığa Övgü - Bertrand Russell<a href="027.html">Dinle</a></li>
+<li class="song">Zorlu Bir Çatışma - Ambrose Bierce<a href="028.html">Dinle</a></li>
+<li class="song">Ayrılan Yollar - Jack London<a href="029.html">Dinle</a></li>
+<li class="song">Aziz Ayyaş'ın Efsanesi - Joseph Roth<a href="030.html">Dinle</a></li>
+<li class="song">Baba Oğul - Dostoyevski<a href="031.html">Dinle</a></li>
+<li class="song">Baba - Anton Çehov<a href="032.html">Dinle</a></li>
+<li class="song">Bağdat Sandığının Esrarı - Agatha Christie<a href="033.html">Dinle</a></li>
+<li class="song">Bahçıvan - Rudyard Kipling<a href="034.html">Dinle</a></li>
+<li class="song">Balina Dişi - Jack London<a href="035.html">Dinle</a></li>
+<li class="song">Balodan Sonra - Tolstoy<a href="036.html">Dinle</a></li>
+<li class="song">Baron - Anton Çehov<a href="037.html">Dinle</a></li>
+<li class="song">Baskın - Tolstoy<a href="038.html">Dinle</a></li>
+<li class="song">Başka Bir Ülkede - Ernest Hemingway<a href="039.html">Dinle</a></li>
+<li class="song">Başsız Süvari - Washington Irving<a href="040.html">Dinle</a></li>
+<li class="song">Batard - Jack London<a href="041.html">Dinle</a></li>
+<li class="song">Bay Bulemann - Theodor Storm<a href="042.html">Dinle</a></li>
+<li class="song">Bay Proharçin - Dostoyevski<a href="043.html">Dinle</a></li>
+<li class="song">Bebek Borsası - Panteleymon Romanov<a href="044.html">Dinle</a></li>
+<li class="song">Bekçinin Öyküsü - Edith Olivier.<a href="045.html">Dinle</a></li>
+<li class="song">Yiten 10 Yıl - F. Scott Fitzgerald<a href="046.html">Dinle</a></li>
+<li class="song">Ben Öldürdüm - Mihail Bulgakov<a href="047.html">Dinle</a></li>
+<li class="song">Yeni Milyoner - Arkadi Timofeyeviç Averçenko<a href="048.html">Dinle</a></li>
+<li class="song">Bertolt Brecht - Bay Keuner'in Öyküleri<a href="049.html">Dinle</a></li>
+<li class="song">Beş Portakal Çekirdeği - Arthur Conan Doyle<a href="050.html">Dinle</a></li>
+<li class="song">Beyaz Alın - Anton Çehov<a href="051.html">Dinle</a></li>
+<li class="song">Beyaz Geceler - Dostoyevski<a href="052.html">Dinle</a></li>
+<li class="song">Beyaz Sessizlik - Jack London<a href="053.html">Dinle</a></li>
+<li class="song">Beyaz Yağmur - Cengiz Aytmatov<a href="054.html">Dinle</a></li>
+<li class="song">Bezginlik - Stefan Zweig<a href="055.html">Dinle</a></li>
+<li class="song">Bir Açlık Şampiyonu - Franz Kafka<a href="056.html">Dinle</a></li>
+<li class="song">Bir Cinayetin Hikayesi - Maksim Gorki<a href="058.html">Dinle</a></li>
+<li class="song">Bir Fili Vurmak - George Orwell<a href="059.html">Dinle</a></li>
+<li class="song">Bir Hapishanede Bulunan İtiraflar - Charles Dickens<a href="060.html">Dinle</a></li>
+<li class="song">Bir Hayalet Hikayesi - Mark Twain<a href="061.html">Dinle</a></li>
+<li class="song">Bir İdam Mahkûmunun Son Günü - Victor Hugo<a href="062.html">Dinle</a></li>
+<li class="song">Bir İdam - George Orwell<a href="063.html">Dinle</a></li>
+<li class="song">X. Yüzyılda Normadiya  - Gustave Flaubert <a href="064.html">Dinle</a></li>
+<li class="song">Bir Karşılaşma - James Joyce<a href="065.html">Dinle</a></li>
+<li class="song">Violante ya da Sosyete Hayatı - Marcel Proust <a href="066.html">Dinle</a></li>
+<li class="song">Bir Kere Sonbaharda - Gorki<a href="067.html">Dinle</a></li>
+<li class="song">Bir Masal - Maksim Gorki<a href="068.html">Dinle</a></li>
+<li class="song">Bir Şairin Sesi - Halil Cibran<a href="069.html">Dinle</a></li>
+<li class="song">Bir Yiğitlik Anı - Stefan Zweig<a href="070.html">Dinle</a></li>
+<li class="song">Bir Yufka Yürekli - Mihail Şolohov<a href="071.html">Dinle</a></li>
+<li class="song">Birinci Mevki Yolcusu - Anton Çehov<a href="072.html">Dinle</a></li>
+<li class="song">Uykusuz Dünya - Stefan Zweig <a href="073.html">Dinle</a></li>
+<li class="song">Boles - Maksim Gorki<a href="074.html">Dinle</a></li>
+<li class="song">Boscombe Vadisinin Esrarı - Sir Arthur Conan Doyle<a href="075.html">Dinle</a></li>
+<li class="song">Bozguncu - Maksim Gorki<a href="076.html">Dinle</a></li>
+<li class="song">Bozkırda - Maksim Gorki<a href="077.html">Dinle</a></li>
+<li class="song">Bülbül İle Gül - Oscar Wilde<a href="078.html">Dinle</a></li>
+<li class="song">Büyü Üstadı - Jack London<a href="079.html">Dinle</a></li>
+<li class="song">Büyülü Yer - Gogol<a href="080.html">Dinle</a></li>
+<li class="song">Cahillik - Anton Çehov<a href="081.html">Dinle</a></li>
+<li class="song">Candide’in Bahçesi - Simone de Beauvoir<a href="082.html">Dinle</a></li>
+<li class="song">Carmen - Prosper Mérimée<a href="083.html">Dinle</a></li>
+<li class="song">Cecü'nün Yer Cüceleri - Umberto Eco<a href="084.html">Dinle</a></li>
+<li class="song">Cehennem Azabı - O. Henry<a href="085.html">Dinle</a></li>
+<li class="song">Cemile - Cengiz Aytmatov<a href="086.html">Dinle</a></li>
+<li class="song">Cesur Yeni Dünya - Aldous Huxley<a href="087.html">Dinle</a></li>
+<li class="song">Cezalılar Kolonisi - Franz Kafka<a href="088.html">Dinle</a></li>
+<li class="song">Cinayet Davası - Charles Dickens<a href="089.html">Dinle</a></li>
+<li class="song">Cinayet - John Steinbeck<a href="090.html">Dinle</a></li>
+<li class="song">Çalınan Mektup - Edgar Allan Poe<a href="091.html">Dinle</a></li>
+<li class="song">Çanlar Değişik Bir Gün İçin Çalıyor - Robert Aıckman<a href="092.html">Dinle</a></li>
+<li class="song">Çarpık Janet - Robert Louis Stevenson<a href="093.html">Dinle</a></li>
+<li class="song">Çekilmez İnsanlar - Anton Çehov<a href="094.html">Dinle</a></li>
+<li class="song">Çelik Boğaz - Mihail Bulgakov<a href="095.html">Dinle</a></li>
+<li class="song">Çeyiz - Anton Çehov<a href="096.html">Dinle</a></li>
+<li class="song">Çifte Kocalı Anna - Mihail Şolohov<a href="097.html">Dinle</a></li>
+<li class="song">Çilekler - Tolstoy<a href="098.html">Dinle</a></li>
+<li class="song">Çinli - Jack London<a href="099.html">Dinle</a></li>
+<li class="song">Çocuklar - Maksim Gorki<a href="100.html">Dinle</a></li>
+<li class="song">Çocuklar - Anton Çehov<a href="101.html">Dinle</a></li>
+<li class="song">Dağ Kızı, Jemina - F. Scott Fitzgerald<a href="102.html">Dinle</a></li>
+<li class="song">Danko’nun Kalbi - Maksim Gorki<a href="103.html">Dinle</a></li>
+<li class="song">Deli - Halil CİBRAN<a href="104.html">Dinle</a></li>
+<li class="song">Ah Çorba, Vah Çorba! - Ryunosuke Akutagawa<a href="105.html">Dinle</a></li>
+<li class="song">Denizde Yangın - Turganyev<a href="106.html">Dinle</a></li>
+<li class="song">Denizde - Anton Çehov<a href="107.html">Dinle</a></li>
+<li class="song">Dilek Ağacı - William Faulkner<a href="108.html">Dinle</a></li>
+<li class="song">Dokuz Mektupta Bir Roman - Dostoyevski<a href="109.html">Dinle</a></li>
+<li class="song">Dönek - Jack London<a href="110.html">Dinle</a></li>
+<li class="song">Dört Numaralı Otopsi Odası - Stephen King<a href="111.html">Dinle</a></li>
+<li class="song">Duvardaki İz - Virginia Woolf<a href="112.html">Dinle</a></li>
+<li class="song">Duvardaki Kapı - H. G. Wells<a href="113.html">Dinle</a></li>
+<li class="song">Duvarın Gizlediği - Agatha Cristie<a href="114.html">Dinle</a></li>
+<li class="song">Düellocu - Joan Vatsek<a href="115.html">Dinle</a></li>
+<li class="song">Dünyanın Yeşil Tepeleri - Robert A. Heinlein<a href="116.html">Dinle</a></li>
+<li class="song">Düşteki Ev - Agatha Christie<a href="117.html">Dinle</a></li>
+<li class="song">Ebedi Koca - Dostoyevski<a href="118.html">Dinle</a></li>
+<li class="song">Egoist Dev - Oscar Wilde<a href="119.html">Dinle</a></li>
+<li class="song">El Verdigo - Honoré de Balzac<a href="120.html">Dinle</a></li>
+<li class="song">Elf'lerin Hazinesi - James Baldwin<a href="121.html">Dinle</a></li>
+<li class="song">En Büyük Ceza - Tolstoy<a href="122.html">Dinle</a></li>
+<li class="song">Erdemin Öyküsü - Henry James<a href="123.html">Dinle</a></li>
+<li class="song">Ertelenen Aşk - Ray Bradbury<a href="124.html">Dinle</a></li>
+<li class="song">Esirlerin Kaçış Serüveni - Tolstoy<a href="125.html">Dinle</a></li>
+<li class="song">Eskimo Kızın Aşk Öyküsü - Mark Twain<a href="126.html">Dinle</a></li>
+<li class="song">Esrarengiz Köşk La Grande Bretèche - Honoré de Balzac<a href="127.html">Dinle</a></li>
+<li class="song">Ev Sahibesi - Dostoyevski<a href="128.html">Dinle</a></li>
+<li class="song">Eveline - James Joyce<a href="129.html">Dinle</a></li>
+<li class="song">Fayton - Gogol<a href="130.html">Dinle</a></li>
+<li class="song">Fedakar Kadın - Jack London<a href="131.html">Dinle</a></li>
+<li class="song">Floransa'da Veba - Gustave Flaubert<a href="132.html">Dinle</a></li>
+<li class="song">Françoise - Lev Nikolayeviç Tolstoy<a href="133.html">Dinle</a></li>
+<li class="song">Gammaz Yürek - Edgar Allan Poe<a href="134.html">Dinle</a></li>
+<li class="song">Aleksey Babanın Hikayesi - İvan Turgenyev<a href="135.html">Dinle</a></li>
+<li class="song">Bir Aşk Macerası - Arkadi Averçenko<a href="136.html">Dinle</a></li>
+<li class="song">Genç Werther'in Acıları - Goethe<a href="137.html">Dinle</a></li>
+<li class="song">Gerçek Mutluluk - Tolstoy<a href="138.html">Dinle</a></li>
+<li class="song">Geri Çevrilme - Franz Kafka<a href="139.html">Dinle</a></li>
+<li class="song">Gilbert Keith Chesterton - Mahşerin Üç Atlısı<a href="140.html">Dinle</a></li>
+<li class="song">Gizli Başyapıt - Honoré de Balzac<a href="141.html">Dinle</a></li>
+<li class="song">Golyat - Jack London<a href="142.html">Dinle</a></li>
+<li class="song">Goryuhino Köyü Tarihi - Puşkin<a href="143.html">Dinle</a></li>
+<li class="song">Görünmeyen Koleksiyon<a href="144.html">Dinle</a></li>
+<li class="song">Göz - Vladimir Nabakov<a href="145.html">Dinle</a></li>
+<li class="song">Gümüş Kopçalar - Maksim Gorki<a href="146.html">Dinle</a></li>
+<li class="song">Güneşin Oğlu - Jack London<a href="147.html">Dinle</a></li>
+<li class="song">Güvercinliğimin Hikayesi - İzak Babel<a href="148.html">Dinle</a></li>
+<li class="song">Haç - Stefan Zweig<a href="149.html">Dinle</a></li>
+<li class="song">Haksız Yönetime Karşı - Henry David Thoreau<a href="150.html">Dinle</a></li>
+<li class="song">Han ile Oğlu - Maksim Gorki<a href="151.html">Dinle</a></li>
+<li class="song">Hançer - Mihail Lermontov<a href="152.html">Dinle</a></li>
+<li class="song">Hanımefendi - Anton Çehov<a href="153.html">Dinle</a></li>
+<li class="song">Harp Malulü - Oliver Gold Smith<a href="154.html">Dinle</a></li>
+<li class="song">Hatırlamak - Jack London<a href="155.html">Dinle</a></li>
+<li class="song">Havyar - Arkadi Averçenko<a href="156.html">Dinle</a></li>
+<li class="song">Hayaller - Anton Çehov<a href="157.html">Dinle</a></li>
+<li class="song">Hayat Bir Bütündür - Tolstoy<a href="158.html">Dinle</a></li>
+<li class="song">Bir Gün Gibi - Luigi Pirandello<a href="159.html">Dinle</a></li>
+<li class="song">Hep Dilimin Yüzünden - Anton Çehov<a href="160.html">Dinle</a></li>
+<li class="song">Herşeye Rağmen Sevgi - Tolstoy<a href="161.html">Dinle</a></li>
+<li class="song">Hiç Kimse Gülmeyecek - Milan Kundera<a href="162.html">Dinle</a></li>
+<li class="song">Irgat Emelyan ve Davul - Tolstoy<a href="163.html">Dinle</a></li>
+<li class="song">Issız Gezegendeki Ev - Isaac Asimov<a href="164.html">Dinle</a></li>
+<li class="song">Işıklar Sönünce - Agatha Christie<a href="165.html">Dinle</a></li>
+<li class="song">İnanç Hep Sürer - Manly Wade Wellman<a href="166.html">Dinle</a></li>
+<li class="song">İnfazcı - John Steinbeck<a href="167.html">Dinle</a></li>
+<li class="song">İnsancıklar - Dostoyevski<a href="168.html">Dinle</a></li>
+<li class="song">İntihar Kulübü 1. öykü Robert Louis Stevenson<a href="169.html">Dinle</a></li>
+<li class="song">İntihar Kulübü 2. öykü Robert Louis Stevenson<a href="170.html">Dinle</a></li>
+<li class="song">İntihar Kulübü 3. öykü Robert Louis Stevenson<a href="171.html">Dinle</a></li>
+<li class="song">İstiridye - Anton Çehov<a href="172.html">Dinle</a></li>
+<li class="song">İş, Ölüm, Hastalık - Tolstoy<a href="173.html">Dinle</a></li>
+<li class="song">İtalya Masalları - Maksim Gorki<a href="174.html">Dinle</a></li>
+<li class="song">İvan İlyiç'in Ölümü - Tolstoy<a href="175.html">Dinle</a></li>
+<li class="song">İvan'ın Sırrı - Tolstoy<a href="176.html">Dinle</a></li>
+<li class="song">Japonya Açıklarında Tayfun - Jack London<a href="177.html">Dinle</a></li>
+<li class="song">Jöleli Şeker - Francis Scotty Key Fitzgerald<a href="178.html">Dinle</a></li>
+<li class="song">Judith - Hjalmar Bergman<a href="179.html">Dinle</a></li>
+<li class="song">Kabadayı - İvan Turgenyev<a href="180.html">Dinle</a></li>
+<li class="song">Kaçan Ayna - Giovanni Papini<a href="181.html">Dinle</a></li>
+<li class="song">Kaçınılmaz Beyaz Adam - Jack London<a href="182.html">Dinle</a></li>
+<li class="song">Kaçış - John Steinbeck<a href="183.html">Dinle</a></li>
+<li class="song">Kadın Ve Manzara<a href="184.html">Dinle</a></li>
+<li class="song">Kadınların Aşağılaması - Jack London<a href="185.html">Dinle</a></li>
+<li class="song">Kalda Hattına İlişkin Anılar - Franz Kafka<a href="186.html">Dinle</a></li>
+<li class="song">Kalleş Ülke - Italo Calvino<a href="187.html">Dinle</a></li>
+<li class="song">Kaloşlar - Mihail Şolohov<a href="188.html">Dinle</a></li>
+<li class="song">Kanın Kuvveti - Miguel de Cervantes Saavedra<a href="189.html">Dinle</a></li>
+<li class="song">Kara Avlu - Thomas Burke<a href="190.html">Dinle</a></li>
+<li class="song">Kara Kedi - Edgar Allan Poe<a href="191.html">Dinle</a></li>
+<li class="song">Kara Keşiş - Anton Çehov<a href="192.html">Dinle</a></li>
+<li class="song">Kara Şato'nun Kontu - Arthur Conan Doyle<a href="193.html">Dinle</a></li>
+<li class="song">Karahindiba - Wolfgang Borchert<a href="194.html">Dinle</a></li>
+<li class="song">Karanlığın Yüreği - Joseph Conrad<a href="195.html">Dinle</a></li>
+<li class="song">Kardinal Napellus - Gustav Meyrink<a href="196.html">Dinle</a></li>
+<li class="song">Yalanlanamayacak - Karel Çapek<a href="197.html">Dinle</a></li>
+<li class="song">Karışık Yazılar - Paul Valéry<a href="198.html">Dinle</a></li>
+<li class="song">Kasımpatları - John Steinbeck<a href="199.html">Dinle</a></li>
+<li class="song">Kasırga - Arkadiy Averçenko<a href="200.html">Dinle</a></li>
+<li class="song">Katedral - Raymond Carver<a href="201.html">Dinle</a></li>
+<li class="song">Katili Herkes Bulamaz - Georges Simenon<a href="202.html">Dinle</a></li>
+<li class="song">Kaybolan Yazı - Nikolay Vasilyeviç Gogol<a href="203.html">Dinle</a></li>
+<li class="song">Kaybolmuş Bir Göz - Mihail Bulgakov<a href="204.html">Dinle</a></li>
+<li class="song">Keçi - Mihail Zoşçenko<a href="205.html">Dinle</a></li>
+<li class="song">Kemancı - Herman Melville<a href="206.html">Dinle</a></li>
+<li class="song">Kemiksizler - Gerald Kersh<a href="207.html">Dinle</a></li>
+<li class="song">Bitmeyen Ruble - Nikolay Leskov<a href="208.html">Dinle</a></li>
+<li class="song">Kırcali - Puşkin<a href="209.html">Dinle</a></li>
+<li class="song">Kırık Taşlar - Heraklitos<a href="210.html">Dinle</a></li>
+<li class="song">Kırım Tasvirleri - Maksim Gorki<a href="211.html">Dinle</a></li>
+<li class="song">Kırmızı Defter - Paul Auster<a href="212.html">Dinle</a></li>
+<li class="song">Kısa Öyküler-Mektup- - Maksim Gorki<a href="213.html">Dinle</a></li>
+<li class="song">Kız Çocuğu - Maksim Gorki<a href="214.html">Dinle</a></li>
+<li class="song">Kız Kardeşler - James Joyce<a href="215.html">Dinle</a></li>
+<li class="song">Kızıl Elma - Cengiz Aytmatov<a href="216.html">Dinle</a></li>
+<li class="song">Kızıl Ölüm’ün Maskesi - Edgar Allan POE<a href="217.html">Dinle</a></li>
+<li class="song">Kızıl Saçlılar Kulübü - Sir Arthur Conan Doyle<a href="218.html">Dinle</a></li>
+<li class="song">Kitaplardan Korkan Çocuk - Susanna Tamaro<a href="219.html">Dinle</a></li>
+<li class="song">Lanetli Ev ve Şeytan ile Tom Walker<a href="220.html">Dinle</a></li>
+<li class="song">Lazarus - Leonid Andreyev<a href="221.html">Dinle</a></li>
+<li class="song">Leman Gölü Kıyısındaki Olay - Stefan Zweig<a href="222.html">Dinle</a></li>
+<li class="song">Leon Bloy Bay Pleur'ün Dini<a href="223.html">Dinle</a></li>
+<li class="song">Leopar Adamın Öyküsü - Jack London.<a href="224.html">Dinle</a></li>
+<li class="song">Leporella<a href="225.html">Dinle</a></li>
+<li class="song">Lit - Lit'in Evlenmesi - Jack London<a href="226.html">Dinle</a></li>
+<li class="song">Lobskaya Dağı - Andrey Platonov<a href="227.html">Dinle</a></li>
+<li class="song">Los Amigos Fiyaskosu - Sir Arthur Conan Doyle<a href="228.html">Dinle</a></li>
+<li class="song">Maça Kızı - Aleksandr Puşkin<a href="229.html">Dinle</a></li>
+<li class="song">Mahşerin Üç Atlısı - G. K. Chesterton<a href="230.html">Dinle</a></li>
+<li class="song">Pahalıya Patlıyor - Tolstoy<a href="231.html">Dinle</a></li>
+<li class="song">Palto - Gogol<a href="232.html">Dinle</a></li>
+<li class="song">Pandomima - Sami Paşazade Sezai<a href="233.html">Dinle</a></li>
+<li class="song">Büyük Morsalkım - Charlotte Perkins Gilman<a href="234.html">Dinle</a></li>
+<li class="song">Büyük Üretim - Traven<a href="235.html">Dinle</a></li>
+<li class="song">Pazar - Maksim Gorki<a href="236.html">Dinle</a></li>
+<li class="song">Lugin -  Mihail Lermontov<a href="237.html">Dinle</a></li>
+<li class="song">Perili Ev - Virginia Woolf<a href="238.html">Dinle</a></li>
+<li class="song">Perpetium Mobile - Anton Çehov<a href="239.html">Dinle</a></li>
+<li class="song">Peter Schlemihl - Adelbert Von Chamisso<a href="240.html">Dinle</a></li>
+<li class="song">Liberal - Anton Çehov<a href="241.html">Dinle</a></li>
+<li class="song">Pinti Şovalye - Puşkin<a href="242.html">Dinle</a></li>
+<li class="song">Plattner Hikayesi - H. G. Wells<a href="243.html">Dinle</a></li>
+<li class="song">Polikuşka - Tolstoy<a href="244.html">Dinle</a></li>
+<li class="song">Polzunkov - Dostoyevski<a href="245.html">Dinle</a></li>
+<li class="song">Portre - Gogol<a href="246.html">Dinle</a></li>
+<li class="song">Poseidon - Michael Köhlmeier<a href="247.html">Dinle</a></li>
+<li class="song">Posta Kutusu - Celil Mehmetguluzade<a href="248.html">Dinle</a></li>
+<li class="song">Postacı - Anton Çehov<a href="249.html">Dinle</a></li>
+<li class="song">Elveda Cordera - Leopoldo Alas<a href="250.html">Dinle</a></li>
+<li class="song">Prometheus - Franz Kafka<a href="251.html">Dinle</a></li>
+<li class="song">Prometheus - Johann Wolfgang Von Goethe<a href="252.html">Dinle</a></li>
+<li class="song">Rainer Maria Rilke - Beyaz Mutluluk<a href="253.html">Dinle</a></li>
+<li class="song">Reading Zındanı Baladı - Oscar Wilde<a href="254.html">Dinle</a></li>
+<li class="song">Rehine - Friedrich Von Schiller<a href="255.html">Dinle</a></li>
+<li class="song">Rip Van Winkle - Washington Irving<a href="256.html">Dinle</a></li>
+<li class="song">Roslavlev - Puşkin<a href="257.html">Dinle</a></li>
+<li class="song">Bir siyah Fanila İçin - Sabahattin Ali<a href="258.html">Dinle</a></li>
+<li class="song">Sadece Fransızca Tarif Edebileceğiniz O His - Stephen King<a href="259.html">Dinle</a></li>
+<li class="song">Sakallı Bebek - Valentin Katayev<a href="260.html">Dinle</a></li>
+<li class="song">Herkesin Dostu Anton - Stefan Zweig<a href="261.html">Dinle</a></li>
+<li class="song">Santone'da Sis - O. Henry<a href="262.html">Dinle</a></li>
+<li class="song">Kabus Odası - Arthur Conan Doyle<a href="263.html">Dinle</a></li>
+<li class="song">Özel Öğretmen - Yordan Yovkov<a href="264.html">Dinle</a></li>
+<li class="song">Sel - Emile Zola<a href="265.html">Dinle</a></li>
+<li class="song">Sesler Adacığı - Robert Louis Stevenson<a href="266.html">Dinle</a></li>
+<li class="song">Sessizlik Mağarası - Miguel de Unamuno<a href="267.html">Dinle</a></li>
+<li class="song">Seyirciler - Maksim Gorki<a href="268.html">Dinle</a></li>
+<li class="song">SES - Stefan Zweig<a href="269.html">Dinle</a></li>
+<li class="song">Sherlock Holmes Bir Kimlik Vakası - Arthur Conan Doyle<a href="270.html">Dinle</a></li>
+<li class="song">Sihirli Dükkan - H. G. Wells<a href="271.html">Dinle</a></li>
+<li class="song">Simon'un Babası - Guy de Maupassant<a href="272.html">Dinle</a></li>
+<li class="song">Sinyalci - Charles Dickens<a href="273.html">Dinle</a></li>
+<li class="song">Siwash - Jack London<a href="274.html">Dinle</a></li>
+<li class="song">Sokratesin Savunması - Platon<a href="275.html">Dinle</a></li>
+<li class="song">Korku Nedir Bilmeyen Adam - W. B. Yeats <a href="276.html">Dinle</a></li>
+<li class="song">Son Mr. Elvesham'in Hikayesi - H. G. Wells<a href="277.html">Dinle</a></li>
+<li class="song">Son - İvan Sergeyeviç Turgenyev<a href="278.html">Dinle</a></li>
+<li class="song">Sosyete Oyunları - Carlo Manzoni<a href="279.html">Dinle</a></li>
+<li class="song">Soyguncu - Nikolay Leskov<a href="280.html">Dinle</a></li>
+<li class="song">Soytarı - Maksim Gorki<a href="281.html">Dinle</a></li>
+<li class="song">Soyunun Son Türü - Anton Çehov<a href="282.html">Dinle</a></li>
+<li class="song">Kurtadamın Döngüsü - Stephen King<a href="283.html">Dinle</a></li>
+<li class="song">Su Kasidesi - Fuzûlî<a href="284.html">Dinle</a></li>
+<li class="song">Sünger Avcısı - Panait Istrati<a href="285.html">Dinle</a></li>
+<li class="song">Sinek - Arkadi Timofeyeviç Averçenko<a href="286.html">Dinle</a></li>
+<li class="song">Siyah Peçe - Charles Dickens<a href="287.html">Dinle</a></li>
+<li class="song">Sıradan Bir Gün - Nikolay Ostrovski<a href="288.html">Dinle</a></li>
+<li class="song">Sırrı Olmayan Sfenks - Oscar Wilde<a href="289.html">Dinle</a></li>
+<li class="song">Ulduz ve Kargalar - Samet Behrengi<a href="290.html">Dinle</a></li>
+<li class="song">Umut İşkencesi Villiers de L'ısle - Adam<a href="291.html">Dinle</a></li>
+<li class="song">Unutulmuş Düşler - Stefan Zweig<a href="292.html">Dinle</a></li>
+<li class="song">Usher Evinin Çöküş - Edgar Allan POE<a href="293.html">Dinle</a></li>
+<li class="song">Uysal Bir Kız - Dostoyevski<a href="294.html">Dinle</a></li>
+<li class="song">Uzun Boylu Kadın - Pedro Antonio de Alarcon<a href="295.html">Dinle</a></li>
+<li class="song">Uçan Trapezdeki Gözü Pek Delikanlı - William Saroyan<a href="296.html">Dinle</a></li>
+<li class="song">Uçurum - Agatha Christie<a href="297.html">Dinle</a></li>
+<li class="song">Vampir - Alfred Hitchcock<a href="298.html">Dinle</a></li>
+<li class="song">Vanka - Anton Çehov<a href="299.html">Dinle</a></li>
+<li class="song">Ve Papağan Fıstık Dedi - Price Day<a href="300.html">Dinle</a></li>
+<li class="song">Veba Sırasında Şölen - Aleksandr Puşkin<a href="301.html">Dinle</a></li>
+<li class="song">Viktorya Kazimirovna - Mihail Zoşçenko<a href="302.html">Dinle</a></li>
+<li class="song">Vittoria Accoramboni - Stendal<a href="303.html">Dinle</a></li>
+<li class="song">Volodya - Anton Çehov<a href="304.html">Dinle</a></li>
+<li class="song">Voltaire Scarmentado'nun Seyahatlerinin Öyküsü<a href="305.html">Dinle</a></li>
+<li class="song">VİY - Nikolay Vasilyeviç Gogol<a href="306.html">Dinle</a></li>
+<li class="song">Wakefield - Nathaniel Hawthorne<a href="307.html">Dinle</a></li>
+<li class="song">Yabancı - Howard Phillips Lovecraft<a href="308.html">Dinle</a></li>
+<li class="song">Yalnız Gezenin Düşleri - Jean Jacques Rousseau<a href="309.html">Dinle</a></li>
+<li class="song">Yalnız - Friedrich Nietzsche<a href="310.html">Dinle</a></li>
+<li class="song">Yalnızlığın Uçan Dairesi - Theodore Sturgeon<a href="311.html">Dinle</a></li>
+<li class="song">Yapma Güller - Gabriel Garcia Marquez<a href="312.html">Dinle</a></li>
+<li class="song">Yaprak Çizen Niggle - J.R.R Tolkien<a href="313.html">Dinle</a></li>
+<li class="song">Yaralı Yüz - Jack London<a href="314.html">Dinle</a></li>
+<li class="song">Yaramaz Jim'in Hikayesi - Mark Twain<a href="315.html">Dinle</a></li>
+<li class="song">Yargı - Franz Kafka<a href="316.html">Dinle</a></li>
+<li class="song">Yargıcın Evi - Bram Stoker<a href="317.html">Dinle</a></li>
+<li class="song">Yaylı Çalgılar Dörtlüsü - Virginia Woolf<a href="318.html">Dinle</a></li>
+<li class="song">Yayın Balığı - Anton Çehov<a href="319.html">Dinle</a></li>
+<li class="song">Yazar Ve Şeytan - Maksim GORKİ<a href="320.html">Dinle</a></li>
+<li class="song">Yazılmamış Bir Roman - Virginia Woolf<a href="321.html">Dinle</a></li>
+<li class="song">Yağmurlu Havalar - Anton Çehov<a href="322.html">Dinle</a></li>
+<li class="song">Yaşama Hırsı - Jack London<a href="323.html">Dinle</a></li>
+<li class="song">Yaşamın Yasası - Jack London<a href="324.html">Dinle</a></li>
+<li class="song">Yaşlı Gemici - Samuel Taylor Coleridge<a href="325.html">Dinle</a></li>
+<li class="song">Yaşlı Kadın ve Papağan - Virginia Woolf<a href="326.html">Dinle</a></li>
+<li class="song">Onun Kurbanı - Rainer Maria Rilke<a href="327.html">Dinle</a></li>
+<li class="song">Yemelyan Pilyay - Maksim Gorki<a href="328.html">Dinle</a></li>
+<li class="song">Yeni Atlantis - Francis Bacon<a href="329.html">Dinle</a></li>
+<li class="song">Yeni Elbise Virginia Woolf<a href="330.html">Dinle</a></li>
+<li class="song">Yeraltından Notlar - Fyodor Dostoyevski<a href="331.html">Dinle</a></li>
+<li class="song">Yetim - Heinrich von Kleist<a href="332.html">Dinle</a></li>
+<li class="song">Yeşil Dil - Anton Çehov<a href="333.html">Dinle</a></li>
+<li class="song">Yirmi Altı Adam ve Bir Kız - Maksim Gorki<a href="334.html">Dinle</a></li>
+<li class="song">Yiğitçe Ölüm - Charles Baudelaire<a href="335.html">Dinle</a></li>
+<li class="song">Yoksul Köylünün Oğlu - Tolstoy<a href="336.html">Dinle</a></li>
+<li class="song">Yol Arkadaşım - Maksim Gorki<a href="337.html">Dinle</a></li>
+<li class="song">Yolagelmez Yan - Jack London<a href="338.html">Dinle</a></li>
+<li class="song">Yolları Çatallanan Bahçe - Jorge Luis Borges<a href="339.html">Dinle</a></li>
+<li class="song">Yufka Yürek - Dostoyevski<a href="340.html">Dinle</a></li>
+<li class="song">Yumurta Büyüklüğünde Tohum - Tolstoy<a href="341.html">Dinle</a></li>
+<li class="song">Yuşka - Andrey Platonov<a href="342.html">Dinle</a></li>
+<li class="song">Yzur - Leopoldo Lugones<a href="343.html">Dinle</a></li>
+<li class="song">Yüksek ve Alçak Araştırma - O. Henry<a href="344.html">Dinle</a></li>
+<li class="song">Yüz Karası - Jack London<a href="345.html">Dinle</a></li>
+<li class="song">Yüzü Dönük - Stephen Crane<a href="346.html">Dinle</a></li>
+<li class="song">Yılan - John Steinbeck<a href="347.html">Dinle</a></li>
+<li class="song">Yıldırım Sesli Manasçı - Cengiz Aytmatov<a href="348.html">Dinle</a></li>
+<li class="song">Zacharius Usta - Jules Verne<a href="349.html">Dinle</a></li>
+<li class="song">Üsteğmen Ergonov'un Hikayesi - İvan Turgenyev<a href="350.html">Dinle</a></li>
+<li class="song">Üzerinde Horoz Resmi Olan Havlu - Mihail Bulgakov<a href="351.html">Dinle</a></li>
+<li class="song">Üç Gün - Yevgeni Zamyatin<a href="352.html">Dinle</a></li>
+<li class="song">Üç Kara Kral - Wolfgang Borchert<a href="353.html">Dinle</a></li>
+<li class="song">Üç Karşılaşma - İvan Turgenyev<a href="354.html">Dinle</a></li>
+<li class="song">Üç Soru - Tolstoy<a href="355.html">Dinle</a></li>
+<li class="song">Fare Ulusu - Franz KAFKA<a href="356.html">Dinle</a></li>
+<li class="song">Üç Ölüm - Tolstoy<a href="357.html">Dinle</a></li>
+<li class="song">Üç İhtiyar - Lev Nikolayeviç Tolstoy<a href="358.html">Dinle</a></li>
+<li class="song">Üçüncü Oğul - Andrey Platonov<a href="359.html">Dinle</a></li>
+<li class="song">Üçüncü Teslimiyet - Gabriel Garcia Marquez<a href="360.html">Dinle</a></li>
+<li class="song">Şafak Kızı - Jack London<a href="361.html">Dinle</a></li>
+<li class="song">Şarkıcı Kız - Anton Çehov<a href="362.html">Dinle</a></li>
+<li class="song">Şair - Arkadi Averçenko<a href="363.html">Dinle</a></li>
+<li class="song">Şehir Dışında Bir Gün - Anton Çehov<a href="364.html">Dinle</a></li>
+<li class="song">Şehir - Konstantinos Kavafis<a href="365.html">Dinle</a></li>
+<li class="song">Şeytan - Tolstoy<a href="366.html">Dinle</a></li>
+<li class="song">Şeytan - Halil Cibran<a href="367.html">Dinle</a></li>
+<li class="song">Şeytani - Mihail Bulgakov<a href="368.html">Dinle</a></li>
+<li class="song">Şeytanla Asla Bahse Girme - Edgar Allan Poe<a href="369.html">Dinle</a></li>
+<li class="song">Şeytanın Hilesi - Tolstoy<a href="370.html">Dinle</a></li>
+<li class="song">Şeytanın Saati - Fernando Pessoa<a href="371.html">Dinle</a></li>
+<li class="song">Şili'de Deprem - Heinrich Von Kleist<a href="372.html">Dinle</a></li>
+<li class="song">Şişede Bulunan Not - Edgar Allan Poe<a href="373.html">Dinle</a></li>
+<li class="song">Şişenin Cini - Robert Louis Stevenson<a href="374.html">Dinle</a></li>
+<li class="song">Şosede Çocuklar - Franz Kafka<a href="375.html">Dinle</a></li>
+
+
+  </ul>
+</div>
+</div>
+    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-157cd5b220a5c80d4ff8e0e70ac069bffd87a61252088146915e8726e5d9f147.js"></script>
+
+  
+      <script id="rendered-js" >
+const songs = document.querySelectorAll(".song");
+console.log(songs);
+songs.forEach(function (song, i) {
+  song.addEventListener("click", function () {
+    this.classList.toggle('active');
+  });
+});
+//# sourceURL=pen.js
+    </script>
+
+  
+
+</body>
+
+</html>>
+ 

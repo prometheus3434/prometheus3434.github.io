@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="MobiBook - Cebinizdeki Kütüphane">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0134d4">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+    <title>SisliTeam</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="img/icons/icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/icon-180x180.png">
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tiny-slider.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css">
+    <link rel="stylesheet" href="css/rangeslider.css">
+    <link rel="stylesheet" href="css/vanilla-dataTables.min.css">
+    <link rel="stylesheet" href="css/apexcharts.css">
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="manifest.json">
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div class="spinner-grow text-primary" role="status"><span class="visually-hidden">Loading...</span></div>
+    </div>
+    <!-- Internet Connection Status -->
+    <!-- # This code for showing internet connection status -->
+    <div class="internet-connection-status" id="internetStatus"></div>
+    <!-- Dark mode switching -->
+    <div class="dark-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="dark-mode-text text-center">
+          <svg class="bi bi-moon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M14.53 10.53a7 7 0 0 1-9.058-9.058A7.003 7.003 0 0 0 8 15a7.002 7.002 0 0 0 6.53-4.47z"></path>
+          </svg>
+          <p class="mb-0">Switching to dark mode</p>
+        </div>
+        <div class="light-mode-text text-center">
+          <svg class="bi bi-brightness-high" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"></path>
+          </svg>
+          <p class="mb-0">Switching to light mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- RTL mode switching -->
+    <div class="rtl-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="rtl-mode-text text-center">
+          <svg class="bi bi-text-right" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm4-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to RTL mode</p>
+        </div>
+        <div class="ltr-mode-text text-center">
+          <svg class="bi bi-text-left" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to default mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- Setting Popup Overlay -->
+    <div id="setting-popup-overlay"></div>
+    <!-- Setting Popup Card -->
+    <div class="card setting-popup-card shadow-lg" id="settingCard">
+      <div class="card-body">
+        <div class="container">
+          <div class="setting-heading d-flex align-items-center justify-content-between mb-3">
+            <p class="mb-0">Settings</p>
+            <div class="btn-close" id="settingCardClose"></div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="darkSwitch">
+              <label class="form-check-label" for="darkSwitch">Karanlık Mod</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Header Area -->
+    <div class="header-area" id="headerArea">
+      <div class="container">
+        <!-- Header Content -->
+        <div class="header-content position-relative d-flex align-items-center justify-content-between">
+          <!-- Back Button -->
+          <div class="back-button"><a href="elements.html">
+              <svg class="bi bi-arrow-left-short" width="32" height="32" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"></path>
+              </svg></a></div>
+          <!-- Page Title -->
+          <div class="page-heading">
+            <h6 class="mb-0">ŞÜPHELİ ŞAHISLAR - DİĞER HIRSIZLIKLAR</h6>
+          </div>
+          <!-- Settings -->
+          <div class="setting-wrapper">
+            <div class="setting-trigger-btn" id="settingTriggerBtn">
+              <svg class="bi bi-gear" width="18" height="18" viewBox="0 0 16 16" fill="url(#gradientSettings)" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                  <linearGradient id="gradientSettings" spreadMethod="pad" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0" style="stop-color: #0134d4; stop-opacity:1;"></stop>
+                    <stop offset="100%" style="stop-color: #28a745; stop-opacity:1;"></stop>
+                  </linearGradient>
+                </defs>
+                <path fill-rule="evenodd" d="M8.837 1.626c-.246-.835-1.428-.835-1.674 0l-.094.319A1.873 1.873 0 0 1 4.377 3.06l-.292-.16c-.764-.415-1.6.42-1.184 1.185l.159.292a1.873 1.873 0 0 1-1.115 2.692l-.319.094c-.835.246-.835 1.428 0 1.674l.319.094a1.873 1.873 0 0 1 1.115 2.693l-.16.291c-.415.764.42 1.6 1.185 1.184l.292-.159a1.873 1.873 0 0 1 2.692 1.116l.094.318c.246.835 1.428.835 1.674 0l.094-.319a1.873 1.873 0 0 1 2.693-1.115l.291.16c.764.415 1.6-.42 1.184-1.185l-.159-.291a1.873 1.873 0 0 1 1.116-2.693l.318-.094c.835-.246.835-1.428 0-1.674l-.319-.094a1.873 1.873 0 0 1-1.115-2.692l.16-.292c.415-.764-.42-1.6-1.185-1.184l-.291.159A1.873 1.873 0 0 1 8.93 1.945l-.094-.319zm-2.633-.283c.527-1.79 3.065-1.79 3.592 0l.094.319a.873.873 0 0 0 1.255.52l.292-.16c1.64-.892 3.434.901 2.54 2.541l-.159.292a.873.873 0 0 0 .52 1.255l.319.094c1.79.527 1.79 3.065 0 3.592l-.319.094a.873.873 0 0 0-.52 1.255l.16.292c.893 1.64-.902 3.434-2.541 2.54l-.292-.159a.873.873 0 0 0-1.255.52l-.094.319c-.527 1.79-3.065 1.79-3.592 0l-.094-.319a.873.873 0 0 0-1.255-.52l-.292.16c-1.64.893-3.433-.902-2.54-2.541l.159-.292a.873.873 0 0 0-.52-1.255l-.319-.094c-1.79-.527-1.79-3.065 0-3.592l.319-.094a.873.873 0 0 0 .52-1.255l-.16-.292c-.892-1.64.902-3.433 2.541-2.54l.292.159a.873.873 0 0 0 1.255-.52l.094-.319z"></path>
+                <path fill-rule="evenodd" d="M8 5.754a2.246 2.246 0 1 0 0 4.492 2.246 2.246 0 0 0 0-4.492zM4.754 8a3.246 3.246 0 1 1 6.492 0 3.246 3.246 0 0 1-6.492 0z"></path>
+              </svg><span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page-content-wrapper py-3">
+      <div class="container">
+        <div class="card">
+          <div class="card-body">
+            <table class="w-100" id="dataTable">
+              <thead>
+                <tr>
+                  <th>İsim Soyisim</th>
+				  <th>TC No</th>
+				  <th>Yöntem</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><a href="img/ynksclk/001.jpg">Yusuf KELEŞ</a></td>
+            	  <td>33454800940</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/002.jpg">Yaren ÇAKAN</a></td>
+            	  <td>31186266294</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/003.jpg">Ayşe ALANFER</a></td>
+            	  <td>30769167942</td>
+                  <td>Kaldırımcı/Pazar</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/004.jpg">Erdal ARISAL</a></td>
+            	  <td>44827375460</td>
+                  <td>Hastanelerden Telefon</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/006.jpg">Aslı ARSLANALP</a></td>
+            	  <td>47530356238</td>
+                  <td>Yankesici/Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/006.jpg">İsmet CENGİZ</a></td>
+            	  <td>20336829700</td>
+                  <td>Cepci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/007.jpg">Canan ÇELİKDAĞ</a></td>
+            	  <td>14033402670</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/008.jpg">Dilber ATMACA</a></td>
+            	  <td>28753355086</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/009.jpg">Emir ATMACA</a></td>
+            	  <td>-</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/010.jpg">İlyas ASLAN</a></td>
+            	  <td>37837211934</td>
+                  <td>Cepci</td>
+                </tr>
+                  <td><a href="img/ynksclk/011.jpg">İlker YEŞİLİPEK</a></td>
+            	  <td>48643266346</td>
+                  <td>Cepci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/012.jpg">Kezban TİTİZLER</a></td>
+            	  <td>10450962704</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/013.jpg">Gül TİTİZLER</a></td>
+            	  <td>29209339704</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/014.jpg">Emine UYSAL</a></td>
+            	  <td>10471962066</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/015.jpg">Ekrem AKA</a></td>
+            	  <td>17011382216</td>
+                  <td>Silkelemeci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/016.jpg">Salih KARKUŞ</a></td>
+            	  <td>21632776026</td>
+                  <td>Silkelemeci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/017.jpg">Tural ORTAK</a></td>
+            	  <td>42994086844</td>
+                  <td>Silkelemeci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/019.jpg">Tuğba SEYMANER</a></td>
+            	  <td>18755507682</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/006.jpg">Hamiyet SEYMANER</a></td>
+            	  <td>18740508182</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/021.jpg">Damla GÜRBÜZER</a></td>
+            	  <td>10103986828</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/028.jpg">Ayşe ŞENTÜRK</a></td>
+            	  <td>-</td>
+                  <td>Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/029.jpg">Nuray TOMAK</a></td>
+            	  <td>-</td>
+                  <td>Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/031.jpg">Nur TAMKOŞAR</a></td>
+            	  <td>18371258364</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/032.jpg">İrem Gülçiçek ÖZER</a></td>
+            	  <td>21308163532</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/038.jpg">Aycan UZDİLLİ</a></td>
+            	  <td>34729007002</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/039.jpg">Yunus KELEŞ</a></td>
+            	  <td>14273569782</td>
+                  <td>Cepci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/043.jpg">Lamia ÖZMUT</a></td>
+            	  <td>26122447660</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/112.jpg">Emir Ali TANRIKULU</a></td>
+            	  <td>37135092662</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/045.jpg">Hamza TİTİZLER</a></td>
+            	  <td>-</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/113.jpg">Fatma Sultan ÇEDİK</a></td>
+            	  <td>34513167448</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/047.jpg">Serpil ÖZMUT</a></td>
+            	  <td>-</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/048.jpg">Neriman TİTİZLER</a></td>
+            	  <td>-</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/049.jpg">Aygün ÖZCAN</a></td>
+            	  <td>43837026058</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/050.jpg">Pınar BOZAN</a></td>
+            	  <td>12833027062</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/058.jpg">Ayhan YAKIŞIR</a></td>
+            	  <td>46288418618</td>
+                  <td>Cepci</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/062.jpg">Halil İbrahim KOÇ</a></td>
+            	  <td>29912196144</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/063.jpg">Onurhan SUNER</a></td>
+            	  <td>35525372608</td>
+                  <td>Cepci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/067.jpg">Hacı Salih AKMEŞE</a></td>
+            	  <td>10591375326</td>
+                  <td>Silkelemeci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/068.jpg">Emrullah OKTATAR</a></td>
+            	  <td>36811595176</td>
+                  <td>Silkelemeci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/069.jpg">Bahar KURT</a></td>
+            	  <td>99850202320</td>
+                  <td>Kaldırımcı/Pazar</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/070.jpg">Savaş KAYA</a></td>
+            	  <td>18992008782</td>
+                  <td>Silkelemeci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/085.jpg">Ece ÇAĞLAR</a></td>
+            	  <td>17540968066</td>
+                  <td>Kaldırımcı/Açıktan Ürün Hır.</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/079.jpg">Vedat CENGİZ</a></td>
+            	  <td>15920291582</td>
+                  <td>Cepci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/071.jpg">Ersin AYDOĞAN</a></td>
+            	  <td>-</td>
+                  <td>Cepci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/006.jpg">Mustafa FİDAN</a></td>
+            	  <td>-</td>
+                  <td>Cepci/Stad-Metrobüs vs.</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/091.jpg">Ali Haydar GÜNDEN</a></td>
+            	  <td>12494483702</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/093.jpg">Gaye YILDIZ</a></td>
+            	  <td>10898508076</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/095.jpg">İrem DİMEN</a></td>
+            	  <td>11608569646</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/096.jpg">Naciye BAKIRHAN</a></td>
+            	  <td>39388619276</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/097.jpg">Ebru DEDELER</a></td>
+            	  <td>30478589936</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/098.jpg">Zilan ÖZMUT</a></td>
+            	  <td>30148324836</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/100.jpg">Güzelsu BAKIRYAPAN</a></td>
+            	  <td>24556476942</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/101.jpg">Hüsnü YILDIRIM</a></td>
+            	  <td>10427116338</td>
+                  <td>Silkelemeci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/103.jpg">Ahmet SALBAŞ</a></td>
+            	  <td>56116103722</td>
+                  <td>Silkelemeci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/107.jpg">Ramazan BİLEM</a></td>
+            	  <td>50206541654</td>
+                  <td>Cepci/Otobüs Durakları</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/108.jpg">Celal ALTAY</a></td>
+            	  <td>36505263336</td>
+                  <td>Cepci/Otobüs Durakları</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/109.jpg">Kardelen BAŞSİMİTÇİ</a></td>
+            	  <td>40498978368</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/110.jpg">Cennet TAMKOŞAR</a></td>
+            	  <td>41281495352</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/111.jpg">Gül YELEĞEN</a></td>
+            	  <td>17779735590</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/114.jpg">Aliş KOÇ</a></td>
+            	  <td>36092345934</td>
+                  <td>Açıktan Hırsızlık</td>
+                  <td>İş Yer. Telefon</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/115.jpg">İpek LAÇİN</a></td>
+            	  <td>48709282280</td>
+                  <td>Pazar</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/117.jpg">Songül KANIK</a></td>
+            	  <td>23552114834</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/118.jpg">Birsen ATEŞGÜNEŞ</a></td>
+            	  <td>51724147922</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/120.jpg">Murat KELEŞ</a></td>
+            	  <td>21844228214</td>
+                  <td>Cepci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/121.jpg">İsmail ÇİÇEK</a></td>
+            	  <td>40051999120</td>
+                  <td>Cepci/Stad-Metrobüs</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/128.jpg">Gülpembe KURT</a></td>
+            	  <td>34061417354</td>
+                  <td>Yankesicilik</td>
+                  <td>Açıktan Hırsıszlık/Ürün</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/129.jpg">Tuğçe ÇAĞLAR</a></td>
+            	  <td>29164932668</td>
+                  <td>Açıktan Hırsıszlık/Ürün</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/.jpg">Eda ÜSTÜNDAĞ</a></td>
+            	  <td>34642651146</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/.jpg">Yaprak SEYMANER</a></td>
+            	  <td>12481897246</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/135.jpg">Nigar GARİPLER</a></td>
+            	  <td>50941180446</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/136.jpg">Özgür İMERT</a></td>
+            	  <td>24958958718</td>
+                  <td>Cepci/Stad-Metrobüs</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/.jpg">Cemre ŞANLI</a></td>
+            	  <td>37708054172</td>
+                  <td>Kaldırımcı/Sıkıştırma</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/138.jpg">Hediye TANİREL</a></td>
+            	  <td>52429133784</td>
+                  <td>Sıkıştırma</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/140.jpg">Sebahat BAYSAL</a></td>
+            	  <td>44341390772</td>
+                  <td>Cepci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/145.jpg">Bülent YAKIŞIR</a></td>
+            	  <td>-</td>
+                  <td>Cepci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/150.jpg">Elif ŞAHİN</a></td>
+            	  <td>14845816276</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/ynksclk/030.jpg">Ali Rıza ALBAYRAK</a></td>
+            	  <td>16814831822</td>
+                  <td>Açıktan Hırsızlık/Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/153.jpg">Gönül DURMAZER</a></td>
+            	  <td>38362032490</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/158.jpg">Nazar BAKIRHAN</a></td>
+            	  <td>53242773744</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/159.jpg">Kutlay FAK</a></td>
+            	  <td>51400770420</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/160.jpg">Hasret TANRISEVERGİL</a></td>
+            	  <td>29467331106</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/161.jpg">Cem ERSUN</a></td>
+            	  <td>56329032246</td>
+                  <td>Silkelemeci</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/162.jpg">Nuray ADIKAL</a></td>
+            	  <td>26347435206</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/163.jpg">Azize ESER</a></td>
+            	  <td>10460597248</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/165.jpg">Doğan KARASÖĞÜT</a></td>
+            	  <td>10927956762</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/166.jpg">Aydan ÖZBAY</a></td>
+            	  <td>62107139380</td>
+                  <td>Kaldırımcı</td>
+                </tr>
+				<tr>
+                  <td><a href="img/ynksclk/168.jpg">Berivan KURT</a></td>
+            	  <td>99046235378</td>
+                  <td>Kaldırımcı/Pazar</td>
+                </tr>			  
+                <tr>
+                  <td><a href="img/dgr/002.jpg">Kenan AKYÜREK</a></td>
+            	  <td>22558779184</td>
+                  <td>Ürün Hırsızı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/003.jpg">Hasan AĞIRMAN</a></td>
+            	  <td>27596288186</td>
+                  <td>Hastanelerden Tel.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/005.jpg">Solmaz ŞİVAR</a></td>
+            	  <td>15673467616</td>
+                  <td>İnşaatlardan Malzeme Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/005.jpg">Umut ŞİVAR</a></td>
+            	  <td>26026123530</td>
+                  <td>İnşaatlardan Malzeme Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/005.jpg">Uğur ŞİVAR</a></td>
+            	  <td>26029123476</td>
+                  <td>İnşaatlardan Malzeme Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/006.jpg">Cem UYAR</a></td>
+            	  <td>67633268078</td>
+                  <td>Ürün Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/007.jpg">Uğur AKSU</a></td>
+            	  <td>36538663370</td>
+                  <td>Diyafon Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/008.jpg">Can</a></td>
+            	  <td>Uğur AKSU ile</td>
+                  <td>Diyafon Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/009.jpg">Leyla KOÇAK</a></td>
+            	  <td>22924226762</td>
+                  <td>İnşaatlardan Hırs.</td>
+                </tr>
+                  <td><a href="img/dgr/009.jpg">Ebru KOÇAK</a></td>
+            	  <td>12134501186</td>
+                  <td>İnşaatlardan Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/009.jpg">Arif KOÇAK</a></td>
+            	  <td>24082188104</td>
+                  <td>İnşaatlardan Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/010.jpg">Engin KANMAZ</a></td>
+            	  <td>27997657260</td>
+                  <td>Sauna/Spa/Spor Sal.Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/011.jpg">Mehmet Cemal GÜL</a></td>
+            	  <td>38938615980</td>
+                  <td>İbadethaneden Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/012.jpg">Özcan YILDIRIM</a></td>
+            	  <td>-</td>
+                  <td>İbadethaneden Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/013.jpg">Hasan KIŞLA</a></td>
+            	  <td>44530791014</td>
+                  <td>Akaryakıt Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/014.jpg">Deniz ÖZDEMİR</a></td>
+            	  <td>52222508728</td>
+                  <td>Akaryakıt Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/015.jpg">Çınar DİKMEN</a></td>
+            	  <td>-</td>
+                  <td>Asansör Anakart Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/001.jpg">Taylan UZUNKALA</a></td>
+            	  <td>-</td>
+                  <td>Asansör Anakart Hırs.</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/016.jpg">İsmail TOPRAK</a></td>
+            	  <td>11883072640</td>
+                  <td>Ayakkabı Hırsızı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/016.jpg">Bilgehan MUTAY</a></td>
+            	  <td>57109562410</td>
+                  <td>Ayakkabı Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/017.jpg">Ali YILMAZ</a></td>
+            	  <td>18562746526</td>
+                  <td>İbadethaneden Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/017.jpg">Ramazan KILIÇ</a></td>
+            	  <td>24646008886</td>
+                  <td>İbadethaneden Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/018.jpg">Yusuf ALDEMİR</a></td>
+            	  <td>18290601692</td>
+                  <td>Ayakkabı Hırsızlığı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/019.jpg">Halil ÖZER</a></td>
+            	  <td>15401302646</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/020.jpg">Hakan BOZBEŞPARMAK</a></td>
+            	  <td>14384518396</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/023.jpg">İsa ÇINAR</a></td>
+            	  <td>38074592008</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/024.jpg">Samet AY</a></td>
+            	  <td>17504072006</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/025.jpg">Cihan KOLCU</a></td>
+            	  <td>8/10/1983-Bakırköy</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/026.jpg">Türkyılmaz TOKER</a></td>
+            	  <td>41113525530</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/027.jpg">Niyaz Gül SHİNWARİ</a></td>
+            	  <td>-</td>
+                  <td>Ürün Hırsızı</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/028.jpg">Erkan YAKUT</a></td>
+            	  <td>18631314120</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/031.jpg">Doboş CLAUDIA/Romanya</a></td>
+            	  <td>CNP:1751026272691</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/032.jpg">Hasan GÖÇER</a></td>
+            	  <td>50074112482</td>
+                  <td>İş Yerinden Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/033.jpg">Ali BASKIN</a></td>
+            	  <td>37279742270</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/034.jpg">Ozan ŞİRELİ</a></td>
+            	  <td>50821167246</td>
+                  <td>Soyunma Dolabı Hırs.</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/035.jpg">Selçuk ALGÜN</a></td>
+            	  <td>26062662482</td>
+                  <td>Açıktan Hırsızlık/Market</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/035.jpg">Soner ILGIN</a></td>
+            	  <td>19123854070</td>
+                  <td>Açıktan Hırsızlık/Market</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/035.jpg">Barış ÇEBİ</a></td>
+            	  <td>52612630196</td>
+                  <td>Açıktan Hırsızlık/Market</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/036.jpg">Ersin AYDOĞAN</a></td>
+            	  <td>45223158886</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/037.jpg">Abderranmane MAISI</a></td>
+            	  <td>-</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/039.jpg">Sercan ÇEVİREN</a></td>
+            	  <td>40834848256</td>
+                  <td>İş Yerinden Hırsızlık</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/040.jpg">Murat AYDEMİR</a></td>
+            	  <td>60859482068</td>
+                  <td>İbadethaneden Hırsızlık</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/041.jpg">Fazlı KAMANLI</a></td>
+            	  <td>52903273876</td>
+                  <td>Hastaneden Hırsızlık</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/042.jpg">Mehmet YALVAÇ</a></td>
+            	  <td>19660293646</td>
+                  <td>Kamera Tamiri Bahanesiyle Hırs.</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/043.jpg">Eyüp GEZGİN</a></td>
+            	  <td>40366468434</td>
+                  <td>İş Yerinden Hırsızlık</td>
+                </tr>
+				<tr>
+                  <td><a href="img/dgr/044.jpg">Ergün SEZİŞ</a></td>
+            	  <td>49300601890</td>
+                  <td>Hastaneden Hırsızlık</td>
+                </tr>
+            	<tr>
+                  <td><a href="img/dgr/045.jpg">Eyüp BAYÇELEBİ</a></td>
+            	  <td>32209476430</td>
+                  <td>Açıktan Hırsızlık</td>
+                </tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Sinan YÜKSEL</td>
+					<td>20819562148</td>
+					<td>Ürün/DR-Teknosa</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Kadir KUMAŞ</td>
+					<td>19232272840</td>
+					<td>İş Yerinden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serkan CANLI</td>
+					<td>30899014116</td>
+					<td>İş Yerinden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Cihan TURGUT</td>
+					<td>13471759018</td>
+					<td>Hastaneden Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Doğan HALİS</td>
+					<td>24970102106</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">İlhan KILIÇÇEKEN</td>
+					<td>42169508072</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Gökhan ABANLI</td>
+					<td>46288370794</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Önder ÖZDEMİR</td>
+					<td>57439358486</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Uğur BAYRAKTAR</td>
+					<td>12236401582</td>
+					<td>İş Yeri/Hastane Laptop Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Etem YAZGI</td>
+					<td>01.01.1966</td>
+					<td>İbadethaneden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Yunus SOYLU</td>
+					<td>24110258328</td>
+					<td>Hastaneden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Ahmet GÜR</td>
+					<td>56359480864</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Deniz ÖZDEMİR</td>
+					<td>55222508728</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Turgut USLU</td>
+					<td>21713328502</td>
+					<td>İş Yerlerinden Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Madatyan ARMAN</td>
+					<td>AS0688704</td>
+					<td>İş Yerlerinden Laptop Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Deniz SÜREN</td>
+					<td>30770291964</td>
+					<td>Ürün Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Özcan ÇELEP</td>
+					<td>17117114834</td>
+					<td>Ürün Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Sercan GÜMÜŞTEN</td>
+					<td>-</td>
+					<td>Soyunma Odalarından Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serkan KANMAZ</td>
+					<td>22330846738</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Muhammed KANMAZ</td>
+					<td>27901660416</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Ömer KANMAZ</td>
+					<td>27934659364</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Yılmaz KANMAZ</td>
+					<td>27958658572</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Murat OKKAY</td>
+					<td>35891231462</td>
+					<td>İş Yerlerinden Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Ahmet ÖZDEMİR</td>
+					<td>20804645436</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Muharrem TAŞ</td>
+					<td>34012418744</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Mehmet SARISOY</td>
+					<td>36481688666</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Batuhan KARACA</td>
+					<td>37052043914</td>
+					<td>İnşaatlardan Malzeme Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Berk BOSTANOĞLU</td>
+					<td>46261503096</td>
+					<td>İnşaatlardan Malzeme Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Cebrail KUVAYTAN</td>
+					<td>55237204110</td>
+					<td>İnşaatlardan Malzeme Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Onur Remzi YENİCİ</td>
+					<td>52213626614</td>
+					<td>Ürün Hırsızı/DR-Teknosa</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Abbas ÖZTÜRK</td>
+					<td>19651935616</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Şenol AKSOY</td>
+					<td>-</td>
+					<td>Hastaneden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Uğur UÇAR</td>
+					<td>50641305330</td>
+					<td>Hastaneden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">İnan AKKOYUN</td>
+					<td>73489059364</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Hakan KANŞIRAY</td>
+					<td>49519594556</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Ahmet ÇAĞLAR</td>
+					<td>10739439040</td>
+					<td>Hastaneden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">İbrahim GÖKMEN</td>
+					<td>20923206778</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Fatih BALLİK</td>
+					<td>23752075416</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">GIORGI PERADZE</td>
+					<td>Gürcistan</td>
+					<td>Yankesicilik/Açıktan</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Mustafa AYDIN</td>
+					<td>26554836650</td>
+					<td>Hastaneden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Gül YELEĞEN</td>
+					<td>17779735590</td>
+					<td>Yankesici/Kaldırımcı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serap BAKIRYAPAN</td>
+					<td>10084961784</td>
+					<td>Yankesici/Kaldırımcı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Hasan AHMEDOV</td>
+					<td>1989/Azerbaycan</td>
+					<td>Mağazalardan Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Merhamet POGYEV</td>
+					<td>1993/Azerbaycan</td>
+					<td>Mağazalardan Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Günel ASGAROVA</td>
+					<td>99032618840</td>
+					<td>Mağazalardan Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Nurida İBRAHİMOVA</td>
+					<td>99352455866</td>
+					<td>Mağazalardan Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Eyüp Can TOYTEKİN</td>
+					<td>49075266942</td>
+					<td>Avm içerisinde Saklanarak Tipbox Kutusu Çalar</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Can Polat AYDIN</td>
+					<td>53470155404</td>
+					<td>İş Yerlerinden Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serhat ASLANTAŞ</td>
+					<td>14020766938</td>
+					<td>İş Yerlerinden Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Nusret GÖKÇEN</td>
+					<td>17789617466</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Evren ARSLAN</td>
+					<td>16334509270</td>
+					<td>İş Yerinden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Furkan ALTAN</td>
+					<td>62533370784</td>
+					<td>Ürün Hırsızı/DR-Teknosa</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Mert EKE</td>
+					<td>-</td>
+					<td>İnşaatlardan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Buket EKE</td>
+					<td>-</td>
+					<td>İnşaatlardan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Nafi AKINCI</td>
+					<td>67384113542</td>
+					<td>Bisiklet Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Osman KIVANÇ</td>
+					<td>29389886418</td>
+					<td>Ürün Hırsızlığı/Market</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Sinan KABUL</td>
+					<td>18791889810</td>
+					<td>Ürün Hırsızlığı/Market</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Tunahan YILMAZ</td>
+					<td>21352329984</td>
+					<td>Ürün Hırsızlığı/Market</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Emirhan DUMAN</td>
+					<td>15005787160</td>
+					<td>Ürün Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Yunus Emre ABO</td>
+					<td>56086466674</td>
+					<td>Ürün Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Enes ATİLLA</td>
+					<td>26090032394</td>
+					<td>Ürün Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Mehmet KAYA</td>
+					<td>13967963240</td>
+					<td>Ürün Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Ender ALMADIK</td>
+					<td>40735141814</td>
+					<td>Hastanelerden Telefon Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Hasan NEDEF</td>
+					<td>99670636534</td>
+					<td>Sauna/Spa Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">ALIREZA ASLANY İran</td>
+					<td>Otellerden Laptop Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Sercan GÜMÜŞTEN</td>
+					<td>-</td>
+					<td>Soyunma Dolaplarından Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Erdinç USLU</td>
+					<td>15530458764</td>
+					<td>Klima Motoru Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Oğuzhan ÖZKARAKAŞ</td>
+					<td>31186848896</td>
+					<td>Klima Motoru Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Kurtça Mehmet YILMAZ</td>
+					<td>13019884004</td>
+					<td>Türktelekom Kablo Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Şuayip YILMAZ</td>
+					<td>13172878940</td>
+					<td>Türktelekom Kablo Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serdar ATA</td>
+					<td>66427001174</td>
+					<td>Türktelekom Kablo Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Chary JUMAYEV</td>
+					<td>99162349058</td>
+					<td>Türktelekom Kablo Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Aziz JUMAYEV</td>
+					<td>99398918578</td>
+					<td>Türktelekom Kablo Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Mahmut PEHLİVANOĞLU</td>
+					<td>16655973552</td>
+					<td>Baz İstasyonu Akü Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Uğur HOŞ</td>
+					<td>33767383550</td>
+					<td>Baz İstasyonu Akü Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Gökhan HOŞ</td>
+					<td>33833381350</td>
+					<td>Baz İstasyonu Akü Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Kadir Can KELEŞ</td>
+					<td>59458527454</td>
+					<td>Baz İstasyonu Akü Hırs.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Metin Polat</td>
+					<td>16010473574</td>
+					<td>Ayakkabı Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serdal BERGİL</td>
+					<td>52030444934</td>
+					<td>Akaryakıt Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Erhan ÇOBAN</td>
+					<td>42619819628</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serkan ÇALGICI</td>
+					<td>42547480846</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Erdoğan SOYBİR</td>
+					<td>38008647040</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Barış GÜLERMAN</td>
+					<td>45064382754</td>
+					<td>Ürün Hırsızlığı/Market</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Kemal PALAS</td>
+					<td>56572483932</td>
+					<td>İş Yerinden Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Rahman Mustafa KARACA</td>
+					<td>-</td>
+					<td>Bisiklet Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Onur İNCE</td>
+					<td>-</td>
+					<td>Bisiklet Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Şaban YILDIRIM</td>
+					<td>25688112104</td>
+					<td>Akü Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">İsrafil AĞBAŞ</td>
+					<td>13370143192</td>
+					<td>Akü Hırsızlığı</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Serkan ARITÜRK</td>
+					<td>42148929256</td>
+					<td>Dinlenme Tesislerinde Otodan Tel.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Adnan GÖZGÜ 39332023128</td>
+					<td>Dinlenme Tesislerinde Otodan Tel.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Yılmaz GÖZGÜ</td>
+					<td>39521016894</td>
+					<td>Dinlenme Tesislerinde Otodan Tel.</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Abdülsamet ŞİŞMAN</td>
+					<td>22870920516</td>
+					<td>Açıktan Hırsızlık</td>
+				</tr>
+				<tr>
+					<td><a href="img/dgr/002.jpg">Faruk GÖREN</td>
+					<td>61672073990</td>
+					<td>İş Yerinden Hırsızlık</td>
+				</tr>
+            	<tr>				
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer Nav -->
+    <div class="footer-nav-area" id="footerNav">
+      <div class="container px-0">
+        <!-- =================================== -->
+        <!-- Paste your Footer Content from here -->
+        <!-- =================================== -->
+        <!-- Footer Content -->
+        <div class="footer-nav position-relative">
+          <ul class="h-100 d-flex align-items-center justify-content-between ps-0">
+            <li class="active"><a href="index.html">
+                <svg class="bi bi-house" width="20" height="20" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M2 13.5V7h1v6.5a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5V7h1v6.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5zm11-11V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"></path>
+                  <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"></path>
+                </svg><span>Home</span></a></li>
+            <li><a href="work.html">
+                <svg class="bi bi-collection" width="20" height="20" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M14.5 13.5h-13A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5zm-13 1A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zM2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1z"></path>
+                </svg><span>Work</span></a></li>
+            <li><a href="books.html">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+				<path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/></svg>
+			</svg><span>Ebook</span></a></li>
+            <li><a href="audiobooks.html">
+                <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" class="bi bi-headphones" viewBox="0 0 16 16">
+				<path d="M8 3a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8a6 6 0 1 1 12 0v5a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1V8a5 5 0 0 0-5-5z"/></svg>
+                </svg><span>AudioBook</span></a></li>
+            <li><a href="search.html">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
+                </svg><span>Search</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- All JavaScript Files -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/slideToggle.min.js"></script>
+    <script src="js/internet-status.js"></script>
+    <script src="js/tiny-slider.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/rangeslider.min.js"></script>
+    <script src="js/vanilla-dataTables.min.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/magic-grid.min.js"></script>
+    <script src="js/dark-rtl.js"></script>
+    <script src="js/active.js"></script>
+    <!-- PWA -->
+    <script src="js/pwa.js"></script>
+  </body>
+</html>
