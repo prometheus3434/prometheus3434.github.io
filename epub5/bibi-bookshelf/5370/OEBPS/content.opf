@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Vadideki Zambak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Balzac, Honore de">Honore de Balzac</dc:creator>
+    <dc:identifier id="bookid" opf:scheme="uuid">8f264cfb-e75f-404c-b278-30ab4b7d987c</dc:identifier>
+    <dc:date>2007-02-19T22:00:00+00:00</dc:date>
+    <dc:publisher>Altın Kalem</dc:publisher>
+    <dc:description>&lt;p&gt;Sonradan şark şiirinin ruhumda ışıması gibi birdenbire parlayan bir kadın kokusu aldım. Yanımda oturan kadına baktım ve göz-lerimi bu eğlenceden de çok kamaştırdı; birdenbire tüm şenliğim o oldu. Daha önceki yaşamımı iyi anladıysanız, o anda kal-bimden fışkıran duyguları da tahmin edebilirsiniz. Okşayabilmek için deliye döndüğüm bu ak ve yuvarlak omuzlara takıldı göz-lerim; sanki ilk kez çıplak kalmış gibi hafifçe pembeleşmişlerdi: Pek edepli, adeta bir ruhu olan ve ışıkta ipekli bir kumaş gibi parlayan saten bir teni vardı bu omuzların. Ellerimden çok daha pervasız olan bakışlarım, bu iki omuzu birbirinden ayıran çizgi boyunca yukarıdan aşağıya kaydı. Kalbim şiddetle çarparak, korsesini görebilmek için doğruldum ve tertemiz tüller içersindeki o güzelim, mükemmel ve yusyuvarlak bedenin uzantısı olan olağanüstü bir gerdan, aklımı başımdan aldı. Bu başın en ufak ayrıntıları bile, içimde pek derin hazlar uyandırdı. Küçük bir kızınki gibi kadifemsi bir boynun üzerindeki dümdüz taranmış saçların parlaklığı, tarağın bıraktığı ve düşgücümü alabildiğine harekete geçiren parlak beyaz çizgiler, tamamen aklımı başım-dan aldı. Hiç kimsenin bana bakmadığından emin olduktan sonra, annesinin bağrına atılan bir çocuk gibi atıldım, başımı göme-rek bu sırtı ve omuzları öptüm. Kadın müthiş bir çığlık attı, ama müzik sesi bunun duyulmasını engelledi; geri döndü, beni gör-dü ve "Mösyö!" dedi. Ah! Keşke, "Küçük bey! Neler oluyor size!" deseydi, belki de onu öldürebilirdim; ama bu "Mösyö!" deme-sini duyduğumda gözlerimden sıcak yaşlar boşandı. Bu sevgili sırtla tamamen uyumlu kül rengi saçlarla taçlanmış bu yüce yüz ve görkemli bir öfkeyle bana bakan gözler karşısında, taş kesildim. Kendisinden kaynaklanmış olan bu çılgınlığımı anladı ve benim pişmanlık gözyaşlarımdan o yüce sevgimi sezdi; beni bağışladığını anlatan yüzündeki saldırgan ifade silindi, bir tür utanç duygusuyla kızarıp kıvılcımlandı. Kraliçelere yakışan bir edayla uzaklaştı.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Fransa</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">54fdca2c-6b49-42ce-9b31-d437c2520feb</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753902786</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Vadideki Zambak"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Honore de Balzac&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover-1"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Text/content_1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/content_2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/content_3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/content_4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/content_5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/content_6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/content_7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide/>
+</package>

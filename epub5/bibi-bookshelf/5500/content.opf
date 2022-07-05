@@ -1,0 +1,161 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid_id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title id="id">Yaşar Kemal</dc:title>
+    <dc:creator id="id-1">Filler Sultanı ile Kırmızı Sakallı Topal Karınca</dc:creator>
+    <dc:identifier>calibre:18</dc:identifier>
+    <dc:identifier>uuid:84a6ca55-2c68-44cc-9372-0bc6bf2c6da3</dc:identifier>
+    <dc:identifier id="uuid_id">uuid:03dfb76f-6fd5-4204-821d-f2b54bbfc012</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:contributor id="id-2">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Yaşar Kemal</opf:meta>
+    <meta name="cover" content="cover"/>
+    <meta property="calibre:timestamp" scheme="dcterms:W3CDTF">2022-03-05T04:47:14Z</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2022-03-05T05:08:44Z</meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-1" property="file-as">Karınca, Filler Sultanı ile Kırmızı Sakallı Topal</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Filler Sultanı ile Kırmızı Sakallı Topal Karınca": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
+    <item id="id129" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id128" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id127" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="id53" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="id5" href="index-10_1.png" media-type="image/png"/>
+    <item id="id2" href="index-103_1.png" media-type="image/png"/>
+    <item id="id3" href="index-107_1.png" media-type="image/png"/>
+    <item id="id4" href="index-108_1.png" media-type="image/png"/>
+    <item id="id6" href="index-110_1.png" media-type="image/png"/>
+    <item id="id7" href="index-111_1.png" media-type="image/png"/>
+    <item id="id8" href="index-112_1.png" media-type="image/png"/>
+    <item id="id9" href="index-115_1.png" media-type="image/png"/>
+    <item id="id10" href="index-119_1.png" media-type="image/png"/>
+    <item id="id14" href="index-12_1.png" media-type="image/png"/>
+    <item id="id11" href="index-122_1.png" media-type="image/png"/>
+    <item id="id12" href="index-124_1.png" media-type="image/png"/>
+    <item id="id13" href="index-127_1.png" media-type="image/png"/>
+    <item id="id15" href="index-130_1.png" media-type="image/png"/>
+    <item id="id16" href="index-131_1.png" media-type="image/png"/>
+    <item id="id17" href="index-133_1.png" media-type="image/png"/>
+    <item id="id18" href="index-134_1.png" media-type="image/png"/>
+    <item id="id19" href="index-138_1.png" media-type="image/png"/>
+    <item id="id20" href="index-141_1.png" media-type="image/png"/>
+    <item id="id21" href="index-143_1.png" media-type="image/png"/>
+    <item id="id22" href="index-146_1.png" media-type="image/png"/>
+    <item id="id23" href="index-148_1.png" media-type="image/png"/>
+    <item id="id24" href="index-148_2.png" media-type="image/png"/>
+    <item id="id25" href="index-150_1.png" media-type="image/png"/>
+    <item id="id26" href="index-154_1.png" media-type="image/png"/>
+    <item id="id27" href="index-156_1.png" media-type="image/png"/>
+    <item id="id28" href="index-159_1.png" media-type="image/png"/>
+    <item id="id33" href="index-16_1.png" media-type="image/png"/>
+    <item id="id29" href="index-161_1.png" media-type="image/png"/>
+    <item id="id30" href="index-163_1.png" media-type="image/png"/>
+    <item id="id31" href="index-166_1.png" media-type="image/png"/>
+    <item id="id32" href="index-168_1.png" media-type="image/png"/>
+    <item id="id39" href="index-17_1.png" media-type="image/png"/>
+    <item id="id34" href="index-170_1.png" media-type="image/png"/>
+    <item id="id35" href="index-171_1.png" media-type="image/png"/>
+    <item id="id36" href="index-173_1.png" media-type="image/png"/>
+    <item id="id37" href="index-178_1.png" media-type="image/png"/>
+    <item id="id38" href="index-179_1.png" media-type="image/png"/>
+    <item id="id47" href="index-18_1.png" media-type="image/png"/>
+    <item id="id40" href="index-180_1.png" media-type="image/png"/>
+    <item id="id41" href="index-182_1.png" media-type="image/png"/>
+    <item id="id42" href="index-184_1.png" media-type="image/png"/>
+    <item id="id43" href="index-186_1.png" media-type="image/png"/>
+    <item id="id44" href="index-187_1.png" media-type="image/png"/>
+    <item id="id45" href="index-188_1.png" media-type="image/png"/>
+    <item id="id46" href="index-189_1.png" media-type="image/png"/>
+    <item id="id48" href="index-190_1.png" media-type="image/png"/>
+    <item id="id49" href="index-193_1.png" media-type="image/png"/>
+    <item id="id50" href="index-194_1.png" media-type="image/png"/>
+    <item id="id51" href="index-195_1.png" media-type="image/png"/>
+    <item id="id52" href="index-198_1.png" media-type="image/png"/>
+    <item id="id54" href="index-200_1.png" media-type="image/png"/>
+    <item id="id55" href="index-201_1.png" media-type="image/png"/>
+    <item id="id56" href="index-202_1.png" media-type="image/png"/>
+    <item id="id57" href="index-205_1.png" media-type="image/png"/>
+    <item id="id58" href="index-206_1.png" media-type="image/png"/>
+    <item id="id59" href="index-208_1.png" media-type="image/png"/>
+    <item id="id60" href="index-209_1.png" media-type="image/png"/>
+    <item id="id69" href="index-21_1.png" media-type="image/png"/>
+    <item id="id61" href="index-210_1.png" media-type="image/png"/>
+    <item id="id62" href="index-210_2.png" media-type="image/png"/>
+    <item id="id63" href="index-212_1.png" media-type="image/png"/>
+    <item id="id64" href="index-213_1.png" media-type="image/png"/>
+    <item id="id65" href="index-215_1.jpg" media-type="image/jpeg"/>
+    <item id="id66" href="index-216_1.png" media-type="image/png"/>
+    <item id="id67" href="index-217_1.jpg" media-type="image/jpeg"/>
+    <item id="id68" href="index-218_1.png" media-type="image/png"/>
+    <item id="id70" href="index-24_1.png" media-type="image/png"/>
+    <item id="id71" href="index-27_1.png" media-type="image/png"/>
+    <item id="id72" href="index-28_1.png" media-type="image/png"/>
+    <item id="id73" href="index-32_1.png" media-type="image/png"/>
+    <item id="id74" href="index-34_1.png" media-type="image/png"/>
+    <item id="id75" href="index-37_1.png" media-type="image/png"/>
+    <item id="id76" href="index-39_1.png" media-type="image/png"/>
+    <item id="id77" href="index-40_1.png" media-type="image/png"/>
+    <item id="id78" href="index-43_1.png" media-type="image/png"/>
+    <item id="id79" href="index-44_1.png" media-type="image/png"/>
+    <item id="id80" href="index-49_1.png" media-type="image/png"/>
+    <item id="id81" href="index-50_1.png" media-type="image/png"/>
+    <item id="id82" href="index-53_1.png" media-type="image/png"/>
+    <item id="id83" href="index-56_1.png" media-type="image/png"/>
+    <item id="id84" href="index-59_1.png" media-type="image/png"/>
+    <item id="id88" href="index-6_1.png" media-type="image/png"/>
+    <item id="id89" href="index-6_10.png" media-type="image/png"/>
+    <item id="id90" href="index-6_11.png" media-type="image/png"/>
+    <item id="id91" href="index-6_12.png" media-type="image/png"/>
+    <item id="id92" href="index-6_13.png" media-type="image/png"/>
+    <item id="id93" href="index-6_14.png" media-type="image/png"/>
+    <item id="id94" href="index-6_15.png" media-type="image/png"/>
+    <item id="id95" href="index-6_16.png" media-type="image/png"/>
+    <item id="id96" href="index-6_17.png" media-type="image/png"/>
+    <item id="id97" href="index-6_18.png" media-type="image/png"/>
+    <item id="id98" href="index-6_19.png" media-type="image/png"/>
+    <item id="id99" href="index-6_2.png" media-type="image/png"/>
+    <item id="id100" href="index-6_3.png" media-type="image/png"/>
+    <item id="id101" href="index-6_4.png" media-type="image/png"/>
+    <item id="id102" href="index-6_5.png" media-type="image/png"/>
+    <item id="id103" href="index-6_6.png" media-type="image/png"/>
+    <item id="id104" href="index-6_7.png" media-type="image/png"/>
+    <item id="id105" href="index-6_8.png" media-type="image/png"/>
+    <item id="id106" href="index-6_9.png" media-type="image/png"/>
+    <item id="id85" href="index-60_1.png" media-type="image/png"/>
+    <item id="id86" href="index-62_1.png" media-type="image/png"/>
+    <item id="id87" href="index-66_1.png" media-type="image/png"/>
+    <item id="id113" href="index-7_1.png" media-type="image/png"/>
+    <item id="id114" href="index-7_2.png" media-type="image/png"/>
+    <item id="id115" href="index-7_3.png" media-type="image/png"/>
+    <item id="id116" href="index-7_4.png" media-type="image/png"/>
+    <item id="id107" href="index-70_1.png" media-type="image/png"/>
+    <item id="id108" href="index-71_1.png" media-type="image/png"/>
+    <item id="id109" href="index-73_1.png" media-type="image/png"/>
+    <item id="id110" href="index-75_1.png" media-type="image/png"/>
+    <item id="id111" href="index-78_1.png" media-type="image/png"/>
+    <item id="id112" href="index-79_1.png" media-type="image/png"/>
+    <item id="id119" href="index-8_1.png" media-type="image/png"/>
+    <item id="id117" href="index-81_1.png" media-type="image/png"/>
+    <item id="id118" href="index-85_1.png" media-type="image/png"/>
+    <item id="id126" href="index-9_1.png" media-type="image/png"/>
+    <item id="id120" href="index-90_1.png" media-type="image/png"/>
+    <item id="id121" href="index-91_1.png" media-type="image/png"/>
+    <item id="id122" href="index-93_1.png" media-type="image/png"/>
+    <item id="id123" href="index-94_1.png" media-type="image/png"/>
+    <item id="id124" href="index-97_1.png" media-type="image/png"/>
+    <item id="id125" href="index-98_1.png" media-type="image/png"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+  </spine>
+</package>

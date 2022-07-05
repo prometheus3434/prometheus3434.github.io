@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Victor Yara: Yarım kalan şarkı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jara, Joan &amp; Sezgintüredi, Algan">Joan Jara</dc:creator>
+    <dc:creator opf:role="aut">Algan Sezgintüredi</dc:creator>
+    <dc:publisher>Versus Kitap</dc:publisher>
+    <dc:date>2010-06-15T11:30:49+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Victor Jara, general Pinochet yönetimindeki Şili ordusunun 11 Eylül 1973'te yaptığı askeri darbeden birkaç gün sonra binlerce kişiyle birlikte gözaltında tutulduğu spor salonunda işkenceyle katledildi. Diktatörlük Victor'u susturmak istedi. Çünkü onun gitarı zenginler için değildi, şarkısı devrimciydi. O şarkısını ezilenlerin, yoksulların ve yoksunların çığlığı gibi söylüyordu. 
+
+O şarkı bitmedi, bitmeyecek… Şimdi ve daima!
+
+
+Joan Jara hem aşkı hem de yoldaşı olan Victor'u tanışmalarından başlayıp, Salvador Allende önderliğindeki Halk Birliği içindeki mücadelelerine kadar büyük bir tutku, cesaret ve samimiyetle anlatıyor.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">01913e62-b28a-4ccd-afbc-71e9bfd63ba2</dc:identifier>
+    <dc:date opf:event="modification">2015-05-03</dc:date>
+    <dc:subject>Mektup</dc:subject>
+    <dc:subject>Anı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c3a171e7-8f55-4844-b7ea-36cc4b6eec4d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">GG64ngEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055691240</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055691240</dc:identifier>
+    <meta content="Victor Yara: Yarım kalan şarkı" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-05-02T12:54:12.828000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Joan Jara&quot;: &quot;&quot;, &quot;Algan Sezgintüredi&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

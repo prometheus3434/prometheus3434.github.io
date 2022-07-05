@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="f17b84f5-757b-48be-bc6d-7d8b10ea8f50" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yanlış Bir Adım</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Yanlis_Bir_Adim_split_000.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Giriş: Son Akşam Yemeği</text>
+      </navLabel>
+      <content src="Text/Yanlis_Bir_Adim_split_002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Birinci Bölüm: Kusursuz On</text>
+      </navLabel>
+      <content src="Text/Yanlis_Bir_Adim_split_003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İkinci Bölüm: Günahkârlar</text>
+      </navLabel>
+      <content src="Text/Yanlis_Bir_Adim_split_004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Son Söz: Azizler</text>
+      </navLabel>
+      <content src="Text/Yanlis_Bir_Adim_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

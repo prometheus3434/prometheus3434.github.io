@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="7da3dd91-b8b8-4a6b-b606-432916472e91" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaşam ve Yazgı III</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{571B9636-5490-4096-9AE1-1A3E3CE7878F}" playOrder="1">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{A3DDC032-5127-4780-B41A-DDFE15AA4F17}" playOrder="2">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{1573DED6-F9A4-4899-98DD-997DA53564D3}" playOrder="3">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{DA830299-8B3A-46D5-874C-C4F2AC11F635}" playOrder="4">
+      <navLabel>
+        <text>42</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{ADDDDA5B-6AE7-400C-9981-D031DE71A6D3}" playOrder="5">
+      <navLabel>
+        <text>47</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{185D0E41-B698-423F-82B3-E349E514F8E5}" playOrder="6">
+      <navLabel>
+        <text>57</text>
+      </navLabel>
+      <content src="main-6.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

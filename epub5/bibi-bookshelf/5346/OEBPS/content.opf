@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Uzun bir yolculuğun bittiği yer</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Arkan, Hüsnü">Hüsnü Arkan</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">174cd6b4-d1df-414f-b081-00b4d06b138a</dc:identifier>
+    <dc:date>2005-06-15T12:52:01+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Kültür Sanat Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9eb0a267-20a7-4c44-94ba-80ca71092dfd</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750810206</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">0eT3SQAACAAJ</dc:identifier>
+    <meta content="Uzun bir yolculuğun bittiği yer" name="calibre:title_sort"/>
+    <meta content="2017-05-28T11:16:22.468000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Hüsnü Arkan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.3" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="x5.html"/>
+    <itemref idref="x6.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

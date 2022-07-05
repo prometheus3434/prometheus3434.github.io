@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Vittorio, the Vampire</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rice, Anne">Anne Rice</dc:creator>
+    <dc:date>2013-01-31T11:06:31+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d38687e0-ed64-4192-ba98-eb0f14b6f655</dc:identifier>
+    <dc:date opf:event="modification">2017-07-30</dc:date>
+    <dc:publisher>Random House</dc:publisher>
+    <dc:description>SOON TO BE A MAJOR TV SHOW, FROM THE NETWORK BEHIND THE WALKING DEAD'[W]hen I found Rice's work I absolutely loved how she took that genre and (...) made [it] feel so contemporary and relevant' Sarah Pinborough, bestselling author of Behind Her Eyes'[Rice wrote] in the great tradition of the gothic' Ramsey Campbell, bestselling author of The Hungry MoonA Vampire Chronicles novella from the internationally bestselling Anne RiceA VAMPIRE IN THE ITALIAN AGE OF GOLD. . . Sixteen years old, Vittorio is the sole survivor of a bizarre and violent massacre at his father's Tuscan palazzo. Escaping to the Florence of Cosimo de Medici, he seeks vengeance and retribution. But though he has been saved from death by a mysterious woman, he finds himself at the mercy of demonic, bloody nightmares, war and political intrique. And, beyond even these perils, Vittorio faces being torn apart by a dangerous love. Against a backdrop of the wonders - both sacred and profane - of Rennaisance Italy, with it's art and ferocity, angels and demons, Anne Rice introduces a seductive new character and creates a passionate traggic legend of doomed young love and lost innocence.</dc:description>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Vampir</dc:subject>
+    <dc:subject>Horror</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Ghost</dc:subject>
+    <dc:subject>Gizem</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">5e8c9ed2-64b6-472d-8e2e-5354fbe3af0f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781407079752</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Z70NwtNFp3UC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758461745</dc:identifier>
+    <meta content="Vittorio, the Vampire" name="calibre:title_sort"/>
+    <meta content="2017-07-30T10:30:33+00:00" name="calibre:timestamp"/>
+    <meta content="0.9.8" name="Sigil version"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{&quot;Anne Rice&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+    <item id="index_split_000.html" href="Text/index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="Section0001.html" href="Text/Section0001.html" media-type="application/xhtml+xml"/>
+    <item id="Section0002.html" href="Text/Section0002.html" media-type="application/xhtml+xml"/>
+    <item id="Section0003.html" href="Text/Section0003.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="SELCOEPUB_BARCOD_1.png" href="Images/SELCOEPUB BARCOD 1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

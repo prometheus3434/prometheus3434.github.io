@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Vuruş</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Higgins, Jack &amp; Karabulut, Hasan">Jack Higgins</dc:creator>
+    <dc:creator opf:role="aut">Hasan Karabulut</dc:creator>
+    <dc:identifier id="BookId">AWP-59593860-AE7F-47C6-9E22-9E59AF4C0E39</dc:identifier>
+    <dc:publisher>Altın Kitaplar Yayınevi</dc:publisher>
+    <dc:date>1986-06-15T10:33:29+00:00</dc:date>
+    <dc:date opf:event="modification">2014-03-26</dc:date>
+    <dc:description>&lt;div&gt;&lt;p itemprop="description" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; background-color: transparent; "&gt;&lt;span id="small_desc" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "&gt;Cuchulain, Sovyetler tarafından yetiştirilmiş, İngiliz gizli servisine sızmış yetenekli bir ajandı. Sovyetler onu son olarak karışıklıklar çıkarması için İrlanda'da görevlendirmişlerdi. Beklenmedik bir anda onun korkunç bir plan hazırladığını öğrenen Sovyet haber atma örgütü bu meşum planı önlemek için İngiliz gizli servisi ile birlikte çalışmak zorundaydı... Jack Higgins büyüleyici ustalığı ile unutulmaz bir gerilim romanı daha yarattı...&lt;/span&gt;&lt;/p&gt;&lt;br class="Apple-interchange-newline"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Aksiyon</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">00a387bd-1e4f-480e-9784-e0b79ff9e4ff</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3pydMQAACAAJ</dc:identifier>
+    <meta name="cover" content="Cover_vurus_1.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Vuruş"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jack Higgins&quot;: &quot;&quot;, &quot;Hasan Karabulut&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="id023" media-type="application/xhtml+xml"/>
+    <item href="Text/eski_kapak.html" id="eski_kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="notes.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/Cover_vurus_1.jpg" id="Cover_vurus_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="eski_kapak.html"/>
+    <itemref idref="notes.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

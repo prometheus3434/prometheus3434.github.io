@@ -1,0 +1,145 @@
+.calibre {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 12pt 0 3pt
+    }
+.calibre2 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 12pt 0 3pt
+    }
+.calibre3 {
+    font-size: 0.70588em
+    }
+.calibre4 {
+    color: windowtext;
+    display: none;
+    text-decoration: none
+    }
+.calibre5 {
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-transform: none
+    }
+.calibre6 {
+    font-variant: normal;
+    text-transform: uppercase
+    }
+.calibre7 {
+    font-size: 1.125em;
+    font-variant: normal;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-size: 1em
+    }
+.calibre9 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre10 {
+    font-weight: bold
+    }
+.calibre11 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre12 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre13 {
+    display: block;
+    padding: 0 0 1pt;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 1.5pt;
+    border-left: currentColor none medium
+    }
+.msobodytext {
+    display: block;
+    font-size: 0.70588em;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 6pt
+    }
+.msobodytext1 {
+    display: block;
+    font-size: 0.70588em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt
+    }
+.msohyperlink {
+    color: blue;
+    text-decoration: underline
+    }
+.msoplaintext {
+    display: block;
+    font-size: 0.70588em;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.0001pt
+    }
+.msoplaintext1 {
+    display: block;
+    font-size: 0.70588em;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0 0.0001pt;
+    border: currentColor none medium
+    }
+.msotoc {
+    display: block;
+    font-size: 0.70588em;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 0;
+    text-transform: uppercase;
+    margin: 6pt 0
+    }
+.msotoc1 {
+    display: block;
+    font-size: 0.70588em;
+    font-variant: small-caps;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.0001pt 10pt
+    }
+.section {
+    display: block
+    }
+.pcalibre:link {
+    color: blue;
+    text-decoration: underline
+    }
+.pcalibre1:visited {
+    color: purple;
+    text-decoration: underline
+    }

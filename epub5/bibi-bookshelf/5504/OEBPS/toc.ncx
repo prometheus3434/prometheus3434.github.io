@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{55BC52E3-1AD3-4832-846C-D532AAC56BC8}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaşlı Adamın Savaşı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>birinci bölüm</text>
+      </navLabel>
+      <content src="Text/bolum01.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>bir</text>
+        </navLabel>
+        <content src="Text/parca01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>iki</text>
+        </navLabel>
+        <content src="Text/parca02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>üç</text>
+        </navLabel>
+        <content src="Text/parca03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>dört</text>
+        </navLabel>
+        <content src="Text/parca04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>beş</text>
+        </navLabel>
+        <content src="Text/parca05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>altı</text>
+        </navLabel>
+        <content src="Text/parca06.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ikinci bölüm</text>
+      </navLabel>
+      <content src="Text/bolum02.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>yedi</text>
+        </navLabel>
+        <content src="Text/parca07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>sekiz</text>
+        </navLabel>
+        <content src="Text/parca08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>dokuz</text>
+        </navLabel>
+        <content src="Text/parca09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>on</text>
+        </navLabel>
+        <content src="Text/parca10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>on bir</text>
+        </navLabel>
+        <content src="Text/parca11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>on iki</text>
+        </navLabel>
+        <content src="Text/parca12.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>üçüncü bölüm</text>
+      </navLabel>
+      <content src="Text/bolum03.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>on üç</text>
+        </navLabel>
+        <content src="Text/parca13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>on dört</text>
+        </navLabel>
+        <content src="Text/parca14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>on beş</text>
+        </navLabel>
+        <content src="Text/parca15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>on altı</text>
+        </navLabel>
+        <content src="Text/parca16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>on yedi</text>
+        </navLabel>
+        <content src="Text/parca17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>on sekiz</text>
+        </navLabel>
+        <content src="Text/parca18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>teşekkürler</text>
+        </navLabel>
+        <content src="Text/parca19.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

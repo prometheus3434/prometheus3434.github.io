@@ -1,0 +1,91 @@
+#Nakkal {
+  text-align: center;
+}
+#kitap-ismi {
+  font-weight: 900;
+  margin-top: 2.5em;
+}
+#seri-ismi {
+  font-weight: 700;
+  margin-top: 0;
+}
+#yazar {
+  font-weight: 700;
+  margin-top: 1.5em;
+}
+#cevirmen {
+  font-weight: 400;
+  margin-top: 3em;
+}
+#yayinevi {
+  font-weight: 400;
+  margin-top: 3em;
+}
+bilgi {
+  font-size: 75%;
+  margin-top: 0.5em;
+  text-align: center;
+  text-indent: 0;
+}
+/* Yazı Düzeni için */
+p {
+  text-indent: 1em;
+  text-align: justify;
+  font-size: 96%;
+  line-height: 116%;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+/* Sayfa Düzeni için */
+body {
+  padding: 1px 11px 1px 11px;
+}
+dipnot {
+  text-align: justify;
+  margin: 5px 0 20px 100px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 75%;
+}
+/* Sayfa içi link rengi için */
+a:link {
+  color: #2995b0;
+  text-decoration: underline;
+}
+a:visited {
+  color: #b02952;
+  text-decoration: underline;
+}
+a:hover {
+  color: #94d7c3;
+  text-decoration: underline;
+}
+/* Kitapiçi Resimler için 
+									[Resim ve altına açıklama metni:]
+									---------------------------------
+	<p class="resim">
+		<img src="../Images/3.jpg" />
+		<span> Resim altı yazı varsa </span>
+	</p>
+																*/
+/* <br> koduyla uğraşmamak için boşluk çeşitleri */
+#n0bosluk {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+#n1bosluk {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+#n2bosluk {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+#n3bosluk {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+#n4bosluk {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}

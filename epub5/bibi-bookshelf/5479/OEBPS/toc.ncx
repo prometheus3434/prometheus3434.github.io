@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="db9a45c9-2f62-4fb2-8ba2-7a71bcb619cb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaratığın Gözyaşları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Bi̇ri̇nci̇ Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Budalaların Şu Eski, Pis Meyhanesi...</text>
+        </navLabel>
+        <content src="Text/Section0001.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İki̇nci̇ Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Polis İşleri ve Bir Köpeğin Yaşantısı</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Korudaki İnsanı Korkutan Küçük Kulübe</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Uşak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Istrati, Panait &amp; Nabi, Yaşar">Panait Istrati</dc:creator>
+    <dc:creator opf:role="aut">Yaşar Nabi</dc:creator>
+    <dc:publisher>Varlık</dc:publisher>
+    <dc:date>1954-06-15T10:31:41+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid"/>
+    <dc:date opf:event="modification">2015-05-03</dc:date>
+    <dc:description>&lt;p&gt;Istrati, bu romanda, bir tüccarın evinde uşaklık yaptığı yılların anılarını, o her zamanki büyüleyici sanatıyla canlandırıyor. Çalıştığı evin hanımına karşı duyduğu, maddi arzulardan uzak, tapınma duygusunu andıran aşkın yanı sıra, Istrati'nin işçi hakları için verdiği savaşımları, ideolojilerin boşluğunu ve politikacıların ikiyüzlülüğünü gördükten sonra siyasal çatışmalardan nasıl uzaklaştığını anlatan sayfalar, onun dünya görüşünü en açık bir biçimde ortaya koyuyor.&lt;/p&gt;</dc:description>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a20edd8a-2b67-44fe-af50-db5947c022f1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754341409</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">JOVUGwAACAAJ</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2010-07-22T14:16:50.210000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Uşak"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Panait Istrati&quot;: &quot;&quot;, &quot;Yaşar Nabi&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Untitled-1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Untitled-1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Untitled-1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Untitled-1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

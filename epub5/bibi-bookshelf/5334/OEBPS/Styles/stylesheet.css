@@ -1,0 +1,210 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold
+    }
+.calibre2 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    font-family: "Times New Roman", "serif";
+    font-size: 2em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-family: "Times New Roman", "serif";
+    font-size: 2.4em;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.55em;
+    line-height: 1.2
+    }
+.calibre9 {
+    font-style: italic
+    }
+.calibre10 {
+    color: windowtext;
+    display: none;
+    text-decoration: none
+    }
+.calibre11 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.66667em;
+    line-height: 1.2
+    }
+.calibre12 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre13 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre14 {
+    text-decoration: underline
+    }
+.calibre15 {
+    line-height: 1.2
+    }
+.calibre16 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre17 {
+    font-size: 0.83333em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre18 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.6em;
+    line-height: 1.2
+    }
+.calibre19 {
+    height: 784px;
+    line-height: 1.2;
+    width: 535px
+    }
+.calibre20 {
+    display: block
+    }
+.calibre21 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px;
+    margin: 0.5em auto
+    }
+.calibre22 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.msofootnotereference {
+    vertical-align: super
+    }
+.msofootnotetext {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    margin: 0 0 0.0001pt
+    }
+.msohyperlink {
+    color: blue;
+    text-decoration: underline
+    }
+.msonormal {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal1 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal2 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal3 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal4 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal5 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal6 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal7 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal8 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal9 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal10 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msonormal11 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.msotoc {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    margin: 0 0 0.0001pt 12pt
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    text-decoration: underline
+    }

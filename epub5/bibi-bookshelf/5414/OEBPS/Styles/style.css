@@ -1,0 +1,49 @@
+@font-face{font-family:"Back In The USSR DL";font-style:normal;font-weight:normal;}
+@font-face{font-family:"CSAR";font-style:normal;font-weight:normal;}
+@font-face{font-family:"CSAR";font-style:italic;font-weight:normal;}
+@font-face{font-family:"CSAR PARADE DRESS (Display Caps";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Kremlin Minister Black 3D";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:bold;}
+@font-face{font-family:"USSR Army";font-style:normal;font-weight:normal;}
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.8em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Trebuchet MS",sans-serif;font-size:100%}
+.p1{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p2{text-indent:0;margin-left:0;text-align:center;margin-top:2.2em}
+.p3{text-indent:0;margin-left:0;text-align:center}
+.p4{text-indent:0;margin-left:0;text-align:center;margin-top:1em}
+.p5{text-indent:0;margin-left:0;text-align:center;margin-top:1.5em;margin-bottom:1.5em}
+.p6{text-indent:0;margin-left:0;text-align:center;margin-bottom:2.8em}
+.p7{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:1.1em;margin-bottom:0}
+.p8{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:1.1em;margin-bottom:1.1em}
+.p9{text-indent:0;margin-left:0;margin-top:2.2em}
+.p10{text-indent:0;margin-left:0;line-height:100%;margin-top:0;margin-bottom:0}
+.p11{text-indent:1.8em;margin-top:6.5em}
+.p12{text-indent:0;margin-left:0;text-align:center;margin-top:2.7em;margin-bottom:2.7em}
+.p13{text-indent:1.8em;line-height:100%;margin-top:0;margin-bottom:0}
+h1{text-indent:0;margin-left:0;line-height:120%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.23em;margin-bottom:1.8em;font-family:"Kremlin Minister Black 3D";font-size:236%;font-weight:normal}
+.h12{text-indent:0;margin-top:0;margin-bottom:0}
+.t4{font-family:"Kremlin Minister Black 3D";font-size:1.8em;line-height:120%}
+.t5{font-family:"Back In The USSR DL";font-size:2.4em;line-height:120%;letter-spacing:-.063em}
+.t7{font-family:"CSAR PARADE DRESS (Display Caps";font-size:4.5em;line-height:120%;letter-spacing:-.042em}
+.t9{font-family:"Back In The USSR DL";font-size:2.4em;line-height:120%}
+.t10{font-family:"Kremlin Minister Black 3D";font-size:1.8em;line-height:120%}
+.t11{font-size:.71em;line-height:100%;font-weight:bold;text-decoration:underline}
+.t12{font-size:.71em;line-height:100%}
+.t13{font-family:CSAR;font-size:1.3em;line-height:120%;text-decoration:underline}
+.t14{font-family:CSAR;font-size:1.3em;line-height:120%}
+.t15{font-family:CSAR;font-size:1.3em;line-height:100%;text-decoration:underline}
+.t16{font-family:CSAR;font-size:1.3em;line-height:100%}
+.t18{font-family:"Trebuchet MS";font-size:1em;line-height:120%;margin-left:3em}
+.t20{font-family:"Kremlin Minister Black 3D";font-size:2em;line-height:120%}
+.t21{font-weight:bold;font-style:italic}
+.t22{font-size:.65em;line-height:120%;vertical-align:super}
+.t23{font-style:italic}
+.t24{font-weight:bold}
+.t25{font-family:"Back In The USSR DL";font-size:1.8em;line-height:120%}
+.t26{font-family:"Kremlin Minister Black 3D";font-size:2.2em;line-height:120%}
+.t28{font-size:.59em;line-height:100%;vertical-align:super}

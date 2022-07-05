@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yalan-Roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ajar, Emile">Emile Ajar (Romain Gary)</dc:creator>
+    <dc:identifier id="uuid">{1EABDF30-028C-48CB-92DE-8BF68A7A0413}</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;p&gt;Unlu Fransiz yazar Romain Gary, Fransa'daki edebiyat ortamının lakaytlığına dikkat cekmek için "Onca Yoksulluk Varken" romanını Emile Ajar takma adıyla yazmış ve bu adla odul kazanmıştı. "Yalan-Roman" da Romain Gary'nin yine Emile Ajar takma adıyla yazdıgı dünyaca ünlü romanlarındandır.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Agora Kitaplığı</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2015-01-30T22:00:00+00:00</dc:date>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e7f80f90-2828-47a7-9acf-5b4b46ff1cc0</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">6051031154</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755109367</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">VgcVtwAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Yalan-Roman" name="calibre:title_sort"/>
+    <meta content="{&quot;Emile Ajar (Romain Gary)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-cover.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-epig.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/YR.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id2"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Veganizm: Ahlakı, Siyaseti Ve Mücadelesi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zülâl Kalkandelen, Can Başkent">Zülâl Kalkandelen, Can Başkent</dc:creator>
+    <dc:publisher>Propaganda Yayınları</dc:publisher>
+    <dc:rights>Creative Commons</dc:rights>
+    <dc:type>Politics, Sociology, Political Science</dc:type>
+    <dc:date>2013-06-15T10:29:03+00:00</dc:date>
+    <dc:identifier id="bookid">9781927893012 (ePub), 9781927893029 (mobi)</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-08</dc:date>
+    <dc:description>Bu satırları okuyorsanız, öncelikle veganizm üzerine yazılmış ilk Türkçe kitaba ilgi gösterdiğiniz için teşekkür ederiz. Bu teşekkür sıradan bir ifade değildir; veganlar bilir, hayvan haklarından söz etmeye başladığınız anda olumsuz tepkiler almaya başlarsınız, hatta işi hakarete vardıranlar olur. Ancak bunun yanında, dünyada yavaş da olsa giderek daha fazla ilgi görmeye başlayan veganizmi anlamaya çalışanlar, merak edenler de var. Bu kitabın amacı, hem akıllarda yanlış bilgilenme sonucu yer eden görüşlere bir karşılık vermek, hem de veganizmi bir felsefe ve yaşam pratiği olarak merak edenlerin sorularına yanıt oluşturmak.Kitabı yazarken, herhangi bir sınırlama olmadan, en içten düşüncelerimizi ve kişisel yaklaşımlarımızı mütevazı bir şekilde paylaştık. Elbette veganizm konusunda ikimizin aynı görüşte olmadığı hususlar da vardı. Her düşünce ya da felsefe akımında olduğu gibi, veganizmin içinde de farklı yorumlar, yönelimler var. Dolayısıyla okuduklarınızla hemfikir olabileceğiniz gibi, katılmadığınız noktalar da mutlaka olacaktır. Ancak sonuçta önemli olan, ilerdeki sayfalarda tartışmaya sunduğumuz görüşler ve bakış açısı; onu aktarabildiysek, kitap da işlevini yerine getirmiş demektir. Belki fazla romantik ve ütopik gelebilir ama biz, “daha barışçıl, başka bir dünya mümkün” diyenlerdeniz. Umarız okuyanlar da, bizim yazarken aldığımız keyfi alabilir&amp;nbsp;</dc:description>
+    <dc:contributor xmlns:ns3="http://www.idpf.org/2007/opf" ns3:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Agriculture &amp; Food</dc:subject>
+    <dc:subject>Politik</dc:subject>
+    <dc:subject>Social Science</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">46c96063-7255-4fb9-9d37-252b4031bcd5</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9781927893012</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9781927893012</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">V6hBeDRnfaEC</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Veganizm: Ahlakı, Siyaseti Ve Mücadelesi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Zülâl Kalkandelen, Can Başkent&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.html" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Text/section1.html" id="section1" media-type="application/xhtml+xml"/>
+    <item href="Text/section2.html" id="section2" media-type="application/xhtml+xml"/>
+    <item href="Text/section3.html" id="section3" media-type="application/xhtml+xml"/>
+    <item href="Text/section4.html" id="section4" media-type="application/xhtml+xml"/>
+    <item href="Text/section5.html" id="section5" media-type="application/xhtml+xml"/>
+    <item href="Text/section6.html" id="section6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.png" id="cover-image" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="section1"/>
+    <itemref idref="section2"/>
+    <itemref idref="section3"/>
+    <itemref idref="section4"/>
+    <itemref idref="section5"/>
+    <itemref idref="section6"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.html" title="Cover" type="cover"/>
+  </guide>
+</package>

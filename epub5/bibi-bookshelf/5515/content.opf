@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yay ile ok atış sanatında zen</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Herrigel, Eugen">Eugen Herrigel</dc:creator>
+    <dc:date>1978-06-15T11:33:21+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3cf74e92-4e49-4282-8aae-d3e71b9ba046</dc:identifier>
+    <dc:publisher>Taş Matbaası</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Bir Japon, yay ile ok atmayı, sanat olarak dikkate alan ve bir miras olarak ona saygı besleyen geçmişten kalmış anlamda bir spor diye anlamaz, tersine, söyleyeceklerimiz kulağa nedenli tuhaf gelse de, ona bir tapınma, dini bir ayin gözüyle bakar. O böylece, yay ile ok atma sanatı denilince, özellikle bir vucüt antrenmanı, az ya da çok bir spor yeteneği görmemekte, aksine, kökeninin manevi alıştırmalarda aranması gereken ve manevi bir hedefi tutturmadan ibaret bir yetenek anlamaktadır. Şu halde nişancı, esas itibarıyla kendine nişan almakta ve belki de kendi kendine rastlatmayı başarmaktadır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Spor</dc:subject>
+    <dc:subject>Doğu Felsefesi</dc:subject>
+    <dc:language>de</dc:language>
+    <dc:identifier opf:scheme="calibre">b23d8183-5273-46a3-bde4-75572445c7a7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9809758007030</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8GTEzQEACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Yay ile ok atış sanatında zen"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:30:38.364000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Eugen Herrigel&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_000.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_002.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_003.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_004.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_011.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_006.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_007.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_008.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_009.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00004.jpg" id="id6" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id112"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id11"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference href="Yay_ile_Ok_Atis_Sanatinda_Zen_split_011.html#filepos144591" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

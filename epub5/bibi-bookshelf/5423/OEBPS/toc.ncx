@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="0016b0bd-5b75-4484-8a1e-6d12980c47cf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaban</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YAKUP KADRİ KARAOSMANOĞLU</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>HAYATI</text>
+        </navLabel>
+        <content src="Text/main.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ESERLERİ</text>
+        </navLabel>
+        <content src="Text/main.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>YABAN ÜZERİNE</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>ON İKİNCİ BASKI İÇİN</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ON SEKİZİNCİ BASKI İÇİN</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>YABAN'IN İKİNCİ BASILIŞI VESİLESİYLE</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>YABAN</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>TÜRK EDEBİYATINDA YABAN</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_8"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>NİYAZI AKI</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VEDAT GÜNYOL</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>FETHİ NACİ</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>CEVDET KUDRET</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>RAUF MUTLUAY</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>DR. AYTEKİN YAKAR</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>SELİM İLERİ</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ALMAN BASININDA YABAN</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+  </navMap>
+</ncx>

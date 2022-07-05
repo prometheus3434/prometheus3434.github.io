@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Üç kadın</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Musil, Robert">Robert Musil</dc:creator>
+    <dc:publisher>Gece Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Dev yapıtı Niteliksiz Adam'la tanınan Robert Musil, Almanca edebiyatın en büyük yazarlarından biridir.Üç Kadın'da köylü kadını "Grigia"nın, aristokrat "Portekizli Kadın"ın ve tezgahtar kız "Tonka"nın yazgıları usta bir dille anlatılır. İlişkiye girdikleri erkekler için hem yabancı hem de aşinadır onlar.Musil ruhun labirentlerinde dolaşarak bu gerilimi o eşsiz diliyle anlatır. Çözülemeyen "öteki" (kadınlar) Musil'in peşinde olduğu içsel gerçekliğin bir anahtarıdır sadece.&lt;/p&gt;</dc:description>
+    <dc:date>1991-06-15T11:08:33+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d3517195-8d7f-4c23-bc85-a038616be368</dc:identifier>
+    <dc:date opf:event="modification">2015-06-14</dc:date>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Modern</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">16519afd-6384-4a32-a624-bb8f8dc5a2ff</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">aNIJkAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055819132</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753820097</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">8929418</dc:identifier>
+    <meta content="Üç kadın" name="calibre:title_sort"/>
+    <meta content="2015-06-11T11:42:48.233000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Robert Musil&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/U.htm" id="U.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="U.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

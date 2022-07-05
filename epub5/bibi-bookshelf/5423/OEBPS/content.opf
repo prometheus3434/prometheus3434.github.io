@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yaban</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Karaosmanoğlu, Yakup Kadri &amp; Özkirimli, Atilla">Yakup Kadri Karaosmanoğlu</dc:creator>
+    <dc:creator opf:role="aut">Atilla Özkirimli</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0016b0bd-5b75-4484-8a1e-6d12980c47cf</dc:identifier>
+    <dc:publisher>İletişim Yayinlari</dc:publisher>
+    <dc:description>&lt;p&gt;Kendi dönemi içindeki gerçekçilik anlayışına uygun olarak yazılmış olan Yaban'da Yakup Kadri, I. Dünya Savaşı'nın bitimiyle birlikte Sakarya Savaşı'nın sonuna kadar olan sürede bir Anadolu köyünde, köylüleri, köyün durumunu, Milli Mücadeleye ilişkin tavırlarını bir aydının gözüyle verir. Yaban için "bu eser benliğimin çok derinliklerinden adeta kendi kendine sökülüp, koparak gelmiş bir şeydir" diyen yazar, bu romanda ortaya koyduğu birçok soruna daha sonra yazacağı Ankara'da cevap bulmaya çalışacaktır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1985-06-15T10:28:49+00:00</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Cumhuriyet Dönemi</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">53ec7d8b-4105-4e03-819d-f45f9a16d180</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754700060</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">bUrdOwAACAAJ</dc:identifier>
+    <meta content="Yaban" name="calibre:title_sort"/>
+    <meta content="2014-08-04T12:08:27.056000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yakup Kadri Karaosmanoğlu&quot;: &quot;&quot;, &quot;Atilla Özkirimli&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

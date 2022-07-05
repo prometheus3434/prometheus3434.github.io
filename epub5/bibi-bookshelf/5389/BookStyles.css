@@ -1,0 +1,256 @@
+/* FONTS USED */
+
+@font-face {
+  	font-family:Galliard;
+  	font-style:normal;
+  	font-weight:normal;
+  	src:url(Fonts/ITCGalliard-Regular.otf); 
+}
+
+@font-face {
+  	font-family:Galliard;
+  	font-style:italic;
+  	font-weight:normal;
+  	src:url(Fonts/ITCGalliard-Italic.otf); 
+}
+
+@font-face {
+  	font-family:Galliard;
+  	font-style:normal;
+  	font-weight:bold;
+  	src:url(Fonts/ITCGalliard-Bold.otf); 
+}
+
+@font-face {
+  	font-family:Galliard;
+  	font-style:italic;
+  	font-weight:bold;
+  	src:url(Fonts/ITCGalliard-BoldItalic.otf); 
+}
+
+/* GENERAL DEFINITIONS */
+
+body {
+	display:block;
+	margin:10px 30px;
+	text-align:justify;
+	orphans:1;
+	widows:1;
+}
+
+h2 {
+	display:block;
+	color:#000000;
+	font-family:Galliard,serif;
+	font-style:normal;
+	font-weight:bold;
+	font-size:22px;
+	line-height:40px;
+	margin:50px 10px 150px 10px;
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+}
+
+hr {
+	margin:0px 10px 20px 10px;
+}
+
+table{
+	margin:40% 10px 10px 10px;
+}
+
+td {
+	text-align:center;
+	padding:3px;
+}
+
+i{
+	letter-spacing:0.5px;
+}
+
+/* PARAGRAPH DEFINITIONS */
+
+p {
+	display:block;
+	font-family:Galliard,serif;
+	display:block;
+	color:#000000;
+	margin:2px 10px 2px 10px;
+	text-indent:20px;
+	text-align:justify;
+	line-height:20px;
+	font-style:normal;
+	font-weight:normal;
+	font-size:14px;
+}
+
+.tPge {
+	font-size:12px;
+	text-indent:0px;
+	line-height:auto;
+	text-align:left;
+	margin-bottom:10px
+}
+
+.iCov1 {
+	font-size:25px;
+	line-height:22px;
+	text-align:center;
+	text-indent:0px;
+	margin:30% 0px 30px 0px;
+}
+
+.iCov2 {
+	font-size:40px;
+	font-weight:bold;
+	line-height:50px;
+	text-align:center;
+	text-indent:0px;
+	letter-spacing:2px;
+	margin:5px 0px 180px 0px;
+}
+
+.centr {
+  	font-family:Galliard;
+	font-weight:bold;
+	font-size:16px;
+	text-align:left;
+	text-indent:0px;
+	margin-top:50px;
+}
+
+.cntr {
+	text-align:center;
+	text-indent:0px;
+	margin:10px auto;
+}
+
+.sptx {
+	font-weight:normal;
+	font-size:12px;
+}
+
+.auth{
+	text-indent:0px;
+	margin-top:10px;
+	font-size:12px;
+	line-height:18px;
+}
+
+.nTxt {
+	text-align:left;
+	width:95%;
+	text-indent:0px;	
+}
+
+.nTR {
+	margin-top:20px;
+	margin-left:50px;
+	font-size:12px;
+}
+
+.fitpict img {
+	display: block;
+	max-width: 95%;
+	height: auto;
+     margin: 10px auto;
+}
+
+.iPrg {
+	text-indent:0px;
+	margin:20px auto 20px 30px;
+	font-style:italic;
+	letter-spacing:0.5px;
+}
+
+.ioP {
+	text-indent:0px;
+	margin:20px 30px 20px 30px;
+	font-style:italic;
+	text-align:center;
+	letter-spacing:0.5px;
+}
+
+.exP {
+	margin-top:30px;
+}
+
+.exPb {
+	margin-bottom:30px;
+}
+
+.sTar {
+	text-align:center;
+	text-indent:0px;
+	font-size:16px;
+	margin:20px auto;
+}
+
+.emT1 {
+	font-style:italic;
+	margin:20px 20px 0px 30px;
+	text-indent:0px;
+	letter-spacing:0.5px;
+}
+
+.emT2 {
+	font-style:italic;
+	margin:0px 20px 0px 30px;
+	text-indent:20px;
+	letter-spacing:0.5px;
+}
+
+.ropT1 {
+	font-size:12px;
+	font-weight:bold;
+	line-height:18px;
+	text-indent:0px;
+	margin:0px 30px 0px 50px;
+}
+
+.ropT2 {
+	font-size:12px;
+	font-weight:bold;
+	line-height:18px;
+	text-indent:20px;
+	margin:0px 30px 0px 50px;
+}
+
+.ropT3 {
+	font-size:12px;
+	font-weight:bold;
+	line-height:18px;
+	text-indent:0px;
+	margin:10px 30px 10px 50px;
+}
+
+.rTxt {
+	text-align:right;
+	margin:20px;
+	font-style:italic;
+	letter-spacing:0.5px;
+}
+
+/* FOOTNOTE */
+
+.FBlock {
+  	font-family:Galliard , serif;
+  	font-size:12px;
+  	margin:0px 10px 0px 10px;
+  	text-align:justify;
+  	text-indent:0px;
+}
+
+.FNum {
+  	width:1.5em;
+  	float:left;
+}
+
+.FArt {
+	padding-left: 2em;
+	margin-bottom: 20px;
+}

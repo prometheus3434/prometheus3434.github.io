@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Vathek (A Gothic Novel: The Original Translation by Reverend Samuel Henley)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Beckford, William">William Beckford</dc:creator>
+    <dc:identifier id="uuid">{52005F7D-BA9D-41B6-99B0-AEE2EF523697}</dc:identifier>
+    <dc:date>2013-08-20T10:52:52+00:00</dc:date>
+    <dc:publisher>e-artnow</dc:publisher>
+    <dc:description>This carefully crafted ebook: &amp;quot;Vathek (A Gothic Novel: the Original Translation by Reverend Samuel Henley)&amp;quot; is formatted for your eReader with a functional and detailed table of contents.   This Beckford&amp;#39;s novel, translated by Samuel Henley, was originally written in French when the author was 21. It was composed in French beginning in 1782, and then translated into English by Reverend Samuel Henley in which form it was first published in 1786. It is the story of Caliph Vathek, whose eye can kill at a glance, who makes a pact with the Devil, Eblis. The Caliph Vathek is dissolute and debauched, and hungry for knowledge. When the mysterious Giaour offers him boundless treasure and unrivalled power he is willing to sacrifice his god, the lives of innocent children, and his own soul to satisfy his obsession. Vathek&amp;#39;s extraordinary journey to the subterranean palace of Eblis, and the terrifying fate that there awaits him, is a captivating tale of magic and oriental fantasy, sudden violence and corrupted love, whose mix of moral fable, grotesque comedy, and evocative beauty defies classification.       Thomas Beckford ( 1760 – 1844), usually known as William Beckford, was an English novelist, a profligate and consummately knowledgeable art collector and patron of works of decorative art, a critic, travel writer and sometime politician, reputed at one stage in his life to be the richest commoner in England.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2016-04-16</dc:date>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Gothic</dc:subject>
+    <dc:subject>Literary Criticism</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Gotik</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">5be56535-ab44-49e9-b280-ba635f8fbb1f</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">NB9CBAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9788074842955</dc:identifier>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="cover" content="x00.jpg"/>
+    <meta content="Vathek (A Gothic Novel: The Original Translation by Reverend Samuel Henley)" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;William Beckford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-003.xhtml" id="I-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-004.xhtml" id="I-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-001.xhtml" id="P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Images/00.jpg" id="x00.jpg" media-type="image/jpeg"/>
+    <item href="Images/iletisim-291x300.jpg" id="iletisim-291x300.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="I-003.xhtml"/>
+    <itemref idref="I-004.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

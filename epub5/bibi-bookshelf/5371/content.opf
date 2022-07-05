@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Vahşetin Çağrısı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+    <dc:publisher>Yordam Kitap</dc:publisher>
+    <dc:date>2019-03-15T12:20:22+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">77cd0ae1-5a07-49a0-a4a3-51c29f168097</dc:identifier>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:description>Vahşetin Çağrısı, yazarı Jack London’ı çok genç yaşta edebiyat dünyasının zirvesine taşıyan bir serüven romanı; bir köpeğin ana karakter olarak işlendiği küçük bir başyapıt. Konforlu hayatından koparılıp, altın arayıcıları tarafından kızak köpeği olarak köleleştirilen Buck’ın hikâyesi, bugüne dek her kuşaktan okurun sevgisini ve hayranlığını kazandı.Jack London’ın bakış açısı, evcil bir köpeği insanileştirmeden, onu yabanıl kalan doğasıyla da resmettiği için özgün. Okurlarını serüvene dahil etme yeteneği ise benzersiz. Görkemli fiziği ve zekâsıyla insafsız koşullara direnen Buck’ın hayatta kalma mücadelesi, Mete Ergin’in akıcı çevirisiyle soluk soluğa okunuyor.</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4cbfe2b2-9858-4c14-bd10-f36df0482ef1</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">UaHiDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051723235</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-11-03T23:08:41.497183+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Vahşetin Çağrısı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ugultulu Tepeler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bronte, Emily">Emily Bronte</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:025b01e5-aa0f-43dd-a944-775b1ae7b44e</dc:identifier>
+    <dc:date>2019-03-15T12:44:36+00:00</dc:date>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bc56765c-ee34-4deb-900c-557e650f0ca3</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750738913</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ApGVvwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:025b01e5-aa0f-43dd-a944-775b1ae7b44e</dc:identifier>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Ugultulu Tepeler"/>
+    <meta name="calibre:author_link_map" content="{&quot;Emily Bronte&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.html" id="yazar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/05.html" id="x05.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/oda.png" id="oda.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

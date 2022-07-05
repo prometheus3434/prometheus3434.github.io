@@ -1,0 +1,242 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Articulat CF Heavy";
+    font-size: 120%;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 287.5%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Heavy";
+    font-size: 109.0909%;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-size: 62.5%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-style: italic;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-size: 268.75%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Bold";
+    font-size: 75%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Bold";
+    font-size: 193.75%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Bold";
+    font-size: 268.75%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Bold";
+    font-size: 225%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-size: 225%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 281.25%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Bold";
+    font-size: 231.25%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-size: 231.25%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Bold";
+    font-size: 256.25%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-size: 256.25%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 246.875%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 253.125%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 218.75%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Heavy";
+    font-size: 75%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Extra Light";
+    font-size: 87.5%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Extra Light";
+    font-size: 62.5%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 112.5%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 250%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 228.125%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 243.75%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Demi Bold";
+    font-size: 62.5%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 343.75%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Thin";
+    font-size: 334.375%;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }
+@font-face {
+    font-family: "Articulat CF Heavy";
+    font-size: 68.75%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX) format(opentype)
+    }

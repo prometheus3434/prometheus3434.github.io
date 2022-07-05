@@ -1,0 +1,77 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Üç Anadolu Efsanesi: Köroğlunun Meydana Çıkışı, Karacaoğlan, Alageyik</dc:title>
+    <dc:creator id="id-1">Yaşar Kemal</dc:creator>
+    <dc:identifier>isbn:9789750828201</dc:identifier>
+    <dc:identifier>google:so9vAwAAQBAJ</dc:identifier>
+    <dc:identifier>calibre:14</dc:identifier>
+    <dc:identifier>uuid:3ef6e791-7e8f-4d03-81a3-b35416752153</dc:identifier>
+    <dc:identifier id="pub-id">urn:isbn:9789750828201</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-04-30T12:24:08+00:00</dc:date>
+    <dc:description>Halk söylencelerine, efsanelere duyduğu hayranlıkla Köroğlu, Karacaoğlan ve Alageyik efsanelerini kendine has tarzıyla kaleme alan Yaşar Kemal, anlatım gücünü besleyen bereketli topraklara olan vefa borcunu da Üç Anadolu Efsanesi ile öder.“Kilometrelerce yürüyüp, dağ bayır koşup ne kurtarırsa kârdır kuralınca, önce ağıtları, sonra da türküleri, koşmaları, destanları, Çukurova'nın tüm uyaklı uyaksız söz çeşitlerini, tekerlemelerini, küfürlerini avlıyordu. Folklor derlemesi filan değildi, bu iş hayat memat işiydi, özbeöz malını kurtarıyordu Çukurova'nın, sorumluydu kurda kuşa karşı, şaka değil.”Abidin Dino, Milliyet Sanat
+
+
+
+
+
+
+
+
+
+
+“Yaşar Kemal, Anadolu âşık-hikâyecilerinin geleneğine göbek bağıyla bağlanmış bir yazar. Onu ta çocukluğundan başlayarak Anadolu sözlü geleneğinin destansı türleri büyülemiş.”
+Pertev Naili Boratav, Folklor ve Edebiyat I</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Literary</dc:subject>
+    <meta refines="#title" property="title-type">main</meta>
+    <meta refines="#title" property="file-as">Üç Anadolu Efsanesi: Köroğlunun Meydana Çıkışı, Karacaoğlan, Alageyik</meta>
+    <meta name="cover" content="cover"/>
+    <meta refines="#id" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Kemal, Yaşar</meta>
+    <meta property="calibre:author_link_map">{"Yaşar Kemal": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="title-image.xhtml" id="title-imagexhtml" media-type="application/xhtml+xml"/>
+    <item href="part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/title.jpg" id="image__titlejpg" media-type="image/jpeg"/>
+    <item href="image/ykylogo.png" id="image__ykylogopng" media-type="image/png"/>
+    <item href="font/Palatino-Bold.ttf" id="font__Palatino-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/Palatino-ItalicOsF.ttf" id="font__Palatino-ItalicOsFttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/Palatino-Turk.ttf" id="font__Palatino-Turkttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="title-imagexhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="biographyxhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

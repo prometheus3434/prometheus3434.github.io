@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yanlış Bir Adım</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="James Patterson, Michael Ledwidge">James Patterson, Michael Ledwidge</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f17b84f5-757b-48be-bc6d-7d8b10ea8f50</dc:identifier>
+    <dc:publisher>Goa</dc:publisher>
+    <dc:date>2010-01-23T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Önce alex cross geldi
+Sonra the women's murder club
+Şimdi de nypd dedektifi michael bennett'le ve 
+Onun on çocuğuyla tanışın!
+
+Dedektif Michael Bennett meslek hayatının en kötü mücadelesine girmek üzeredir. Tüm ülke çok sevilen eski first lady'nin beklenmedik ölümünün ardından yas tutmaktadır ve dünya üzerindeki en güçlü insanlar onun cenazesi için New York'ta toplanırlar. Derken akıl almaz bir şey olur. Milyonerler, politikacılar ve her çeşit yıldız birden bire, bir adamın dâhiyane ve acımasız senaryosu içerisinde hapsolurlar. 
+
+Bennett de -on çocuk babası- bu savaşın içine çekilir. Bir yandan tehlike büyürken, Michael yıkıcı bir haberle sarsılır: Karısı, yıllarca mücadele ettikten sonra korkunç bir hastalığa yenik düşmüştür. New York kaosa sürüklenirken, o hayatının en büyük aşkını kaybetmiştir ve kederli çocuklarını tek başına yetiştirmeye -ve otuz dört rehineyi kurtarmaya- çalışmaktadır. 
+Bennett günlerce karşısına çıkan en merhametsiz adamla uğraşır. Bu adam gözünü kırpmadan öldürmekte, NYPD ve FBI'ın her türlü çabasını boşa çıkarmaktadır. Tüm dünya olanları izler ve tansiyon dayanılmaz seviyelere varırken, Bennett bir çözüm yolu bulmak ya da tarihin en büyük yenilgisinin sorumluluğunu üstlenmek zorundadır. 
+
+Okuyucuları Alex Cross ve Kadınların Cinayet Kulübü ile tanıştıran çok satan kitapların bir numaralı yazarından.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Gizem</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Yetişkin</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1d1cd9d4-1cc4-4cb8-bf7a-feb2f4cb8588</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054353354</dc:identifier>
+    <meta content="Yanlış Bir Adım" name="calibre:title_sort"/>
+    <meta content="2014-03-17T11:57:02.038000+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;James Patterson, Michael Ledwidge&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_000.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_001.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_002.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_003.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_004.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_005.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_006.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_007.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Yanlis_Bir_Adim_split_008.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

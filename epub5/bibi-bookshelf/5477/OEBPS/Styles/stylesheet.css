@@ -1,0 +1,1735 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block1 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 0.625em;
+    line-height: 13.5pt;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block3 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: #595959;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block11 {
+    color: black;
+    display: block;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block12 {
+    color: black;
+    display: block;
+    font-size: 0.625em;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    font-weight: bold;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    display: block;
+    text-align: justify;
+    text-indent: 50.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.25pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block18 {
+    background-color: #FFF;
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block19 {
+    background-color: #FFF;
+    display: block;
+    text-align: right;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block22 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    display: block;
+    letter-spacing: 0.15pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.15pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block26 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    background-color: #FFF;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block28 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block29 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    letter-spacing: -0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block30 {
+    display: block;
+    font-size: 1em;
+    letter-spacing: -0.15pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block31 {
+    display: block;
+    letter-spacing: 0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block32 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.15pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block33 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block34 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block35 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block36 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.2pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block37 {
+    display: block;
+    font-weight: bold;
+    letter-spacing: -0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block38 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    letter-spacing: -0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block39 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.15pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block40 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: -0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block41 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 50.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block42 {
+    display: block;
+    font-size: 1em;
+    letter-spacing: -0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block43 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block44 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 50.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block45 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: -0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block46 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.35pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block47 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block48 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block49 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.3pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block50 {
+    background-color: #FFF;
+    display: table-row;
+    margin-bottom: 0;
+    text-align: justify
+    }
+.block51 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.4pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block52 {
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block53 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.35pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block54 {
+    display: block;
+    letter-spacing: 0.05pt;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block55 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    letter-spacing: 0.15pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block56 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    letter-spacing: 0.2pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block57 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    letter-spacing: 0.05pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block58 {
+    background-color: #FFF;
+    display: block;
+    text-align: justify;
+    text-indent: 50.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block59 {
+    display: block;
+    letter-spacing: 0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block60 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block61 {
+    display: block;
+    letter-spacing: 0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block62 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    letter-spacing: -0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block63 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.3pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block64 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: -0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block65 {
+    display: block;
+    letter-spacing: 0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block66 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    letter-spacing: -0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block67 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.35pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block68 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.1pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block69 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.1pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block70 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block71 {
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block72 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.25pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block73 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block74 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    letter-spacing: 0.25pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block75 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block76 {
+    display: block;
+    letter-spacing: 0.3pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block77 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block78 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.3pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block79 {
+    display: block;
+    font-weight: bold;
+    letter-spacing: -0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block80 {
+    display: block;
+    font-weight: bold;
+    letter-spacing: -0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block81 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    letter-spacing: -0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block82 {
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.15pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block83 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: 0.1pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block84 {
+    background-color: #FFF;
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block85 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.45pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block86 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.1pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block87 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.15pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block88 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: -0.35pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block89 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    letter-spacing: 0.3pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block90 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1em;
+    letter-spacing: -0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block91 {
+    background-color: #FFF;
+    display: table-row;
+    font-size: 1em;
+    margin-bottom: 0;
+    text-align: justify
+    }
+.block92 {
+    background-color: #FFF;
+    display: table-row;
+    font-size: 0.83333em;
+    margin-bottom: 0;
+    text-align: justify
+    }
+.block93 {
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block94 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block95 {
+    background-color: #FFF;
+    display: block;
+    font-style: italic;
+    letter-spacing: -0.35pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block96 {
+    display: block;
+    font-style: italic;
+    letter-spacing: 0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block97 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block98 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 0.25pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block99 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    letter-spacing: 0.45pt;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block100 {
+    background-color: #FFF;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 0.2pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block101 {
+    display: block;
+    font-style: italic;
+    letter-spacing: -0.3pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block102 {
+    background-color: #FFF;
+    display: block;
+    letter-spacing: 0.15pt;
+    text-align: justify;
+    text-indent: 50.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block103 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block104 {
+    display: block;
+    letter-spacing: -0.05pt;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.bullet {
+    display: table-cell;
+    font-weight: bold
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    float: left;
+    height: 795pt;
+    line-height: 1.2;
+    width: 519pt
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre4 {
+    height: 24.9pt;
+    width: 80.3pt
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: table;
+    padding-left: 0
+    }
+.calibre8 {
+    display: table-cell
+    }
+.calibre9 {
+    display: block
+    }
+.calibre11 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre12 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.table {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-left: 2pt;
+    margin-top: 0;
+    text-indent: 0
+    }
+.td {
+    background-color: #FFF;
+    border-bottom-style: none;
+    border-left-style: hidden;
+    border-right-style: none;
+    border-top-style: hidden;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 79.2pt;
+    padding: 0.5ex 2pt
+    }
+.td1 {
+    background-color: #FFF;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 84.5pt;
+    padding: 0.5ex 2pt
+    }
+.td2 {
+    background-color: #FFF;
+    border-bottom-style: none;
+    border-left-style: hidden;
+    border-right-style: none;
+    border-top-style: none;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 79.2pt;
+    padding: 0.5ex 2pt
+    }
+.td3 {
+    background-color: #FFF;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: hidden;
+    border-top-style: none;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 84.5pt;
+    padding: 0.5ex 2pt
+    }
+.td4 {
+    background-color: #FFF;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-right-style: none;
+    border-top-style: none;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 79.2pt;
+    padding: 0.5ex 2pt
+    }
+.td5 {
+    background-color: #FFF;
+    border-bottom-style: hidden;
+    border-left-style: none;
+    border-right-style: hidden;
+    border-top-style: none;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 84.5pt;
+    padding: 0.5ex 2pt
+    }
+.text {
+    font-family: "Calibri", sans-serif;
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.text1 {
+    font-family: "Book Antiqua", serif;
+    font-size: 2.4em;
+    line-height: 1.2
+    }
+.text2 {
+    color: #000;
+    font-size: 2.4em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text3 {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold
+    }
+.text4 {
+    color: #4F81BD;
+    font-size: 1.55em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text5 {
+    color: black;
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text6 {
+    letter-spacing: 0.2pt
+    }
+.text7 {
+    letter-spacing: 0.05pt
+    }
+.text8 {
+    letter-spacing: 0.1pt
+    }
+.text9 {
+    letter-spacing: 0.3pt
+    }
+.text10 {
+    letter-spacing: 0.4pt
+    }
+.text11 {
+    letter-spacing: 0.45pt
+    }
+.text12 {
+    letter-spacing: 0.25pt
+    }
+.text13 {
+    letter-spacing: -0.1pt
+    }
+.text14 {
+    letter-spacing: 0.35pt
+    }
+.text15 {
+    letter-spacing: 0.15pt
+    }
+.text16 {
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: -0.3pt
+    }
+.text17 {
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 0.05pt
+    }
+.text18 {
+    font-style: italic;
+    letter-spacing: 0.2pt
+    }
+.text19 {
+    letter-spacing: 1.2pt
+    }
+.text20 {
+    letter-spacing: 1.35pt
+    }
+.text21 {
+    font-style: italic;
+    letter-spacing: 0.35pt
+    }
+.text22 {
+    font-style: italic;
+    letter-spacing: 0.25pt
+    }
+.text23 {
+    font-weight: bold;
+    letter-spacing: -0.15pt;
+    line-height: 1.2
+    }
+.text24 {
+    font-weight: bold;
+    letter-spacing: 0.25pt;
+    line-height: 1.2
+    }
+.text25 {
+    letter-spacing: 1.05pt
+    }
+.text26 {
+    letter-spacing: -0.05pt
+    }
+.text27 {
+    font-style: italic;
+    letter-spacing: 0.3pt
+    }
+.text28 {
+    font-size: 0.83333em;
+    letter-spacing: 0.1pt;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.text29 {
+    font-size: 1.2em;
+    letter-spacing: 0.15pt
+    }
+.text30 {
+    font-size: 1.2em;
+    letter-spacing: 0.6pt
+    }
+.text31 {
+    font-size: 1.2em
+    }
+.text32 {
+    font-size: 1.2em;
+    letter-spacing: -0.15pt
+    }
+.text33 {
+    font-size: 1.2em;
+    letter-spacing: -0.05pt
+    }
+.text34 {
+    font-size: 1.2em;
+    letter-spacing: -0.35pt
+    }
+.text35 {
+    letter-spacing: -0.25pt
+    }
+.text36 {
+    letter-spacing: -0.15pt
+    }
+.text37 {
+    font-style: italic;
+    letter-spacing: -0.2pt
+    }
+.text38 {
+    letter-spacing: -0.2pt
+    }
+.text39 {
+    font-style: italic;
+    letter-spacing: -0.15pt
+    }
+.text40 {
+    letter-spacing: -0.35pt
+    }
+.text41 {
+    letter-spacing: -0.3pt
+    }
+.text42 {
+    font-weight: bold;
+    letter-spacing: -0.3pt;
+    line-height: 1.2
+    }
+.text43 {
+    font-weight: bold;
+    letter-spacing: -0.25pt;
+    line-height: 1.2
+    }
+.text44 {
+    font-style: italic;
+    letter-spacing: 0.15pt
+    }
+.text45 {
+    font-style: italic;
+    letter-spacing: 0.05pt
+    }
+.text46 {
+    font-style: italic;
+    letter-spacing: 0.5pt
+    }
+.text47 {
+    font-style: italic;
+    letter-spacing: -0.05pt
+    }
+.text48 {
+    letter-spacing: 1pt
+    }
+.text49 {
+    letter-spacing: 1.3pt
+    }
+.text50 {
+    font-style: italic;
+    letter-spacing: 0.1pt
+    }
+.text51 {
+    font-style: italic;
+    letter-spacing: 0.6pt
+    }
+.text52 {
+    font-weight: bold;
+    letter-spacing: -0.9pt
+    }
+.text53 {
+    font-weight: bold;
+    letter-spacing: -0.05pt
+    }
+.text54 {
+    font-weight: bold;
+    letter-spacing: -0.55pt
+    }
+.text55 {
+    font-weight: bold;
+    letter-spacing: -0.85pt
+    }
+.text56 {
+    font-weight: bold;
+    letter-spacing: -0.65pt
+    }
+.text57 {
+    letter-spacing: 0.85pt
+    }
+.text58 {
+    letter-spacing: -0.4pt
+    }
+.text59 {
+    font-style: italic;
+    letter-spacing: -0.25pt
+    }
+.text60 {
+    font-style: italic;
+    letter-spacing: 0.4pt
+    }
+.text61 {
+    font-style: italic;
+    letter-spacing: -0.1pt
+    }
+.text62 {
+    font-size: 1em
+    }
+.text64 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.4pt
+    }
+.text65 {
+    font-style: italic;
+    letter-spacing: -0.3pt
+    }
+.text66 {
+    font-style: italic;
+    letter-spacing: 0.55pt
+    }
+.text67 {
+    font-style: italic;
+    letter-spacing: 0.45pt
+    }
+.text68 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.35pt
+    }
+.text69 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.1pt
+    }
+.text70 {
+    letter-spacing: 0.55pt
+    }
+.text71 {
+    letter-spacing: -0.65pt
+    }
+.text72 {
+    letter-spacing: 0.5pt
+    }
+.text73 {
+    letter-spacing: -0.75pt
+    }
+.text74 {
+    color: #000;
+    font-size: 1.2em;
+    letter-spacing: 0.15pt
+    }
+.text75 {
+    color: #000;
+    font-size: 1.2em;
+    letter-spacing: 0.2pt
+    }
+.text76 {
+    color: #000;
+    font-size: 1.2em;
+    letter-spacing: 0.25pt
+    }
+.text77 {
+    letter-spacing: -0.45pt
+    }
+.text78 {
+    font-weight: bold;
+    letter-spacing: -0.1pt;
+    line-height: 1.2
+    }
+.text79 {
+    font-weight: bold;
+    letter-spacing: -0.35pt;
+    line-height: 1.2
+    }
+.text80 {
+    font-style: italic;
+    letter-spacing: 0.25pt;
+    line-height: 1.2
+    }
+.text81 {
+    font-style: italic;
+    letter-spacing: 0.1pt;
+    line-height: 1.2
+    }
+.text82 {
+    font-style: italic;
+    letter-spacing: 0.2pt;
+    line-height: 1.2
+    }
+.text83 {
+    font-style: italic;
+    letter-spacing: 0.05pt;
+    line-height: 1.2
+    }
+.text84 {
+    letter-spacing: 0.9pt
+    }
+.text85 {
+    letter-spacing: 0.75pt
+    }
+.text86 {
+    letter-spacing: 1.1pt
+    }
+.text87 {
+    letter-spacing: 1.5pt
+    }
+.text88 {
+    font-style: italic;
+    letter-spacing: -0.35pt
+    }
+.text89 {
+    font-size: 1.2em;
+    letter-spacing: -0.3pt
+    }
+.text90 {
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: -0.15pt
+    }
+.text91 {
+    font-size: 1.2em;
+    letter-spacing: -0.25pt
+    }
+.text92 {
+    font-size: 1.2em;
+    letter-spacing: 0.2pt
+    }
+.text93 {
+    font-style: italic;
+    letter-spacing: -0.55pt
+    }
+.text94 {
+    letter-spacing: 0.6pt
+    }
+.text95 {
+    letter-spacing: 1.6pt
+    }
+.text96 {
+    color: #000;
+    font-size: 1.2em;
+    letter-spacing: 0.3pt
+    }
+.text97 {
+    color: #000;
+    font-size: 1.2em;
+    letter-spacing: 0.1pt
+    }
+.text98 {
+    letter-spacing: 0.7pt
+    }
+.text99 {
+    font-size: 0.77419em;
+    font-style: italic;
+    letter-spacing: 0.15pt;
+    line-height: normal;
+    vertical-align: sub
+    }
+.text100 {
+    font-style: italic;
+    letter-spacing: 0.15pt;
+    line-height: 1.2
+    }
+.text101 {
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: -0.05pt
+    }
+.text102 {
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: -0.25pt
+    }
+.text103 {
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: -0.2pt
+    }
+.text104 {
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: -0.1pt
+    }
+.text105 {
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.3pt
+    }
+.text106 {
+    letter-spacing: 1.55pt
+    }
+.text107 {
+    font-size: 1.2em;
+    letter-spacing: 0.1pt
+    }
+.text108 {
+    font-size: 1.2em;
+    letter-spacing: 0.25pt
+    }
+.text109 {
+    font-size: 1.2em;
+    letter-spacing: 0.3pt
+    }
+.text110 {
+    font-size: 0.9em;
+    letter-spacing: -0.45pt
+    }
+.text111 {
+    letter-spacing: -0.5pt
+    }
+.text112 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.15pt
+    }
+.text113 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic
+    }
+.text114 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.2pt
+    }
+.text115 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.65pt
+    }
+.text116 {
+    font-size: 1.2em;
+    letter-spacing: 0.05pt
+    }
+.text117 {
+    font-size: 1.2em;
+    font-style: italic
+    }
+.text118 {
+    font-weight: bold;
+    letter-spacing: -0.15pt
+    }
+.text119 {
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: -0.25pt
+    }
+.text120 {
+    font-size: 1.2em;
+    letter-spacing: 0.35pt
+    }
+.text121 {
+    font-weight: bold;
+    letter-spacing: 0.5pt
+    }
+.text122 {
+    font-weight: bold;
+    letter-spacing: 0.3pt
+    }
+.text123 {
+    font-weight: bold;
+    letter-spacing: 0.35pt
+    }
+.text124 {
+    letter-spacing: 0.65pt
+    }
+.text125 {
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 0.15pt
+    }
+.text126 {
+    font-size: 1.2em;
+    letter-spacing: 0.45pt
+    }
+.text128 {
+    font-weight: bold;
+    letter-spacing: 0.2pt
+    }
+.text129 {
+    font-weight: bold;
+    letter-spacing: 0.1pt
+    }
+.text130 {
+    font-style: italic;
+    letter-spacing: 0.7pt
+    }
+.text131 {
+    letter-spacing: 0.95pt
+    }
+.text132 {
+    font-style: italic;
+    letter-spacing: -0.45pt
+    }
+.text133 {
+    font-weight: bold;
+    letter-spacing: 0.05pt
+    }
+.text134 {
+    font-weight: bold;
+    letter-spacing: 0.25pt
+    }
+.text135 {
+    font-weight: bold;
+    letter-spacing: 0.15pt
+    }
+.text136 {
+    font-style: italic;
+    letter-spacing: 0.3pt;
+    line-height: 1.2
+    }
+.text137 {
+    font-style: italic;
+    letter-spacing: 0.45pt;
+    line-height: 1.2
+    }
+.tr {
+    display: table-row;
+    height: 10.1pt;
+    vertical-align: inherit
+    }
+.tr1 {
+    display: table-row;
+    height: 14.4pt;
+    vertical-align: inherit
+    }
+.tr2 {
+    display: table-row;
+    height: 10.6pt;
+    vertical-align: inherit
+    }
+.tr3 {
+    display: table-row;
+    height: 12.5pt;
+    vertical-align: inherit
+    }
+.tr4 {
+    display: table-row;
+    height: 13.4pt;
+    vertical-align: inherit
+    }

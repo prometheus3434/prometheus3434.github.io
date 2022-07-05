@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="010bd5cf-0dbe-47ab-a2ea-0e1cba9303ed" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yedinci Gün</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="text1" playOrder="1">
+      <navLabel>
+        <text>BABA</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="text2" playOrder="2">
+      <navLabel>
+        <text>OĞUL</text>
+      </navLabel>
+      <content src="Text/chapter9.xhtml"/>
+    </navPoint>
+    <navPoint id="text3" playOrder="3">
+      <navLabel>
+        <text>HAYÂLET</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

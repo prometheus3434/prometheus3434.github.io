@@ -1,0 +1,187 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Yaşam ve Ölüm Yorgunu</dc:title>
+    <dc:creator id="id-2">Mo Yan</dc:creator>
+    <dc:identifier>google:RV8yCgAAQBAJ</dc:identifier>
+    <dc:identifier>isbn:9789750725814</dc:identifier>
+    <dc:identifier>calibre:809</dc:identifier>
+    <dc:identifier>uuid:2d673fb7-246e-43f6-805f-1857a816d520</dc:identifier>
+    <dc:identifier id="pub-id">urn:isbn:9789750725814</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2015-05-17T00:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Yaşam ve Ölüm Yorgunu</opf:meta>
+    <meta property="dcterms:modified">2015-05-17T12:00:00Z</meta>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Yan, Mo</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Mo Yan": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="characters.xhtml" id="charactersxhtml" media-type="application/xhtml+xml"/>
+    <item href="epigraph.xhtml" id="epigraphxhtml" media-type="application/xhtml+xml"/>
+    <item href="part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-1.xhtml" id="chapter1-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-2.xhtml" id="chapter1-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-3.xhtml" id="chapter1-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-4.xhtml" id="chapter1-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-5.xhtml" id="chapter1-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-6.xhtml" id="chapter1-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-7.xhtml" id="chapter1-7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-8.xhtml" id="chapter1-8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-9.xhtml" id="chapter1-9xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-10.xhtml" id="chapter1-10xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1-11.xhtml" id="chapter1-11xhtml" media-type="application/xhtml+xml"/>
+    <item href="part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-1.xhtml" id="chapter2-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-2.xhtml" id="chapter2-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-3.xhtml" id="chapter2-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-4.xhtml" id="chapter2-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-5.xhtml" id="chapter2-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-6.xhtml" id="chapter2-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-7.xhtml" id="chapter2-7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-8.xhtml" id="chapter2-8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2-9.xhtml" id="chapter2-9xhtml" media-type="application/xhtml+xml"/>
+    <item href="part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-1.xhtml" id="chapter3-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-2.xhtml" id="chapter3-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-3.xhtml" id="chapter3-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-4.xhtml" id="chapter3-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-5.xhtml" id="chapter3-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-6.xhtml" id="chapter3-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-7.xhtml" id="chapter3-7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-8.xhtml" id="chapter3-8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-9.xhtml" id="chapter3-9xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-10.xhtml" id="chapter3-10xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-11.xhtml" id="chapter3-11xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-12.xhtml" id="chapter3-12xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-13.xhtml" id="chapter3-13xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-14.xhtml" id="chapter3-14xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-15.xhtml" id="chapter3-15xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3-16.xhtml" id="chapter3-16xhtml" media-type="application/xhtml+xml"/>
+    <item href="part4.xhtml" id="part4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-1.xhtml" id="chapter4-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-2.xhtml" id="chapter4-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-3.xhtml" id="chapter4-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-4.xhtml" id="chapter4-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-5.xhtml" id="chapter4-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-6.xhtml" id="chapter4-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-7.xhtml" id="chapter4-7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-8.xhtml" id="chapter4-8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-9.xhtml" id="chapter4-9xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-10.xhtml" id="chapter4-10xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-11.xhtml" id="chapter4-11xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-12.xhtml" id="chapter4-12xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-13.xhtml" id="chapter4-13xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-14.xhtml" id="chapter4-14xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-15.xhtml" id="chapter4-15xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-16.xhtml" id="chapter4-16xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4-17.xhtml" id="chapter4-17xhtml" media-type="application/xhtml+xml"/>
+    <item href="part5.xhtml" id="part5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5-1.xhtml" id="chapter5-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5-2.xhtml" id="chapter5-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5-3.xhtml" id="chapter5-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5-4.xhtml" id="chapter5-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5-5.xhtml" id="chapter5-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5-6.xhtml" id="chapter5-6xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="font/BerlingLTStd-Bold.ttf" id="font__BerlingLTStd-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-BoldItalic.ttf" id="font__BerlingLTStd-BoldItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Medium.ttf" id="font__BerlingLTStd-Mediumttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-BoldItalic.ttf" id="font__GillSansStd-BoldItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-LightItalic.ttf" id="font__GillSansStd-LightItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/vnd.ms-opentype"/>
+    <item href="_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_" toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="charactersxhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="part1xhtml"/>
+    <itemref idref="chapter1-1xhtml"/>
+    <itemref idref="chapter1-2xhtml"/>
+    <itemref idref="chapter1-3xhtml"/>
+    <itemref idref="chapter1-4xhtml"/>
+    <itemref idref="chapter1-5xhtml"/>
+    <itemref idref="chapter1-6xhtml"/>
+    <itemref idref="chapter1-7xhtml"/>
+    <itemref idref="chapter1-8xhtml"/>
+    <itemref idref="chapter1-9xhtml"/>
+    <itemref idref="chapter1-10xhtml"/>
+    <itemref idref="chapter1-11xhtml"/>
+    <itemref idref="part2xhtml"/>
+    <itemref idref="chapter2-1xhtml"/>
+    <itemref idref="chapter2-2xhtml"/>
+    <itemref idref="chapter2-3xhtml"/>
+    <itemref idref="chapter2-4xhtml"/>
+    <itemref idref="chapter2-5xhtml"/>
+    <itemref idref="chapter2-6xhtml"/>
+    <itemref idref="chapter2-7xhtml"/>
+    <itemref idref="chapter2-8xhtml"/>
+    <itemref idref="chapter2-9xhtml"/>
+    <itemref idref="part3xhtml"/>
+    <itemref idref="chapter3-1xhtml"/>
+    <itemref idref="chapter3-2xhtml"/>
+    <itemref idref="chapter3-3xhtml"/>
+    <itemref idref="chapter3-4xhtml"/>
+    <itemref idref="chapter3-5xhtml"/>
+    <itemref idref="chapter3-6xhtml"/>
+    <itemref idref="chapter3-7xhtml"/>
+    <itemref idref="chapter3-8xhtml"/>
+    <itemref idref="chapter3-9xhtml"/>
+    <itemref idref="chapter3-10xhtml"/>
+    <itemref idref="chapter3-11xhtml"/>
+    <itemref idref="chapter3-12xhtml"/>
+    <itemref idref="chapter3-13xhtml"/>
+    <itemref idref="chapter3-14xhtml"/>
+    <itemref idref="chapter3-15xhtml"/>
+    <itemref idref="chapter3-16xhtml"/>
+    <itemref idref="part4xhtml"/>
+    <itemref idref="chapter4-1xhtml"/>
+    <itemref idref="chapter4-2xhtml"/>
+    <itemref idref="chapter4-3xhtml"/>
+    <itemref idref="chapter4-4xhtml"/>
+    <itemref idref="chapter4-5xhtml"/>
+    <itemref idref="chapter4-6xhtml"/>
+    <itemref idref="chapter4-7xhtml"/>
+    <itemref idref="chapter4-8xhtml"/>
+    <itemref idref="chapter4-9xhtml"/>
+    <itemref idref="chapter4-10xhtml"/>
+    <itemref idref="chapter4-11xhtml"/>
+    <itemref idref="chapter4-12xhtml"/>
+    <itemref idref="chapter4-13xhtml"/>
+    <itemref idref="chapter4-14xhtml"/>
+    <itemref idref="chapter4-15xhtml"/>
+    <itemref idref="chapter4-16xhtml"/>
+    <itemref idref="chapter4-17xhtml"/>
+    <itemref idref="part5xhtml"/>
+    <itemref idref="chapter5-1xhtml"/>
+    <itemref idref="chapter5-2xhtml"/>
+    <itemref idref="chapter5-3xhtml"/>
+    <itemref idref="chapter5-4xhtml"/>
+    <itemref idref="chapter5-5xhtml"/>
+    <itemref idref="chapter5-6xhtml"/>
+  </spine>
+</package>

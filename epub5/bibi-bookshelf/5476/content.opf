@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yaralısın</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Öz, Erdal">Erdal Öz</dc:creator>
+    <dc:date>1999-06-15T12:14:11+00:00</dc:date>
+    <dc:publisher>Can</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1c522c17-c09e-4009-b71d-d4ed16361679</dc:identifier>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;İyi bir romanın yaşamdan daha gerçek olabileceğini, Erdal Öz'ün romanını okuduktan sonra bir daha anladım... Ve insan bu romanı okurken insanlığından, yaşamından, konuşmaktan, görmekten, soluk almaktan utanıyor. Bu romanı okuduktan sonra savaşsa savaşa eyvallah, ölümse ölüme eyvallah, ama işkence!.. Bu roman direnen adamın destanıdır. Kendi bedeninin güçsüzlüğünü yenen, aşağılanmayı yenen, iğrençliğini yenen, hastalıklarını yenen, gücün bile üstünde bir gücün destanıdır bu roman... Bir şey daha söylemeliyim bu roman için: anlatılan ne kadar gerçekse ya da gerçekten daha gerçek duygusunu veriyorsa, dil de o kadar güzel olur. Gerçeğin dili güzel oluyor. Erdal'ın dibe çökmüş, mayalanmış ustalığı burada... "Yaralısın", romanımızın unutulmazları arasına girecektir&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">de8bbd83-d812-42c4-877a-66ff14923250</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8cpkXwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755100876</dc:identifier>
+    <meta name="calibre:title_sort" content="Yaralısın"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2015-11-11T16:09:16.686000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Erdal Öz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

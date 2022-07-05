@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Uyuyan Adam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Perec, Georges">Georges Perec</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f255c846-5617-4592-97ee-af018e9f1f0e</dc:identifier>
+    <dc:date>2014-10-01T10:14:06+00:00</dc:date>
+    <dc:description>İnsanlardan nefret ettiğin anlamına gelmez bu, ne diye onlardan nefret edesin ki? Ne diye kendinden nefret edesin ki? Keşke insan türüne ait olmak, o dayanılmaz ve sağır edici gürültüyü de beraberinde getirmeseydi; keşke hayvanlar aleminden çıkıp aşılan o birkaç gülünç adımın bedeli, sözcüklerin, büyük tasarıların, büyük atılımların o dinmek bilmeyen hazımsızlığı olmasaydı!...</dc:description>
+    <dc:publisher>Metis Yayincilik</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2f7b93d8-cb04-41a4-b908-5a5274d8d5d4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753422796</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753422796</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:f255c846-5617-4592-97ee-af018e9f1f0e</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">unAcAAAACAAJ</dc:identifier>
+    <meta content="30.6.14" name="Nakkal"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Uyuyan Adam"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Georges Perec&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.xhtml" id="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevibilgi.xhtml" id="yayinevibilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/uyari.xhtml" id="uyari.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/soz.xhtml" id="soz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n01.xhtml" id="n01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n02.xhtml" id="n02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n03.xhtml" id="n03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n04.xhtml" id="n04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n05.xhtml" id="n05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n06.xhtml" id="n06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n07.xhtml" id="n07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n08.xhtml" id="n08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n08a.xhtml" id="n08a.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n09.xhtml" id="n09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n10.xhtml" id="n10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n11.xhtml" id="n11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n12.xhtml" id="n12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n13.xhtml" id="n13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n14.xhtml" id="n14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n15.xhtml" id="n15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not.xhtml" id="not.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Styles/NakkalArka.css" id="NakkalArka.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal.png" id="Nakkal.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yayinevibilgi.xhtml"/>
+    <itemref idref="uyari.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="soz.xhtml"/>
+    <itemref idref="n01.xhtml"/>
+    <itemref idref="n02.xhtml"/>
+    <itemref idref="n03.xhtml"/>
+    <itemref idref="n04.xhtml"/>
+    <itemref idref="n05.xhtml"/>
+    <itemref idref="n06.xhtml"/>
+    <itemref idref="n07.xhtml"/>
+    <itemref idref="n08.xhtml"/>
+    <itemref idref="n08a.xhtml"/>
+    <itemref idref="n09.xhtml"/>
+    <itemref idref="n10.xhtml"/>
+    <itemref idref="n11.xhtml"/>
+    <itemref idref="n12.xhtml"/>
+    <itemref idref="n13.xhtml"/>
+    <itemref idref="n14.xhtml"/>
+    <itemref idref="n15.xhtml"/>
+    <itemref idref="not.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

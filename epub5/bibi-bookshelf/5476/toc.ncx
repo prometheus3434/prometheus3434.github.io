@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="1c522c17-c09e-4009-b71d-d4ed16361679" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yaralısın</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{53F0B48F-E974-43AB-83F4-A117137DB680}" playOrder="1">
+      <navLabel>
+        <text>«Nasüsm?» diyor bir ses.</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{3B5EC149-46E2-4522-B3AC-6D6209153C25}" playOrder="2">
+      <navLabel>
+        <text>Sigara uzatıyor.</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{520F7524-C2FE-494D-9C8F-DA864EA0CFBA}" playOrder="3">
+      <navLabel>
+        <text>Her şey öylesine yeni ki. Yepyeni bir dünyanın kap</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Yanlış da Olsa Düşünmek Hiç Düşünmemekten Daha iyidir</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Hypatia</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2020-06-05T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ebc56bb0-0c58-4603-8b97-1efab53dbbd4</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">49de4d47-b099-416b-8d07-f7616d55dd00</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T19:24:53.913071+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Yanlış da Olsa Düşünmek Hiç Düşünmemekten Daha iyidir"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hypatia&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapak" href="OEBPS/kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp" href="OEBPS/kitapp.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-1" href="OEBPS/kitapp-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-2" href="OEBPS/kitapp-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-3" href="OEBPS/kitapp-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-4" href="OEBPS/kitapp-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-5" href="OEBPS/kitapp-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-6" href="OEBPS/kitapp-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-7" href="OEBPS/kitapp-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-8" href="OEBPS/kitapp-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-9" href="OEBPS/kitapp-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-10" href="OEBPS/kitapp-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-11" href="OEBPS/kitapp-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-12" href="OEBPS/kitapp-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-13" href="OEBPS/kitapp-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-14" href="OEBPS/kitapp-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-15" href="OEBPS/kitapp-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-16" href="OEBPS/kitapp-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-17" href="OEBPS/kitapp-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-18" href="OEBPS/kitapp-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-19" href="OEBPS/kitapp-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitapp-20" href="OEBPS/kitapp-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/199.png" media-type="image/png"/>
+    <item id="x2_fmt.png" href="OEBPS/image/2_fmt.png" media-type="image/png"/>
+    <item id="x9786053117360_front_co_fmt.jpeg" href="OEBPS/image/9786053117360_front_co_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="destek_fmt.jpeg" href="OEBPS/image/destek_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="destekbeyaz_fmt.jpeg" href="OEBPS/image/destekbeyaz_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="destekbeyaz_fmt1.jpeg" href="OEBPS/image/destekbeyaz_fmt1.jpeg" media-type="image/jpeg"/>
+    <item id="desteksiyah_fmt.png" href="OEBPS/image/desteksiyah_fmt.png" media-type="image/png"/>
+    <item id="hyaaaa_fmt.png" href="OEBPS/image/hyaaaa_fmt.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="kitapp"/>
+    <itemref idref="kitapp-1"/>
+    <itemref idref="kitapp-2"/>
+    <itemref idref="kitapp-3"/>
+    <itemref idref="kitapp-4"/>
+    <itemref idref="kitapp-5"/>
+    <itemref idref="kitapp-6"/>
+    <itemref idref="kitapp-7"/>
+    <itemref idref="kitapp-8"/>
+    <itemref idref="kitapp-9"/>
+    <itemref idref="kitapp-10"/>
+    <itemref idref="kitapp-11"/>
+    <itemref idref="kitapp-12"/>
+    <itemref idref="kitapp-13"/>
+    <itemref idref="kitapp-14"/>
+    <itemref idref="kitapp-15"/>
+    <itemref idref="kitapp-16"/>
+    <itemref idref="kitapp-17"/>
+    <itemref idref="kitapp-18"/>
+    <itemref idref="kitapp-19"/>
+    <itemref idref="kitapp-20"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

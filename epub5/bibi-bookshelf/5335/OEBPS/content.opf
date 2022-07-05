@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Uyku imparatorluğu: roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Blanc, Henri-Frédéric &amp; Ercan, Coşkun Deniz">Henri-Frédéric Blanc</dc:creator>
+    <dc:creator opf:role="aut">Coşkun Deniz Ercan</dc:creator>
+    <dc:identifier id="uuid">{4CCD706E-618D-4E33-A14E-15CB30EC0BA9}</dc:identifier>
+    <dc:date>1994-06-15T10:51:51+00:00</dc:date>
+    <dc:publisher>Can</dc:publisher>
+    <dc:description>&lt;p&gt;Bir uyku makinesi icat eden, düşler Marco Polosu ve uykunun Colombusu Dr. Cavalcanti, Uyutucuma reklam koymak istiyorlar! diye haykırarak reklamlı düşlere karşı isyan eder; bir meslektaşına günün birinde tabutlara bile reklam konulacağından kuşkulandığını söyler. Henri-Frederic Blanc, bir süre önce yayınladığımız Yırtıcıların Alacakaranlıkta Savaşı'nda olduğu gibi Uyku İmparatorluğu'nda da (tıpkı bütün büyük romancılar gibi) bir mizah ustası olduğunu kanıtlıyor. Romanın kahramanı Dr. Cavalcanti, üretim ve tüketim çılgınlığına karşı, doğanın, beyinlerin ve ruhların kirlenmesine karşı bir panzehir olarak uyku ve düşleri savunuyor. İnsanların ruhlarını, uykularını ve düşlerini kurtarmak için uyku makinesi icat eden, tanklara karşı küçük Citroen 2 CV'su ile saldırıya geçen bir karşı-kahraman. Uykunun ağırlığı yoktur, uyku terazidir! diyen bir çağcıl Donkişot. Gerçek romanın büyük atası Rabelais'nin izinden giden Henri-Frederic Blanc, bu romanıyla traji-komik bir karşı-dünya yaratıyor: Doğayı ve insanı savunmak isteyen yüce gönüllü bir insanın Odysseiasını yazıyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Edebiyat</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:subject>Çeviri</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9db6f384-6d1d-4fcd-bc84-94b19bd72a54</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">I0wingEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755105482</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755105482</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.9.2" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Uyku imparatorluğu: roman"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Henri-Frédéric Blanc&quot;: &quot;&quot;, &quot;Coşkun Deniz Ercan&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-baslik.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-epigraf.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id6"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

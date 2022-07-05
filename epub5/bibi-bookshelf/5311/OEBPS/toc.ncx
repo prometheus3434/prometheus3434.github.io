@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="36de734d-1674-4976-bd8b-876a2b87c310" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.54)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ulysses-tr</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Ulysses</text>
+      </navLabel>
+      <content src="Text/Section000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Section000.html#ncx45"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Section000.html#ncx77"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>ARKA-SÖZ</text>
+      </navLabel>
+      <content src="Text/008.html#ncx175"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>ÇEVİRENİN SÖZÜ</text>
+      </navLabel>
+      <content src="Text/009.html#ncx203"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>James Joyce</text>
+      </navLabel>
+      <content src="Text/010.html#ncx220"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>ULYSSES</text>
+      </navLabel>
+      <content src="Text/010.html#ncx221"/>
+    </navPoint>
+  </navMap>
+</ncx>

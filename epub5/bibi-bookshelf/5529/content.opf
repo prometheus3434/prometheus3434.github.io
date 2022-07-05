@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yazmak Eylemi: Bir Toplumsal Siyasal Olay Üzerine 101 Cesitleme</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Edgü, Ferit">Ferit Edgü</dc:creator>
+    <dc:date>2022-05-15T12:37:40+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">79df2e15-70a5-4f4a-b46d-b5ee14e46cfa</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Türk edebiyatının minimalist kanadının en usta yazarı Ferit Edgü, denemeleriyle Sel Yayıncılık'ta. Kendilerini "devrimci" olarak tanımlayan örgüt üyelerinin bir eylemi sonucu 14 Şubat 1980 Perşembe günü, İstanbul'un birçok semtinde dükkânlar kepenk açmadı. Yazar, bu eylemi 101 değişik metinde dile getirerek bir yazmak eylemi'nde bulundu.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Yazmak Eylemi, yazının sınırsız olanaklarını sunmakla kalmıyor, gerçekliğin sayısız anlatım yolları olduğunu belgelemeyi de amaçlıyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Everest Yayinlari</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">57c8a6a2-071a-489e-94cc-9f4b1219a7bd</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051857602</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3AAuzwEACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Yazmak Eylemi: Bir Toplumsal Siyasal Olay Üzerine 101 Cesitleme"/>
+    <meta name="calibre:timestamp" content="2015-09-04T11:59:06.345000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ferit Edgü&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

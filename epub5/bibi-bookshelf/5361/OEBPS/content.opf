@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Üç Örnek Öykü ve Bir Önsöz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unamuno, Miguel De">Miguel De Unamuno</dc:creator>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2020-08-02T11:59:41+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">453bc5a4-7050-4f03-82bc-b6e94c52d26f</dc:identifier>
+    <dc:date opf:event="modification">2017-04-15</dc:date>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:description>1898 kuşağının en güçlü kalemlerinden Miguel de Unamuno’nun felsefesinin ve yazınının timsali olarak görülebilecek Üç Örnek Öykü ve Bir Önsöz’de dönüm noktasındaki İspanya’ya gökten üç elma düşüyor. Ancak bu elmaların tadı çok acı! Tutkuya, gurura, kıskançlığa ve aşka dair eskimeyen fikirler içeren her ibret dolu hikâyesinde Unamuno insanlık durumuna zamanının ötesinde bir varoluşçu pencereden bakarak absürd doğamızı ve ihtiraslarımızı abartısız, sade ancak oldukça çarpıcı bir dille resmediyor.#ispanyolmodernleri #aileyapısı #varoluşçuluk #soyağacı #evlilik #ibretlik</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">e57de81b-8a68-48e4-9dfa-38544b89942a</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">JWlzEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750744884</dc:identifier>
+    <meta content="0.9.6" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Üç Örnek Öykü ve Bir Önsöz" name="calibre:title_sort"/>
+    <meta content="{&quot;Miguel De Unamuno&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.html" href="Text/kunye.html" media-type="application/xhtml+xml"/>
+    <item id="title.html" href="Text/title.html" media-type="application/xhtml+xml"/>
+    <item id="onsoz.html" href="Text/onsoz.html" media-type="application/xhtml+xml"/>
+    <item id="x01.html" href="Text/01.html" media-type="application/xhtml+xml"/>
+    <item id="x02.html" href="Text/02.html" media-type="application/xhtml+xml"/>
+    <item id="x03.html" href="Text/03.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="curly_bracket.svg" href="Images/curly_bracket.svg" media-type="image/svg+xml"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="title.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

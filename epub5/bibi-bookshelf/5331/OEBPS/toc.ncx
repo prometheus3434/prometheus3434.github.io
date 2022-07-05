@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{05A287E1-2BF1-49A6-B690-9D5E67FE6CD5}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sigmund Freud _ Uygarlığın Huzursuzluğu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Editörün Önsözü</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Freud'da Toplum, Kültür, Din Felsefesi</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Uygarlığın Huzursuzluğu</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Kaynaklar</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

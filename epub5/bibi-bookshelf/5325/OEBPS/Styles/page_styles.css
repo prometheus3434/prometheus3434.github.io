@@ -1,0 +1,94 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-style: normal;
+  font-family: "Trebuchet MS";
+  font-weight: normal;
+  src: url(../Fonts/TrebuchetMS%2Bomc2.ttf);
+}
+@font-face {
+  font-style: italic;
+  font-family: "Candara";
+  font-weight: bold;
+  src: url(../Fonts/Candara-BoldItalic_Bold_Italicsq3yt.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Trebuchet MS";
+  font-weight: bold;
+  src: url(../Fonts/TrebuchetMS-Bold_Boldsq3yt.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: bold;
+  src: url(../Fonts/Arial-BoldMT_Boldyr0g_.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Tahoma";
+  font-weight: bold;
+  src: url(../Fonts/Tahoma-Bold_Boldz1jj4.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  src: url(../Fonts/TimesNewRomanPSMTz1jj4.ttf);
+}
+@font-face {
+  font-style: italic;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  src: url(../Fonts/TimesNewRomanPS-BoldItalicMT_Bold_Italicqtp32.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Palatino Linotype";
+  font-weight: normal;
+  src: url(../Fonts/PalatinoLinotype-Romanqtp32.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: normal;
+  src: url(../Fonts/ArialMT39rji.ttf);
+}
+@font-face {
+  font-style: italic;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  src: url(../Fonts/TimesNewRomanPS-ItalicMT_Italicrr1-h.ttf);
+}
+@font-face {
+  font-style: italic;
+  font-family: "Arial";
+  font-weight: normal;
+  src: url(../Fonts/Arial-ItalicMT_Italic%3D47t0.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  src: url(../Fonts/TimesNewRomanPS-BoldMT_Bold46yp5.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Georgia";
+  font-weight: bold;
+  src: url(../Fonts/Georgia-Bold_Boldkwtkt.ttf);
+}
+@font-face {
+  font-style: italic;
+  font-family: "Georgia";
+  font-weight: bold;
+  src: url(../Fonts/Georgia-BoldItalic_Bold_Italickwtkt.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Calibri";
+  font-weight: bold;
+  src: url(../Fonts/Calibri-Bold_Boldl1ne_.ttf);
+}

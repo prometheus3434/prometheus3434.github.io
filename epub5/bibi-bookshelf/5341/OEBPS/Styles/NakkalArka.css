@@ -1,0 +1,58 @@
+							/* !!! BU CSS DOSYASININ İSMİNİN VEYA İÇERİĞİNİN 
+								DEĞİŞTİRİLMESİ KİTAP İÇERİSİNDEKİ TÜM DÜZENİ 
+											OLUMSUZ ETKİLER !!! 			 */
+
+
+							/* Giriş bölümüne kadar olan bazı sayfalar için */
+
+
+
+/* Sayfa Düzeni için*/
+body { 
+   text-align: 		justify;
+   line-height: 	25px;
+   padding: 		1px 11px 1px 11px;
+}
+
+
+/* Yazı Düzeni için*/
+#Nakkal 			{ text-align: 	center; color:#2ab088; }
+#Nakkal-icon 		{ margin-top:	1.5em;	text-indent: -0.125em; }
+#Nakkal-isim 		{ font-weight:	900; 	margin-top:	0.75em;	font-size:	120%;	}
+#Nakkal-copy 		{ font-weight: 	700; 	margin-top: 0.5em;	font-size: 	75%;	}
+#Nakkal-tarih 		{ font-weight: 	700; 	margin-top: 2.5em; font-size: 	100%;	}
+#Nakkal-iletisim 	{ font-weight: 	700; 	margin-top: 2.5em; font-size: 	100%;	}
+#Nakkal-link 		{ font-weight: 	700; 	margin-top: 0.5em; 	font-size: 	100%;	}
+
+
+/* Sayfa içi link rengi için */
+a:link 		{ color:	#2995b0;	text-decoration:underline }
+a:visited 	{ color:	#b02952;	text-decoration:underline }
+a:hover 	{ color:	#94d7c3; 	text-decoration:underline } 
+
+
+/* <br> koduyla uğraşmamak için boşluk çeşitleri */
+
+#n1bosluk {
+	padding-top:	0.5em;
+	padding-bottom:	0.5em;
+    }
+
+#n2bosluk {
+	padding-top:	1em;
+	padding-bottom:	1em;
+    }
+
+#n3bosluk {
+    padding-top:	1.5em;
+    padding-bottom:	1.5em;
+    }
+
+#n4bosluk {
+    padding-top:	2em;
+    padding-bottom:	2em;
+    }
+
+
+
+		/*		Bu CSS dosyasının hazırlanması tamamiyle www.nakkal.in sitesine aittir.		*/

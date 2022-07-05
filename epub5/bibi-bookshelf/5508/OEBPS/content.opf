@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yatmadan önce 100 fırça darbesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Melissa, P.">Melissa P.</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dbbf60c6-e87a-42d3-b181-6122b3ce5be2</dc:identifier>
+    <dc:date>2005-06-15T11:46:51+00:00</dc:date>
+    <dc:publisher>Okuyan Us</dc:publisher>
+    <dc:subject>çekici</dc:subject>
+    <dc:subject>cinselliğin keşfi</dc:subject>
+    <dc:subject>arayışlar ve kayboluşlar... Dürüst</dc:subject>
+    <dc:subject>düşündürücü</dc:subject>
+    <dc:subject>öğretmedikleri tek konudan bahsediyor: cinsellik 'Gözalıcı bir şekilde kendinden emin olan bu lise öğrencisinin itiraflarının yarattığı şok dalgaları hala gündemde.' The Times ' Çaresizliği açığa vuran</dc:subject>
+    <dc:subject>Aşk</dc:subject>
+    <dc:subject>Melissa: genç bir kız ve günlüğü. Sevgi</dc:subject>
+    <dc:subject>Melissanın neden kendini böylesine bıraktığını anlamak</dc:subject>
+    <dc:subject>insanın içine işleyen ve herşeyden öte cesur itiraflar... İtalyada Susanna Tamaro'nun kitabı kadar satan bu kitap ailelerin çocuklarıyla konuşmadıkları</dc:subject>
+    <dc:subject>derinliğini çözmek benim için kolay olmadı ancak beni yüreğimden yakaladı.' IlNuavo ' Çok büyük bir etkisi olan küçük kitap.' New York Times</dc:subject>
+    <dc:subject>arkadaşlık</dc:subject>
+    <dc:subject>duygusal gel gitler</dc:subject>
+    <dc:subject>açık</dc:subject>
+    <dc:subject>kendine güven</dc:subject>
+    <dc:subject>aslında acı dolu bir kitap bu</dc:subject>
+    <dc:description>Honderd keer een borstel door je haar halen voor je gaat slapen. - In de vorm van een dagboek, lopend van juli 2000 tot augustus 2002, bekent een veertienjarig, narcistisch meisje hoe zij kennismaakt met de bestiale kanten van de lichamelijke liefde.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">97ddbfe9-340d-4f79-885e-e86b50a22279</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756287293</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">4k8IAQAAMAAJ</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="4.0" name="calibre:rating"/>
+    <meta content="2010-06-30T21:00:00+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Yatmadan önce 100 fırça darbesi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Melissa P.&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index.html" id="index.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/Arka.jpg" id="Arka.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="index.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

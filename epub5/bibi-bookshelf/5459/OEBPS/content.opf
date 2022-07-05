@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yan etkiler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Allen, Woody">Woody Allen</dc:creator>
+    <dc:identifier id="uuid">{0AEA96C4-A5C0-493E-92C4-979483969D64}</dc:identifier>
+    <dc:date>2008-06-15T11:46:24+00:00</dc:date>
+    <dc:publisher>Siren Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Ölümsüzlüğe, eserlerimle değil, ölmeyerek kavuşma dileğindeyim. - Woody Allen
+
+Çağımızın ünlü sinema ustası, unutulmaz komedyen, kült filmlerin akıllara kazınmış başrol oyuncusu ve kitapları dünyanın her yerinde büyük ilgi gören yazar Woody Allen, uzun bir aradan sonra özenli bir çeviriyle Türkiye'de okurlarıyla buluşuyor. Seksten siyasete, felsefeden gündelik hayatın absürt detaylarına uzanan bir yelpazede, zamanımızın bu önemli figürü Woody Allen, eğlenceli ve entelektüel bir klasikle, YAN ETKİLER'le karşınızda.
+
+YAN ETKİLER, yaşayan bu büyük efsanenin en keyifli kısa metinlerini, O Henry ödüllü klasiği Kugelmass Olayı dahil olmak üzere bir araya getiriyor. 2008 Cannes Film Festivali'nde büyük ilgi gören son filmi yakında tüm dünya ile beraber ülkemizde de vizyonlara girecek olan Woody Allen, YAN ETKİLER'de çarpıcı ve sıradışı gözlemlerini kahkahalarla okuyacağınız denemeler ve öykülerle buluşturuyor.
+
+Çağımızın kültür ve sanat dünyasının devi Woody Allen'ın YAN ETKİLER'inin üzerinizdeki etkisinden kolay kolay kurtulmak istemeyeceksiniz. 
+
+YAN ETKİLER, hayatla inceden inceye dalga geçenlerin, ağlanacak haline kahkahalarla gülenlerin, giderek karamsarlaşan bir dünyaya mizah merceğiyle bakmayı seçenlerin başucu kitabı.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Deneme</dc:subject>
+    <dc:subject>Mizah</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">99e6bead-1650-4f6d-b373-e5e1ff3d8b72</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055903022</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055903022</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">oJUBYAAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Yan etkiler"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Woody Allen&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-author.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

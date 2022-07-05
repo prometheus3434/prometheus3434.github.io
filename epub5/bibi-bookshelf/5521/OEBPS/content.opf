@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yaz yağmuru</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Duras, Marguerite &amp; Ortaç, Ayşe Kurşunlu">Marguerite Duras</dc:creator>
+    <dc:creator opf:role="aut">Ayşe Kurşunlu Ortaç</dc:creator>
+    <dc:description>&lt;p&gt;Ernesto kalabalık ve yoksul bir ailede yaşamaktadır, ancak çevresi onun bir dâhi olmasını engelleyemez. Ernesto ve kız kardeşi Jeanne yaşadıkları suç ortaklığını ensest ilişkiye dönüştürürler. 
+Büyülenmenin ve çocukluğun sonu olan yaz yağmurundan sonra onları ayrılık beklemektedir.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{1766946F-72BC-4A4C-A9B3-6D85C332D77E}</dc:identifier>
+    <dc:date>1991-06-15T11:39:17+00:00</dc:date>
+    <dc:publisher>AFA</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a716e28d-ce2c-4487-9f03-003257c94ee5</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755703640</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">1l0SPwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754141269</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Yaz yağmuru"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Marguerite Duras&quot;: &quot;&quot;, &quot;Ayşe Kurşunlu Ortaç&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/yy.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

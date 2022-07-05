@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bir Uyumsuzun Notları 2</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Uyar, Tomris">Tomris Uyar</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ee4b46e9-9f78-4eeb-8b1c-4c0a49b0c858</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Bir Uyumsuzun Notları... Geçen yüzyılın son çeyreğinde dökülmüş bu günler, sıcak dostlukları, muzip anıları, zehir zemberek eleştirileri, yazarının hayatını ve gözlemlediklerini yansıtıyor. Uyumsuzluk, değişen koşullara ayak diremekten kaynaklanıyor; gün geçtikçe dökülenler, memnuniyetsizliği daha fazla yansıtmaya başlıyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Okurların daha çok öyküleri ve çevirileriyle tanıdığı Tomris Uyar'ın, yirmi beş yıl boyunca tuttuğu gündökümleri, yeniden, iki ciltte toplandı. 2002 yılında Güzel Yazı Defteri adlı kitabıyla ödüller alan Tomris Uyar'ın yaşam ve edebiyatla ilgili pek çok "uyumsuz" gözlemi tarihe de tanıklık ediyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Bu notların üzerindeki kahve lekelerini, bulaşık deterjanlarını, uyku mahmurluğunu, rakı damlalarını seçen gözler, yazarın herşeyden önce insan olduğunu fark edecektir.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d754bb77-7d70-4549-8497-15ee765c580c</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:06.211000+00:00"/>
+    <meta name="calibre:title_sort" content="Uyumsuzun Notları 2, Bir"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tomris Uyar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="main-8.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="main-9.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

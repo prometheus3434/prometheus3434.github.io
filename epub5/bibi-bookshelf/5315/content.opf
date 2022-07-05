@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Ungenach. Una liquidazione</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bernhard, Thomas">Thomas Bernhard</dc:creator>
+    <dc:date>2021-06-15T12:47:30+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b054cebc-6ab1-48f6-aaa1-503ec8dfa11c</dc:identifier>
+    <dc:publisher>Adelphi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>Ungenach è il nome della sconfinata proprietà fondiaria nell'Austria Superiore toccata in eredità ai due fratelli Zoiss. Ma, ancorché ricchissimo, splendido agglomerato di frutteti, campi coltivati, boschi, cave, tenute e fabbricati rurali, Ungenach è precisamente quello che ha spinto i due Zoiss a fuggire il più lontano possibile: Karl in Africa, Robert negli Stati Uniti. Per Karl, infatti, rimanere a Ungenach «significa pazzia», e per Robert Ungenach è «un peso spaventoso e nient'altro» - anche il padre, del resto, per tutta la vita «ha sentito Ungenach come un carcere». Immensa devastazione, «rovina della natura e dello spirito», «inferno del cattivo gusto», Ungenach è il labirinto ossessivo dei ricordi e della mente, l'aborrito luogo dell'Origine. E, rimasto unico erede dopo la morte del fratello, Robert si sbarazzerà di tutto con una sconcertante donazione, compiuta «come un delinquente compie il suo delitto» e, beffardamente, a favore di una trentina di assurdi beneficiari, fra cui un «teologo della natura», quattro carcerati e un ricoverato in manicomio. Un atto liberatorio che, di fatto, causerà l'irreversibile estinzione di Ungenach, fosco compendio di ogni realtà fisica e mentale - «poiché è la rovina il punto verso cui tutto converge».</dc:description>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>it</dc:language>
+    <dc:identifier opf:scheme="calibre">31d02ac7-fe2a-41e4-995a-65261efa6157</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9788845935992</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">dsWAzgEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:20.440000+00:00"/>
+    <meta name="calibre:title_sort" content="Ungenach. Una liquidazione"/>
+    <meta name="calibre:author_link_map" content="{&quot;Thomas Bernhard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

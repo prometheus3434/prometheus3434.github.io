@@ -1,0 +1,100 @@
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:normal;src:url(../Fonts/ALEGREYA-REGULAR.OTF)}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLD.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLDITALIC.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:normal;src:url(../Fonts/ALEGREYA-ITALIC.OTF)}
+@font-face{font-family:"Caslon Antique";font-style:normal;font-weight:normal;src:url(../Fonts/CASLONANTIQUE_0.TTF)}
+@font-face{font-family:"Caslon Antique";font-style:normal;font-weight:bold;src:url(../Fonts/CASLONANTIQUE-BOLD_0.TTF)}
+@font-face{font-family:"Caslon Antique";font-style:italic;font-weight:normal;src:url(../Fonts/CASLONANTIQUE-ITALIC.TTF)}
+@font-face{font-family:"TRCroach";font-style:normal;font-weight:normal;src:url(../Fonts/TRCROACH.TTF)}
+@font-face{font-family:"Comic Sans MS";font-style:normal;font-weight:normal;src:url(../Fonts/COMIC.TTF)}
+@font-face{font-family:"Comic Sans MS";font-style:italic;font-weight:normal;src:url(../Fonts/COMICI.TTF)}
+@font-face{font-family:"TRSalemWF";font-style:normal;font-weight:normal;src:url(../Fonts/TRSALEMWF.TTF)}
+@font-face{font-family:"Karmina";font-style:italic;font-weight:normal;src:url(../Fonts/KARMINA-ITALIC.OTF)}
+@font-face{font-family:"Formal436 BT";font-style:normal;font-weight:normal;src:url(../Fonts/FORMAL-436-BT.TTF)}
+@font-face{font-family:"TRChildsPlayMirror";font-style:normal;font-weight:normal;src:url(../Fonts/TRCHILDSPLAYMIRROR.TTF)}
+@font-face{font-family:"TRChildsPlayEight";font-style:normal;font-weight:normal;src:url(../Fonts/TRCHILDSPLAYEIGHT.TTF)}
+@font-face{font-family:"TRViner Hand ITC";font-style:normal;font-weight:normal;src:url(../Fonts/TRVINER HAND ITC.TTF)}
+@font-face{font-family:"TR El001";font-style:normal;font-weight:normal;src:url(../Fonts/TR EL-001.TTF)}
+
+
+
+@page{margin-left:0.2cm;margin-right:0.2cm;margin-top:0.2cm;margin-bottom:0.2cm}
+body{margin:0}
+
+
+
+p{text-indent:1.1em;line-height:110%;margin-left:0;margin-right:0;margin-top:.5em;margin-bottom:.5em;text-align:justify;font-family:Alegreya,monospace;orphans: 2;widows: 2;font-size:100%}
+
+.p0{text-indent:1.4em;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:1.4em;text-align:center;margin-bottom:0}
+.p2{text-indent:1.4em;line-height:100%;text-align:center;margin-bottom:0}
+.p3{text-indent:1.4em;text-align:center}
+.p4{text-indent:1.4em;margin-left:3.5em;line-height:100%;margin-bottom:0}
+.p5{text-indent:1.4em;margin-left:3.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p6{text-indent:1.4em;line-height:100%;margin-top:0;margin-bottom:0}
+.p7{text-indent:1.4em;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p8{text-indent:0;margin-left:9.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p9{text-indent:0;margin-left:9.5em;margin-bottom:0}
+.p10{text-indent:0;margin-left:0;text-align:center}
+.p12{text-indent:0;margin-left:5.7em;line-height:100%;margin-top:0;margin-bottom:0}
+.p13{text-indent:0;margin-left:0}
+.p14{text-indent:0;margin-left:0;text-align:right}
+.p15{text-indent:1.4em;text-align:right}
+.p16{text-indent:0;margin-left:0;margin-right:4.7em;text-align:right}
+.p17{text-indent:0;margin-left:0;line-height:100%;text-align:right;margin-top:0;margin-bottom:0}
+.p18{text-indent:0;margin-left:3.5em;margin-right:3.5em;text-align:center}
+.p19{text-indent:0;margin-left:4.7em;line-height:100%;margin-right:2.4em;margin-top:0;margin-bottom:0}
+.p20{text-indent:0;margin-left:3.5em;margin-right:3.5em}
+.p21{text-indent:0;margin-left:4em;line-height:100%;margin-right:6em;margin-top:0;margin-bottom:0}
+.p22{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p23{text-indent:0}
+h1{text-indent:0;margin-left:0;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.75em;margin-bottom:.38em;font-family:"Caslon Antique";font-size:145%;font-weight:normal}
+.h11{text-indent:0}
+.t2{vertical-align:.75em}
+.t3{font-family:"Caslon Antique";font-size:3.8em;line-height:110%;vertical-align:.2em}
+.t4{font-family:"Caslon Antique";font-size:3.8em;line-height:110%;vertical-align:.28em}
+.t5{font-family:"Caslon Antique";font-size:4em;line-height:110%;vertical-align:.19em}
+.t6{font-family:"Caslon Antique";font-size:2.2em;line-height:100%;font-weight:bold;letter-spacing:.15em}
+.t7{font-family:"Caslon Antique";font-size:1.5em;line-height:110%}
+.t8{font-family:"Caslon Antique"}
+.t9{font-size:.75em;line-height:100%}
+.t11{font-size:.83em;line-height:100%}
+.t12{font-size:.83em;line-height:110%}
+.t13{font-size:.83em;line-height:100%;font-weight:bold}
+.t14{font-size:1.5em;line-height:110%;font-weight:bold}
+.t15{font-family:TRCroach;font-size:1.3em;line-height:110%}
+.t16{font-family:TRCroach;font-size:1.3em;line-height:100%}
+.t17{font-family:"Caslon Antique"}
+.t18{font-family:"Caslon Antique";font-weight:bold}
+.t19{font-family:"Caslon Antique";font-size:1.2em;line-height:110%}
+.t20{font-size:.83em;line-height:110%;font-weight:bold}
+.t21{font-style:italic}
+.t22{font-family:"Comic Sans MS",cursive}
+.t23{font-family:"Comic Sans MS",cursive;font-style:italic}
+.t24{font-family:TRSalemWF;font-size:1.3em;line-height:110%}
+.t25{font-family:Karmina,monospace;font-style:italic}
+.t26{font-family:Karmina,monospace}
+.t27{font-family:"Formal436 BT",cursive}
+.t28{font-family:"Formal436 BT",cursive;font-size:1.2em;line-height:110%}
+.t29{font-family:"Caslon Antique";font-size:1.2em;line-height:110%;font-weight:bold}
+.t30{font-family:TRChildsPlayMirror;font-size:1.5em;line-height:110%}
+.t31{font-weight:bold;font-style:italic}
+.t32{font-family:"TRViner Hand ITC",cursive;font-size:1.2em;line-height:100%}
+.t33{font-family:TRChildsPlayEight;font-size:1.2em;line-height:110%}
+.t34{font-family:"TR El001",cursive;font-size:1.3em;line-height:110%}
+.t35{font-family:TRCroach;font-size:2em;line-height:110%;color:white}
+.t36{font-family:TRCroach;font-size:1.7em;line-height:110%}
+.t37{font-weight:bold;text-decoration:underline}
+.t38{text-decoration:underline}
+.t39{font-family:TRCroach;font-size:1.5em;line-height:110%}
+.t40{font-family:TRCroach;font-size:1.7em;line-height:100%}
+.t41{font-style:italic}
+.t42{font-weight:bold}
+.t43{font-size:.83em;line-height:100%;font-style:italic}
+
+
+
+
+.cizgi2 {-webkit-border-radius: 0px;background: transparent;border: 4px solid black;color: black;display: block;margin-bottom: 1em;margin-left: 4em;margin-right: 4em;margin-top: 1em;padding-bottom: 1em;padding-left: 1em;padding-right: 1em;padding-top: 1em}
+.baslik {border-collapse: separate;border-spacing: 2px;display: table;margin-bottom: 0;margin-top: 0;text-indent: 0;width: 100%}
+.tabloyazisi {display: table-cell;font-size: 1em;padding-bottom: 1px;padding-left: 1px;padding-right: 1px;padding-top: 1px;text-align: center;vertical-align: inherit}

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Üç Başlı Ejderha</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Erbil, Leyla">Leyla Erbil</dc:creator>
+    <dc:date>2013-08-03T21:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-EFDF59F0-09D3-4C13-A71D-09B89F2FD565</dc:identifier>
+    <dc:date opf:event="modification">2014-07-23</dc:date>
+    <dc:publisher>Okuyan Us Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Düşümde tarih 11 Mayıs 330, yer Sultanahmet Meydanı 'Hipodrom'... Büyük Saray'ın hemen önünde... bomboş meydanda doğum yapıyorum. Sabaha karşı,,, Saray benim... sarayımın kapısında bekleyen saçları yılandan üç tanrıça, genç dostumun gözetiminde doğurtuyor beni... yaşlıyım,,, gözlerimi yitirmek üzereyim ama doğuruyordum gene de... kendime diyordum ki ayıp sana... olamaz bu... utanmalısın... herhalde düş görüyorsun kötü bir düş... ama sevinçle sürdürüyordum doğurmayı; en derin okyanusundan kadınlığın uzun upuzun ve ince oğullarımı doğurmaktaydım...&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1f26e9aa-89db-493d-afcc-0c3384e42934</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756287507</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Üç Başlı Ejderha"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Leyla Erbil&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id005"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+    <reference href="Text/009.html#a9" title="Beginning" type="text"/>
+  </guide>
+</package>

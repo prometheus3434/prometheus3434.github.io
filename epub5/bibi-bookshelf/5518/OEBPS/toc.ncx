@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="1570b15e-feeb-41e7-8349-02675eab9f56" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Murathan Mungan - Yaz Gecer</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/yaz_gecer04.htm"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>YALNIZ BİR OPERA</text>
+        </navLabel>
+        <content src="Text/yaz_gecer05.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>BİLARDO TOPLARI</text>
+        </navLabel>
+        <content src="Text/yaz_gecer18.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>TERASTAKİ HAVLU</text>
+        </navLabel>
+        <content src="Text/yaz_gecer19.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/yaz_gecer20.htm"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ALABALIK ile SİYAMBALIĞI</text>
+        </navLabel>
+        <content src="Text/yaz_gecer21.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>KADIRGA</text>
+        </navLabel>
+        <content src="Text/yaz_gecer37.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>YEDİ DALGA</text>
+        </navLabel>
+        <content src="Text/yaz_gecer56.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>KALYON ve KÖPÜKLER</text>
+        </navLabel>
+        <content src="Text/yaz_gecer57.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>KAMÇILAR</text>
+        </navLabel>
+        <content src="Text/yaz_gecer58.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/yaz_gecer59.htm"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>YAZ SONU ŞİİRLERİ</text>
+        </navLabel>
+        <content src="Text/yaz_gecer60.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>YAZBİTTİ</text>
+        </navLabel>
+        <content src="Text/yaz_gecer72.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

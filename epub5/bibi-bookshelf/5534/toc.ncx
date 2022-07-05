@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="2bf9473f-4f6b-4627-8b93-244fcd4147b5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yediçınar Yaylası</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{1FDC2C3F-0467-4CEF-8B06-4BF6D3948D81}" playOrder="1">
+      <navLabel>
+        <text>— Şu sebepten ki... Bunun kemikleri tekmil yumuşam</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E03DEAE2-830F-4412-860E-2FC09CDC4A2B}" playOrder="2">
+      <navLabel>
+        <text>— İçinde ne olsa gerek ağa, bunun içinde?..</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{A278F117-AADC-43FE-B8BE-019A85C555DA}" playOrder="3">
+      <navLabel>
+        <text>— Ne o Kenan? Kendi başına bu ne konuşması? Kenan</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E2FE133E-A9A7-4D93-903C-2B5F6EE335B3}" playOrder="4">
+      <navLabel>
+        <text>246</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yalnızlık gittiğin yoldan gelir</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Altun, Selçuk">Selçuk Altun</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt; &lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal"&gt;&lt;span style="font-size:9.0pt"&gt;Dünyanın en iyi yazarı kim? Çela ne-re-de-sin?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal"&gt;&lt;span style="font-size:9.0pt"&gt;Bu roman kitaplarla, kitabevleriyle; müzikten resme, arkeolojiden antikalara, Beyoğlu ve Manhattan arka sokaklarından gezegenin diğer çizgi dışı noktalarına okura sayısız ipucu dağıtan bir merakın ürünleriyle, özellikle de Oktay Rifat'ın şiirleriyle kaplı bir yolda, gizemli serüvenini aktarıyor.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal"&gt;&lt;span style="font-size:9.0pt"&gt;Romanın anlatıcısı, kaderin mi karşısına çıkardığı O.Y.'nin tuhaf bir oyunuyla önce, bir sığınakta gizlenen Edirnekâri sandığa ulaşmak zorunda.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal"&gt;&lt;span style="font-size:9.0pt"&gt;Sahi, kimdir dünyanın en iyi yazarı?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <dc:date>2017-06-15T10:58:44+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">93c788db-bee5-482d-97de-efa029f44ded</dc:identifier>
+    <dc:date opf:event="modification">2014-09-14</dc:date>
+    <dc:subject>Çağdaş Türk Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ef671e9a-be46-410e-b751-f91975ca5c4e</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786052951156</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">LYRHtAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785884231</dc:identifier>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2014-08-08T19:59:48+00:00" name="calibre:timestamp"/>
+    <meta content="Yalnızlık gittiğin yoldan gelir" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{&quot;Selçuk Altun&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004_split_000.xhtml" id="Section0004.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004_split_001.xhtml" id="Section0004.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004_split_002.xhtml" id="Section0004.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/SEL.jpg" id="id" media-type="image/jpeg"/>
+    <item href="Fonts/Georgia-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0004.xhtml3"/>
+    <itemref idref="Section0004.xhtml2"/>
+    <itemref idref="Section0004.xhtml1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

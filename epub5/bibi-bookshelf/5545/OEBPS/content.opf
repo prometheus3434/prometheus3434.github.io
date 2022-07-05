@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yeni Dünya</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ali, Sabahattin">Sabahattin Ali</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:fa7b6253-ac71-4917-a280-c9a8793b8f26</dc:identifier>
+    <dc:date>2019-06-15T10:59:09+00:00</dc:date>
+    <dc:description>Nieuwe wereld. - Korte verhalen met als hoofdmotief het moeilijke leven van door machthebbers uitgebuite dorpsbewoners.</dc:description>
+    <dc:publisher>Yapi Kredi Yayinlari</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e492c519-4d6a-4a4a-b21b-7da24de492f9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750806612</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:fa7b6253-ac71-4917-a280-c9a8793b8f26</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">84mWzgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750806612</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="12.8.14" name="Nakkal"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Yeni Dünya"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sabahattin Ali&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevibilgi.xhtml" id="yayinevibilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n01.xhtml" id="n01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n02.xhtml" id="n02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n03.xhtml" id="n03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n04.xhtml" id="n04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n05.xhtml" id="n05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n06.xhtml" id="n06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n07.xhtml" id="n07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n08.xhtml" id="n08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n09.xhtml" id="n09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n10.xhtml" id="n10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n11.xhtml" id="n11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n12.xhtml" id="n12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/n13.xhtml" id="n13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/still.css" id="still.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yayinevibilgi.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="n01.xhtml"/>
+    <itemref idref="n02.xhtml"/>
+    <itemref idref="n03.xhtml"/>
+    <itemref idref="n04.xhtml"/>
+    <itemref idref="n05.xhtml"/>
+    <itemref idref="n06.xhtml"/>
+    <itemref idref="n07.xhtml"/>
+    <itemref idref="n08.xhtml"/>
+    <itemref idref="n09.xhtml"/>
+    <itemref idref="n10.xhtml"/>
+    <itemref idref="n11.xhtml"/>
+    <itemref idref="n12.xhtml"/>
+    <itemref idref="n13.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

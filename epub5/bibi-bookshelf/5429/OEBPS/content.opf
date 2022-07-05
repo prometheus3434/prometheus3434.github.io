@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yabancı kucak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="McEwan, Ian &amp; Kür, Pınar">Ian McEwan</dc:creator>
+    <dc:creator opf:role="aut">Pınar Kür</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7c202b6e-38b1-4404-a65d-d483ac9e95e5</dc:identifier>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>Colin and Mary are lovers on holiday in Italy, their relationship becoming increasingly problematic as they become increasingly alienated from one and other. They move from place to place in this foreign land but seemingly without aim or purpose and more, seemingly bored and without attachment. Then they meet a man named Robert and his wife, Caroline, who is crippled. Colin and Mary seem happy for the diversion--happy to meet another couple that takes the focus of off them (off of each other) for a while. Things become strange (and stranger yet; one could say horrific) when they attempt to leave: Robert and Caroline insist that they stay with them for a while longer. While Mary and Colin indeed rediscover each other in ways during this time--an erotic attraction to each other that was below the surface--they also find that their relationship/friendship with Robert and Caroline takes turns that are likewise erotic and violent in nature. A pervasive dread runs through this novel, leading to the terrible climax that no reader could predict. Absolutely in the key of McEwan, without match in the genre, and a very worthwhile read. -- Amazon.com.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2004-06-15T11:15:55+00:00</dc:date>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Çağdaş Edebiyat</dc:subject>
+    <dc:subject>İngiliz Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1a9ad253-4590-4c19-8226-50ce3803c716</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755394329</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">S1IhPwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755394329</dc:identifier>
+    <meta content="Yabancı kucak" name="calibre:title_sort"/>
+    <meta content="2015-03-04T14:40:54.690000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Ian McEwan&quot;: &quot;&quot;, &quot;Pınar Kür&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_001.htm" id="yabanci_001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_002.htm" id="yabanci_002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_003.htm" id="yabanci_003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_004.htm" id="yabanci_004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_005.htm" id="yabanci_005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_006.htm" id="yabanci_006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_007.htm" id="yabanci_007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_008.htm" id="yabanci_008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_009.htm" id="yabanci_009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_010.htm" id="yabanci_010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_011.htm" id="yabanci_011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_012.htm" id="yabanci_012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yabanci_013.htm" id="yabanci_013.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yabanci_001.htm"/>
+    <itemref idref="yabanci_002.htm"/>
+    <itemref idref="yabanci_003.htm"/>
+    <itemref idref="yabanci_004.htm"/>
+    <itemref idref="yabanci_005.htm"/>
+    <itemref idref="yabanci_006.htm"/>
+    <itemref idref="yabanci_007.htm"/>
+    <itemref idref="yabanci_008.htm"/>
+    <itemref idref="yabanci_009.htm"/>
+    <itemref idref="yabanci_010.htm"/>
+    <itemref idref="yabanci_011.htm"/>
+    <itemref idref="yabanci_012.htm"/>
+    <itemref idref="yabanci_013.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

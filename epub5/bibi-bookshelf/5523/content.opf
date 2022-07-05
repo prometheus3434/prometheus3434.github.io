@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Yaza yolculuk: öyküler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Tomris Uyar</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1990-06-15T11:54:45+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4ed26822-555f-4dc5-ba8d-ec454cc2e8d2</dc:identifier>
+    <dc:publisher>Can</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7e732114-c5c6-4617-aff9-90b16439d3cc</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755101736</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">V6OADv-WreUC</dc:identifier>
+    <meta name="calibre:timestamp" content="2020-11-17T10:28:20.805697+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Yaza yolculuk: öyküler"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tomris Uyar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapak" href="OEBPS/kapak.html" media-type="application/xhtml+xml"/>
+    <item id="x1" href="OEBPS/1.html" media-type="application/xhtml+xml"/>
+    <item id="x2" href="OEBPS/2.html" media-type="application/xhtml+xml"/>
+    <item id="x3" href="OEBPS/3.html" media-type="application/xhtml+xml"/>
+    <item id="x4" href="OEBPS/4.html" media-type="application/xhtml+xml"/>
+    <item id="x4-1" href="OEBPS/4-1.html" media-type="application/xhtml+xml"/>
+    <item id="x4-2" href="OEBPS/4-2.html" media-type="application/xhtml+xml"/>
+    <item id="x4-3" href="OEBPS/4-3.html" media-type="application/xhtml+xml"/>
+    <item id="x4-4" href="OEBPS/4-4.html" media-type="application/xhtml+xml"/>
+    <item id="x4-5" href="OEBPS/4-5.html" media-type="application/xhtml+xml"/>
+    <item id="x4-6" href="OEBPS/4-6.html" media-type="application/xhtml+xml"/>
+    <item id="x4-7" href="OEBPS/4-7.html" media-type="application/xhtml+xml"/>
+    <item id="x4-8" href="OEBPS/4-8.html" media-type="application/xhtml+xml"/>
+    <item id="x4-9" href="OEBPS/4-9.html" media-type="application/xhtml+xml"/>
+    <item id="x4-10" href="OEBPS/4-10.html" media-type="application/xhtml+xml"/>
+    <item id="x4-11" href="OEBPS/4-11.html" media-type="application/xhtml+xml"/>
+    <item id="x4-12" href="OEBPS/4-12.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="x1_fmt.jpeg" href="OEBPS/images/1_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="cover" href="OEBPS/images/186.jpg" media-type="image/jpeg"/>
+    <item id="kapak_fmt.jpeg" href="OEBPS/images/kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+    <itemref idref="x4-9"/>
+    <itemref idref="x4-10"/>
+    <itemref idref="x4-11"/>
+    <itemref idref="x4-12"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

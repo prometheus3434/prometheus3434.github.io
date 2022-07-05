@@ -1,0 +1,121 @@
+.calibre {
+    display: block;
+    font-family: "Palatino Linotype", serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre6 {
+    line-height: 1.2
+    }
+.calibre7 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.calibre8 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre9 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.font {
+    font-family: "Times New Roman", serif;
+    font-size: 0.75em
+    }
+.font1 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.75em;
+    font-style: italic
+    }
+.font2 {
+    font-family: "Constantia", serif;
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.font3 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font4 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.font5 {
+    font-family: "Constantia", serif;
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.font6 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.font7 {
+    font-family: "Constantia", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.font8 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font9 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    font-variant: small-caps;
+    font-weight: bold;
+    line-height: 1.2
+    }

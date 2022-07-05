@@ -1,0 +1,448 @@
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/LiberationSerif-Bold.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../font/LiberationSerif-BoldItalic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../font/LiberationSerif-BoldItalic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/LiberationSerif-Italic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/LiberationSerif-Italic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/LiberationSerif-Regular.ttf");
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Basic-Paragraph {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.anabaslik {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1.25em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:30px;
+	margin-left:50px;
+	margin-right:50px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.kunye {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.444;
+	margin-bottom:0px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.split {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+}
+p.resim {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:40px;
+	margin-left:50px;
+	margin-right:50px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.para-style-override-1 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-bottom:30px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-bottom:20px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-3 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-bottom:150px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-4 {
+	margin-bottom:0px;
+	text-align:center;
+}
+p.para-style-override-5 {
+	margin-bottom:20px;
+	text-align:center;
+}
+p.para-style-override-6 {
+	margin-bottom:30px;
+	text-align:center;
+}
+p.para-style-override-7 {
+	margin-bottom:20px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-8 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-9 {
+	text-align:center;
+}
+p.para-style-override-10 {
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-indent:20px;
+}
+p.para-style-override-11 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:normal;
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-12 {
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:right;
+	text-indent:20px;
+}
+p.para-style-override-13 {
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-bottom:11px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-14 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+}
+p.para-style-override-15 {
+	font-family:"Liberation Serif", serif;
+	font-style:normal;
+	font-weight:bold;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-indent:20px;
+}
+p.para-style-override-16 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:normal;
+	font-weight:bold;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-17 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-18 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-19 {
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-20 {
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:normal;
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-indent:20px;
+}
+p.para-style-override-21 {
+	font-family:"Liberation Serif", serif;
+	font-style:normal;
+	font-weight:bold;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-22 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-bottom:3px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-23 {
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-24 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-bottom:11px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+p.para-style-override-25 {
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-bottom:11px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-indent:20px;
+}
+p.para-style-override-26 {
+	margin-bottom:9px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:justify;
+	text-indent:20px;
+}
+p.para-style-override-27 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-bottom:6px;
+	margin-left:30px;
+	margin-right:30px;
+	text-align:center;
+}
+span.char-style-override-1 {
+	font-family:"Liberation Serif";
+	font-size:1.25em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-2 {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-3 {
+	font-family:"Liberation Serif";
+	font-size:1.417em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-4 {
+	font-family:"Liberation Serif", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-5 {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-6 {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.char-style-override-7 {
+	font-family:"Liberation Serif";
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-8 {
+	font-family:"Liberation Serif";
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-9 {
+	font-size:1.667em;
+}
+span.char-style-override-10 {
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-11 {
+	font-family:"Liberation Serif", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-12 {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+img.frame-1 {
+	height:439px;
+	width:239px;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}
+img.frame-3 {
+	height:48px;
+	width:46px;
+}
+img.frame-4 {
+	height:50px;
+	width:54px;
+}
+img.frame-5 {
+	height:47px;
+	width:48px;
+}
+img.frame-6 {
+	height:37px;
+	width:146px;
+}
+img.frame-7 {
+	height:232px;
+	width:177px;
+}
+img.frame-8 {
+	height:39px;
+	width:29px;
+}

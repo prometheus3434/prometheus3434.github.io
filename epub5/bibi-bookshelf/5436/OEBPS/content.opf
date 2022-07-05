@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Yahudiler, Dünya ve Para</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Attalı, Jaques">Jaques Attalı</dc:creator>
+    <dc:date>2015-08-09T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:520ab1f1-cfeb-47b9-87ff-108a0bbba846</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en-US</dc:language>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">509d86b5-2c0d-4338-a627-b15b23ebd9e5</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.jpg"/>
+    <meta name="calibre:title_sort" content="Yahudiler, Dünya ve Para"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jaques Attalı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="8-1.html" id="x8-1" media-type="application/xhtml+xml"/>
+    <item href="8-2.html" id="x8-2" media-type="application/xhtml+xml"/>
+    <item href="8-3.html" id="x8-3" media-type="application/xhtml+xml"/>
+    <item href="8-4.html" id="x8-4" media-type="application/xhtml+xml"/>
+    <item href="8-5.html" id="x8-5" media-type="application/xhtml+xml"/>
+    <item href="8-6.html" id="x8-6" media-type="application/xhtml+xml"/>
+    <item href="8-7.html" id="x8-7" media-type="application/xhtml+xml"/>
+    <item href="8-8.html" id="x8-8" media-type="application/xhtml+xml"/>
+    <item href="8-9.html" id="x8-9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="images/kapakk_fmt.jpeg" id="kapakk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kedi_fmt.jpeg" id="kedi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kedi_fmt1.jpeg" id="kedi_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x8-1"/>
+    <itemref idref="x8-2"/>
+    <itemref idref="x8-3"/>
+    <itemref idref="x8-4"/>
+    <itemref idref="x8-5"/>
+    <itemref idref="x8-6"/>
+    <itemref idref="x8-7"/>
+    <itemref idref="x8-8"/>
+    <itemref idref="x8-9"/>
+  </spine>
+</package>

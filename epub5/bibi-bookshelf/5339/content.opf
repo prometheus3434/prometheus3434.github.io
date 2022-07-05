@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Uyumsuz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roth, Veronica">Veronica Roth</dc:creator>
+    <dc:publisher>Artemis Yayinlari</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;article id="product-name" class="detail-block"&gt;
+            &lt;h1 itemprop="name"&gt;Uyumsuz&lt;/h1&gt;&lt;/article&gt;&lt;article id="product-author" class="detail-block"&gt;&lt;span class="first"&gt;&lt;br&gt;&lt;/span&gt;&lt;/article&gt;&lt;/div&gt;Beatrice Prior'ın Chicago'sunda toplum, her biri belli bir erdemi 
+yaşatmaya adanmış beş topluluğa bölünmüş durumda. Dürüstlük, Fedakarlık,
+ Cesurluk, Dostluk ve Bilgelik. &lt;br&gt;Her yıl, belli bir günde bütün on altı yaşındakiler, hayatlarının geri kalanında birlikte yaşayacakları grubu seçmek zorunda. &lt;br&gt;Beatrice, hem ailesiyle kalmak, hem de kendi benliğini bulmak istiyor ama ikisini birden seçemez. &lt;br&gt;Bu nedenle kendisi dahil, herkesi şaşırtan bir seçim yapıyor.&lt;br&gt;Genç
+ yazar Veronica Roth heyecanlı seçimler, kalp kıran ihanetler, kan 
+donduran sonuçlar ve beklenmedik aşklarla dolu karanlık bir geleceği 
+anlatan gerilim serisinin ilk kitabıyla edebiyat sahnesine çıkıyor!&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2014-05-15T10:10:13+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2bcc6898-32a8-4e07-89ce-595eb50cc454</dc:identifier>
+    <dc:subject>Romantik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Distopya</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">be34320f-1ad4-4217-bbae-4c24e627309b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051420646</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051420646</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ZvWIngEACAAJ</dc:identifier>
+    <meta name="calibre:series" content="Uyumsuz"/>
+    <meta name="calibre:title_sort" content="Uyumsuz"/>
+    <meta name="calibre:timestamp" content="2014-07-23T05:39:30.641000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Veronica Roth&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/image.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="images/image.png" id="id4" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

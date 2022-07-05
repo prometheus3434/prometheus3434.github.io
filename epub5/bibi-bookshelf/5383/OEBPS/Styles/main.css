@@ -1,0 +1,18 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+
+.bos1{margin-top:1em;}
+.bos2{margin-top:2em;}
+.bos6{margin-top:6em;}
+.bos10{margin-top:10em;}
+
+.bolum1{text-indent:0em;text-align:center;font-size:2em;font-weight:bold;}
+.bolum2{text-indent:0em;text-align:center;font-size:1.8em;font-weight:bold;}
+
+.baslik1{text-indent:0em;text-align:center;font-size:1.3em;font-weight:bold;}
+.ortali{margin-top:1em;margin-bottom:1em;text-indent:0em;text-align:center;}
+
+.gir1 {margin-top:1em;margin-bottom:1em;margin-left:4em;}
+.gir1 p{text-indent:0em;}

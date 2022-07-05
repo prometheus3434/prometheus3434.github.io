@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yaşlı Adamın Savaşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Scalzi, John">John Scalzi</dc:creator>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:identifier id="uuid">{55BC52E3-1AD3-4832-846C-D532AAC56BC8}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">d428f2a2-72b0-4443-8113-a5848976f59f</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Yaşlı Adamın Savaşı"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Scalzi&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca01.xhtml" href="Text/parca01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca02.xhtml" href="Text/parca02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca03.xhtml" href="Text/parca03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca04.xhtml" href="Text/parca04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca05.xhtml" href="Text/parca05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca06.xhtml" href="Text/parca06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca07.xhtml" href="Text/parca07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca08.xhtml" href="Text/parca08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca09.xhtml" href="Text/parca09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca10.xhtml" href="Text/parca10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca11.xhtml" href="Text/parca11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca12.xhtml" href="Text/parca12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca13.xhtml" href="Text/parca13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca14.xhtml" href="Text/parca14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca15.xhtml" href="Text/parca15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca16.xhtml" href="Text/parca16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca17.xhtml" href="Text/parca17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca18.xhtml" href="Text/parca18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parca19.xhtml" href="Text/parca19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id22" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="id1" href="Images/main-1.jpg" media-type="image/jpeg"/>
+    <item id="id2" href="Images/main-2.jpg" media-type="image/jpeg"/>
+    <item id="id3" href="Images/main-3.jpg" media-type="image/jpeg"/>
+    <item id="id4" href="Images/main-4.jpg" media-type="image/jpeg"/>
+    <item id="id5" href="Images/main-5.jpg" media-type="image/jpeg"/>
+    <item id="id6" href="Images/main-6.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id22">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="parca01.xhtml"/>
+    <itemref idref="parca02.xhtml"/>
+    <itemref idref="parca03.xhtml"/>
+    <itemref idref="parca04.xhtml"/>
+    <itemref idref="parca05.xhtml"/>
+    <itemref idref="parca06.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="parca07.xhtml"/>
+    <itemref idref="parca08.xhtml"/>
+    <itemref idref="parca09.xhtml"/>
+    <itemref idref="parca10.xhtml"/>
+    <itemref idref="parca11.xhtml"/>
+    <itemref idref="parca12.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="parca13.xhtml"/>
+    <itemref idref="parca14.xhtml"/>
+    <itemref idref="parca15.xhtml"/>
+    <itemref idref="parca16.xhtml"/>
+    <itemref idref="parca17.xhtml"/>
+    <itemref idref="parca18.xhtml"/>
+    <itemref idref="parca19.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

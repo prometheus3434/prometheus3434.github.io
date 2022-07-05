@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Vampirle konuşma</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rice, Anne &amp; Hakmen, Roza">Anne Rice</dc:creator>
+    <dc:creator opf:role="aut">Roza Hakmen</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">71551108-0988-4b2b-8230-49f8e7830354</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1991-06-15T11:06:45+00:00</dc:date>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:description>&lt;p&gt;Ard arda yazdığı vampirli kitapalrının ulaştığı başarıyla vampir edebiyatını bütün dünyada yeniden hortlatan Anne Rice`ın bu kitabı, tuhaf bir biçimde her şeyi sarmalayıp kuşatan erotik anlarımı, ustaca kurulmuş atmosferei, baştan sona hiç düşmeyen bir tempoyla sağlanmış gerilimi sayesinde soluk soluğa okunuyor. Vampirleri ve vampirliği kaba bir metafor olarak değerlendirme kolaycılığına düşmeden, yarattığı karakterlerin derin iç dünyaları ve sağlam çizilmiş portreleri sayesinde insanlığın en eski varoluş sorunlarına ustaca eğilme başarısını gösteren Rice, bir yanıyla sentetik, bir yanılya klasik bir tat yakalıyor.&lt;/p&gt;</dc:description>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Gotik</dc:subject>
+    <dc:subject>Vampir</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">58dcffc5-8a86-4c5b-96b6-e5eacb0c3861</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">mHHbPgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751403063</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9751403065</dc:identifier>
+    <meta content="Vampir Günlükleri" name="calibre:series"/>
+    <meta content="Vampirle konuşma" name="calibre:title_sort"/>
+    <meta content="2015-01-02T15:20:51.557000+00:00" name="calibre:timestamp"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Anne Rice&quot;: &quot;&quot;, &quot;Roza Hakmen&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/annericeresim.htm" id="annericeresim.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/annerice.htm" id="annerice.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.htm" id="ickapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.htm" id="kunye.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ad.htm" id="ad.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/VK_1.htm" id="VK_1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/VK_2.htm" id="VK_2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/VK_3.htm" id="VK_3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/VK_4.htm" id="VK_4.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/VK_5.htm" id="VK_5.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/VK_6.htm" id="VK_6.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/annerice.jpg" id="annerice.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="annericeresim.htm"/>
+    <itemref idref="annerice.htm"/>
+    <itemref idref="ickapak.htm"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="ad.htm"/>
+    <itemref idref="VK_1.htm"/>
+    <itemref idref="VK_2.htm"/>
+    <itemref idref="VK_3.htm"/>
+    <itemref idref="VK_4.htm"/>
+    <itemref idref="VK_5.htm"/>
+    <itemref idref="VK_6.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Yakma Zevki - Fahrenheit 451 Öyküleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bradbury, Ray">Ray Bradbury</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">48e79755-738b-44bf-a0c0-73a64959f36a</dc:identifier>
+    <dc:date>2018-06-15T12:45:01+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Ithaki Yayinlari</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;İnsanların kitap okumaktan nefret ettiği, devletin kitapları yasakladığı bir gelecekte, işi kitap yakmak olan bir "itfaiyeci" ve onun kitapları kurtarmak için, içinde yaşadığı teknolojik tüketim toplumuna karşı giriştiği mücadale...&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Bu kurguyu Ray Bradbury'nin Fahrenheit 451 adlı kült eserinden biliyoruz. Peki bu kurgu nasıl bir düşün ve esin zinciri içinde gelişmiş olabilir? Bu kitaptaki öyküler, genç bir yazarın onu üne kavuşturan ilk önemli eserinde olgun ifadesini bulan imgeleminin ve özgün dilinin nasıl doğduğunu, dönüştüğünü ve geliştiğini izlemek açısından çok önemli bir fırsat sunuyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;21. Yüzyıl Türkiye okuyucusuna içinde yaşadığı "şimdinin," yer yer, bu öykülerde betimlenen karanlık geleceğin bile ötesine geçtiğini düşündürmek ise, Yakma Zevki'nin hem en rahatsız edici, hem de, tam da bu nedenle, en zihin açıcı özelliği.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0497fa9c-952b-47a9-a703-c25c8343c80d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053758198</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">RKqAtwEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2015-11-28T18:48:57.290000+00:00"/>
+    <meta name="calibre:title_sort" content="Yakma Zevki - Fahrenheit 451 Öyküleri"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ray Bradbury&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

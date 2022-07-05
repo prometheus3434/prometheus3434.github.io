@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bir yaz gecesi rüyası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Shakespeare, William">William Shakespeare</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">98963ae1-a3c5-43ca-8c0e-45f366fb7595</dc:identifier>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:date>2010-06-15T11:04:39+00:00</dc:date>
+    <dc:description>&lt;p&gt;Bugünün edebiyat ve tiyatro dünyasında gereğince vurgulanmamış bir gerçek var: Shakespeare`in ne denli ``büyük`` olduğu değil, ne denli ``ünlü`` olduğu gerçeği. Birincisi, anlamı bulanık, öznel, sağlamasını yapması zor, genel bir yargı; ikincisiyse kanıtlarıyla ortada. 
+
+İngiliz (ve bir ölçüde Amerikan) dili, edebiyatı, kültürüyle ve Batı tiyatrosuyla yakından ilgilenen hiç kimse Shakespeare`i sevmese bile, bilmeden edemez - niye sevmedğini bilmek için bile olsa.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Komedi</dc:subject>
+    <dc:subject>Tiyatro Oyunu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">669762ee-9ede-4a52-a4a5-3ee736657d71</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751403445</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751403445</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">An84AAAACAAJ</dc:identifier>
+    <meta content="yaz gecesi rüyası, Bir" name="calibre:title_sort"/>
+    <meta content="2014-03-17T15:51:15.853000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;William Shakespeare&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/yaz gecesi ruyasi.htm" id="yaz_gecesi_ruyasi.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yaz_gecesi_ruyasi.htm"/>
+    <itemref idref="Section0001.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
