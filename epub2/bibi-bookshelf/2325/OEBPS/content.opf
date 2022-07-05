@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ay ve Şenlik Ateşleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pavese, Cesare">Cesare Pavese</dc:creator>
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:date>1984-05-15T21:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Yaşamını bir otel odasında kendi elleriyle noktalayan, çağdaş İtalyan edebiyatının büyük ustası Cesare Pavese (1908-1950) 1949 yılının eylül-kasım ayları arasında yazdığı son romanı "Ay ve Şenlik Ateşleri"nde, kalemiyle yarattığı dünyanın bireşimini yapıyor sanki. Kendi geçmişiyle ve okurlarıyla hesaplaşıyor. Amerika'da para-pul sahibi olduktan sonra, İkinci Dünya Savaşının hemen ertesinde doğduğu köye dönen Anguilla, eski arkadaşı Nuto ile yaptığı konuşmalar aracılığıyla çocukluğunun günlerine, kişilerine döner ve direnişçilere ihanet ettiği için öldürülen genç bir kızın ölüsünün yakıldığı ateş, aynı zamanda geçmişin de küllerini savuran bir şenlik ateşine dönüşür. Kişisel anılarla bezeli geçmişi dengeleyen şimdiki zaman da, aynı oranda çetindir ve simgesini ailesini öldürdükten sonra evini tutuşturarak bir başka şenlik ateşi yakan köylü Valino'da bulur...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İtalyan Edebiyatı</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">441ace30-6d19-4086-ad55-ed5769743e79</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">nvo_CgAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750720161</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">3990000005280</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Ay ve Şenlik Ateşleri"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cesare Pavese&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005_split1.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/Cesare_Pavese_-_Yolda_.jpg" id="Cesare_Pavese_-_Yolda__jpg" media-type="image/jpeg"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg"/>
+    <item href="Images/log.jpg" id="log_jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="id"/>
+    <itemref idref="section-0006_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover"/>
+  </guide>
+</package>

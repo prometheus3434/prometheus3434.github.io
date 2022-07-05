@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Buluştuğumuz yer burası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Berger, John &amp; Çapan, Cevat &amp; Çapan, Gönül &amp; Sökmen, Müge Gürsoy">John Berger</dc:creator>
+    <dc:creator opf:role="aut">Cevat Çapan</dc:creator>
+    <dc:creator opf:role="aut">Gönül Çapan</dc:creator>
+    <dc:creator opf:role="aut">Müge Gürsoy Sökmen</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;Berger'dan, geçen yüzyıla, göçüp gidenlere, tüm zaaflarıyla sevilenlere, yaşanmışlıklarıyla şehirlere duru, ışıltılı bir ziyaret... Lizbon, Krakow, Madrid, Cenevre, Islington ve Küçük Polonya'da, artık hayatta olmayan yakınlarıyla, annesi, babası, eski sevgilileri, öğretmenleri, ustaları, akademiden arkadaşlarıyla buluşup halleşiyor Berger. Hayata ve edebiyata dair güzel ve değerli olan ne varsa bu metnin içinden akıyor usul usul: tenin mucizesi, doğanın ve tarihin nimetleri, kibirinden feragat etmiş bir sevgi, ahlakçı olmayan bir etik ve hayatın neşesi, burukluğu ve sihriyle beslenen bir siyaset... &lt;/div&gt;&lt;div&gt;John Berger'ın benzersiz tarzını özleyenlere ilaç gibi gelecek Buluştuğumuz Yer Burası, Cevat Çapan, Gönül Çapan ve Müge Gürsoy Sökmen ortak çevirisi ile yayımlanıyor.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">22b5a38a-a5b7-46e1-9263-a84a35dbd47d</dc:identifier>
+    <dc:date>2006-06-15T12:47:37+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d3281266-4d6a-47f7-92f7-a4298c46b3e6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753425902</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">sC0kPwAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Buluştuğumuz yer burası"/>
+    <meta name="calibre:timestamp" content="2018-04-05T14:07:26.002000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Berger&quot;: &quot;&quot;, &quot;Cevat Çapan&quot;: &quot;&quot;, &quot;Gönül Çapan&quot;: &quot;&quot;, &quot;Müge Gürsoy Sökmen&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/biyografi.xhtml" id="biyografi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/kapak.xhtml" id="kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/lizbon.xhtml" id="lizbon.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/cenevre.xhtml" id="cenevre.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/krakow.xhtml" id="krakow.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/bazimeyveler.xhtml" id="bazimeyveler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/islington.xhtml" id="islington.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/lepont.xhtml" id="lepont.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/madrid.xhtml" id="madrid.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/szumveching.xhtml" id="szumveching.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/81.xhtml" id="x81.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/tesekkur.xhtml" id="tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="biyografi.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="kapak.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="lizbon.xhtml"/>
+    <itemref idref="cenevre.xhtml"/>
+    <itemref idref="krakow.xhtml"/>
+    <itemref idref="bazimeyveler.xhtml"/>
+    <itemref idref="islington.xhtml"/>
+    <itemref idref="lepont.xhtml"/>
+    <itemref idref="madrid.xhtml"/>
+    <itemref idref="szumveching.xhtml"/>
+    <itemref idref="x81.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

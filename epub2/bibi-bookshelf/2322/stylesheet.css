@@ -1,0 +1,368 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    text-align: center
+    }
+.calibre3 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre4 {
+    color: #4472c4;
+    font-size: 2em;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-size: 1.66667em;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-size: 1em
+    }
+.calibre7 {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    text-align: justify
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    clear: both;
+    display: block
+    }
+.calibre10 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 0%
+    }
+.calibre11 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre12 {
+    display: block;
+    text-align: justify;
+    margin: 0% 0% 0.82%
+    }
+.calibre13 {
+    color: #0563c1
+    }
+.calibre14 {
+    color: #0563c1;
+    font-size: 1em;
+    text-decoration: underline
+    }
+.calibre15 {
+    color: #0563c1;
+    font-size: 1em;
+    letter-spacing: 0.25rem;
+    text-decoration: underline
+    }
+.calibre16 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 0%
+    }
+.calibre17 {
+    line-height: 1.2
+    }
+.calibre18 {
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: 0.54rem;
+    line-height: 1.2
+    }
+.calibre19 {
+    font-size: 1em;
+    font-weight: bold
+    }
+.calibre20 {
+    display: block;
+    text-align: justify;
+    text-indent: 3em;
+    margin: 0%
+    }
+.calibre21 {
+    font-size: 1em;
+    font-style: italic
+    }
+.calibre22 {
+    font-size: 0.625em;
+    vertical-align: super
+    }
+.calibre23 {
+    display: block;
+    text-align: center
+    }
+.calibre24 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    text-indent: 0;
+    width: 100%;
+    margin: 0 aut
+    }
+.calibre25 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre26 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre27 {
+    background-color: #e6e6fa;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 100%;
+    padding: 1.02pt;
+    border: #808080 solid 0.75pt
+    }
+.calibre28 {
+    background-color: #e6e6fa;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 100%;
+    padding: 1.4pt 1.02pt 1.02pt;
+    border-right: #808080 solid 0.75pt;
+    border-bottom: #808080 solid 0.75pt;
+    border-left: #808080 solid 0.75pt
+    }
+.calibre29 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0%
+    }
+.calibre30 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre31 {
+    clear: both;
+    display: block;
+    line-height: 1.2
+    }
+.calibre32 {
+    display: block;
+    text-align: justify;
+    margin: 0% 0% 0% 8.15%
+    }
+.calibre33 {
+    color: #1f4e79;
+    font-size: 1em;
+    font-weight: bold
+    }
+.calibre34 {
+    color: #1f4e79;
+    font-size: 1em
+    }
+.calibre35 {
+    color: #1f4e79;
+    font-size: 1em;
+    font-style: italic
+    }
+.calibre36 {
+    display: table-row;
+    height: 21pt;
+    vertical-align: inherit
+    }
+.calibre37 {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    orphans: 0;
+    text-align: center;
+    widows: 0
+    }
+.calibre38 {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    orphans: 0;
+    text-align: justify;
+    widows: 0
+    }
+.calibre39 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin: 0% 0% 1.32%
+    }
+.calibre40 {
+    -aw-left-pos: 0;
+    -aw-rel-hpos: column;
+    -aw-rel-vpos: paragraph;
+    -aw-top-pos: 0;
+    -aw-wrap-type: inline;
+    height: 63.2%;
+    width: 100%
+    }
+.calibre41 {
+    -aw-left-pos: 0;
+    -aw-rel-hpos: column;
+    -aw-rel-vpos: paragraph;
+    -aw-top-pos: 0;
+    -aw-wrap-type: inline;
+    height: 63.31%;
+    width: 100%
+    }
+.calibre42 {
+    -aw-left-pos: 0;
+    -aw-rel-hpos: column;
+    -aw-rel-vpos: paragraph;
+    -aw-top-pos: 0;
+    -aw-wrap-type: inline;
+    height: 19.85%;
+    width: 100%
+    }
+.calibre43 {
+    color: #bf8f00;
+    font-size: 1em;
+    font-weight: bold
+    }
+.calibre44 {
+    color: #bf8f00;
+    font-size: 1em
+    }
+.calibre45 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.calibre46 {
+    color: #c00000;
+    font-size: 1em
+    }
+.calibre47 {
+    color: #538135;
+    font-size: 1em;
+    font-weight: bold
+    }
+.calibre48 {
+    color: #538135;
+    font-size: 1em
+    }
+.calibre49 {
+    display: block;
+    text-align: justify;
+    margin: 0% 0% 0% 8.02%
+    }
+.calibre50 {
+    -aw-left-pos: 0;
+    -aw-rel-hpos: column;
+    -aw-rel-vpos: paragraph;
+    -aw-top-pos: 0;
+    -aw-wrap-type: inline;
+    height: 63.19%;
+    width: 100%
+    }
+.calibre51 {
+    -aw-left-pos: 0;
+    -aw-rel-hpos: column;
+    -aw-rel-vpos: paragraph;
+    -aw-top-pos: 0;
+    -aw-wrap-type: inline;
+    height: 19.74%;
+    width: 100%
+    }
+.calibre52 {
+    background-color: #e6e6fa;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 100%;
+    padding: 1px 5.03pt;
+    border: #808080 solid 0.75pt
+    }
+.calibre53 {
+    color: #2f5496;
+    font-size: 1em
+    }
+.calibre54 {
+    background-color: #e6e6fa;
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 100%;
+    padding: 1px 5.03pt;
+    border-right: #808080 solid 0.75pt;
+    border-bottom: #808080 solid 0.75pt;
+    border-left: #808080 solid 0.75pt
+    }
+.calibre55 {
+    -aw-left-pos: 0;
+    -aw-rel-hpos: column;
+    -aw-rel-vpos: paragraph;
+    -aw-top-pos: 0;
+    -aw-wrap-type: inline;
+    height: 19.66%;
+    width: 100%
+    }
+.calibre56 {
+    color: #1f3864;
+    font-size: 1em;
+    font-weight: bold
+    }
+.calibre57 {
+    color: #1f3864;
+    font-size: 1em
+    }
+.calibre58 {
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre59 {
+    color: #c00000;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre60 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-top: 0%
+    }
+.calibre61 {
+    -aw-number-format: "";
+    display: list-item;
+    font-size: 1em;
+    padding-left: 1pt;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0% 0% 0% 7.92%
+    }

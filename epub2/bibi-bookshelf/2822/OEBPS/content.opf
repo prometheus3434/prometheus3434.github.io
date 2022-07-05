@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Darwin Ne Yaptı?</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ünalan, Öner">Öner Ünalan</dc:creator>
+    <dc:publisher>Evrensel Basım Yayın</dc:publisher>
+    <dc:date>2014-11-27T11:02:04+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5156e192-9412-4281-a536-65491bc0a98a</dc:identifier>
+    <dc:date opf:event="modification">2015-05-01</dc:date>
+    <dc:description>Darwin adı, organik evrim teorisinde silinmez bir damgadır. Bu teori, yeryüzünde yaşayan ve eskiden yaşayıp tükenmiş türlerin nasıl ortaya çıktıklarını aydınlatma çabasının ürünüdür. Darwin'e varıncaya kadar yaşambilim, dağınık bilgiler toplamından başka bir şey değildi. Darwin teorisiyle bu dağınık bilgileri toparlamıştır. Yaşambilim, Darwin'le birlikte ve ondan sonra materyalist ve diyalektik bir temele oturmuş, gerçekten bir bilim olmuştur.Darwin'in yapıtlarını ("Türlerin Kökeni", "İnsanın Türeyişi", "Seksüel Seçme") Türkçeye kazandıran Öner Ünalan, elinizdeki popüler kitabı, özellikle Türkiye koşullarında yetişmiş kişileri göz önünde tutarak yazmıştır. Kitabında, "Yeryüzündeki canlılar nasıl var oldu ya da türler nasıl ortaya çıktı?" sorusundan başlayarak Darwin'i ve yöntemini tanıtmakta, çağdaşlarıyla ilişkilerini ele almakta, yaşambilimin Darwin'le birlikte ve ondan sonraki gelişmesinin neler gösterdiğini, kısaca Darwin'in bilim tarihindeki yerini anlatmaktadır.</dc:description>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Bilim Tarihi</dc:subject>
+    <dc:subject>Reference</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">f54d594b-f808-4202-9952-73aeea7fa1d5</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055315382</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">_5acBQAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054834587</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2013-02-19T13:53:15.852000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Darwin Ne Yaptı?"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Öner Ünalan&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_000.html" id="html110" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_001.html" id="html109" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_002.html" id="html108" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_003.html" id="html107" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_004.html" id="html106" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_005.html" id="html105" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_006.html" id="html104" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_007.html" id="html103" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_008.html" id="html102" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_009.html" id="html101" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_010.html" id="html100" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_011.html" id="html99" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_012.html" id="html98" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_013.html" id="html97" media-type="application/xhtml+xml"/>
+    <item href="Text/1_split_014.html" id="html96" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html110"/>
+    <itemref idref="html109"/>
+    <itemref idref="html108"/>
+    <itemref idref="html107"/>
+    <itemref idref="html106"/>
+    <itemref idref="html105"/>
+    <itemref idref="html104"/>
+    <itemref idref="html103"/>
+    <itemref idref="html102"/>
+    <itemref idref="html101"/>
+    <itemref idref="html100"/>
+    <itemref idref="html99"/>
+    <itemref idref="html98"/>
+    <itemref idref="html97"/>
+    <itemref idref="html96"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:cbb16778-83a1-4273-8438-0c799cb4fc01" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dokuz Gitarda Dünya Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Erik Orsenna</text>
+      </navLabel>
+      <content src="Text/Erik_Orsenna.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Kheops (Mısır), İsa'dan Önce 2500</text>
+      </navLabel>
+      <content src="Text/Kheops.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Cuzco (Peru), 1531</text>
+      </navLabel>
+      <content src="Text/Cuzco.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Barselona, 1580</text>
+      </navLabel>
+      <content src="Text/Barselona.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Versailles (Fransa), 1680</text>
+      </navLabel>
+      <content src="Text/Versailles.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Milano, 1820</text>
+      </navLabel>
+      <content src="Text/Milano.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Nantes, Gorée, Mississippi, 1800-1900</text>
+      </navLabel>
+      <content src="Text/Nantes.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Paris, Porte d'Italie, 1928</text>
+      </navLabel>
+      <content src="Text/Paris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Woodstock, 1969</text>
+      </navLabel>
+      <content src="Text/Woodstock.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Omo Vadisi (Afrika), 31 Aralık 1999</text>
+      </navLabel>
+      <content src="Text/Omo.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

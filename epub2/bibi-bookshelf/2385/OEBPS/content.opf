@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bartleby ve Şürekâsı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vila-Matas, Enrique">Enrique Vila-Matas</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a3f9f43c-e35c-4ecc-86ed-3262c7795619</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2021-02-01T12:19:37+00:00</dc:date>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:description>İyi çalıştım, yaptığım işten mutlu olabilirim. Kalemi bırakıyorum, çünkü hava karardı. Alacakaranlık rüyaları. Karım ve çocuklarım yan odadalar, hayat dolular. Sağlığım yerinde ve yeteri kadar param var. Aman Tanrım, nasıl da mutsuzum! Ama neler söylüyorum ben? Mutsuz değilim, kalemi bırakmadım, karım yok, çocuklarım yok, yan oda bile yok, yeteri kadar param yok, hava da kararmadı.“Yapmamayı tercih ederim.” Herman Melville’in Bartleby karakterinin bu meşhur sözünden yola çıkan Enrique Vila-Matas, Bartleby ve Şürekâsı’nda yetenek ve birikimlerine rağmen yazmamayı düstur edinen gerçek ve hayalî yazarları konu alır.Var olmayan bir metin için dipnotlar kaleme alan anlatıcı, bartleby’ler diye adlandırdığı, edebiyatta geçici ya da kalıcı sessizliği tercih eden Salinger, Rimbaud, Musil, Rulfo gibi yazarların yanında Walser, Beckett, Maupassant, Wilde, Borges, Gide, Pessoa, Sokrates ve daha nice isim aracılığıyla, “Niçin yazarız?” ve “Niçin yaşarız?” gibi çetrefilli sorulara cevap arar.“Vila-Matas’ın üstünlüğü tartışılmaz bir gerçek.”Roberto Bolaño</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">734960be-af0c-49c1-b58b-eba8c23d7309</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ZaNxEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750749858</dc:identifier>
+    <meta content="Bartleby ve Şürekası" name="calibre:title_sort"/>
+    <meta content="2015-04-09T06:04:24.380000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Enrique Vila-Matas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.8.7" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Enrique Vila Matas - Bartleby ve Surekasi_split_000.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Enrique Vila Matas - Bartleby ve Surekasi_split_001.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Enrique Vila Matas - Bartleby ve Surekasi_split_002.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

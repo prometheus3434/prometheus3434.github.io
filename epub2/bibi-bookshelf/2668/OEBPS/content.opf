@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Carlo Rovelli - Fizik Üzerine Yedi Kısa Ders</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rovelli, Carlo">Carlo Rovelli</dc:creator>
+    <dc:identifier id="uuid">{1597DAB6-B151-4E37-AE9D-61584F4DB2DA}</dc:identifier>
+    <dc:date>2019-01-03T21:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>Çağdaş fizikçi Carlo Rovelli, 20. yüzyıl fizik biliminin temel meselelerine cezbedici bir yolculuk vaat ediyor. Basit anlatımıyla dünyayı büyüleyen, 40’tan fazla dile çevrilen ve yayımlandıktan kısa süre sonra çoksatar listelerinde birinci sıraya yerleşen Fizik Üzerine Yedi Kısa Ders, bu alanla haşır neşir olmayan okur için de anlaşılır ve okuması keyifli bir çalışma. Rovelli, fizik alanında gerçekleşen büyük devrimin “en büyüleyici” yönlerini ve ortaya attığı soruları mercek altına alıyor: “Kuramların en güzeli”, yani Albert Einstein’ın izafiyet kuramı, modern fiziğin en sarsıcı yönlerine ev sahipliği yapan kuantum mekaniği, içinde yaşadığımız evrenin mimarisi, temel parçacıklar, kuantum çekimi, olasılık ve kara deliklerin ısısı…
+“Kuramsal fizik, yaşamımızı yönlendiren tutkular ve duygulardan beslenir,” diyen Rovelli, çoğunlukla bize uzak kalmış bir bilimin aslında bizi kuşatan evren kadar yakınımızda olduğunu gösteriyor.</dc:description>
+    <dc:subject>Bilim - Mühendislik</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">e343fe52-dee5-4492-83de-8de960c05a69</dc:identifier>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Carlo Rovelli - Fizik Üzerine Yedi Kısa Ders"/>
+    <meta name="calibre:author_link_map" content="{&quot;Carlo Rovelli&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sunus.xhtml" id="sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dn.xhtml" id="dn.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id11" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id10" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/BB.png" id="BB.png" media-type="image/png"/>
+    <item href="Images/boyle1.jpg" id="boyle1.jpg" media-type="image/jpeg"/>
+    <item href="Images/boyle2.jpg" id="boyle2.jpg" media-type="image/jpeg"/>
+    <item href="Images/boyle3.jpg" id="boyle3.jpg" media-type="image/jpeg"/>
+    <item href="Images/boyle4.jpg" id="boyle4.jpg" media-type="image/jpeg"/>
+    <item href="Images/boyle5.jpg" id="boyle5.jpg" media-type="image/jpeg"/>
+    <item href="Images/can.jpg" id="can.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/ilk resim.jpg" id="ilk_resim.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo copy.png" id="logo_copy.png" media-type="image/png"/>
+    <item href="Images/resim 2.jpg" id="resim_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim 3.jpg" id="resim_3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim 4.jpg" id="resim_4.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitled-1.jpg" id="Untitled-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/zerre.jpg" id="zerre.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="sunus.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+    <itemref idref="x5.xhtml"/>
+    <itemref idref="x6.xhtml"/>
+    <itemref idref="x7.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="dn.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Babaya Mektup</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:21f8ce40-7513-4d41-bbb0-5d630447b699</dc:identifier>
+    <dc:publisher>Alter Yayincilik</dc:publisher>
+    <dc:date>2013-08-15T12:26:45+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">f8d0bb9b-cc03-4181-b5a1-26eac23670af</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054745654</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">DPtzngEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:21f8ce40-7513-4d41-bbb0-5d630447b699</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="image__coverjpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Babaya Mektup"/>
+    <meta name="calibre:author_link_map" content="{&quot;Franz Kafka&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/works.xhtml" id="worksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter.xhtml" id="chapterxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part.xhtml" id="partxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/appendix.xhtml" id="appendixxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notice.xhtml" id="noticexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bibliography.xhtml" id="bibliographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="worksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="chapterxhtml"/>
+    <itemref idref="partxhtml"/>
+    <itemref idref="appendixxhtml"/>
+    <itemref idref="noticexhtml"/>
+    <itemref idref="bibliographyxhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

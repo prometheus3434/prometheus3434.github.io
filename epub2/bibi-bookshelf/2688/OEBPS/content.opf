@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Cesare Pavese - Yaşama Uğraşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pavese, Cesare">Cesare Pavese</dc:creator>
+    <dc:identifier id="uuid">{A98203A8-0C96-4514-8DA5-B8B5BA077B9E}</dc:identifier>
+    <dc:description>İlk gençlik yıllarının geçtiği köy ve çitlik ortamı, Cesare Pavese'nin ilk şiirlerine olduğu kadar Ay ve Şenlik Ateşleri adlı ilk romanına da esin kaynağı oldu. Bu günlükte gündelik olaylardan cok, bu büyük yazarın sanatıyla ilgili düşüncelerini bulacaksınız. Ölümünden iki yıl sonra Yaşama Uğraşı adıyla yayınlanan bu çok değerli kitabı ilk kez tam metin olarak yayınlıyoruz.</dc:description>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2019-12-03T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">427613a0-7475-4936-9cd1-abaaa49f1acc</dc:identifier>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta content="Cesare Pavese - Yaşama Uğraşı - Günlük 1935-1950 - Can Yay-1997-1" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Cesare Pavese&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="kapak1.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1935.xhtml" id="x1935.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1936.xhtml" id="x1936.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1936-1.xhtml" id="x1936-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1937.xhtml" id="x1937.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1938.xhtml" id="x1938.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1939.xhtml" id="x1939.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1940.xhtml" id="x1940.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1941.xhtml" id="x1941.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1942.xhtml" id="x1942.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1943.xhtml" id="x1943.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1944.xhtml" id="x1944.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1945.xhtml" id="x1945.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1646.xhtml" id="x1646.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1947.xhtml" id="x1947.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1948.xhtml" id="x1948.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1949.xhtml" id="x1949.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1950.xhtml" id="x1950.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id9" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id8" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/01.jpg" id="x01.jpg" media-type="image/jpeg"/>
+    <item href="Images/kapak1.jpg" id="kapak1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x1935.xhtml"/>
+    <itemref idref="x1936.xhtml"/>
+    <itemref idref="x1936-1.xhtml"/>
+    <itemref idref="x1937.xhtml"/>
+    <itemref idref="x1938.xhtml"/>
+    <itemref idref="x1939.xhtml"/>
+    <itemref idref="x1940.xhtml"/>
+    <itemref idref="x1941.xhtml"/>
+    <itemref idref="x1942.xhtml"/>
+    <itemref idref="x1943.xhtml"/>
+    <itemref idref="x1944.xhtml"/>
+    <itemref idref="x1945.xhtml"/>
+    <itemref idref="x1646.xhtml"/>
+    <itemref idref="x1947.xhtml"/>
+    <itemref idref="x1948.xhtml"/>
+    <itemref idref="x1949.xhtml"/>
+    <itemref idref="x1950.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

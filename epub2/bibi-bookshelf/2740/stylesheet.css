@@ -1,0 +1,117 @@
+.baslik {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.bolum {
+    display: block;
+    font-size: 2em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.chapter {
+    display: block
+    }
+.frame {
+    height: auto;
+    width: auto
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0.75em;
+    margin: 0.25em 0 0.25em 3em
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 0.75em;
+    margin: 0.25em 0 0.25em 3em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.25em 0
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    margin: 0
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0.75em;
+    margin: 0.5em 0
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    text-align: center;
+    margin: 1em 0
+    }
+.resim {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.sagic {
+    clear: both;
+    display: block;
+    float: right;
+    font-style: normal;
+    text-align: justify;
+    width: 40%;
+    margin: 0 0 30px 30px
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    text-align: right;
+    margin: 1em 0
+    }
+.solbaslik {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0.75em;
+    margin: 0.25em 0
+    }

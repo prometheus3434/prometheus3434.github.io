@@ -1,0 +1,95 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title id="id-1">Beyin: Senin Hikayen</dc:title>
+    <dc:creator id="id-2">David Eagleman</dc:creator>
+    <dc:identifier>isbn:9786054729692</dc:identifier>
+    <dc:identifier>google:B22qDAEACAAJ</dc:identifier>
+    <dc:identifier>calibre:5923</dc:identifier>
+    <dc:identifier>uuid:bea2e15a-de5b-4a19-b70a-3c9d2bc92df4</dc:identifier>
+    <dc:identifier id="uuid_id">uuid:6fe8e431-94c7-4fc4-a05a-253712c6778b</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:contributor id="id-3">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2018-05-15T12:38:10+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;p style="font-family: '-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol'"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;Büyük ilgi gören kitabı Incognito ile nörobilimi geniş kitlelerle buluşturan David Eagleman, bizi içimizdeki kozmosa doğru hızlı ve nefes kesici bir yolculuğa çıkarıyor: Gerçek nedir? "Sen" kimsin? Nasıl karar veriyorsun? Beynin neden başkalarına ihtiyaç duyuyor? Teknoloji "insan olmak"ın anlamını değiştirebilir mi? Durak durak ilerleyen bu büyüleyici yolculuk ekstrem sporlar dünyasından ceza hukukuna, yüz ifademizden beyin ameliyatlarına, içgüdülerden ölümsüzlük arayışına kadar uzanıyor. Yol üstünde, muazzam karmaşıklık barındıran beyin hücreleri ve onları birbirine bağlayan trilyonlarca sinirin arasında görmeyi pek de beklemediğiniz bir şey beliriyor: kendiniz. "Nörobilimin dahice yazılmış hali. Soluksuz okunuyor." -Guardian- (Tanıtım Bülteninden)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Domingo Yayinevi</dc:publisher>
+    <dc:subject>Bilim-Teknoloji-Mühendislik</dc:subject>
+    <opf:meta refines="#id-1" property="title-type">main</opf:meta>
+    <opf:meta refines="#id-1" property="file-as">Beyin: Senin Hikayen</opf:meta>
+    <meta name="cover" content="cover"/>
+    <meta property="calibre:timestamp" scheme="dcterms:W3CDTF">2020-02-22T11:01:02Z</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2020-03-01T00:06:03Z</meta>
+    <opf:meta refines="#id-3" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Eagleman, David</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"David Eagleman": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="Kapak.xhtml" id="titlepage" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
+    <item href="IcKapak.html" id="id278" media-type="application/xhtml+xml"/>
+    <item href="DigerKitaplari.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Kunye.html" id="id494" media-type="application/xhtml+xml"/>
+    <item href="Icindekiler.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Giris.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="1BenKimim.html" id="id493" media-type="application/xhtml+xml"/>
+    <item href="2GerceklikNedir.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="3KontrolKimde.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="4NasilKararVeririm.html" id="id1102" media-type="application/xhtml+xml"/>
+    <item href="5SizeIhtiyacimVarMi.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="6KimeDonusecegiz.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Tesekkurler.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Notlar.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Sozluk.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+    <item href="sty.css" id="id" media-type="text/css"/>
+    <item href="1-1Sinapslar.png" id="id3" media-type="image/png"/>
+    <item href="1-2Bayrak.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="2-1DonenYilanlar.png" id="id5" media-type="image/png"/>
+    <item href="2-2DamaTahtasi.png" id="id7" media-type="image/png"/>
+    <item href="2-3Kediler.png" id="id8" media-type="image/png"/>
+    <item href="2-4Kosucular.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="2-5BasikYuz.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="2-6GozHareketleri.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="2-7AlgisalHiz.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="3-1DigerDiller.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="3-2BeyinOrmani.png" id="id14" media-type="image/png"/>
+    <item href="3-3EEG.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="3-4BardakDizme.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="3-5Sinaps.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="4-1GencYasliKadin.jpg" id="id18" media-type="image/jpeg"/>
+    <item href="4-2Tren.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="4-3Tren2.jpg" id="id27" media-type="image/jpeg"/>
+    <item href="4-4BeyinKarar.png" id="id28" media-type="image/png"/>
+    <item href="4-5BeyinKarar2.png" id="id29" media-type="image/png"/>
+    <item href="4-6BeyinVentral.jpg" id="id30" media-type="image/jpeg"/>
+    <item href="4-7DorsolateralKorteks.png" id="id31" media-type="image/png"/>
+    <item href="5-1Hareket.jpg" id="id32" media-type="image/jpeg"/>
+    <item href="5-2YuzIfadeleri.png" id="id33" media-type="image/png"/>
+    <item href="5-3ToplumsalAci.jpg" id="id34" media-type="image/jpeg"/>
+    <item href="5-4Medial.jpg" id="id35" media-type="image/jpeg"/>
+    <item href="6-1Implant.png" id="id36" media-type="image/png"/>
+    <item href="6-2MooreYasasi.jpg" id="id37" media-type="image/jpeg"/>
+    <item href="6-3SicanBeyni.jpg" id="id38" media-type="image/jpeg"/>
+    <item href="6-4BilincVeNorobilim.png" id="id39" media-type="image/png"/>
+    <item href="domingo.png" id="id52" media-type="image/png"/>
+    <item href="kapak.jpg" id="cover" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="titlepage"/>
+    <itemref idref="id278"/>
+    <itemref idref="id1"/>
+    <itemref idref="id494"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id493"/>
+    <itemref idref="id2"/>
+    <itemref idref="id6"/>
+    <itemref idref="id1102"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+  </spine>
+</package>

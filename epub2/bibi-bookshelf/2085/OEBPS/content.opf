@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ağaçkakan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Robbins, Tom">Tom Robbins</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b16224ca-c151-45b9-9d9c-734e16bf973a</dc:identifier>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:date>2014-05-21T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-05-27</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Bir Camel paketine bakarak neler söyleyebilirsiniz? Âşık değilseniz, o da her nesne kadar anlamsızdır. Ama, "azılı" bir bombacı aklınızı başınızdan almışsa ve aylarca Camel paketi dışında hiçbir şey "okumamışsanız", siz de Prenses Leigh-Cheri gibi kâinatın sırlarını çözebilirsiniz belki. Ağaçkakan, sıra dışı kahramanların yaşadığı tutkulu bir aşk hikâyesi... Tahttan sürülmüş bir kraliyet ailesinin Prenses kızı ile göğsüne bantlanmış dinamit lokumlarıyla dolaşan meşhur bombacı Bernard, nam-ı diğer Ağaçkakan, Hawaii'de karşılaşır. Ağaçkakan bir kanun kaçağıdır ama sıradan bir suçlu değildir; şerefli bir davası ve saygı değer bir felsefesi vardır. Prenses ise seksin "arsız" çağrısına doğru dörtnala koşturan soylu vücudunu ıslah etmeye karar vermiştir. Yüksek toplumsal ve çevresel duyarlılığı Ağaçkakan'ın romantik bireyciliğine toslayınca, Prenses bambaşka bir davanın peşinden koşmaya başlayacaktır: Aşk... Aşk bazen gelir; ama sonra geldiği gibi gider. Robbins'in hınzır, dalgacı, hiperaktif dünyasında renkli ve hareketli bir aşk turu atarken, ezeli bir soruya cevap bulma arayışındaki Prenses ile Ağaçkakan'a eşlik ediyoruz: Aşkı kalıcı kılmanın yolu nedir? Bu arayış sırasında, piramitler, kızıl saçlılar, uzaylılar, Ay'ın ve Güneş'in misyonu ve tabii Camel paketi arasındaki esrarlı ilişkileri keşfetmek de onlara kısmet olacaktır. Robbins aşkı mı "ti"ye alıyor; yoksa aşk karşısındaki çaresizliğimizi mi? Kendiniz karar verin.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier opf:scheme="UUID">urn:uuid:b16224ca-c151-45b9-9d9c-734e16bf973a</dc:identifier>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">79daa5cf-8dfc-46d3-b9f3-c719a6a1fae4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755392417</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:b16224ca-c151-45b9-9d9c-734e16bf973a</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Ağaçkakan" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-05-22T12:45:18.106000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_cover.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tom Robbins&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ayrr.png" id="ayrr.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/main.xhtml" title="Title Page" type="title-page"/>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

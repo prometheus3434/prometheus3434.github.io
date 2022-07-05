@@ -1,0 +1,40 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>1914: A Novel</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Echenoz, Jean">Jean Echenoz</dc:creator>
+    <dc:date>2014-01-07T12:37:57+00:00</dc:date>
+    <dc:publisher>New Press, The</dc:publisher>
+    <dc:description>Five Frenchmen go off to war, two of them leaving behind a certain young woman who longs for their return. But the main character in 1914 is the Great War itself. Jean Echenoz, the multi–;award–;winning French literary magician whose work has been compared to Joseph Conrad and Lawrence Sterne, has brought that deathtrap back to life, leading us gently from a balmy summer day deep into the insatiable—and still unthinkable—carnage of trench warfare. With the delicacy of a miniaturist and with irony both witty and clear–;eyed, the author offers us an intimate epic with the atmosphere of a classic movie: in the panorama of a clear blue sky, a biplane spirals suddenly into the ground; a tardy piece of shrapnel shears the top off a man's head as if it were a soft–;boiled egg; we dawdle dreamily in a spring–;scented clearing with a lonely shell–;shocked soldier strolling innocently to a firing squad ready to shoot him for desertion. But ultimately, the grace notes of humanity in 1914 rise above the terrors of war in this beautifully crafted tale that Echenoz tells with discretion, precision, and love.</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d63734de-da8f-4826-b8c7-e216896c8d71</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">39d05194-612e-42f5-bbb8-ba7071e4b687</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781595589248</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">bCtnAgAAQBAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="1914: A Novel"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:32.586000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean Echenoz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

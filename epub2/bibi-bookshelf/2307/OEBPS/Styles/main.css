@@ -1,0 +1,11 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+p {margin: 0; padding: 0;
+text-align:justify;
+text-indent: 1.5em
+}
+

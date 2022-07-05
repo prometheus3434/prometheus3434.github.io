@@ -1,0 +1,24 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+h2 {
+  font-family: Palatino;
+  text-align: center;
+  font-size: 2em;
+}
+p {
+  font-family: Palatino;
+  font-style: normal;
+  font-size: 12pt;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin-right: 2em;
+  margin-top: 0.5em;
+  margin-left: 2em;
+  margin-bottom: 0.5em;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.5em;
+}

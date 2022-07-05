@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{CA384BC5-4AA5-4857-9445-E134E83A2E98}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Paulo Coelho - Beşinci Dağ</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BEŞİNCİ DAĞ</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>YAZARIN NOTU</text>
+        </navLabel>
+        <content src="Text/yazarinnotu.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ÖNDEYİŞ</text>
+        </navLabel>
+        <content src="Text/ondeyis.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/1.bolum.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/2.bolum.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,27 @@
+p {
+  font-size:0.8em;
+	margin-top:0.1em;
+  margin-bottom:0.1em;
+  text-indent:0em;
+  text-align:center;
+}
+.sayfa_kes{page-break-before: always;}
+
+.kunye0{text-align:center;margin-top:1em;font-size:1em;margin-bottom:1em;font-weight:bold;font-style:italic;}
+.kunye1{text-indent:1.5em;font-size:1em;text-align:justify;}
+
+.kunye2{margin-top:0.5em;}
+.kunye3{margin-top:0.5em;margin-bottom:0.5em;}
+.kunye4{margin-top:1em;font-size:1.5em;font-weight:bold;}
+.kunye5{margin-top:1em;font-size:2.5em;font-weight:bold;}
+.kunye6{font-size:2.5em;font-weight:bold;}
+.kunye7{margin-top:4em;font-size:0.9em;font-weight:bold;}
+
+.kunye8{margin-top:1em;font-size:1em;font-style:italic;}
+
+.kunye9{margin-top:1em;font-size:1em;font-weight:bold;font-style:italic;}
+.kunye10{font-size:1em;font-weight:bold;font-style:italic;}
+
+.logo{margin-top:10em;text-align:center;}
+
+

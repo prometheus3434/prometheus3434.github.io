@@ -1,0 +1,511 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Paragraf-Stili-Yok {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Temel-Paragraf {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.x1-baslik {
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.667em;
+	font-style:italic;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:350px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.tp-ilk-0 {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:45px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.x2-baslik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:100px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:250px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x4-baslik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:5px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x3-1-baslik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:250px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x3-baslik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:100px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.otuken {
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:50px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.logo {
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:275px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.yazar {
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:150px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:150px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.eser {
+	color:#000000;
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.kesme {
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x1-kunye {
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:20px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x2-kunye {
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.tp-sb {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.tp-ilk {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:45px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.tp-ilk-sb {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:45px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.imza- {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:17px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.indentmetin-tek {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:15px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:55px;
+}
+p.indentmetin-sb {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:55px;
+}
+p.indentmetin {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:55px;
+}
+span.baslik2-0 {
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.baslik2 {
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.baslik2-1 {
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.logo {
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.otuken {
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.yazar {
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.eser {
+	font-family:"Adobe Caslon Pro Bold", serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.kunye-BH {
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.Kunye-n {
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.dipnot {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.normal {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.normal-i {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.normal-b {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.normal-bi {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Caslon-r {
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+p.para-style-override-1 {
+	text-align:right;
+	text-indent:14px;
+}
+p.para-style-override-2 {
+	break-after:page;
+}
+span.char-style-override-1 {
+	font-size:1em;
+}
+span.char-style-override-2 {
+	font-size:0.909em;
+}
+span.char-style-override-3 {
+	font-size:0.9em;
+}
+span.char-style-override-4 {
+	font-size:1.158em;
+}
+img.frame-1 {
+	height:107px;
+	width:81px;
+}

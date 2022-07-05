@@ -1,0 +1,383 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.basic-paragraph {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.baslik {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 199;
+    width: 199
+    }
+.calibre11 {
+    height: 80%;
+    width: auto
+    }
+.calibre12 {
+    height: 246;
+    width: 197
+    }
+.calibre13 {
+    height: 391;
+    width: 197
+    }
+.calibre14 {
+    height: 275;
+    width: 197
+    }
+.calibre15 {
+    height: 395;
+    width: 197
+    }
+.calibre16 {
+    height: 253;
+    width: 197
+    }
+.calibre17 {
+    height: 237;
+    width: 197
+    }
+.calibre18 {
+    height: 199;
+    width: 197
+    }
+.calibre19 {
+    height: 136;
+    width: 197
+    }
+.calibre2 {
+    height: 17;
+    width: 90
+    }
+.calibre20 {
+    height: 161;
+    width: 171
+    }
+.calibre21 {
+    height: 254;
+    width: 198
+    }
+.calibre22 {
+    height: 136;
+    width: 198
+    }
+.calibre23 {
+    height: 309;
+    width: 197
+    }
+.calibre24 {
+    height: 141;
+    width: 197
+    }
+.calibre25 {
+    height: 414;
+    width: 344
+    }
+.calibre26 {
+    height: 495;
+    width: 254
+    }
+.calibre3 {
+    height: 168;
+    width: 312
+    }
+.calibre4 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre5 {
+    height: 122;
+    width: 302
+    }
+.calibre6 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre7 {
+    background-color: #eee;
+    border: 1px solid #fff;
+    display: table-cell;
+    font-family: Arial, sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.2em;
+    text-align: justify;
+    vertical-align: inherit
+    }
+.calibre8 {
+    height: 174;
+    width: 171
+    }
+.calibre9 {
+    height: 179;
+    width: 171
+    }
+.chapter {
+    display: block
+    }
+.generictable {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h1baslik1 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h2baslik1 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik2 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-before: always;
+    text-align: center
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.indentmetinbold {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal2 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortaitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resimalti {
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: center
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }
+    @font-face {
+font-style: normal;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(../Fonts/LiberationSerif-Regular.ttf);
+}
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(../Fonts/LiberationSerif-Italic.ttf);
+}
+@font-face {
+font-style: bold;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(../Fonts/LiberationSerif-Bold.ttf);
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(../Fonts/LiberationSerif-BoldItalic.ttf);
+
+}
+
+@font-face {
+font-style: normal;
+font-family: 'Arial', sans-serif;
+font-weight: normal;
+src: url(../Fonts/arial.ttf);
+
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: normal;
+src: url(../Fonts/ariali.ttf);
+
+}
+
+@font-face {
+
+font-style: normal;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(../Fonts/arialbd.ttf);
+
+}
+
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(../Fonts/arialbi.ttf);
+}

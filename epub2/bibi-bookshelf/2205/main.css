@@ -1,0 +1,18 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:xx-small; font-family: 'Arial', sans-serif; }
+ .font1 { font-size:medium; font-family: 'Arial', sans-serif; }
+ .font2 { font-size:xx-large; font-family: 'Arial', sans-serif; }
+ .font3 { font-size:medium; font-family: 'Cambria', serif; }
+ .font4 { font-size:xx-large; font-family: 'Cambria', serif; }
+ .font5 { font-size:medium; font-family: 'Courier New', monospace; }
+ .font6 { font-size:small; font-family: 'Palatino Linotype', serif; }
+ .font7 { font-size:medium; font-family: 'Palatino Linotype', serif; }
+ .font8 { font-size:large; font-family: 'Palatino Linotype', serif; }
+ .font9 { font-size:xx-large; font-family: 'Palatino Linotype', serif; }
+ .font10 { font-size:medium; font-family: 'Times New Roman', serif; }
+ .font11 { font-size:xx-large; font-family: 'Times New Roman', serif; }

@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Bağırıp Çağırmadan Çocuk Eğitimi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="ACAR, EKREM">Ekrem Acar</dc:creator>
+    <dc:description>&lt;p&gt;Anne ve babaların çocuklarıyle ilgili şikayetleri, dertleri o kadar çok ki; yazmakla bitecek gibi değil...
+
+Ünlü bir atasözümüz vardır; İğneyi kendine, çuvaldızı başkasına batır diye. 
+
+Yani eğer çocuklarda bir sorun varsa, önce ailenin kendi davranışlarını, alışkanlıklarını gözden geçirmesi gerekir.
+Çünkü aileler çocukların rehberleridir ve bu anlamda onlara iyi örnek olmak zorundadır. Ayrıca çocuk eğitimi konusunda bilinçlenmek de bir diğer önemli faktördür. Yapılan hatalar, çocuğun benliğinde onarılması güç yaralar açabilir.
+
+Bu anlamda ailelere yardımcı olmak amacıyla hazırlanmış pek çok kaynak kitap vardır. Yıllardır rehber öğretmen olarak eğitim kurumlarına hizmet veren Ekrem Acar da, ailelerin çocuklarıyla yaşadıkları sorunları göz önünde bulundurarak, pratik bilgilerin ve çözümlerin bulunduğu bu kitabı sizler için hazırladı.
+
+Çocuk eğitimi sevgi, sabır ve emek gerektirir. Sorunları çözmek için hiçbir zaman geç değildir. Unutmayalım ki, mutluluk kaynağımız olan çocuklarımızı, mutsuzluk kaynağına dönüştürmemek biz anne-babaların elindedir...
+&lt;/p&gt;</dc:description>
+    <dc:publisher>Yediveren Yayınları</dc:publisher>
+    <dc:date>2012-10-17T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-05-03</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Çocuk Eğitimi</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">ce970ffc-2251-4f44-8a1c-e4806b78b25e</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055394196</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Bağırıp Çağırmadan Çocuk Eğitimi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ekrem Acar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/KAPAK_fmt.png" id="KAPAK_fmt.png" media-type="image/png"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+  </spine>
+</package>

@@ -1,0 +1,18 @@
+.calibre {
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal
+    }
+.heading {
+    display: block;
+    text-indent: 1.5em;
+    margin: 1em 0
+    }
+.main {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }

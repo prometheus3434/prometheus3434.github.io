@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Beş Ahlak Yazısı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Eco, Umberto">Umberto Eco</dc:creator>
+    <dc:identifier id="uuid">{05BDBEA7-5A04-4989-AFB9-CE2818BF0B41}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">eec2106f-2186-4a3b-94bb-23a965d18a58</dc:identifier>
+    <meta name="calibre:title_sort" content="Beş Ahlak Yazısı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Umberto Eco&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id11" media-type="application/x-dtbncx+xml"/>
+    <item href="cover-1.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.jpg" id="id" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="id1"/>
+    <itemref idref="id6"/>
+    <itemref idref="id0"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+  </spine>
+</package>

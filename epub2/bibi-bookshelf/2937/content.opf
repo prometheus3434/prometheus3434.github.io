@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Dokunma Dersleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tosun, Yalçın">Yalçın Tosun</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7f4946c7-a267-4121-815b-83a8b3ed22ea</dc:identifier>
+    <dc:date>2013-10-15T12:00:39+00:00</dc:date>
+    <dc:publisher>Yapi Kredi Yayinlari</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Anne, Baba ve Diğer Ölümcül Şeyler, Peruk Gibi Hüzünlü kitaplarıyla son dönem öykücülüğümüzün parlayan imzalarından Yalçın Tosun'un kendi doruklarından devşirdiği yepyeni öyküler...&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Bir Kocanın Gizli Defterinden, Sıcak Sandalye, Soğuk Yılan, Dilan'ın Ormanı, Ruhsar Hanım'la Levon Bey'in Beş Çayı... Belki de, yazarın unutulmazları arasına girecek böyle birçok öykü Dokunma Dersleri'nde bir araya geliyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Tutku, keder, utanç, pişmanlık, nefret, dostluk ve dile gelmeyen sevgiden mürekkep öykülerde Yalçın Tosun kalemini bir sihirbaz değneği gibi kullanıyor. Kaşla göz arasında rengârenk duyguları ortaya döküverdiğinde adeta neye uğradığımızı şaşırıyoruz. Derhal dönüp tekrar tekrar okuma isteği uyanınca bir sonraki öyküye hemen geçilemiyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Yalçın Tosun, üçüncü öykü kitabıyla sayıları giderek artan okurlarını ve öyküseverleri heyecanlandırıyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">daa2a87f-55c4-4c5a-a4e7-5cf3c4797880</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">I_AwoAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750826450</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:15.427000+00:00"/>
+    <meta name="calibre:title_sort" content="Dokunma Dersleri"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yalçın Tosun&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

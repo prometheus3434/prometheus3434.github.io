@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Drizzt Do'Urden'in Maceraları - 1 - Miras</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R. A.">R. A. Salvatore</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0045f43e-04a4-473c-ad28-e486823134df</dc:identifier>
+    <dc:publisher>Laika Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Hayat, şu anda Drizzt Do'urden için iyi, şimdiye kadar hiç olmadığı kadar huzur dolu. En yakın dostu cüce Bruenor, Mithril Salonunu geri alıp tahtına çıkmıştı ve en sıkı yoldaşları Wulfgar ile Catti-brie de sonbaharda evlenecekler. Hatta Buçukluk Regis bile geri döndü. Şimdi tüm dostlar bir aradalar ve Muthril Salonunun güvenli madenlerinde mutlu bir yaşam sürüyorlar. Ama Drizzt, bu huzur dolu hayatı elde edene kadar çok kudretli düşmanlar daedinmiştir. Şeytani tanrıça Lloth da bu düşmanlar arasında bulunmaktadır ve kaçak drowun mutlu günlerine son vermeye de kararlıdır... Drizzt Do'Urden'in Maceraları serisinin bu ilk kitabında sizi oldukça ilginç sürprizler bekliyor. R. A. Salvatore, bu kitapla birlikte Drizzt'in geçmiş yaşamıyla yeni hayatı arasında bir bağlantı sağlıyor. Sürükleyici bir tempo... Mükemmel bir hikaye... Sakın kaçırmayın.&lt;/p&gt;</dc:description>
+    <dc:date>2014-04-09T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ababe280-b68a-4019-8523-175a392a19da</dc:identifier>
+    <meta content="Drizzt Do'Urden'in Maceraları - 1 - Miras" name="calibre:title_sort"/>
+    <meta content="2013-07-20T10:30:02+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;R. A. Salvatore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="Unutulmuş Diyarlar" name="calibre:series"/>
+    <meta content="7.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.xhtml" id="index_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_000.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

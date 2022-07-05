@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Çanak çömlek patladı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="İzgü, Muzaffer">Muzaffer İzgü</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:68b69230-5efc-48cd-96b9-2057cd5c5568</dc:identifier>
+    <dc:date opf:event="modification">2014-06-06</dc:date>
+    <dc:date>1988-06-15T10:31:07+00:00</dc:date>
+    <dc:format>Mizah</dc:format>
+    <dc:publisher>Bilgi Yayınevi</dc:publisher>
+    <dc:description>&lt;p&gt;Okurlara, "İşte değişik bir mizah örneği" dedirteceğinden kuşku duymadığımız bu yapıt, hemen herkesin tutkuyla izlediği 'Muzaffer İzgü Mizahı' içerisinde yeni bir sentez damarının habercisi olarak da dikkati çekmektedir. Örneğin, bir karamizah öğesini sevinç ve coşkuyla yoğurarak, onu bir umut ışığına dönüştürmek, besbelli, Muzaffer İzgü gibi ödüller kazanmış bir ustanın başarabileceği bir iş olsa gerek.
+Baştan sona değin, gittikçe yoğunlaşan bir tad ve beğeniyle okuyacağınız, etkisi kalıcı bir kitaptır 'Çanak Çömlek Patladı'.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Mizah</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2ba5de1c-2e1c-43e8-8198-466481d41620</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:68b69230-5efc-48cd-96b9-2057cd5c5568</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">MGggzwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754940435</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754940435</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="eyk-CANAK-COMLEK-PATLADI-MUZAFFER-IZGU__16708563_0.jpg"/>
+    <meta name="calibre:title_sort" content="Çanak çömlek patladı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Muzaffer İzgü&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-index.css" id="sgc-index.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/eyk-CANAK-COMLEK-PATLADI-MUZAFFER-IZGU__16708563_0.jpg" id="eyk-CANAK-COMLEK-PATLADI-MUZAFFER-IZGU__16708563_0.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/Section0002.xhtml" title="Index" type="index"/>
+  </guide>
+</package>

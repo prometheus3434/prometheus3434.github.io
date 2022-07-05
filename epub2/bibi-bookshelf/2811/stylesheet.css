@@ -1,0 +1,1690 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre4 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.none {
+    font-size: 0.83333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none1 {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none2 {
+    color: #00F;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: underline
+    }
+.none3 {
+    color: #000;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none4 {
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none5 {
+    color: #000;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none6 {
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none7 {
+    color: #000;
+    font-size: 2.22222em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.none8 {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.none9 {
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none10 {
+    color: #000;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none11 {
+    font-size: 0.625em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none12 {
+    color: #000;
+    font-size: 0.83333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.none13 {
+    font-size: 0.625em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.none14 {
+    color: #000;
+    font-size: 0.83333em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none15 {
+    color: #000;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none16 {
+    color: #000;
+    font-size: 2.44444em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.none17 {
+    color: #000;
+    font-size: 0.83333em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none18 {
+    font-size: 2.44444em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.none19 {
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.none20 {
+    color: #000;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.s {
+    display: block;
+    text-indent: 19.7pt
+    }
+.s1 {
+    display: block;
+    padding-left: 0.7pt;
+    text-indent: 19.2pt
+    }
+.s2 {
+    display: block;
+    padding-left: 1.2pt;
+    text-indent: 20.15pt
+    }
+.s3 {
+    display: block;
+    padding-left: 1.7pt;
+    padding-right: 20.15pt;
+    text-indent: 20.15pt
+    }
+.s4 {
+    display: block;
+    padding-left: 2.15pt;
+    text-indent: 19.9pt
+    }
+.s5 {
+    display: block;
+    padding-left: 1.9pt;
+    text-indent: 19.7pt
+    }
+.s6 {
+    display: block;
+    padding-left: 3.1pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s7 {
+    display: block;
+    padding-left: 3.85pt;
+    text-indent: 19.2pt
+    }
+.s8 {
+    display: block;
+    padding-left: 3.6pt
+    }
+.s9 {
+    display: block;
+    padding-left: 6.95pt;
+    text-indent: 15.35pt
+    }
+.s10 {
+    display: block;
+    padding-left: 6.95pt;
+    padding-right: 40.3pt;
+    text-indent: 15.85pt
+    }
+.s11 {
+    display: block;
+    padding-left: 23.05pt
+    }
+.s12 {
+    display: block;
+    padding-left: 6.5pt
+    }
+.s13 {
+    display: block;
+    padding-left: 6pt;
+    text-align: justify
+    }
+.s14 {
+    display: block;
+    padding-left: 16.3pt
+    }
+.s15 {
+    display: block;
+    padding-left: 130.1pt
+    }
+.s16 {
+    display: block;
+    padding-left: 30.95pt;
+    text-align: justify
+    }
+.s17 {
+    display: block;
+    padding-left: 38.9pt;
+    text-indent: -4.3pt
+    }
+.s18 {
+    display: block;
+    padding-left: 131.3pt
+    }
+.s19 {
+    display: block;
+    padding-left: 19.2pt
+    }
+.s20 {
+    display: block;
+    padding-right: 11.5pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s21 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 11.05pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s22 {
+    display: block;
+    padding-left: 0.25pt;
+    text-indent: 19.9pt
+    }
+.s23 {
+    display: block;
+    padding-left: 0.95pt;
+    text-indent: 19.45pt
+    }
+.s24 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 14.4pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s25 {
+    display: block;
+    padding-right: 2.9pt;
+    text-align: center
+    }
+.s26 {
+    display: block;
+    padding-left: 1.9pt;
+    padding-right: 5.75pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s27 {
+    display: block;
+    padding-left: 2.4pt;
+    padding-right: 5.05pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s28 {
+    display: block;
+    padding-left: 22.3pt
+    }
+.s29 {
+    display: block;
+    padding-left: 3.35pt;
+    text-align: justify;
+    text-indent: 18.7pt
+    }
+.s30 {
+    display: block;
+    padding-left: 15.35pt;
+    text-indent: 3.6pt
+    }
+.s31 {
+    display: block;
+    padding-left: 18.7pt;
+    padding-right: 21.1pt
+    }
+.s32 {
+    display: block;
+    padding-left: 22.3pt;
+    padding-right: 42.25pt;
+    text-indent: -3.85pt
+    }
+.s33 {
+    display: block;
+    padding-left: 12.7pt;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 6pt
+    }
+.s34 {
+    display: block;
+    padding-left: 11.3pt;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 9.6pt
+    }
+.s35 {
+    display: block;
+    padding-left: 8.9pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 8.65pt
+    }
+.s36 {
+    display: block;
+    padding-left: 5.75pt;
+    text-indent: 10.55pt
+    }
+.s37 {
+    display: block;
+    padding-left: 2.15pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 20.4pt
+    }
+.s38 {
+    display: block;
+    padding-left: 2.9pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s39 {
+    display: block;
+    padding-left: 2.65pt;
+    text-align: justify;
+    text-indent: 17.75pt
+    }
+.s40 {
+    display: block;
+    text-indent: 19.45pt
+    }
+.s41 {
+    display: block;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s42 {
+    display: block;
+    padding-left: 19.9pt
+    }
+.s43 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 4.3pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s44 {
+    display: block;
+    padding-left: 20.65pt
+    }
+.s45 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 3.35pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s46 {
+    display: block;
+    padding-left: 21.35pt
+    }
+.s47 {
+    display: block;
+    padding-left: 21.85pt
+    }
+.s48 {
+    display: block;
+    padding-left: 2.4pt;
+    text-indent: 19.2pt
+    }
+.s49 {
+    display: block;
+    padding-left: 2.9pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 18.7pt
+    }
+.s50 {
+    display: block;
+    padding-left: 3.6pt;
+    text-indent: 18.95pt
+    }
+.s51 {
+    display: block;
+    padding-left: 3.85pt;
+    text-indent: 5.75pt
+    }
+.s52 {
+    display: block;
+    padding-left: 8.15pt;
+    text-indent: 10.1pt
+    }
+.s53 {
+    display: block;
+    padding-left: 4.3pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s54 {
+    display: block;
+    text-indent: 9.1pt
+    }
+.s55 {
+    display: block;
+    padding-right: 5.75pt;
+    text-align: justify;
+    text-indent: 25.45pt
+    }
+.s56 {
+    display: block;
+    padding-left: 4.1pt
+    }
+.s57 {
+    display: block;
+    padding-left: 4.1pt;
+    padding-right: 3.6pt;
+    text-align: justify;
+    text-indent: 17.5pt
+    }
+.s58 {
+    display: block;
+    padding-left: 19.45pt
+    }
+.s59 {
+    display: block;
+    padding-left: 20.15pt
+    }
+.s60 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 1.9pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s61 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 4.55pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s62 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 5.5pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s63 {
+    display: block;
+    padding-left: 1.9pt;
+    text-indent: 18.95pt
+    }
+.s64 {
+    display: block;
+    padding-left: 2.15pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s65 {
+    display: block;
+    padding-left: 3.85pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s66 {
+    display: block;
+    padding-left: 13.7pt
+    }
+.s67 {
+    display: block;
+    padding-left: 13.2pt
+    }
+.s68 {
+    display: block;
+    padding-left: 17.5pt;
+    padding-right: 0.7pt;
+    text-align: justify
+    }
+.s69 {
+    display: block;
+    padding-right: 0.7pt;
+    text-align: center
+    }
+.s70 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s71 {
+    display: block;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s72 {
+    display: block;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s73 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 1.7pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s74 {
+    display: block;
+    padding-left: 18.5pt
+    }
+.s75 {
+    display: block;
+    padding-left: 1.9pt;
+    text-indent: 19.2pt
+    }
+.s76 {
+    display: block;
+    padding-left: 5.05pt;
+    padding-right: 7.2pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s77 {
+    display: block;
+    padding-left: 5.5pt
+    }
+.s78 {
+    display: block;
+    padding-left: 7.7pt;
+    padding-right: 4.3pt;
+    text-align: justify
+    }
+.s79 {
+    display: block;
+    padding-left: 9.6pt;
+    padding-right: 5.75pt;
+    text-align: justify;
+    text-indent: 18.5pt
+    }
+.s80 {
+    display: block;
+    text-indent: 4.3pt
+    }
+.s81 {
+    display: block;
+    padding-left: 3.35pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 14.4pt
+    }
+.s82 {
+    display: block;
+    padding-left: 6.25pt;
+    text-indent: 12pt
+    }
+.s83 {
+    display: block;
+    padding-left: 7.2pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 12.5pt
+    }
+.s84 {
+    display: block;
+    padding-left: 18pt
+    }
+.s85 {
+    display: block;
+    padding-left: 4.3pt;
+    padding-right: 0.5pt;
+    text-align: justify
+    }
+.s86 {
+    display: block;
+    padding-left: 18.7pt
+    }
+.s87 {
+    display: block;
+    padding-left: 18.95pt
+    }
+.s88 {
+    display: block;
+    padding-right: 3.1pt;
+    text-align: center
+    }
+.s89 {
+    display: block;
+    padding-left: 19.7pt
+    }
+.s90 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s91 {
+    display: block;
+    padding-left: 1.2pt;
+    text-indent: 19.45pt
+    }
+.s92 {
+    display: block;
+    padding-left: 2.65pt;
+    text-indent: 19.45pt
+    }
+.s93 {
+    display: block;
+    padding-left: 22.55pt
+    }
+.s94 {
+    display: block;
+    padding-left: 3.6pt;
+    padding-right: 2.9pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s95 {
+    display: block;
+    padding-left: 3.85pt;
+    text-indent: 19.45pt
+    }
+.s96 {
+    display: block;
+    padding-left: 11.5pt;
+    padding-right: 1.45pt;
+    text-align: justify;
+    text-indent: 16.1pt
+    }
+.s97 {
+    display: block;
+    padding-left: 11.5pt;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 15.35pt
+    }
+.s98 {
+    display: block;
+    padding-left: 5.75pt;
+    text-indent: 6.25pt
+    }
+.s99 {
+    display: block;
+    padding-left: 1.9pt
+    }
+.s100 {
+    display: block;
+    padding-right: 5.75pt;
+    text-align: justify;
+    text-indent: 23.75pt
+    }
+.s101 {
+    display: block;
+    padding-left: 3.85pt;
+    padding-right: 7.2pt;
+    text-align: justify;
+    text-indent: 18.5pt
+    }
+.s102 {
+    display: block;
+    padding-left: 3.1pt;
+    padding-right: 8.65pt;
+    text-align: justify;
+    text-indent: 18pt
+    }
+.s103 {
+    display: block;
+    padding-left: 16.55pt
+    }
+.s104 {
+    display: block;
+    padding-left: 17.05pt
+    }
+.s105 {
+    display: block;
+    padding-left: 17.75pt
+    }
+.s106 {
+    display: block;
+    padding-left: 18.25pt
+    }
+.s107 {
+    display: block;
+    padding-left: 3.35pt
+    }
+.s108 {
+    display: block;
+    padding-left: 30.7pt
+    }
+.s109 {
+    display: block;
+    padding-left: 32.15pt
+    }
+.s110 {
+    display: block;
+    padding-left: 32.9pt
+    }
+.s111 {
+    display: block;
+    padding-left: 1.45pt
+    }
+.s112 {
+    display: block;
+    padding-left: 1.2pt
+    }
+.s113 {
+    display: block;
+    padding-left: 0.7pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s114 {
+    display: block;
+    padding-left: 1.2pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s115 {
+    display: block;
+    padding-left: 1.9pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s116 {
+    display: block;
+    padding-left: 2.65pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s117 {
+    display: block;
+    padding-left: 3.1pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s118 {
+    display: block;
+    padding-left: 3.6pt;
+    padding-right: 1.9pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s119 {
+    display: block;
+    padding-left: 21.1pt
+    }
+.s120 {
+    display: block;
+    padding-left: 14.65pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 5.75pt
+    }
+.s121 {
+    display: block;
+    padding-left: 14.4pt;
+    padding-right: 2.65pt;
+    text-align: justify
+    }
+.s122 {
+    display: block;
+    padding-left: 12.25pt;
+    padding-right: 2.65pt;
+    text-align: justify;
+    text-indent: 3.6pt
+    }
+.s123 {
+    display: block;
+    padding-left: 12.5pt;
+    padding-right: 4.1pt;
+    text-align: justify;
+    text-indent: 4.1pt
+    }
+.s124 {
+    display: block;
+    padding-left: 14.15pt;
+    padding-right: 4.8pt;
+    text-align: justify
+    }
+.s125 {
+    display: block;
+    text-indent: 17.3pt
+    }
+.s126 {
+    display: block;
+    text-indent: 13.45pt
+    }
+.s127 {
+    display: block;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s128 {
+    display: block;
+    padding-left: 0.95pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s129 {
+    display: block;
+    padding-left: 1.45pt;
+    text-indent: 19.45pt
+    }
+.s130 {
+    display: block;
+    padding-left: 1.9pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s131 {
+    display: block;
+    padding-left: 22.8pt
+    }
+.s132 {
+    display: block;
+    padding-left: 3.6pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s133 {
+    display: block;
+    text-align: right
+    }
+.s134 {
+    display: block;
+    padding-right: 0.5pt;
+    text-align: right
+    }
+.s135 {
+    display: block;
+    padding-left: 3.6pt;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 18.25pt
+    }
+.s136 {
+    display: block;
+    padding-left: 9.1pt;
+    padding-right: 2.9pt;
+    text-align: justify;
+    text-indent: 11.75pt
+    }
+.s137 {
+    display: block;
+    padding-left: 9.6pt;
+    padding-right: 3.35pt;
+    text-align: justify;
+    text-indent: 10.55pt
+    }
+.s138 {
+    display: block;
+    padding-left: 15.85pt;
+    text-indent: 4.1pt
+    }
+.s139 {
+    display: block;
+    padding-left: 19.2pt;
+    padding-right: 147.85pt
+    }
+.s140 {
+    display: block;
+    padding-left: 7.2pt;
+    padding-right: 4.8pt;
+    text-align: justify;
+    text-indent: 12pt
+    }
+.s141 {
+    display: block;
+    padding-left: 0.25pt
+    }
+.s142 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 4.3pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s143 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s144 {
+    display: block;
+    padding-left: 1.9pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s145 {
+    display: block;
+    padding-left: 3.1pt;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s146 {
+    display: block;
+    padding-left: 3.6pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s147 {
+    display: block;
+    padding-left: 23.5pt
+    }
+.s148 {
+    display: block;
+    padding-left: 23.75pt
+    }
+.s149 {
+    display: block;
+    padding-left: 24pt
+    }
+.s150 {
+    display: block;
+    padding-left: 4.8pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s151 {
+    display: block;
+    padding-left: 13.45pt
+    }
+.s152 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 9.6pt
+    }
+.s153 {
+    display: block;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 13.9pt
+    }
+.s154 {
+    display: block;
+    padding-right: 7.2pt;
+    text-align: center
+    }
+.s155 {
+    display: block;
+    padding-left: 4.3pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 4.8pt
+    }
+.s156 {
+    display: block;
+    padding-left: 3.35pt;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 8.15pt
+    }
+.s157 {
+    display: block;
+    padding-left: 6.25pt;
+    padding-right: 1.7pt;
+    text-align: justify;
+    text-indent: 7.7pt
+    }
+.s158 {
+    display: block;
+    padding-left: 4.8pt;
+    padding-right: 1.45pt;
+    text-align: justify;
+    text-indent: 9.6pt
+    }
+.s159 {
+    display: block;
+    padding-right: 2.65pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s160 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s161 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 2.15pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s162 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 1.9pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s163 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s164 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 1.7pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s165 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 1.7pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s166 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s167 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s168 {
+    display: block;
+    padding-left: 1.9pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s169 {
+    display: block;
+    padding-left: 20.4pt;
+    text-indent: 18.7pt
+    }
+.s170 {
+    display: block;
+    padding-left: 20.65pt;
+    padding-right: 50.9pt;
+    text-align: justify;
+    text-indent: 15.85pt
+    }
+.s171 {
+    display: block;
+    padding-left: 20.65pt;
+    text-indent: 18pt
+    }
+.s172 {
+    display: block;
+    padding-left: 20.65pt;
+    padding-right: 22.1pt;
+    text-indent: 17.75pt
+    }
+.s173 {
+    display: block;
+    padding-left: 38.4pt
+    }
+.s174 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 22.1pt;
+    text-indent: 18.25pt
+    }
+.s175 {
+    display: block;
+    padding-left: 0.5pt
+    }
+.s176 {
+    display: block;
+    padding-left: 20.15pt;
+    text-indent: -19.45pt
+    }
+.s177 {
+    display: block;
+    padding-right: 3.35pt;
+    text-align: center
+    }
+.s178 {
+    display: block;
+    padding-left: 18.5pt;
+    text-indent: 18.95pt
+    }
+.s179 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 4.8pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s180 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 3.35pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s181 {
+    display: block;
+    padding-left: 2.9pt;
+    padding-right: 2.15pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s182 {
+    display: block;
+    padding-left: 4.1pt;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s183 {
+    display: block;
+    padding-left: 4.55pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s184 {
+    display: block;
+    padding-right: 0.95pt;
+    text-align: justify
+    }
+.s185 {
+    display: block;
+    text-indent: 17.75pt
+    }
+.s186 {
+    display: block;
+    text-indent: 12pt
+    }
+.s187 {
+    display: block;
+    padding-left: 14.15pt
+    }
+.s188 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 6.95pt;
+    text-align: justify
+    }
+.s189 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 5.75pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s190 {
+    display: block;
+    padding-left: 20.9pt
+    }
+.s191 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 4.8pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s192 {
+    display: block;
+    padding-left: 1.7pt;
+    padding-right: 4.3pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s193 {
+    display: block;
+    padding-left: 2.4pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s194 {
+    display: block;
+    padding-left: 2.65pt;
+    padding-right: 3.6pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s195 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 17.5pt
+    }
+.s196 {
+    display: block;
+    padding-left: 0.25pt;
+    text-align: justify;
+    text-indent: 18pt
+    }
+.s197 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 18pt
+    }
+.s198 {
+    display: block;
+    padding-left: 1.7pt;
+    text-indent: 4.1pt
+    }
+.s199 {
+    display: block;
+    padding-left: 0.7pt;
+    text-align: justify;
+    text-indent: 16.55pt
+    }
+.s200 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 17.5pt
+    }
+.s201 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 17.75pt
+    }
+.s202 {
+    display: block;
+    padding-left: 0.5pt;
+    text-align: center
+    }
+.s203 {
+    display: block;
+    padding-right: 7.7pt;
+    text-align: justify
+    }
+.s204 {
+    display: block;
+    padding-left: 0.25pt;
+    text-indent: 19.45pt
+    }
+.s205 {
+    display: block;
+    padding-left: 1.9pt;
+    padding-right: 1.45pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s206 {
+    display: block;
+    padding-left: 3.1pt;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s207 {
+    display: block;
+    padding-left: 3.35pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 19.2pt
+    }
+.s208 {
+    display: block;
+    padding-left: 4.1pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s209 {
+    display: block;
+    padding-left: 8.4pt;
+    text-align: center
+    }
+.s210 {
+    display: block;
+    padding-left: 3.1pt;
+    text-align: justify;
+    text-indent: 8.9pt
+    }
+.s211 {
+    display: block;
+    padding-left: 1.45pt;
+    text-indent: 17.75pt
+    }
+.s212 {
+    display: block;
+    padding-left: 0.95pt;
+    text-indent: 8.9pt
+    }
+.s213 {
+    display: block;
+    padding-right: 14.4pt;
+    text-align: justify;
+    text-indent: 30.25pt
+    }
+.s214 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 4.3pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s215 {
+    display: block;
+    padding-left: 1.7pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s216 {
+    display: block;
+    padding-left: 2.65pt;
+    padding-right: 3.1pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s217 {
+    display: block;
+    padding-left: 3.1pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s218 {
+    display: block;
+    padding-left: 2.65pt
+    }
+.s219 {
+    display: block;
+    padding-left: 9.35pt;
+    text-indent: -5.3pt
+    }
+.s220 {
+    display: block;
+    padding-left: 148.1pt
+    }
+.s221 {
+    display: block;
+    padding-left: 12.25pt;
+    text-indent: 6.7pt
+    }
+.s222 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 3.85pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s223 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 2.9pt;
+    text-align: justify;
+    text-indent: 18.7pt
+    }
+.s224 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 2.4pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s225 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 2.9pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s226 {
+    display: block;
+    padding-left: 1.7pt;
+    padding-right: 1.45pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s227 {
+    display: block;
+    padding-left: 1.9pt;
+    padding-right: 1.9pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s228 {
+    display: block;
+    padding-left: 17.5pt
+    }
+.s229 {
+    display: block;
+    padding-right: 263.3pt;
+    text-align: right
+    }
+.s230 {
+    display: block;
+    padding-left: 0.95pt
+    }
+.s231 {
+    display: block;
+    padding-left: 2.15pt;
+    padding-right: 5.05pt;
+    text-align: justify
+    }
+.s232 {
+    display: block;
+    padding-left: 1.45pt;
+    padding-right: 2.9pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s233 {
+    display: block;
+    padding-left: 0.95pt;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s234 {
+    display: block;
+    padding-left: 0.7pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s235 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 19.9pt
+    }
+.s236 {
+    display: block;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s237 {
+    display: block;
+    padding-left: 0.5pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 18.7pt
+    }
+.s238 {
+    display: block;
+    padding-left: 4.8pt;
+    text-align: justify;
+    text-indent: 14.65pt
+    }
+.s239 {
+    display: block;
+    padding-left: 6.25pt;
+    text-indent: -4.55pt
+    }
+.s240 {
+    display: block;
+    padding-left: 8.65pt
+    }
+.s241 {
+    display: block;
+    padding-left: 11.3pt
+    }
+.s242 {
+    display: block;
+    padding-left: 10.8pt
+    }
+.s243 {
+    display: block;
+    padding-left: 11.05pt
+    }
+.s244 {
+    display: block;
+    padding-left: 10.3pt;
+    padding-right: 21.1pt
+    }
+.s245 {
+    display: block;
+    padding-left: 1.7pt
+    }
+.s246 {
+    display: block;
+    padding-left: 3.1pt;
+    padding-right: 3.1pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s247 {
+    display: block;
+    padding-left: 5.75pt;
+    padding-right: 1.2pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s248 {
+    display: block;
+    padding-left: 6.7pt;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 19.7pt
+    }
+.s249 {
+    display: block;
+    padding-left: 7.45pt;
+    text-align: justify;
+    text-indent: 19.45pt
+    }
+.s250 {
+    display: block;
+    padding-right: 2.65pt;
+    text-align: justify;
+    text-indent: 18.95pt
+    }
+.s251 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 1.7pt;
+    text-align: justify
+    }
+.s252 {
+    display: block;
+    padding-left: 0.95pt;
+    text-align: justify
+    }
+.s253 {
+    display: block;
+    padding-left: 20.4pt
+    }
+.s254 {
+    display: block;
+    padding-right: 2.9pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s255 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 1.7pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s256 {
+    display: block;
+    padding-left: 1.2pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s257 {
+    display: block;
+    padding-left: 21.6pt
+    }
+.s258 {
+    display: block;
+    padding-left: 1.9pt;
+    padding-right: 0.25pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s259 {
+    display: block;
+    padding-left: 22.1pt
+    }
+.s260 {
+    display: block;
+    padding-left: 2.15pt;
+    text-align: justify;
+    text-indent: 20.15pt
+    }
+.s261 {
+    display: block;
+    padding-left: 17.3pt
+    }
+.s262 {
+    display: block;
+    padding-left: 3.1pt;
+    padding-right: 0.7pt;
+    text-align: justify;
+    text-indent: 14.4pt
+    }
+.s263 {
+    display: block;
+    padding-left: 0.25pt;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 17.75pt
+    }
+.s264 {
+    display: block;
+    padding-right: 0.5pt;
+    text-align: justify;
+    text-indent: 17.3pt
+    }
+.s265 {
+    display: block;
+    padding-left: 1.9pt;
+    text-align: justify;
+    text-indent: 16.3pt
+    }
+.s266 {
+    display: block;
+    padding-left: 0.7pt;
+    text-indent: 5.05pt
+    }
+.s267 {
+    display: block;
+    padding-left: 0.7pt;
+    padding-right: 0.95pt;
+    text-align: justify;
+    text-indent: 18pt
+    }

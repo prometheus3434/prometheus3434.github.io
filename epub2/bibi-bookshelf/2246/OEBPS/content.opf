@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Asker Kaçağı - Savaşa Karşı Bilimkurgu Öyküleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kolektif">Kolektif</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">263dc807-6e2c-4a73-a0b4-51027488a5c8</dc:identifier>
+    <dc:date>2013-12-05T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-04-19</dc:date>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Philip K. Dick, Alfred Bester, William Tenn, Katherine MacLean, Stanislaw Lem, Eric Frank Russell ve Müfit Özdeş'in öykülerinin yer aldığı Asker Kaçağı "yeniliğini hiç kaybetmeyen" klasik bir bilimkurgu seçkisi. İlk yayım tarihinden 20 yıl sonra yeniden meraklılarının karşısında. &lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Savaşa ve militarizme karşı bir öyküler derlemesinin bilimkurgu alanından seçilmesinin anlamı nedir? Edebiyatta bilimkurgu dışında da antimilitarist olunabilir kuşkusuz. Ancak bilimkurgunun büyük bir avantajı var: Gündelik yaşamımıza sorgulanmaz bir biçimde yerleşmiş olan savaşperverliği, militarizmi, üniforma, emir-kumanda ve dayak biçiminde bir parçamız olan askerliği doğası gereği, çok daha rahat bir biçimde yadırgatabilir bilimkurgu. Bunu bir robot-masalı biçiminde yapabilir, asker kafasıyla açık açık dalga geçebilir, ya da beraberce kendi gezegenlerine ihanet ederek ölümü seçen bir Arzlı ile, tonlarca ağırlığıyla bize şekilsiz görünen bir Jüpiterli'nin acıklı öyküsünü anlatabilir. Militarizmin insani değerlere yaptığı tahribatı bütün şairlerin yok olduğu bir dünyadan daha iyi ne anlatabilir? Bugün farkına bile varmadan kabullendiğimiz birçok ufak-tefek politik kararın yarın yol açacağı sonuçları, geleceğe gidip 'yerinde ve zamanında' görmekten daha iyi ne sokabilir kafamıza?" - Bülent Somay&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Derleme</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8ef8532c-2be8-4a43-a95d-ce52d286a4db</dc:identifier>
+    <dc:identifier opf:scheme="UUID">263dc807-6e2c-4a73-a0b4-51027488a5c8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753427883</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="Asker.jpg"/>
+    <meta name="calibre:title_sort" content="Asker Kaçağı - Savaşa Karşı Bilimkurgu Öyküleri"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kolektif&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="text13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="Images/Asker.jpg" id="Asker.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text13"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Aklın çocukları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Card, Orson Scott &amp; Kayalıoğlu, Ümit">Orson Scott Card</dc:creator>
+    <dc:creator opf:role="aut">Ümit Kayalıoğlu</dc:creator>
+    <dc:description>The planet Lusitania is threatened with destruction by Starways Congress. With the help of the computer intelligence Jane, Ender must save the planet and its three species.</dc:description>
+    <dc:source>Children of Mind</dc:source>
+    <dc:publisher>Altıkırkbeş Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2006-06-15T10:48:11+00:00</dc:date>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d3123700-26e6-4812-9226-1dbc857e247c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752790742</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">YWtXtwAACAAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1.1.28" name="writer2epub"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="kapak.jpg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.8.7" name="Sigil version"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Aklın çocukları" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Ender Serisi" name="calibre:series"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="4.0" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Orson Scott Card&quot;: &quot;&quot;, &quot;Ümit Kayalıoğlu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/pub.xhtml" id="pub.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tit.xhtml" id="tit.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/footnotes.xhtml" id="footnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/eldv0.2.css" id="eldv0.2.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/literata-bold-italic.otf" id="literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-bold.otf" id="literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-italic.otf" id="literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/literata-regular.otf" id="literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="pub.xhtml"/>
+    <itemref idref="tit.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="footnotes.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover Page" type="cover"/>
+  </guide>
+</package>

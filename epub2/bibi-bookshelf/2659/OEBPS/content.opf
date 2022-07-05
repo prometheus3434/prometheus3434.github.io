@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Cam Irmağı Taş Gemi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bekiroğlu, Nazan">Nazan Bekiroğlu</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Taşın boyanmasıydı adet olan, sıra boyamalara geldi. Yontucunun, kullandığı boyalara güveni sonsuzdu. Asırlarca dayanacaklarını, solmayacaklarını, bambaşka renklere dönüşmeyeceklerini biliyordu. Kimi bir deniz kabuğunun, kimi bir çömlek parçasının içinde karıştırdı renkleri. İstese, sonsuz sayıda renk elde edebilirdi. İstemedi. Kimi iç açıcı, kimi kasvet verici, ama hepsi de canlı ve kalıcı renklerle yetindi. Gözlerini karla hiç ovmamış kadınların ülkesinde buz mavisi, yağmur grisi gibi, kar beyazının da adı olmazdı elbet ama renklerin en zor olanı, kendisinden başka bütün renkleri yutanı, renksizlik kılanı, göz yakıcı çiğ beyaz bile onun duvar resimlerinde yumuşadı, uysallaştı. Hacmini buldu, boyun eğdi, renklerden bir renk oldu. En çok da bir yıldız ırmağının üzerinde akan lacivert gökyüzünün altında güzel durdu. Çünkü kraliçe her defasında yıldızlı gök altında beyaz bir elbise giyiyor oluyordu. Yontucu her şeyi üstün bir gerçekçilik duygusuyla tamamladı. Tasvirleri arasında bu gerçekçilikle bağdaşmayan tek sahne, lacivert ırmağın burgaçlı dalgaları arasına saldığı, batacağı ya da yol alacağı zamanın tek anlık aynasından belli olmayan taş geminin üzerine kaldı. Onun da tek yolcusu vardı&lt;/p&gt;</dc:description>
+    <dc:date>2006-09-02T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a8bb395e-704c-446b-96e4-59b60886ae0e</dc:identifier>
+    <dc:date opf:event="modification">2014-09-12</dc:date>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9f89a846-8035-4933-bc5c-e54f9535a748</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752634787</dc:identifier>
+    <meta content="Cam Irmağı Taş Gemi" name="calibre:title_sort"/>
+    <meta content="2014-06-28T08:27:09.959000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nazan Bekiroğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image-1.jpeg" id="id3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

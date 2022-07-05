@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Arzu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jelinek, Elfriede">Elfriede Jelinek</dc:creator>
+    <dc:description>&lt;p&gt;"Kadınlar umutlarla doludur ve hatıralarıyla yaşarlar, oysa erkekler anlarla, özellikle geniş bir zaman dilimine yayılan anlarla hayatlarına devam ederler."
+
+Çekirdek bir aile... Erkek; müdürümüz (Hermann), kadın; müdürün karısı (Gerti) ve onların nur topu gibi oğulları. Bir de fabrikanın çalışanları var tabii. Tek egemen vardır; hem evin, hem fabrikanın, hem kasabanın, hem kadının sahibi; müdür. 
+
+Müdür tüm gün boyunca tek bir ânı düşünür... İş ilişkilerinde, sosyal ilişkilerinde, aile ilişkilerinde... 
+
+Toplum düzeyinde bir gerçeklikle yüz yüze gelmekten korkan insanlarda öfke, inkâr ve tedirginlik yaratacak bir kitap.
+
+Anti-pornografik bir roman!&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{7F5375AC-FA79-4863-A85D-E01B0EC02DB3}</dc:identifier>
+    <dc:date>2014-12-26T22:00:00+00:00</dc:date>
+    <dc:publisher>Gendaş Kültür</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2001-06-15T11:30:46+00:00</dc:date>
+    <dc:subject>Feminizm</dc:subject>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Erotik</dc:subject>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">84cfcf2f-be43-4a23-89ee-51522b86628f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753082884</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">nbNAAgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753082884</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.2" name="Sigil version"/>
+    <meta content="Arzu" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Elfriede Jelinek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/arzu.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

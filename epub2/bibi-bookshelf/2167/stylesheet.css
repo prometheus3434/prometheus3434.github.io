@@ -1,0 +1,80 @@
+.calibre {
+    display: block;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    color: #c00000;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 109%;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre2 {
+    line-height: 1.5
+    }
+.p {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 109%;
+    line-height: 1.5;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.p1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 109%;
+    line-height: 1.5;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 0
+    }
+.t {
+    font-weight: bold;
+    line-height: 1.5
+    }
+.t1 {
+    font-size: 0.83em;
+    line-height: 1.5
+    }
+.t2 {
+    font-style: italic;
+    line-height: 1.5
+    }
+.t3 {
+    color: blue;
+    font-weight: bold;
+    line-height: 1.5
+    }
+.th {
+    color: blue;
+    line-height: 1.5
+    }

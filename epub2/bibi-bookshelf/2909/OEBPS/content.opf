@@ -1,0 +1,125 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Bir Dinozorun Gezileri</dc:title>
+    <dc:creator id="id-1">Mîna Urgan</dc:creator>
+    <dc:identifier>isbn:9789750828409</dc:identifier>
+    <dc:identifier>goodreads:2006420</dc:identifier>
+    <dc:identifier>google:zMNpAwAAQBAJ</dc:identifier>
+    <dc:identifier>calibre:3061</dc:identifier>
+    <dc:identifier>uuid:8c1a7cf0-0f13-4cfc-9cb2-1553a93263be</dc:identifier>
+    <dc:identifier id="pub-id">urn:isbn:9789750828409</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:contributor id="id">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-04-25T09:58:55+00:00</dc:date>
+    <dc:description>Mîna Urgan Bir Dinozorun Anıları'nı yazarken kitabının bu kadar çok okunacağını hiç beklemiyor, "Benim gibi bir kocakarının hayatını kim merak eder ki..." diyordu.Ama öyle olmadı. Yüzbinlerce kişi bu ufak tefek, beyaz saçlı, sigara içen, cesur, komünist ve ateist olduğunu televizyon ekranlarında söyleyen İngiliz Edebiyatı profesörünün anılarını okudu ve kendiyle alay etmeyi bilen bu zeki kadını çok sevdi.Çünkü o, Türkiye aydınının sıcak ve zeki dilidir. Samimi bir düşünce sahibinin, aykırı da olsa, tüm kesimler tarafından kucaklanacağının kanıtıdır.Türkiye şimdi de onun yeni kitabı Bir Dinozorun Gezileri ile yeryüzünde keyifli ve uygar bir yolculuk yapacak. "Dinozorca" yani az parayla, tadını çıkarmayı ve insanları tanımayı hedefleyerek yapılmış bu gezileri gülümseyerek okuyacak, okurken düşünecek, yeryüzünü ve kendini tanıyıp öğrenecek, sevecek.</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Gezi</dc:subject>
+    <dc:subject>Travel</dc:subject>
+    <meta refines="#title" property="title-type">main</meta>
+    <meta refines="#title" property="file-as">Dinozorun Gezileri, Bir</meta>
+    <meta property="dcterms:modified">2013-11-08T12:00:00Z</meta>
+    <meta property="identifier-type" refines="#pub-id" scheme="onix:codelist5">15</meta>
+    <meta property="file-as" refines="#author">URGAN MINA</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta refines="#id" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Urgan, Mîna</meta>
+    <meta property="calibre:rating">10</meta>
+    <meta property="calibre:author_link_map">{"Mîna Urgan": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="chapter10xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="chapter11xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="chapter12xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/conclusion.xhtml" id="conclusionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part.xhtml" id="partxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gallery.xhtml" id="galleryxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/2109mina0001.jpg" id="image__2109mina0001jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0002.jpg" id="image__2109mina0002jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0003.jpg" id="image__2109mina0003jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0004.jpg" id="image__2109mina0004jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0005.jpg" id="image__2109mina0005jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0006.jpg" id="image__2109mina0006jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0007.jpg" id="image__2109mina0007jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0008.jpg" id="image__2109mina0008jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0009.jpg" id="image__2109mina0009jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0010.jpg" id="image__2109mina0010jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0011.jpg" id="image__2109mina0011jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0012.jpg" id="image__2109mina0012jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0013.jpg" id="image__2109mina0013jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0014.jpg" id="image__2109mina0014jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0015.jpg" id="image__2109mina0015jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0016.jpg" id="image__2109mina0016jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0017.jpg" id="image__2109mina0017jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0018.jpg" id="image__2109mina0018jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0019.jpg" id="image__2109mina0019jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0020.jpg" id="image__2109mina0020jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0021.jpg" id="image__2109mina0021jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0022.jpg" id="image__2109mina0022jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0023.jpg" id="image__2109mina0023jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0024.jpg" id="image__2109mina0024jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0025.jpg" id="image__2109mina0025jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0026.jpg" id="image__2109mina0026jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0027.jpg" id="image__2109mina0027jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0028.jpg" id="image__2109mina0028jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0029.jpg" id="image__2109mina0029jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0030.jpg" id="image__2109mina0030jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0031.jpg" id="image__2109mina0031jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0032.jpg" id="image__2109mina0032jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0033.jpg" id="image__2109mina0033jpg" media-type="image/jpeg"/>
+    <item href="Images/2109mina0034.jpg" id="image__2109mina0034jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="Images/logo.png" id="image__logopng" media-type="image/png"/>
+    <item href="Fonts/HelveticaNarrowTurk.ttf" id="font__HelveticaNarrowTurkttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/Palatino-Bold.ttf" id="font__Palatino-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/Palatino-Turk.ttf" id="font__Palatino-Turkttf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/PalatinoItalicOsF.ttf" id="font__PalatinoItalicOsFttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="conclusionxhtml"/>
+    <itemref idref="partxhtml"/>
+    <itemref idref="galleryxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="tocxhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

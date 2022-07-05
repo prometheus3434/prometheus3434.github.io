@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:ddb6f999-39f3-493c-b31e-956bdb32fa7b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Başlat</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/publish.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/baslat1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Birinci Kapı</text>
+      </navLabel>
+      <content src="Text/baslat2.html"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>0001</text>
+        </navLabel>
+        <content src="Text/baslat3.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>0002</text>
+        </navLabel>
+        <content src="Text/baslat4.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>0003</text>
+        </navLabel>
+        <content src="Text/baslat5.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>0004</text>
+        </navLabel>
+        <content src="Text/baslat6.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>0005</text>
+        </navLabel>
+        <content src="Text/baslat7.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>0006</text>
+        </navLabel>
+        <content src="Text/baslat8.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>0007</text>
+        </navLabel>
+        <content src="Text/baslat9.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>0008</text>
+        </navLabel>
+        <content src="Text/baslat10.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>0009</text>
+        </navLabel>
+        <content src="Text/baslat11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>0010</text>
+        </navLabel>
+        <content src="Text/baslat12.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>0011</text>
+        </navLabel>
+        <content src="Text/baslat13.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>0012</text>
+        </navLabel>
+        <content src="Text/baslat14.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>0013</text>
+        </navLabel>
+        <content src="Text/baslat15.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>0014</text>
+        </navLabel>
+        <content src="Text/baslat16.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>0015</text>
+        </navLabel>
+        <content src="Text/baslat17.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>0016</text>
+        </navLabel>
+        <content src="Text/baslat18.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>İkinci Kapı</text>
+      </navLabel>
+      <content src="Text/baslat19.html"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>0018</text>
+        </navLabel>
+        <content src="Text/baslat21.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>0019</text>
+        </navLabel>
+        <content src="Text/baslat22.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>0020</text>
+        </navLabel>
+        <content src="Text/baslat23.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>0021</text>
+        </navLabel>
+        <content src="Text/baslat24.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>0022</text>
+        </navLabel>
+        <content src="Text/baslat25.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>0025</text>
+        </navLabel>
+        <content src="Text/baslat26.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>0026</text>
+        </navLabel>
+        <content src="Text/baslat27.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>0027</text>
+        </navLabel>
+        <content src="Text/baslat28.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Üçüncü Kapı</text>
+      </navLabel>
+      <content src="Text/baslat29.html"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>0028</text>
+        </navLabel>
+        <content src="Text/baslat30.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>0029</text>
+        </navLabel>
+        <content src="Text/baslat31.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>0030</text>
+        </navLabel>
+        <content src="Text/baslat32.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>0031</text>
+        </navLabel>
+        <content src="Text/baslat33.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>0032</text>
+        </navLabel>
+        <content src="Text/baslat34.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>0033</text>
+        </navLabel>
+        <content src="Text/baslat35.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>0034</text>
+        </navLabel>
+        <content src="Text/baslat36.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>0035</text>
+        </navLabel>
+        <content src="Text/baslat37.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>0036</text>
+        </navLabel>
+        <content src="Text/baslat38.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>0037</text>
+        </navLabel>
+        <content src="Text/baslat39.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>0038</text>
+        </navLabel>
+        <content src="Text/baslat40.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>0039</text>
+        </navLabel>
+        <content src="Text/baslat41.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Teşekkürler</text>
+      </navLabel>
+      <content src="Text/baslat42.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/baslat43.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

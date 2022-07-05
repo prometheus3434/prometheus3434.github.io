@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bir Ölünün Anıları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bulgakov, Mihail">Mihail Bulgakov</dc:creator>
+    <dc:identifier id="uuid">{2150A567-7246-45ED-BDAE-1E67D6D16E4D}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Pinhan Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">d4b9f30f-51bb-45c5-be13-59a2b61d9b27</dc:identifier>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="cover" content="Untitled-1.jpg"/>
+    <meta name="calibre:title_sort" content="Bir Ölünün Anıları"/>
+    <meta name="calibre:author_link_map" content="{&quot;Mihail Bulgakov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/auth.xhtml" id="auth.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim1.xhtml" id="kisim1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum13.xhtml" id="bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum14.xhtml" id="bolum14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kisim2.xhtml" id="kisim2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum15.xhtml" id="bolum15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum16.xhtml" id="bolum16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id18" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id17" media-type="text/css"/>
+    <item href="Images/Untitled-1.jpg" id="Untitled-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitled-2.jpg" id="Untitled-2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id18">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="auth.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="kisim1.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+    <itemref idref="bolum8.xhtml"/>
+    <itemref idref="bolum9.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="bolum14.xhtml"/>
+    <itemref idref="kisim2.xhtml"/>
+    <itemref idref="bolum15.xhtml"/>
+    <itemref idref="bolum16.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

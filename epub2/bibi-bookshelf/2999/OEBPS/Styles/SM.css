@@ -1,0 +1,219 @@
+h1
+	{
+	margin-top:0.5em;
+	margin-bottom:0em;
+	text-align:center;
+	font-size:1.0em;
+	font-weight:normal;
+	}
+h2
+	{
+	margin-top:0em;
+	margin-bottom:8em;
+	text-align:center;
+	font-size:1.3em;
+	font-weight:bold;
+	}
+
+h3
+	{
+	margin-top:1em;
+	margin-bottom:1em;
+	font-weight:normal;
+	text-align:center;
+	font-size:normal;
+	text-indent:0em;
+	}
+
+h4
+	{
+	margin-top:1em;
+	margin-bottom:1em;
+	font-weight:normal;
+	text-align:center;
+	font-size:0.9em;
+	text-indent:0em;
+	}
+
+p
+	{
+	text-align:left;
+	text-indent:1em;
+	margin-top:0.0em;
+	margin-bottom:0.0em;
+	font-size: small;
+	}
+.p1
+	{
+	text-indent:0em;
+	}
+
+.p2
+	{
+	margin-right:1em;
+	margin-left:1em;
+	text-indent:-1em;
+	}
+
+.p3
+	{
+	margin-left:3em;
+	text-indent:0em;
+	}
+
+.p4 {
+	margin-left:2em;
+	text-indent:0em;
+	margin-top:1em;
+	margin-bottom:1em;}
+
+.p25
+	{
+	margin-right:1em;
+	margin-left:1em;
+	text-indent:1em;
+	}
+
+.ileri2{
+	margin-left:2em;
+	text-indent:0em;}
+
+.kunye
+	{
+	text-align:left;
+	text-indent:0em;
+	margin-top:0em;
+	margin-left:1em;
+	margin-bottom:0em;
+	font-size: 0.7em;
+	}
+
+.kunye2
+	{
+	text-align:left;
+	text-indent:0em;
+	margin-top:0em;
+	margin-left:5em;
+	margin-bottom:0em;
+	font-size: 0.7em;
+	}
+
+.yazar
+	{
+	text-align:justify;
+	text-indent:-1em;
+	margin-top:0em;
+	margin-left:1em;
+	margin-bottom:0em;
+	font-size: 0.7em;
+	}
+
+.yazar1
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:0em;
+	margin-left:1em;
+	margin-bottom:0em;
+	font-size: 0.7em;
+	}
+
+.logo {
+ margin-top:5em;
+ text-indent:0em;
+ text-align:center;
+}
+
+.m2ti0 {
+ margin-left:2.5em;
+ text-indent:0em;
+ font-size:.7em;}
+
+.m2ti1 {
+ margin-left:2.5em;
+ text-indent:1em;
+ font-size:.7em;}
+
+.baslik
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1.7em;
+	margin-top:2em;
+	margin-bottom:0.5em;
+	}
+
+.baslik2
+	{
+	text-align:center;
+	font-style:bold;
+	font-size:2.5em;
+	text-indent:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	}
+
+.baslik3
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1em;
+	margin-top:0.3em;
+	margin-bottom:1em;
+	}
+
+.baslik35
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1.6em;
+	margin-top:0.5em;
+	margin-bottom:0em;
+	}
+
+.baslik4
+	{
+	text-align:center;
+	font-size:.9em;
+	text-indent:0em;
+	margin-top:1em;
+	margin-bottom:0em;
+	}
+
+.baslik5
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:.9em;
+	margin-top:1em;
+	margin-bottom:4em;
+	}
+
+.dipnot
+	{
+	text-align:align-left;
+	text-indent:2em;
+	margin-top:1em;
+	margin-bottom:1em;	
+	margin-left:2em;
+	}
+
+.dipnot1
+	{
+	text-align:align-left;
+	text-indent:2em;
+	margin-top:1em;
+	margin-bottom:1em;
+	page-break-before:always;
+	margin-left:2em;
+	}
+
+.ilkharf
+	{
+	font-size:1.3em;
+	font-style:bold;
+	}

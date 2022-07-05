@@ -1,0 +1,203 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-family: "Times New Roman", "serif"
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    font-style: italic
+    }
+.calibre6 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.375em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-size: 1.375em;
+    line-height: 1.2
+    }
+.calibre8 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre9 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 35.4pt;
+    margin: 0
+    }
+.calibre10 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre11 {
+    line-height: 1.2
+    }
+.calibre12 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0 0 0 35.4pt
+    }
+.calibre13 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    text-indent: 35.4pt;
+    margin: 0
+    }
+.calibre14 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    margin: 0
+    }
+.calibre15 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0 0 0 35.4pt
+    }
+.calibre16 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre17 {
+    color: windowtext;
+    display: none;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.font {
+    font-family: "Verdana", "sans-serif"
+    }
+.msohyperlink {
+    color: blue;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.msonormal {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    margin: 0
+    }
+.msotoc {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.875em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    tab-stops: right dotted 277.3pt;
+    text-indent: 1.5em
+    }
+.msotocheading {
+    border-bottom: 0;
+    border-top: 0;
+    color: #2E74B5;
+    display: block;
+    font-family: "Calibri Light", "sans-serif";
+    font-size: 1.25em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 0
+    }
+.wordsection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }
+.pcalibre:link {
+    color: blue;
+    text-decoration: underline
+    }
+.pcalibre1:visited {
+    color: purple;
+    text-decoration: underline
+    }

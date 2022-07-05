@@ -1,0 +1,21 @@
+p {
+margin-top:0.1em;
+margin-bottom:0.1em;
+text-indent:1.5em;
+text-align:justify;}
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.9em;}
+
+.baslik{text-indent: 0em;text-align:center;font-weight:bold;font-size:1.1em;margin-bottom:2em;}
+.bb{font-size:135%;}
+.ilk {text-indent: 0em;}
+
+.resim{text-indent: 0em;margin-bottom:0.8em;;margin-top:0.8em;text-align:center;}
+
+.theon{text-indent: 0em;margin-right:1.5em;margin-left:1.5em;font-size:90%;}

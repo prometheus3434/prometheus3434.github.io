@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Dr. Bahattin Şakir İttihat ve Terakki'den Teşkilatı Mahsusa'ya Bir Türk Jakobeni</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Çiçek, Hikmet">Hikmet Çiçek</dc:creator>
+    <dc:publisher>Kaynak Yayınları</dc:publisher>
+    <dc:date>2012-09-05T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-06-21</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Politik</dc:subject>
+    <dc:subject>Orijinal</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">07b3988b-7adf-468f-87bd-2e971309379e</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789753433969</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="kapak_fmt.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dr. Bahattin Şakir İttihat ve Terakki'den Teşkilatı Mahsusa'ya Bir Türk Jakobeni"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hikmet Çiçek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="Text/9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.png" id="x1_fmt.png" media-type="image/png"/>
+    <item href="Images/10_fmt.png" id="x10_fmt.png" media-type="image/png"/>
+    <item href="Images/11_fmt.png" id="x11_fmt.png" media-type="image/png"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/2_fmt.png" id="x2_fmt.png" media-type="image/png"/>
+    <item href="Images/3_fmt.png" id="x3_fmt.png" media-type="image/png"/>
+    <item href="Images/4_fmt.png" id="x4_fmt.png" media-type="image/png"/>
+    <item href="Images/5_fmt.png" id="x5_fmt.png" media-type="image/png"/>
+    <item href="Images/6_fmt.png" id="x6_fmt.png" media-type="image/png"/>
+    <item href="Images/7_fmt.png" id="x7_fmt.png" media-type="image/png"/>
+    <item href="Images/8_fmt.png" id="x8_fmt.png" media-type="image/png"/>
+    <item href="Images/9_fmt.png" id="x9_fmt.png" media-type="image/png"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+    <item href="Images/logo_fmt.jpeg" id="logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x9"/>
+    <itemref idref="x10"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

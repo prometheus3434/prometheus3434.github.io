@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="5145ef09-d62b-4f29-93cc-805b5ad5abed" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Biri Hiçbiri Binlercesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{58BBE1EA-4012-4BE6-A02F-9F61CF91E37E}" playOrder="1">
+      <navLabel>
+        <text>Şu Sevgili Genge</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{DD07F1E0-F5BD-4520-9CDF-43CA8287E74B}" playOrder="2">
+      <navLabel>
+        <text>Ana Cadde</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{CBC5BCFF-F8E7-48BA-9AFD-C3F8ECF8D211}" playOrder="3">
+      <navLabel>
+        <text>Il</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

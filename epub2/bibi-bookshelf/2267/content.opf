@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Aşkın celladı ve diğer psikoterapi öyküleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Yalom, Irvin D.">Irvin D. Yalom</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">cbb1a481-2325-45f9-8386-5eb0b8de2ffe</dc:identifier>
+    <dc:date>2010-06-15T11:50:52+00:00</dc:date>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e7bae1ef-5212-465f-a4b1-10a9087e40f7</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">pyiStgEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2011-03-26T21:55:08.610819+00:00"/>
+    <meta name="cover" content="cover"/>
+    <opf:meta name="calibre:title_sort" content="Aşkın celladı ve diğer psikoterapi öyküleri"/>
+    <opf:meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Irvin D. Yalom&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_000.htm" id="Irvin_D_Yalom_Aşkın_Celladı8" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_001.htm" id="Irvin_D_Yalom_Aşkın_Celladı7" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_002.htm" id="Irvin_D_Yalom_Aşkın_Celladı6" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_003.htm" id="Irvin_D_Yalom_Aşkın_Celladı5" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_004.htm" id="Irvin_D_Yalom_Aşkın_Celladı4" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_005.htm" id="Irvin_D_Yalom_Aşkın_Celladı3" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_006.htm" id="Irvin_D_Yalom_Aşkın_Celladı2" media-type="application/xhtml+xml"/>
+    <item href="Irvin D Yalom Aşkın Celladı_split_007.htm" id="Irvin_D_Yalom_Aşkın_Celladı1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="~Cover02.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı8"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı7"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı6"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı5"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı4"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı3"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı2"/>
+    <itemref idref="Irvin_D_Yalom_Aşkın_Celladı1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover"/>
+  </guide>
+</package>

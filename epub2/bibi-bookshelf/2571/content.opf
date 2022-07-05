@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Bögürtlen Kisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jio, Sarah">Sarah Jio</dc:creator>
+    <dc:publisher>Arkadya Yayınları</dc:publisher>
+    <dc:date>2013-06-15T12:27:33+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1f58d0ab-3f14-4d16-ac86-7e9fe5f753a4</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a9cf0bc6-7f47-4107-85b4-7d711ddf72c5</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759997199</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">DUrxnQEACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Bögürtlen Kisi"/>
+    <meta name="calibre:timestamp" content="2014-06-26T22:39:44.993000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sarah Jio&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/404159_399285453471865_996563532_n.jpeg" id="id3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

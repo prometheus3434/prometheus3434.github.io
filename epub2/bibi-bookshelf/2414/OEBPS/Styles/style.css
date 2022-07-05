@@ -1,0 +1,164 @@
+@import url("../Styles/alt.css"); /*Embedded fonts*/
+
+@page {
+  margin: 2mm;
+}
+
+html body {
+  margin: 0;
+}
+
+div.header {
+  display: none;
+  display: oeb-page-head;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+h1.name {
+  font-size: 250%;
+  font-variant: small-caps;
+  margin: 0 0 0 0;
+}
+h1.title {
+  font-size: 200%;
+  margin: 0 10% 1em 10%;
+}
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 120%;
+  margin: 2em 0 1em 0;
+  page-break-before: always;
+}
+div.header + h2 {
+  page-break-before: auto;
+}
+
+p {
+  text-indent:5em;
+  margin: 0;
+}
+p.initial {
+  text-indent: 0;
+}
+p.initial + p {
+  clear: left;
+}
+p.spaced {
+  margin-top: 2em;
+}
+
+p.signature {
+  text-align: right;
+  margin: 1em 0 1em 0;
+}
+p.source {
+  text-align: right;
+  margin: 1em 0 0 20%;
+}
+
+em {
+  font-style: italic;
+}
+strong {
+  font-weight: bold;
+}
+span.caps {
+  font-variant: small-caps;
+}
+span.big {
+  font-size: 150%
+}
+span.small {
+  font-size: 80%
+}
+
+span.first {
+  font-variant: small-caps;
+  margin-left: -0.5em;
+  white-space: pre;
+}
+span.drop {
+  font-size: 400%;
+  font-weight: bold;
+  line-height: 1;
+  height: 1em;
+  float: left;
+  margin: -0.1em 0.125em -0.1em 0;
+}
+span.afterA {
+  margin-left: -1.0em;
+}
+span.afterL {
+  margin-left: -1.2em;
+}
+
+div.poetry {
+  margin: 1em 0 1em 2em;
+}
+div.poetry p {
+  margin: 0;
+  padding-left: 3em;
+  text-indent: -3em;
+  text-align: left;
+}
+div.poetry p.indented {
+  margin-left: 2em;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+div.illustration {
+  text-align: center;
+  margin: 1em 0 1em 0;
+}
+div.halftitle {
+  text-align: center;
+  margin: 2em 0 2em 0;
+  page-break-after: always;
+}
+
+div.dedication {
+  text-align: center;
+  text-transform: uppercase; /* unsupported */
+  margin: 3em 0 3em 0;
+}
+div.newpage {
+  page-break-before: always;
+}
+
+div.center {
+  text-align: center;
+  margin: 1em 0 1em 0;
+}
+div.backlink {
+  text-align: center;
+  margin: 2em 0 0 0;
+}
+div.end {
+  text-align: center;
+  margin: 2em 0 0 0;
+}
+
+a.call {
+  font-size: 60%;
+  vertical-align: text-top;
+  color: inherit;
+}
+
+div.toc {
+  font-size: 120%;
+  text-align: left;
+}
+div.toc a {
+}
+div.frontmatter {
+}
+div.chapter {
+  margin-top: 1em;
+}

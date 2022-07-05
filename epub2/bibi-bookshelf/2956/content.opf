@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Dönüş</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Platonov, Andrey">Andrey Platonov</dc:creator>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ecaa2717-6235-4d6d-abf3-c46f81299055</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;div&gt;Roman ve öykülerinin eksiksiz ve sansürsüz basımı ancak 90'larda yapılabilen Andrey Platonov, artık yirminci yüzyıl Rus edebiyatının en önemli yazarlarından biri kabul ediliyor, hatta eserlerinin Rus dilinde yarattığı etki Kafka'nın bütün Batı edebiyatı üzerinde yarattığı etkiyle kıyaslanıyor. Dönüş, Platonov'un çok sayıda öyküsü arasından seçilmiş dokuz öyküden oluşan bir derleme. Yirminci yüzyılın ilk yarısında geçen öyküler, büyük devrim ve savaşlara tanık olmuş bu dönemin çalkantılı yaşantısını yansıtıyor. Yoksulluk ve açlığın, acı ve zulmün kol gezdiği bir dünyadaki olumsuz koşulların gücünü yadsımıyor Platonov, ama öykülerinde umudu, sevgiyi ve her şeye rağmen mutlu olma azmini öne çıkarıyor.&lt;/div&gt;&lt;div&gt;Yalın gibi görünen incelikli bir dil, sıradan gibi görünen sıradışı karakterler, absürde kayabilen gerçekçi bir anlatım – tüm bunlara bir de Platonov'un hümanist bakış açısı ve ince mizah anlayışı eklendiğinde, öykülerin her biri defalarca okunabilecek edebi hazinelere dönüşüyor. Platonov'un dünyasına güzel bir giriş niteliğindeki bu derlemeyi Günay Çetao Kızılırmak'ın doğrudan Rusçadan yaptığı çeviriyle sunuyoruz.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">42f45581-83cb-4a3d-9f0c-e0bf5a2dab29</dc:identifier>
+    <meta name="calibre:title_sort" content="Dönüş"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-01-16T14:57:45.738000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Andrey Platonov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

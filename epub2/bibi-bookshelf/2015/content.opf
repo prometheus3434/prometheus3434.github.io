@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>1984 (Indonesian Edition)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Orwell, George">George Orwell</dc:creator>
+    <dc:date>2016-08-08T12:14:35+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">27dbe047-0479-41cc-af58-9b897948652e</dc:identifier>
+    <dc:publisher>Bentang Pustaka</dc:publisher>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Satire</dc:subject>
+    <dc:subject>Literary</dc:subject>
+    <dc:description>Sepanjang hidupnya, Winston berusaha menjadi warga negara yang baik dengan mematuhi setiap aturan Partai meski jauh di dalam hati dan pikirannya bersemayam antipati terhadap kediktatoran yang ada di negaranya. Walaupun begitu, Winston tidak berani melakukan perlawanan secara terbuka.Tidak mengherankan, karena Polisi Pikiran, teleskrin, dan mikrofon tersembunyi membuat privasi hanya serupa fantasi. Bahkan, sejarah ditulis ulang sesuai kehendak Partai. Negara berkuasa mutlak atas rakyatnya. Yang berbeda atau bertentangan akan segera diuapkan. 1984 merupakan satire tajam, menyajikan gambaran tentang luluhnya kehidupan masyarakat totalitarian masa depan yang di dalamnya setiap gerak warga dipelajari, setiap kata yang terucap disadap, dan setiap pemikiran dikendalikan. Hingga kini, 1984 merupakan karya penting Orwell yang mengantarkannya ke puncak kemasyhuran.[Mizan, Bentang Pustaka, Masa Depan, Novel, Terjemahan, Satire, Indonesia]</dc:description>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">9ccca5d9-6bb3-42c7-80fe-b15ba00f90e9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786022912347</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">JT_JDAAAQBAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2011-03-03T22:55:52.222850+00:00"/>
+    <meta name="calibre:title_sort" content="1984 (Indonesian Edition)"/>
+    <meta name="cover" content="cover"/>
+    <opf:meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;George Orwell&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover1.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

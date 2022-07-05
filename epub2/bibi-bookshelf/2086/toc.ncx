@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta name="dtb:uid" content="48c38235-3020-4df6-98bc-9f5346811940" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:generator" content="calibre (5.30.0)" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Ağaçların Özel Hayatı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Yaşamöyküleri</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati-1.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati-3.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati-4.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>I. Sera</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati-6.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>II. Kış</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati-17.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="OEBPS/Text/AgaclarinOzelHayati-20.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

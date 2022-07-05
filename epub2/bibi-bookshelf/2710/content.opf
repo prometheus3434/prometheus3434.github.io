@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Cocugun Öyküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Handke, Peter">Peter Handke</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d6c90734-fcfb-4d27-9d87-60d6c7093a25</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;'İleride bir zaman, bir çocukla birlikte yaşamanın' düşünü kuran bir adamın öyküsü&lt;/div&gt;&lt;div&gt;'Çocuk, canlı bölmenin ardından gösterildiğinde, yetişkin yeni doğmuş bir bebek değil, eksiksiz bir insan gördü orada..'&lt;/div&gt;&lt;div&gt;Peter Handke'nin bu anlatısı da tıpkı Solak Kadın gibi, yaşama denen akışın ortasında durup yeni deneyime açılmayı isteyen birinin, bir 'baba'nın başından geçenler...&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c2b058ea-564a-4e76-9244-65225037df84</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:28.861000+00:00"/>
+    <meta name="calibre:title_sort" content="Cocugun Öyküsü"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Peter Handke&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

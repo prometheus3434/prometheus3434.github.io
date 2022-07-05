@@ -1,0 +1,30 @@
+p {
+  font-size:0.8em;
+  margin:0 auto 0 auto;
+  text-indent:0em;
+  text-align:left;
+}
+.sayfa_kes{page-break-before: always;}
+.buyuk{font-size:120%}
+.buyuk2{font-size:110%}
+
+.logo{text-indent:0em; text-align:center;margin-top:15%;}
+
+
+.kunye0{text-indent:0em; text-align:center;margin-top:20%;font-size:130%}
+.kunye1{text-indent:0em; margin-top:3%;text-align:center;font-size:150%}
+.kunye2{text-indent:0em;text-align:center;font-size:150%}
+
+.kunye3{text-indent:0em;margin-top:1em;}
+.kunye4{text-indent:0em;margin-top:5em;}
+
+.kunye5{text-indent:0em; text-align:center;margin-top:5%;font-size:180%;font-weight:bold;}
+.kunye6{text-indent:0em; margin-top:2%;text-align:center;font-size:210%;font-weight:bold;}
+.kunye7{text-indent:0em;text-align:center;font-size:210%;font-weight:bold;}
+
+.kunye8{text-indent:0em;text-align:center;font-size:110%;margin-top:10%;}
+.kunye9{text-indent:0em;text-align:center;font-size:100%;margin-top:10%;}
+.kunye10{text-indent:0em;text-align:center;font-size:100%;}
+.kunye11{text-indent:0em;text-align:center;font-size:90%;margin-top:10%;}
+
+.yazar{text-indent:0em;text-align:justify;margin-top:5%;}

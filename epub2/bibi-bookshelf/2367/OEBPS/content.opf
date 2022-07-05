@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bağışlanmanın Dört Yolu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le">Ursula K. Le Guin</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">ae16d13b-6ed9-468d-b413-9d9ecae73b4d</dc:identifier>
+    <dc:date>2015-03-17T22:00:00+00:00</dc:date>
+    <dc:date>2015-03-17T21:00:00+00:00</dc:date>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Zaferle sonuçlanan her özgürlük savaşı, yeni bir özgürlük savaşının başlangıcı demektir. Werel ve Yeowe'de sıra kadınlarda...&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Şimdi tiksinerek, hikayemi sadece bu tür şeylerin oluşturduğunu ama aslında bir yaşamda, hatta bir kölenin yaşamında bile cinsellikten çok daha fazla şeyler olduğunu söyleyeceksiniz. Bu doğru. Benim bütün söyleyebileceğim hem kadın, hem erkek olarak en kolay cinselliğimiz konusunda köle ediliyor olabildiğimizdir. Hatta hür erkekler ve kadınlar olarak hürriyetimizi en zor muhafaza edebildiğimiz yer de orası diyebiliriz. Tenin siyasi düzenleri iktidarın köküdür.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;(Arka Kapak)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3b629643-d040-4d65-8552-58cc3941bf74</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753423229</dc:identifier>
+    <dc:identifier opf:scheme="UUID">ae16d13b-6ed9-468d-b413-9d9ecae73b4d</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Bağışlanmanın Dört Yolu"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource3" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/image001.png" id="resource1" media-type="image/png"/>
+    <item href="Images/image002.png" id="resource2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Deniz Kıyısında Koşan Ala Köpek</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+    <dc:publisher>Ötüken Neşriyat A.Ş.</dc:publisher>
+    <dc:date>2021-06-25T12:49:47+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5629cbf5-6701-4e43-9679-842f5d30da5c</dc:identifier>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Short Stories (single author)</dc:subject>
+    <dc:description>Deniz Kıyısında Koşan Ala Köpek, Cengiz Aytmatov’un mitoloji ile gündelik hayatı bir araya getirdiği ve insanlığın en büyük erdemlerinden olan metanet ve fedakârlığın trajik hayatlarımızda ne kadar büyük bir öneme sahip olduğunu eşsiz bir üslupla anlattığı hikâyesidir. Okuyucuyu hüzünlendiren ve tesiri altına alan bu hikâye, Aytmatov’un diğer hikâyelerinden farklı olarak bir bozkırda değil, denizin tam ortasında geçer. Bir yaratılış efsanesi ile başlayan hikâyede bir babanın, evladı için hayatından vazgeçişinden bahsedilir. Hatta yalnızca bir babanın değil, küçük bir çocuk olan Kirisk’in yaşaması için üç adamın ölüme gidişi âdeta yüreğinize işlenerek anlatılır. “Koca bir denizin ortasında susuzluktan ölüp gitmek korkunç bir şeydi. Eskiden övündüğü nesi varsa hepsi yok olup gitmişti ve ölüm hiç de uzak değildi artık. Ama göğsündeki yüreği yine gençlik yıllarındaki arzularla, tutkuyla çarpıyor, gönlü kocamıyordu. Ne büyük bir felaketti gönlün hiç yaşlanmaması! Çünkü, gönül yaşlanmayınca, düşleri, düşünceleri de değişmiyordu. Ve insan ancak rüyada, düşüncelerde hür ve ölümsüzdü…&amp;quot;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2628cc18-f5c6-44a1-9791-bb0395ca19e4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786254080500</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">SgI1EAAAQBAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2010-12-27T17:45:02.020684+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Deniz Kıyısında Koşan Ala Köpek"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cengiz Aytmatov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id2" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

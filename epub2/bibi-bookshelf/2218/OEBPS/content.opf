@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Antikapitalist Zihniyet</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Mises, Ludwig von">Ludwig von Mises</dc:creator>
+    <dc:description>Kapitalizm karşıtlığı siyasî ve ideolojik yelpazenin sağında, solunda, ortasında, kısaca herhangi bir yerinde yer alan herkesin paylaştığı bir tavırdır. Kapitalizmi dolu dizgin eleştirmek sıradan bir davranış hâline gelmiştir. Bu niye böyledir. Kapitalizminin insanlığa kazandırdığı iyi bir şey yok mudur? Kapitalizm karşıtı zihniyet sağlam bir temele oturmakta mıdır? Yoksa tamamen hissi midir? Kapitalizm insanların erdemlerini görmezden mi gelmektedir? Kapitalizm ortadan kaldırılırsa, insanlık daha iyiye mi gidecektir? Liberte Yayınları bu soruların cevabını, düşünce tarihinin kararlı,kapitalizm savunucularından biri olan Ludwig von Mises’ten okuma fırsatını size veriyor; Anti Kapitalist Zihniyet ile.</dc:description>
+    <dc:identifier id="BookId" opf:scheme="UUID">da31e7cf-0dd7-4846-a4e7-6305d5b182b4</dc:identifier>
+    <dc:date>2014-12-20T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-12-23</dc:date>
+    <dc:publisher>Liberte Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Politik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4354b52f-4acf-45eb-ae3d-b734ffe5189e</dc:identifier>
+    <dc:identifier opf:scheme="UUID">da31e7cf-0dd7-4846-a4e7-6305d5b182b4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">975687788X</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Antikapitalist Zihniyet"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ludwig von Mises&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="Images/image001.png" id="cover-image" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter1.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/chapter3.xhtml" title="Text" type="text"/>
+    <reference href="Text/chapter2.xhtml" title="İçindekiler" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

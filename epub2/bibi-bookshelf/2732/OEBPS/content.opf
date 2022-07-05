@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Çaka Bey</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Yavuz Bahadıroğlu">Yavuz Bahadıroğlu</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a3bfe92a-4792-4fdc-bb5b-ba454d8ceb30</dc:identifier>
+    <dc:date>2012-06-15T09:54:57+00:00</dc:date>
+    <dc:publisher>Nesil Yayınları</dc:publisher>
+    <dc:description>&lt;p class="description"&gt;Günü kavramak için dünü anlamak lazım... Dün, tarihtir. Ancak kuru bilgi yığınlarıyla tarihi anlamaya imkan yoktur. İşin sırrı ayrıntılarda saklıdır. İyi kavranması gereken gerçekler ayrıntılardadır. Tarihi ayrıntılarıyla kavrama arayışı bizi romana götürür: Gölgede kalmış değerleri sadece romanda buluruz. Çaka Bey"i romanlaştırmak da zaten böyle bir arayışın parçasıdır. "İlk Türk Amirali" olarak ünlenen Çaka Bey ile çevresinde bir devrin, hatta devirlerin tüm detaylarını bulabilirsiniz. Ayrıca Selçuklu"yu büyüten unsurlarla birlikte bitiren hastalıkları da keşfedeceğinizi sanıyoruz. Artık bunun ışığında yeni dünyayı kucaklayabilir, hatta geleceği idrak hususunda isabetli adımlar atabilirsiniz.[Nesil Yayınları]&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Türk Tarihi</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">908b8be9-3586-404d-8659-10b8ba5fe597</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051621401</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">vH6kDAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754081053</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">18943705</dc:identifier>
+    <meta content="Çaka Bey" name="calibre:title_sort"/>
+    <meta content="2013-11-29T21:00:04.130000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yavuz Bahadıroğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_000.htm" id="Cakabey_000.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_001.htm" id="Cakabey_001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_002.htm" id="Cakabey_002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_003.htm" id="Cakabey_003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_004.htm" id="Cakabey_004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_005.htm" id="Cakabey_005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_006.htm" id="Cakabey_006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_007.htm" id="Cakabey_007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_008.htm" id="Cakabey_008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_009.htm" id="Cakabey_009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_010.htm" id="Cakabey_010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_011.htm" id="Cakabey_011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_012.htm" id="Cakabey_012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_013.htm" id="Cakabey_013.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Cakabey_014.htm" id="Cakabey_014.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Misc/themedata.thmx" id="added1" media-type="application/octet-stream"/>
+    <item href="Text/colorschememapping.xml" id="added2" media-type="application/xml"/>
+    <item href="Text/filelist.xml" id="added" media-type="application/xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Cakabey_000.htm"/>
+    <itemref idref="Cakabey_001.htm"/>
+    <itemref idref="Cakabey_002.htm"/>
+    <itemref idref="Cakabey_003.htm"/>
+    <itemref idref="Cakabey_004.htm"/>
+    <itemref idref="Cakabey_005.htm"/>
+    <itemref idref="Cakabey_006.htm"/>
+    <itemref idref="Cakabey_007.htm"/>
+    <itemref idref="Cakabey_008.htm"/>
+    <itemref idref="Cakabey_009.htm"/>
+    <itemref idref="Cakabey_010.htm"/>
+    <itemref idref="Cakabey_011.htm"/>
+    <itemref idref="Cakabey_012.htm"/>
+    <itemref idref="Cakabey_013.htm"/>
+    <itemref idref="Cakabey_014.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

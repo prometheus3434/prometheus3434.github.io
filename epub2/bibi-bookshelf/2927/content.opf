@@ -1,0 +1,87 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Doğu Bilgeliği - Kılavuz Kitap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ananda K. Coomaraswamy, Rene Guenon, Surendranath Dasgupta">Ananda K. Coomaraswamy, Rene Guenon, Surendranath Dasgupta</dc:creator>
+    <dc:publisher>Say Yayınları</dc:publisher>
+    <dc:date>2013-02-24T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5f263db7-d626-4c65-9383-624f602729e7</dc:identifier>
+    <dc:description>&lt;p&gt;"Her ne düşünüyorsak oyuz. Her ne olursak düşüncelerimizle oluruz. Düşüncelerimizle dünyayı kurarız. Kim ki saf düşünceyle konuşmaz veya hareket etmez, arabayı çeken öküzün ayak izlerini takip etmesi gibi tekerlerin, takip eder onu ıstırap."
+
+"Doğu Bilgeliği Dizisi", Doğu öğretileri üzerine yazılmış inceleme, araştırma ve yorumların yer verildiği, bir yandan da çevirisi mümkün olduğu ölçüde bu öğretilerin yer aldığı kaynak metinlerin çevirilerinin yayınlandığı bir dizi olacak. Bu ilk kitap ise, bir giriş kitabı olarak aynı zamanda, bu öğretilerin anlaşılmasında dikkat edilecek hususları toplu olarak ele aldığından ötürü dizinin bütün kitapları için istifade edilebilecek bir kılavuz kitap. &lt;/p&gt;</dc:description>
+    <dc:subject>Doğu Felsefeleri</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">464e4c48-4df3-4ff1-bb58-904812942934</dc:identifier>
+    <meta name="calibre:title_sort" content="Doğu Bilgeliği - Kılavuz Kitap"/>
+    <meta name="calibre:timestamp" content="2013-02-25T15:57:36+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series" content="Felsefe Dizisi"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ananda K. Coomaraswamy, Rene Guenon, Surendranath Dasgupta&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Ops/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Ops/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Ops/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Ops/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Ops/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Ops/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Ops/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Ops/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Ops/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Ops/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Ops/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Ops/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Ops/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Ops/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Ops/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Ops/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Ops/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Ops/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Ops/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Ops/images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="Candara.ttf" id="cid1" media-type="application/octet-stream"/>
+    <item href="Candarab.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="Candarai.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="Candaraz.ttf" id="cid4" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Ops/006.html#a8" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="Ops/007.html#a22" type="text" title="Beginning"/>
+  </guide>
+</package>

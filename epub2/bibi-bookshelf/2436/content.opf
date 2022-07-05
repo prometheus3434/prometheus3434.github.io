@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Ben Kapıyım - Madde ve Mana Arasındaki Geçit İnsan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Osho">Osho</dc:creator>
+    <dc:publisher>Ganj Yayınları</dc:publisher>
+    <dc:date>2013-01-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6ecc7f8c-db1d-4792-adec-f24b30b301c0</dc:identifier>
+    <dc:description>&lt;p&gt;"Bir benliğim vardı-bu sadece kapıya kadardı. Bilme tapınağına girdiğin anda benlik kalmaz, onu artık bulamazsın. O seni kapıya kadar takip eden, hatta sadece takip etmekle kalmayıp sana yapışıp kalan bir gölgedir ama sadece kapıya kadar, o tapınağa giremez. Eğer onu saklamak zorundaysan tapınağa giremezsin. Benlik bir kişinin atması gereken en son şeydir. Bir kişi her şeyi atabilir ama kendini atması öyle imkânsızdır ki… Çünkü kendini bilme çabası, kendini bilme gayreti insanın kendisinin kendisi için bir çabasıdır. Sen diye bir şey olmayacağını idrak ettiğin anda; artık çabalamazsın...
+
+Modern zihnin bütün koşuşturmacası ölüm korkusu nedeniyledir. 
+
+Tarihte ilk defa insanlar ölümden bu kadar çok korkuyorlar çünkü ilk defa olarak ölümsüzlükten bu kadar bihaberler. Eğer ölümsüzlüğün farkındaysan, o zaman telaş olmaz. Sonsuzluğun içinde yaşıyorsun ve her zaman yeterince zaman, gerektiğinden fazla zaman vardır. Hiçbir şey kaybolmaz çünkü zaman sonsuzdur. Bu yüzden bir saniye kaybolursa, bu daha az zamanın kaldığı anlamına gelmez. Zamanın aynı kalır çünkü sonsuzdur. Ölçüsüz bir hazineden hiçbir şey kaybedemezsin. Kaybetmeye devam edebilirsin, hiç fark etmez; kalan aynıdır. Ondan bir şey alamazsın. Ama bizim zamanımız kısıtlı. Zaman kısa ve ölüm orada." OSHO&lt;/p&gt;</dc:description>
+    <dc:subject>Kişisel Gelişim</dc:subject>
+    <dc:subject>Ruhsal</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">24bdd38a-4c8a-483a-9942-526bc6187872</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758817719</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ML9BMwEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2013-08-30T10:43:27.336000+00:00"/>
+    <meta name="calibre:title_sort" content="Ben Kapıyım - Madde ve Mana Arasındaki Geçit İnsan"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Osho&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Ops/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Ops/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Ops/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Ops/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Ops/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Ops/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Ops/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Ops/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Ops/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Ops/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Ops/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Ops/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Ops/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>90 Dakikada Nietzsche</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Strathern, Paul">Paul Strathern</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:date>2016-06-15T10:03:57+00:00</dc:date>
+    <dc:date opf:event="modification">2014-08-13</dc:date>
+    <dc:publisher>Zeplin</dc:publisher>
+    <dc:description>&lt;p&gt;Yaşamı skandallarla dolu bu düşünürün birçok paradoksal özellikleri vardı: Üçlü bir evliliğin rüyasını gören zahit, ahlak dersleri veren bir frengili, Bizet'i, hor gördüğü Wagner karşısında bir dev olarak kabul eden bir müzikolog, 'sarışın canavara' hayıflanan ve bütün antisemitistleri kurşunlamak isteyen biri. Böyle birisi önemsiz şeyler söyleyebilir mi? Paul Strathern'in Nietzsche'nin hayatı ve düşünceleri ile ilgili felsefi ve tarihsel araştırması, herkese 'Zerdüşt'ün yazarıyla yakından ilgilenip ilgilenmeme kararını verebilecekleri bir şans sunmakta. Bu şansı kullanın.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">58ccd07d-1116-4afc-abf7-cf6a011b57c5</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">gLJVuAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786059691512</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757809302</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="90 Dakikada Nietzsche"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Paul Strathern&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

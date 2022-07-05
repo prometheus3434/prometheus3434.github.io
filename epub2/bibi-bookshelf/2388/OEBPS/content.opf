@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Basit Bir Olay</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sciascia, Leanorda">Leanorda Sciascia</dc:creator>
+    <dc:identifier id="uuid">{B365B838-C467-4FDB-B323-FC6ACC034593}</dc:identifier>
+    <dc:date>2007-12-04T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Leonardo Sciascia, çağdaş İtalyan edebiyatının usta temsilcilerinden biri. Basit Bir Olay adlı bu uzun öyküsünde, aslında hiç de basit bir olay sunmuyor okuruna. Tersine, kısa olmasına karşın alabildiğine karmaşık bir polisiye öykü çıkıyor karşımıza. Sicilya'da bir kasabada geçen olayın derininde mafya ve uyuşturucu sorunu olsa da, yazar bu iki temel konudan açık açık söz etmiyor, sezdiriyor. Polise gelen, ama yarıda kalan bir tilifon konuşması ve onu izleyen kuşkulu bir intihar. Bundan sonra olaylar hızlı gelişiyor, umulmadık kişiler olaya karışıyor; öyle ki, okura akıl yürütecek zaman bile kalmıyor. Bir yandan uzunöykünün baş kahramanı olan komiser yardımcısı, bir yandan da okur, hızla gelişen olayı çözmeye çalışırken soluk soluğa kalıyor ve tam sonuca ulaştığını sanırken yepyeni bir çözüm çıkıyor karşısına. Son satırda bile...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İtalyan Edebiyatı</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e4aecca9-2fac-4983-8b59-eaddb0b77963</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755105239</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Basit Bir Olay"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Leanorda Sciascia&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-epigraf.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id"/>
+    <itemref idref="id4"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

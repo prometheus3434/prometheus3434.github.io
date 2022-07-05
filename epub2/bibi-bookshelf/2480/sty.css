@@ -1,0 +1,113 @@
+/*Benim adım YILDIZGEZEN*/
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, h7, header, hgroup, html, i, iframe, img, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, summary, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+  border: 0;
+  color: #000;
+  text-indent: 0;
+  font-style: normal;
+  font-size: 100%;
+  line-height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  text-decoration: none;
+  text-transform: none;
+  vertical-align: baseline;
+  font-family: "Roboto Slab";
+}
+a {
+  margin: 1em;
+  line-height: 150%;
+  color: #494949;
+}
+a:hover {
+  color: #043850;
+  font-weight: bold;
+}
+div {
+  background: AliceBlue;
+  border: 1px dashed Blue;
+  border-radius: 5px;
+  line-height: 120%;
+  text-align: center;
+  padding: 0.5em;
+}
+div.bolumbasi {
+  border: 0 dashed Blue;
+}
+div.bolumbasi p {
+  color: MidnightBlue;
+  font-family: Sitka Text;
+  font-size: 120%;
+  font-style: italic;
+  text-indent: 0;
+  text-align: left;
+  margin: 1em;
+}
+div.dipnot {
+  background: AliceBlue;
+  color: #000;
+  font-size: smaller;
+  line-height: 120%;
+  text-align: center;
+}
+hr {
+  border: 2px solid #043850;
+}
+h1 {
+  color: #043850;
+  font-size: 8em;
+  font-weight: bold;
+  margin: 0.2em;
+  text-align: center;
+}
+h2 {
+  color: #043850;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 140%;
+  margin: 0.5em;
+  text-align: center;
+  page-break-before: auto;
+}
+h3 {
+  color: Blue;
+  font-weight: bold;
+  font-size: 1.1em;
+  line-height: 140%;
+  margin: 0.5em;
+  text-align: center;
+  page-break-before: auto;
+}
+h4 {
+  color: #F97C32;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 120%;
+  margin: 1.2em;
+  text-align: center;
+}
+h5 {
+  color: DimGray;
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 130%;
+  text-align: center;
+}
+p {
+  line-height: 140%;
+  margin: 0.5em;
+  text-indent: 1.25em;
+}
+p.alinti {
+  font-style: italic;
+  font-family: Palatino Linotype;
+  padding: 1em;
+  margin: 1em;
+  font-size: 1.2em;
+}
+p.kunye {
+  font-size: smaller;
+  line-height: 100%;
+  margin: 0 0.5em 1em 1em;
+  text-indent: 0;
+}

@@ -1,0 +1,177 @@
+/* FONTS USED */
+
+@font-face {
+  	font-family:CambriAA;
+  	font-style:normal;
+  	font-weight:normal;
+  	src:url(Fonts/Cambria.otf); 
+}
+
+@font-face {
+  	font-family:CambriAA;
+  	font-style:italic;
+  	font-weight:normal;
+  	src:url(Fonts/Cambria-Italic.otf); 
+}
+
+@font-face {
+  	font-family:CambriAA;
+  	font-style:normal;
+  	font-weight:bold;
+  	src:url(Fonts/Cambria-Bold.otf); 
+}
+
+@font-face {
+  	font-family:ArialN;
+  	font-style:normal;
+  	font-weight:normal;
+  	src:url(Fonts/ArialNarrow.otf); 
+}
+
+@font-face {
+  	font-family:ArialN;
+  	font-style:normal;
+  	font-weight:bold;
+  	src:url(Fonts/ArialNarrow-Bold.otf); 
+}
+
+
+/* GENERAL DEFINITIONS */
+
+body, p {
+	display:block;
+	margin:30px;
+	text-align:justify;
+	orphans:1;
+	widows:1;
+}
+
+h2 {
+	display:block;
+	color:#000000;
+	font-family: ArialN,serif;
+	font-style:normal;
+	font-weight:bold;
+	font-size:24px;
+	line-height:auto;
+	margin:20px 10px 80px 10px;
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+	color:#888888;
+}
+
+sup{
+	font-size:14px;
+	vertical-align:top;
+}
+
+table {
+	border:1px solid #000000;
+	border-collapse:collapse;
+	width:95%;
+	margin:auto;
+	margin-bottom:20px;
+}
+
+tr , td{
+	border:1px solid #000000;
+	padding:4px;
+	vertical-align:middle;
+}
+
+/* PARAGRAPH DEFINITIONS */
+
+p {
+	display:block;
+	font-family:CambriAA,serif;
+	display:block;
+	color:#000000;
+	margin:10px 10px 10px 10px;
+	text-indent:25px;
+	text-align:justify;
+	line-height:20px;
+	font-style:normal;
+	font-weight:normal;
+	font-size:14px;
+}
+
+
+.box {
+	display: table;
+	background:#000000;
+	font-family: ArialN,serif;
+	font-style:normal;
+	font-size:20px;
+	width:30px;
+	height:30px;
+	padding:0px;
+	margin:100px auto 30px auto;
+	color:#FFFFFF;
+}
+ 
+.btx {
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center;
+}
+
+.expS {
+	margin-top:150px;
+}
+
+.ePrg{
+	text-indent:0px;
+	margin-top:30px;
+}
+
+.iPrg{
+	margin:25px 60px 25px 60px;
+	text-indent:0px;
+}
+
+.t2Prg1{
+	text-indent:0px;
+	margin:0px auto;	
+	text-align:left;
+	font-weight:bold;
+	font-size:9px;
+	line-height:15px;
+}
+
+.t2Prg2{
+	text-indent:0px;
+	margin:0px auto;	
+	text-align:left;
+	font-weight:normal;
+	font-size:9px;
+	line-height:15px;
+}
+
+.centr{
+	text-align:center;
+	margin-top:-20px;
+	text-indent:0px;
+}
+
+.ttcent{
+	text-align:center;
+	margin-top:20px;
+	text-indent:0px;
+}
+
+/* LASTNOTE */
+
+.LBlock {
+  	font-family:CambriAA,serif;
+  	font-size:14px;
+  	text-align:justify;
+  	text-indent:0;
+}
+
+.LArticle {
+	margin:20px 10px;
+}

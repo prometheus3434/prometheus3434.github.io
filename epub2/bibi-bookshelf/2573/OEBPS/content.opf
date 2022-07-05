@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Böyle Buyurdu Zerdüşt: Herkes ve Hiç Kimse İçin Bir Kitap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nietzsche, Friedrich">Friedrich Nietzsche</dc:creator>
+    <dc:date>2022-04-03T10:19:28+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">aa86d96c-3c4d-44a1-8fc2-6ea4edb2bdcf</dc:identifier>
+    <dc:date opf:event="modification">2013-04-12</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>Friedrich Nietzsche’nin 1883-1885 yılları arasında kaleme aldığı Böyle Buyurdu Zerdüşt, filozofun en bilinen eseridir. Nietzsche’nin, yazılmış en derin eser olarak tanımlamaktan hoşlandığı bu kitap, şiirsel üslubuyla dikkat çeker ve edebiyat ile felsefenin sınırları arasında gezinir. Üstinsan ve ebedî dönüş kavramları üzerine kurulu olan Böyle Buyurdu Zerdüşt, Nietzsche felsefesinin temel taşıdır. Yeni değerlerin üretilebilmesi için halihazırdakilerin göz ardı edilmesinin gerekliliğini savunan eser, bu bakımdan bir kehanet niteliği taşır ve 20. yüzyıl felsefesini belirleyen eserlerden biri olarak öne çıkar.#almanklasikleri #üstinsan #ebedidönüş #tanrıöldü #amorfati #nihilizm</dc:description>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e2bbfe36-0f8f-4b37-84a7-efe5102e07cf</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">86NxEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750744921</dc:identifier>
+    <meta content="Böyle Buyurdu Zerdüşt: Herkes ve Hiç Kimse İçin Bir Kitap" name="calibre:title_sort"/>
+    <meta content="2013-04-11T21:42:22+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Friedrich Nietzsche&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{965F3F5C-8B42-47E7-B619-42B89F7B0F33}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.49.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Belleğin Kış Uykusu</text>
+  </docTitle>
+ <navMap>
+    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/kapak.xhtml"/>
+    </navPoint>
+            
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint> 
+            
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/ic_kapak.xhtml"/>
+    </navPoint> 
+          
+      <navPoint playOrder="1">
+      <navLabel>
+        <text>Yitiriş</text>
+      </navLabel>
+      <content src="Text/1.xhtml"/>
+    </navPoint>
+    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Bellek</text>
+      </navLabel>
+      <content src="Text/2.xhtml"/>
+    </navPoint> 
+
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Uyanış</text>
+      </navLabel>
+      <content src="Text/3.xhtml"/>
+    </navPoint>
+                                                                                                                                                                                                                                                                                                                                                                                              
+       <navPoint playOrder="1">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/dipnot.xhtml"/>
+    </navPoint>   
+                                  
+       <navPoint playOrder="1">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/arka_kapak.xhtml"/>
+    </navPoint>   
+           
+  </navMap>
+</ncx>

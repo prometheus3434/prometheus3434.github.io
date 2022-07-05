@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Antigone'nin Üç Yaşamı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zizek, Slavoj">Slavoj Zizek</dc:creator>
+    <dc:date>2016-05-04T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:81e0987b-c984-4879-bf0d-bb2a97a50598</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">7ed8a8ee-2998-454f-90e8-00aad2f79175</dc:identifier>
+    <meta name="generator" content="Adobe InDesign 9.0"/>
+    <meta name="cover" content="x186.jpg"/>
+    <meta name="calibre:title_sort" content="Antigone'nin Üç Yaşamı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Slavoj Zizek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="kapak" href="kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2" href="2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3" href="3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4" href="4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5" href="5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6" href="6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-1" href="6-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-2" href="6-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="css-kobo.css" href="css/kobo.css" media-type="text/css"/>
+    <item id="x1_fmt.jpeg" href="image/1_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x186.jpg" href="image/186.jpg" media-type="image/jpeg"/>
+    <item id="kapak_fmt.jpeg" href="image/kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="LiberationSerif-Bold.ttf" href="font/LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif-Italic.ttf" href="font/LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="LiberationSerif.ttf" href="font/LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item id="js-kobo.js" href="js/kobo.js" media-type="application/javascript"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+  </spine>
+</package>

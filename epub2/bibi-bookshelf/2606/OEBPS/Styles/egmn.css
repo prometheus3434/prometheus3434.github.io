@@ -1,0 +1,126 @@
+@font-face {font-family:"Bookerly";font-weight: normal;font-style: normal;src: url('../Fonts/bookerly-regular.otf');}
+
+@font-face {font-family:"Bookerly";font-weight: bold;font-style: normal;src: url('../Fonts/bookerly-bold.otf');}
+
+@font-face {font-family:"Bookerly";font-weight: bold;font-style: italic;src: url('../Fonts/bookerly-bold-italic.otf');}
+
+@font-face {font-family:"Bookerly";font-weight: normal;font-style: italic;src: url('../Fonts/bookerly-italic.otf');}
+
+p {font-family:'Bookerly';font-size: 100%;text-align: justify;text-indent:1em;margin: 0 0 0 0;line-height: 1.3em;orphans: 2;widows: 2;}
+
+.p1 {text-indent:0em;}
+
+.p2 {font-size: 90%;text-indent:0em;text-align: center;margin-top:1em;margin-bottom:1em;}
+
+.p3 {font-style: italic;text-indent:0em;text-align: center;margin-top:1em;margin-bottom:1em;}
+
+.p4 {text-indent:2em;text-align:justify;}
+
+.p5 {font-size: 95%;text-indent:0em;text-align:justify;margin-left:2.2em;margin-right:2.2em;margin-top:1em;}
+
+.p6 {font-size: 105%;text-indent:0em;text-align:center;margin-top:0.8em;margin-bottom:0.8em;}
+
+.p7 {display: block;font-style: italic;text-align: right;text-indent:0em;margin-top: 0em;margin-bottom: 0.5em;}
+
+.p8{text-indent:0;text-align:center;margin-top:0em;margin-bottom:0em;}
+
+.p9{text-indent:0;font-size: 110%;}
+
+.p1o {text-indent:0em;text-align:center;font-size: 120%;}
+
+h1 {font-family:"Bookerly";margin-top:1em;text-indent:0em;margin-bottom:2em;text-align:center;font-size:1.3em;font-weight:normal;}
+
+h2 {font-family:"Bookerly";margin-top:0.2em;margin-bottom:3em;text-align:center;font-size:2.2em;text-indent:0em;font-weight:bolt;}
+
+h3 {font-family:"Bookerly";margin-top:1em;margin-bottom:1em;text-align:center;font-size:.95em;;text-indent:0em;font-weight:bold;}
+
+h4 {font-family:"Bookerly";font-size:1.3em;font-weight:normal;text-indent:0em;text-align:center;margin-top:1em;margin-bottom:1em;}
+
+.baslik {font-family:"Bookerly";font-size:3em;font-weight:normal;text-indent:0em;text-align:center;margin-top:0em;margin-bottom:0em;}
+
+.baslik2 {font-family:"Bookerly";font-size:3em;font-style:bold;text-indent:0em;text-align:center;margin-top:0em;margin-bottom:0em;}
+
+.baslik3 {font-family:"Bookerly";font-size:1.8em;font-style:normal;text-indent:0em;text-align:center;margin-top:0.5em;margin-bottom:0.5em;}
+
+.baslik4 {font-family:"Bookerly";font-size:1.1em;text-indent:0em;text-align:center;margin-top:1.5em;margin-bottom:2em;}
+
+.baslik5 {font-family:"Bookerly";font-size:1.5em;font-style:normal;text-indent:0em;text-align:center;margin-top:1.3em;margin-bottom:1em;}
+
+.baslik6 {font-family:"Bookerly";font-size:1em;font-weight:bold;font-style:normal;text-indent:0em;text-align:center;margin-top:8em;margin-bottom:0em;}
+
+div.girs {font-size:1em;margin-top:2em;margin-bottom:2em;text-align:center;}
+
+.bolum1 {margin-top:0em;margin-bottom:1em;text-indent:0em;text-align:center;font-size:1.7em;}
+
+.bolum2 {margin-top:0.8em;margin-bottom:0em;text-indent:0em;text-align:center;font-size:2.5em;}
+
+.ithaf {text-align:center;font-size:1em;margin-top:8em;font-style:normal;text-indent:0em;margin-bottom:1em;margin-right:2em;margin-left:2em;}
+
+.ithaf2 {text-align:justify;margin-top:4em;text-indent:1em;margin-bottom:1em;margin-right:2em;margin-left:2em;}
+
+.kunye {font-size: 0.7em;text-align:center;text-indent:0em;margin-top:0em;margin-left:0em;margin-bottom:0em;}
+
+.kunye1 {font-size: 0.85em;text-align:center;text-indent:0em;margin-top:0em;margin-left:0em;margin-bottom:0em;}
+
+.dipnot {font-size:1em;text-align:left;text-indent:2em;margin-top:0em;margin-bottom:1em;margin-left:1em;}
+
+.dipnot1 {font-size:1em;text-align:left;text-indent:2em;margin-top:1em;margin-bottom:1em;page-break-before:   always;margin-left:1em;}
+
+.ilkharf {font-size: 3.2em;float: left;line-height: 0.8em; margin-top: 0em; margin-right: 0em; margin-left: 0.13em; }
+
+.ilkharf1 {font-size:320%;float:left;font-weight:normal;margin-top:-0.3225em;margin-bottom:-0.3245em; }
+
+.ilkharf2 {font-size: 1.2em;}
+
+.ilkharf3 {font-size: 1.2em;}
+
+.firstletter {font-size:120%;font-weight:normal}
+
+ div {text-indent:0; text-align:center;font-size:1em;margin-bottom:0.2em;margin-top:0.2em}
+
+ p.bolum_arasi{text-align: center; text-indent:0;margin:1.5em 0 1.1em;}
+ 
+hr{width:50%;margin-left:25%;margin-bottom:0em;margin-top:0.5em}
+
+.logo {text-indent:0em;text-align:center;margin-top:0em;}
+
+.logo1 {text-indent:0em;text-align:center;margin-top:5em;margin-bottom:1em; }
+
+.logo2 {text-indent:0em;text-align:center;}
+
+div.harita {text-indent:0em;margin: 0 0 0 0}
+
+.img {text-indent:0em;text-align:center;margin-top:0em;margin-bottom:0em;}
+
+.img1 {text-indent:0em;text-align:right;margin-top:0em;margin-bottom:0em;}
+
+.img2 {text-indent:0em;text-align:center;margin-top:0em;margin-bottom:0em;margin-right:40%;}
+
+.img3 {text-indent:0em;text-align:right;}
+
+.img4 {text-indent:0em;text-align:left;}
+
+.img5 {text-indent:0em;text-align:center;margin-top:2em;margin-bottom:2em;}
+
+.onsoz {font-style: normal; text-align: right;text-indent:0em;margin-bottom:1em;margin-top:8em;}
+
+.onsoz1 {font-style:italic;text-align:right;text-indent:0em;margin-top:1em; }
+
+.onsoz2 {font-size:110%;font-style:normal;text-align:center;text-indent:0em;margin-bottom:1em;margin-top:4em; }
+
+.uline{text-decoration: underline;}
+
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em; }
+
+
+
+
+
+
+
+
+
+
+
+
+

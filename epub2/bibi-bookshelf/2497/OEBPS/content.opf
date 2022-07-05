@@ -1,0 +1,304 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bilgisayar ve zeka</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Penrose, Roger &amp; Dereli, Tekin">Roger Penrose</dc:creator>
+    <dc:creator opf:role="aut">Tekin Dereli</dc:creator>
+    <dc:identifier id="uuid">{CBE61E94-BA82-4C84-8A6B-C4CC1662CFC5}</dc:identifier>
+    <dc:publisher>Tübitak</dc:publisher>
+    <dc:description>&lt;p&gt;1990 yılında yayınlanan ve aynı yıl Bilimsel Kitap Ödülü'nü kazanan Kralın Yeni Usu, modern fizik, evren bilimi, matematik ve felsefe üzerine bugüne kadar yazılmış en ilginç yapıtlardan biri... Yapay zekâyı, usu ve bilinci tartışan elinizdeki kitap şimdiden bilimin klasikleri arasında yer almaktadır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1998-06-15T10:14:08+00:00</dc:date>
+    <dc:subject>Popüler Bilim</dc:subject>
+    <dc:subject>Gökbilim</dc:subject>
+    <dc:subject>Matematik</dc:subject>
+    <dc:subject>Bilgisayar</dc:subject>
+    <dc:subject>Fizik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">054ba475-af07-41ed-950f-544a4e01c8ac</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754030839</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">LFzztgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754030839</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="Bilgisayar ve zeka" name="calibre:title_sort"/>
+    <meta content="{&quot;Roger Penrose&quot;: &quot;&quot;, &quot;Tekin Dereli&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/matdenklem.xhtml" id="matdenklem.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslangic.xhtml" id="baslangic.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.xhtml" id="sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum1.xhtml" id="notbolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum2.xhtml" id="notbolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum3.xhtml" id="notbolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum4.xhtml" id="notbolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum5.xhtml" id="notbolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum6.xhtml" id="notbolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum5-6.xhtml" id="notbolum5-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum7.xhtml" id="notbolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum8.xhtml" id="notbolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum9.xhtml" id="notbolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notbolum10.xhtml" id="notbolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynakca.xhtml" id="kaynakca.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id52" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/main.css" id="id51" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/2_main-1.png" id="x2_main-1.png" media-type="image/png"/>
+    <item href="Images/2_main-10.png" id="x2_main-10.png" media-type="image/png"/>
+    <item href="Images/2_main-11.png" id="x2_main-11.png" media-type="image/png"/>
+    <item href="Images/2_main-12.png" id="x2_main-12.png" media-type="image/png"/>
+    <item href="Images/2_main-13.png" id="x2_main-13.png" media-type="image/png"/>
+    <item href="Images/2_main-14.png" id="x2_main-14.png" media-type="image/png"/>
+    <item href="Images/2_main-15.png" id="x2_main-15.png" media-type="image/png"/>
+    <item href="Images/2_main-16.png" id="x2_main-16.png" media-type="image/png"/>
+    <item href="Images/2_main-17.png" id="x2_main-17.png" media-type="image/png"/>
+    <item href="Images/2_main-18.png" id="x2_main-18.png" media-type="image/png"/>
+    <item href="Images/2_main-2.png" id="x2_main-2.png" media-type="image/png"/>
+    <item href="Images/2_main-3.png" id="x2_main-3.png" media-type="image/png"/>
+    <item href="Images/2_main-4.png" id="x2_main-4.png" media-type="image/png"/>
+    <item href="Images/2_main-5.png" id="x2_main-5.png" media-type="image/png"/>
+    <item href="Images/2_main-6.png" id="x2_main-6.png" media-type="image/png"/>
+    <item href="Images/2_main-7.png" id="x2_main-7.png" media-type="image/png"/>
+    <item href="Images/2_main-8.png" id="x2_main-8.png" media-type="image/png"/>
+    <item href="Images/2_main-9.png" id="x2_main-9.png" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-15.png" id="id15" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-17.png" id="id17" media-type="image/png"/>
+    <item href="Images/main-18.png" id="id18" media-type="image/png"/>
+    <item href="Images/main-19.png" id="id19" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-20.png" id="id20" media-type="image/png"/>
+    <item href="Images/main-21.png" id="id21" media-type="image/png"/>
+    <item href="Images/main-22.png" id="id22" media-type="image/png"/>
+    <item href="Images/main-23.png" id="id23" media-type="image/png"/>
+    <item href="Images/main-24.png" id="id24" media-type="image/png"/>
+    <item href="Images/main-25.png" id="id25" media-type="image/png"/>
+    <item href="Images/main-26.png" id="id26" media-type="image/png"/>
+    <item href="Images/main-27.png" id="id27" media-type="image/png"/>
+    <item href="Images/main-28.png" id="id28" media-type="image/png"/>
+    <item href="Images/main-29.png" id="id29" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-30.png" id="id30" media-type="image/png"/>
+    <item href="Images/main-31.png" id="id31" media-type="image/png"/>
+    <item href="Images/main-32.png" id="id32" media-type="image/png"/>
+    <item href="Images/main-33.png" id="id33" media-type="image/png"/>
+    <item href="Images/main-34.png" id="id34" media-type="image/png"/>
+    <item href="Images/main-35.png" id="id35" media-type="image/png"/>
+    <item href="Images/main-36.png" id="id36" media-type="image/png"/>
+    <item href="Images/main-37.png" id="id37" media-type="image/png"/>
+    <item href="Images/main-38.png" id="id38" media-type="image/png"/>
+    <item href="Images/main-39.png" id="id39" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-40.png" id="id40" media-type="image/png"/>
+    <item href="Images/main-41.png" id="id41" media-type="image/png"/>
+    <item href="Images/main-42.png" id="id42" media-type="image/png"/>
+    <item href="Images/main-43.png" id="id43" media-type="image/png"/>
+    <item href="Images/main-44.png" id="id44" media-type="image/png"/>
+    <item href="Images/main-45.png" id="id45" media-type="image/png"/>
+    <item href="Images/main-46.png" id="id46" media-type="image/png"/>
+    <item href="Images/main-47.png" id="id47" media-type="image/png"/>
+    <item href="Images/main-48.png" id="id48" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+    <item href="Images/RU2002.png" id="RU2002.png" media-type="image/png"/>
+    <item href="Images/RU2003.png" id="RU2003.png" media-type="image/png"/>
+    <item href="Images/RU2004.png" id="RU2004.png" media-type="image/png"/>
+    <item href="Images/RU2005.png" id="RU2005.png" media-type="image/png"/>
+    <item href="Images/RU2006.png" id="RU2006.png" media-type="image/png"/>
+    <item href="Images/RU2007.png" id="RU2007.png" media-type="image/png"/>
+    <item href="Images/RU2008.png" id="RU2008.png" media-type="image/png"/>
+    <item href="Images/RU2009.png" id="RU2009.png" media-type="image/png"/>
+    <item href="Images/RU2010.png" id="RU2010.png" media-type="image/png"/>
+    <item href="Images/RU2011.png" id="RU2011.png" media-type="image/png"/>
+    <item href="Images/RU2012.png" id="RU2012.png" media-type="image/png"/>
+    <item href="Images/RU2013.png" id="RU2013.png" media-type="image/png"/>
+    <item href="Images/RU2014.png" id="RU2014.png" media-type="image/png"/>
+    <item href="Images/RU2015.png" id="RU2015.png" media-type="image/png"/>
+    <item href="Images/RU2016.png" id="RU2016.png" media-type="image/png"/>
+    <item href="Images/RU2017.png" id="RU2017.png" media-type="image/png"/>
+    <item href="Images/RU2018.png" id="RU2018.png" media-type="image/png"/>
+    <item href="Images/RU2019.png" id="RU2019.png" media-type="image/png"/>
+    <item href="Images/RU2020.png" id="RU2020.png" media-type="image/png"/>
+    <item href="Images/RU2021.png" id="RU2021.png" media-type="image/png"/>
+    <item href="Images/RU2022.png" id="RU2022.png" media-type="image/png"/>
+    <item href="Images/RU2023.png" id="RU2023.png" media-type="image/png"/>
+    <item href="Images/RU2024.png" id="RU2024.png" media-type="image/png"/>
+    <item href="Images/RU2025.png" id="RU2025.png" media-type="image/png"/>
+    <item href="Images/RU2026.png" id="RU2026.png" media-type="image/png"/>
+    <item href="Images/RU2027.png" id="RU2027.png" media-type="image/png"/>
+    <item href="Images/RU2028.png" id="RU2028.png" media-type="image/png"/>
+    <item href="Images/RU2029.png" id="RU2029.png" media-type="image/png"/>
+    <item href="Images/RU2030.png" id="RU2030.png" media-type="image/png"/>
+    <item href="Images/RU2031.png" id="RU2031.png" media-type="image/png"/>
+    <item href="Images/RU2032.png" id="RU2032.png" media-type="image/png"/>
+    <item href="Images/RU2033.png" id="RU2033.png" media-type="image/png"/>
+    <item href="Images/RU2034.png" id="RU2034.png" media-type="image/png"/>
+    <item href="Images/RU2035.png" id="RU2035.png" media-type="image/png"/>
+    <item href="Images/RU2036.png" id="RU2036.png" media-type="image/png"/>
+    <item href="Images/RU2037.png" id="RU2037.png" media-type="image/png"/>
+    <item href="Images/RU2038.png" id="RU2038.png" media-type="image/png"/>
+    <item href="Images/RU2039.png" id="RU2039.png" media-type="image/png"/>
+    <item href="Images/RU2040.png" id="RU2040.png" media-type="image/png"/>
+    <item href="Images/RU2041.png" id="RU2041.png" media-type="image/png"/>
+    <item href="Images/RU2042.png" id="RU2042.png" media-type="image/png"/>
+    <item href="Images/RU2043.png" id="RU2043.png" media-type="image/png"/>
+    <item href="Images/RU2044.png" id="RU2044.png" media-type="image/png"/>
+    <item href="Images/RU2045.png" id="RU2045.png" media-type="image/png"/>
+    <item href="Images/RU2046.png" id="RU2046.png" media-type="image/png"/>
+    <item href="Images/RU2047.png" id="RU2047.png" media-type="image/png"/>
+    <item href="Images/RU2048.png" id="RU2048.png" media-type="image/png"/>
+    <item href="Images/RU2049.png" id="RU2049.png" media-type="image/png"/>
+    <item href="Images/RU2050.png" id="RU2050.png" media-type="image/png"/>
+    <item href="Images/RU2051.png" id="RU2051.png" media-type="image/png"/>
+    <item href="Images/RU2052.png" id="RU2052.png" media-type="image/png"/>
+    <item href="Images/RU2053.png" id="RU2053.png" media-type="image/png"/>
+    <item href="Images/RU2054.png" id="RU2054.png" media-type="image/png"/>
+    <item href="Images/RU2055.png" id="RU2055.png" media-type="image/png"/>
+    <item href="Images/RU2056.png" id="RU2056.png" media-type="image/png"/>
+    <item href="Images/RU2057.png" id="RU2057.png" media-type="image/png"/>
+    <item href="Images/RU2058.png" id="RU2058.png" media-type="image/png"/>
+    <item href="Images/RU2059.png" id="RU2059.png" media-type="image/png"/>
+    <item href="Images/RU2060.png" id="RU2060.png" media-type="image/png"/>
+    <item href="Images/RU2061.png" id="RU2061.png" media-type="image/png"/>
+    <item href="Images/RU2062.png" id="RU2062.png" media-type="image/png"/>
+    <item href="Images/RU2063.png" id="RU2063.png" media-type="image/png"/>
+    <item href="Images/RU2064.png" id="RU2064.png" media-type="image/png"/>
+    <item href="Images/RU2065.png" id="RU2065.png" media-type="image/png"/>
+    <item href="Images/RU2066.png" id="RU2066.png" media-type="image/png"/>
+    <item href="Images/RU2067.png" id="RU2067.png" media-type="image/png"/>
+    <item href="Images/RU2068.png" id="RU2068.png" media-type="image/png"/>
+    <item href="Images/RU2069.png" id="RU2069.png" media-type="image/png"/>
+    <item href="Images/RU2070.png" id="RU2070.png" media-type="image/png"/>
+    <item href="Images/RU2071.png" id="RU2071.png" media-type="image/png"/>
+    <item href="Images/RU2072.png" id="RU2072.png" media-type="image/png"/>
+    <item href="Images/RU2073.png" id="RU2073.png" media-type="image/png"/>
+    <item href="Images/RU2074.png" id="RU2074.png" media-type="image/png"/>
+    <item href="Images/RU2075.png" id="RU2075.png" media-type="image/png"/>
+    <item href="Images/RU2076.png" id="RU2076.png" media-type="image/png"/>
+    <item href="Images/RU2077.png" id="RU2077.png" media-type="image/png"/>
+    <item href="Images/RU2078.png" id="RU2078.png" media-type="image/png"/>
+    <item href="Images/RU2079.png" id="RU2079.png" media-type="image/png"/>
+    <item href="Images/RU2081.png" id="RU2081.png" media-type="image/png"/>
+    <item href="Images/RU3002.png" id="RU3002.png" media-type="image/png"/>
+    <item href="Images/RU3003.png" id="RU3003.png" media-type="image/png"/>
+    <item href="Images/RU3004.png" id="RU3004.png" media-type="image/png"/>
+    <item href="Images/RU3005.png" id="RU3005.png" media-type="image/png"/>
+    <item href="Images/RU3006.png" id="RU3006.png" media-type="image/png"/>
+    <item href="Images/RU3007.png" id="RU3007.png" media-type="image/png"/>
+    <item href="Images/RU3008.png" id="RU3008.png" media-type="image/png"/>
+    <item href="Images/RU3009.png" id="RU3009.png" media-type="image/png"/>
+    <item href="Images/RU3010.png" id="RU3010.png" media-type="image/png"/>
+    <item href="Images/RU3011.png" id="RU3011.png" media-type="image/png"/>
+    <item href="Images/RU3012.png" id="RU3012.png" media-type="image/png"/>
+    <item href="Images/RU3013.png" id="RU3013.png" media-type="image/png"/>
+    <item href="Images/RU3014.png" id="RU3014.png" media-type="image/png"/>
+    <item href="Images/RU3015.png" id="RU3015.png" media-type="image/png"/>
+    <item href="Images/RU3016.png" id="RU3016.png" media-type="image/png"/>
+    <item href="Images/RU3017.png" id="RU3017.png" media-type="image/png"/>
+    <item href="Images/RU3018.png" id="RU3018.png" media-type="image/png"/>
+    <item href="Images/RU3019.png" id="RU3019.png" media-type="image/png"/>
+    <item href="Images/RU3020.png" id="RU3020.png" media-type="image/png"/>
+    <item href="Images/RU3021.png" id="RU3021.png" media-type="image/png"/>
+    <item href="Images/RU3022.png" id="RU3022.png" media-type="image/png"/>
+    <item href="Images/RU3023.png" id="RU3023.png" media-type="image/png"/>
+    <item href="Images/RU3024.png" id="RU3024.png" media-type="image/png"/>
+    <item href="Images/RU3025.png" id="RU3025.png" media-type="image/png"/>
+    <item href="Images/RU3026.png" id="RU3026.png" media-type="image/png"/>
+    <item href="Images/RU3027.png" id="RU3027.png" media-type="image/png"/>
+    <item href="Images/RU3028.png" id="RU3028.png" media-type="image/png"/>
+    <item href="Images/RU3029.png" id="RU3029.png" media-type="image/png"/>
+    <item href="Images/RU3030.png" id="RU3030.png" media-type="image/png"/>
+    <item href="Images/RU3031.png" id="RU3031.png" media-type="image/png"/>
+    <item href="Images/RU3032.png" id="RU3032.png" media-type="image/png"/>
+    <item href="Images/RU3033.png" id="RU3033.png" media-type="image/png"/>
+    <item href="Images/RU3034.png" id="RU3034.png" media-type="image/png"/>
+    <item href="Images/RU3035.png" id="RU3035.png" media-type="image/png"/>
+    <item href="Images/RU3036.png" id="RU3036.png" media-type="image/png"/>
+    <item href="Images/RU3037.png" id="RU3037.png" media-type="image/png"/>
+    <item href="Images/RU3038.png" id="RU3038.png" media-type="image/png"/>
+    <item href="Images/RU3039.png" id="RU3039.png" media-type="image/png"/>
+    <item href="Images/RU3040.1.png" id="RU3040.1.png" media-type="image/png"/>
+    <item href="Images/RU3040.png" id="RU3040.png" media-type="image/png"/>
+    <item href="Images/RU3041.png" id="RU3041.png" media-type="image/png"/>
+    <item href="Images/RU3042.png" id="RU3042.png" media-type="image/png"/>
+    <item href="Images/RU3043.png" id="RU3043.png" media-type="image/png"/>
+    <item href="Images/RU3044.jpg" id="RU3044.jpg" media-type="image/jpeg"/>
+    <item href="Images/RU3045.png" id="RU3045.png" media-type="image/png"/>
+    <item href="Images/RU3046.png" id="RU3046.png" media-type="image/png"/>
+    <item href="Images/RU3047.png" id="RU3047.png" media-type="image/png"/>
+    <item href="Images/RU3048.png" id="RU3048.png" media-type="image/png"/>
+    <item href="Images/RU3049.png" id="RU3049.png" media-type="image/png"/>
+    <item href="Images/RU3050.png" id="RU3050.png" media-type="image/png"/>
+    <item href="Images/RU3051.png" id="RU3051.png" media-type="image/png"/>
+    <item href="Fonts/Arial-Bold-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Arial-Bold.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Arial-Italic.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Arial.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Times-New-Roman-Bold.ttf" id="font5" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Times-New-Roman.ttf" id="font4" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id52">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="matdenklem.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="baslangic.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+    <itemref idref="bolum8.xhtml"/>
+    <itemref idref="bolum9.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+    <itemref idref="notbolum1.xhtml"/>
+    <itemref idref="notbolum2.xhtml"/>
+    <itemref idref="notbolum3.xhtml"/>
+    <itemref idref="notbolum4.xhtml"/>
+    <itemref idref="notbolum5.xhtml"/>
+    <itemref idref="notbolum6.xhtml"/>
+    <itemref idref="notbolum5-6.xhtml"/>
+    <itemref idref="notbolum7.xhtml"/>
+    <itemref idref="notbolum8.xhtml"/>
+    <itemref idref="notbolum9.xhtml"/>
+    <itemref idref="notbolum10.xhtml"/>
+    <itemref idref="kaynakca.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,141 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre_ {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre_1 {
+    height: 985px;
+    vertical-align: baseline;
+    width: 506px
+    }
+.calibre_2 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre_3 {
+    height: 121px;
+    vertical-align: baseline;
+    width: 75px
+    }
+.calibre_4 {
+    height: 237px;
+    vertical-align: baseline;
+    width: 621px
+    }
+.calibre_5 {
+    height: 149px;
+    vertical-align: baseline;
+    width: 81px
+    }
+.calibre_6 {
+    display: block;
+    height: 1em
+    }
+.calibre_7 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.calibre_8 {
+    display: list-item;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre_9 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre_10 {
+    display: block;
+    list-style-type: square;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre_11 {
+    height: 51px;
+    vertical-align: baseline;
+    width: 114px
+    }
+.calibre_12 {
+    height: 64px;
+    vertical-align: baseline;
+    width: 67px
+    }
+.calibre_13 {
+    height: 984px;
+    vertical-align: baseline;
+    width: 486px
+    }
+.calibre_14 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre_15 {
+    display: block;
+    text-indent: -14pt;
+    margin: 1em 0 0 14pt
+    }
+.calibre_16 {
+    display: block;
+    text-indent: -14pt;
+    margin: 0 0 0 14pt
+    }
+.calibre1 {
+    font-size: 0.75em
+    }
+.calibre2 {
+    font-size: 1.83333em;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-size: 0.41667em
+    }
+.calibre4 {
+    font-size: 1.41667em;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre7 {
+    font-size: 0.77778em
+    }
+.calibre8 {
+    font-size: 1.28571em
+    }
+.italic {
+    font-style: italic
+    }
+.mbp_pagebreak {
+    display: block;
+    margin: 0
+    }

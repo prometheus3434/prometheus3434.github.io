@@ -1,0 +1,135 @@
+.block_ {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block_1 {
+    color: black;
+    display: block;
+    font-size: 2em;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block_2 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block_3 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block_4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block_5 {
+    display: block;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block_6 {
+    display: table-row;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block_7 {
+    display: block;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block_8 {
+    color: black;
+    display: table-row;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block_9 {
+    display: table-row;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.bullet_ {
+    color: #000;
+    display: table-cell;
+    font-size: 0.75em;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-decoration: none;
+    vertical-align: 0
+    }
+.bullet_1 {
+    color: #000;
+    display: table-cell;
+    font-size: 0.75em;
+    font-weight: bold
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: table;
+    padding: 0;
+    margin: 0
+    }
+.calibre2 {
+    display: table-cell
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre4 {
+    display: table;
+    padding: 0 0 0 36pt;
+    margin: 0
+    }
+.calibre5 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre6 {
+    font-style: italic
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text_ {
+    font-style: italic;
+    letter-spacing: 1pt
+    }
+.text_1 {
+    color: #000
+    }

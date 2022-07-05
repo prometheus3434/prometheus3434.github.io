@@ -1,0 +1,33 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    src: url(fonts/Liberation-Serif.ttf);
+    panose-1: 2 2 6 3 5 4 5 2 3 4;
+    font-family: "Liberation Serif"
+    }
+@font-face {
+    src: url(fonts/Liberation-Serif.ttf);
+    panose-1: 2 2 6 3 5 4 5 2 3 4;
+    font-family: "Liberation Serif"
+    }
+@font-face {
+    src: url(fonts/Liberation-Serif-Bold.ttf);
+    panose-1: 2 2 8 3 7 5 5 2 3 4;
+    font-family: "Liberation Serif";
+    font-weight: bold
+    }
+@font-face {
+    src: url(fonts/Liberation-Serif-Italic.ttf);
+    panose-1: 2 2 5 3 5 4 5 9 3 4;
+    font-family: "Liberation Serif";
+    font-style: italic
+    }
+@font-face {
+    src: url(fonts/Liberation-Serif-Bold-Italic.ttf);
+    panose-1: 2 2 7 3 6 5 5 9 3 4;
+    font-family: "Liberation Serif";
+    font-weight: bold;
+    font-style: italic
+    }

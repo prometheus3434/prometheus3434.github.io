@@ -1,0 +1,101 @@
+@charset "UTF-8";
+@font-face {font-family: 'DejaVu Sans'; src: url("font_rsrc4S4.ttf")}
+.class-0 {font-family: 'Garamond MT Std',serif}
+.class-1 {width: 42.3729%}
+.class_s1A {-webkit-hyphens: none; font-size: 1.07643em; hyphens: none; line-height: 1.23287; margin-top: 5.84006em; orphans: 1; text-align: center; widows: 1}
+.class_s1H {-webkit-hyphens: none; font-size: 0.896663em; hyphens: none; orphans: 1; text-align: center; widows: 1}
+.class_s1K {-webkit-hyphens: none; font-family: Light,serif; font-size: 0.896663em; hyphens: none; orphans: 1; text-align: center; widows: 1}
+.class_s1P {-webkit-hyphens: none; font-size: 0.896663em; hyphens: none; margin-top: 1.21739em; orphans: 1; text-align: center; widows: 1}
+.class_s1S {-webkit-hyphens: none; font-size: 0.896663em; hyphens: none; margin-top: 0.63124em; orphans: 1; text-align: center; widows: 1}
+.class_s1U {-webkit-hyphens: none; font-size: 0.896663em; hyphens: none; margin-top: 1.26248em; orphans: 1; text-align: center; widows: 1}
+.class_s2C {-webkit-hyphens: none; hyphens: none; margin-left: 2.344%; margin-top: 1.81646em; orphans: 1; text-align: center; text-indent: -2.343%; widows: 1}
+.class_s2E {-webkit-hyphens: none; hyphens: none; margin-left: 2.344%; margin-top: 0.282562em; orphans: 1; text-align: center; text-indent: -2.343%; widows: 1}
+.class_s2G {-webkit-hyphens: none; hyphens: none; margin-left: 2.344%; margin-top: 0.60549em; orphans: 1; text-align: center; text-indent: -2.343%; widows: 1}
+.class_s3D {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.5113em; hyphens: none; line-height: 1; orphans: 1; text-align: center; widows: 1}
+.class_s3F {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.15285em; hyphens: none; line-height: 1; orphans: 1; text-align: center; widows: 1}
+.class_s3H {-webkit-hyphens: none; hyphens: none; margin-top: 1.13025em; orphans: 1; text-align: right; widows: 1}
+.class_s3K {-webkit-hyphens: auto; hyphens: auto; margin-top: 0.444026em; orphans: 1; text-align: justify; widows: 1}
+.class_s3N {-webkit-hyphens: auto; hyphens: auto; orphans: 1; text-align: justify; text-indent: 0.444em; widows: 1}
+.class_s3X8 {-webkit-hyphens: auto; font-style: italic; hyphens: auto; margin-top: 0.444026em; orphans: 1; text-align: justify; widows: 1}
+.class_s3Y {-webkit-hyphens: none; font-style: italic; hyphens: none; margin-top: 0.444026em; orphans: 1; text-align: right; widows: 1}
+.class_s3YA {-webkit-hyphens: none; hyphens: none; margin-left: 2.695%; margin-top: 0.444026em; orphans: 1; widows: 1}
+.class_s3YC {-webkit-hyphens: none; hyphens: none; margin-left: 2.695%; orphans: 1; widows: 1}
+.class_s3ZP {-webkit-hyphens: none; font-weight: bold; hyphens: none; margin-left: 2.695%; margin-top: 0.444026em; orphans: 1; widows: 1}
+.class_s3ZS {-webkit-hyphens: none; font-size: 0.896663em; hyphens: none; line-height: 1.33897; margin-left: 2.695%; orphans: 1; widows: 1}
+.class_s4A1 {-webkit-hyphens: none; font-style: italic; hyphens: none; margin-top: 0.928417em; orphans: 1; text-align: center; widows: 1}
+.class_s4A8 {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 1.97309em; hyphens: none; line-height: 1; margin-top: 1.58618em; orphans: 1; text-align: center; widows: 1}
+.class_s4AA {-webkit-hyphens: none; display: oeb-page-foot; hyphens: none; margin-top: 2.30086em; orphans: 15; text-align: center; widows: 1}
+.class_s4AC {-webkit-hyphens: auto; hyphens: auto; orphans: 1; text-align: justify; widows: 1}
+.class_s4AJ-0 {-webkit-hyphens: none; display: oeb-page-foot; hyphens: none; margin-top: 0.444026em; orphans: 15; text-align: center; widows: 1}
+.class_s4AJ-1 {-webkit-hyphens: none; hyphens: none; margin-top: 0.444026em; orphans: 15; text-align: center; widows: 1}
+.class_s4BB-0 {-webkit-hyphens: none; hyphens: none; margin-top: 0.444026em; orphans: 15; text-align: center; widows: 1}
+.class_s4BB-1 {-webkit-hyphens: none; display: oeb-page-foot; hyphens: none; margin-top: 0.444026em; orphans: 15; text-align: center; widows: 1}
+.class_s4BD {-webkit-hyphens: auto; hyphens: auto; orphans: 1; text-align: justify; widows: 1}
+.class_s4BF {-webkit-hyphens: auto; hyphens: auto; orphans: 1; text-align: justify; text-indent: 0.444em; widows: 1}
+.class_s4BH {font-family: 'Garamond MT Std'}
+.class_s4ER {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.33262em; hyphens: none; line-height: 1; margin-top: 1.01449em; orphans: 1; text-align: center; widows: 1}
+.class_s4ET {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.69107em; hyphens: none; line-height: 1; margin-top: 0.2556em; orphans: 1; text-align: center; widows: 1}
+.class_s4H7 {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 1.794em; hyphens: none; margin-top: 0.157874em; orphans: 1; text-align: center; widows: 1}
+.class_s4H9 {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 1.88375em; hyphens: none; line-height: 1; margin-top: 0.233496em; orphans: 1; text-align: center; widows: 1}
+.class_s4HM {max-width: 150px; width: 72.541%}
+.class_s4HP {padding-bottom: 0.0399376em; padding-left: 0.123%; padding-right: 0.123%; padding-top: 0.0399376em; vertical-align: middle}
+.class_s4HU {padding-bottom: 0.0399376em; padding-left: 0.123%; padding-right: 0.123%; padding-top: 0.0399376em; vertical-align: top}
+.class_s4HY {border-color: gray; font-family: 'DejaVu Sans'; font-size: 1.07643em; line-height: 1.12676; margin-top: 0.758813em; max-width: 100%}
+.class_s4J8 {border-color: gray; clear: both; font-family: 'DejaVu Sans'; font-size: 1.07643em; line-height: 1.12676; margin-bottom: 1.5975em; margin-top: 1.5975em; max-width: 100%}
+.class_s4JJ {width: 100%}
+.class_s4JK {font-size: 1.07643em; line-height: 1.12676}
+.class_s4JN {font-size: 1.07643em; line-height: 1.12676; margin-top: 1.065em}
+.class_s4JR {font-size: 0.60549em; line-height: 1.12676; margin-bottom: 1.065em; margin-top: 1.89334em}
+.class_s4KD-0 {font-style: italic}
+.class_s4KD-1 {font-family: 'Garamond MT Std',serif; font-style: italic}
+.class_s4KF-0 {font-weight: bold}
+.class_s4KF-1 {font-family: 'Garamond MT Std',serif; font-weight: bold}
+.class_s4KG {font-family: Light,serif}
+.class_s4KJ {font-family: Light,serif}
+.class_s4KK {font-size: 0.799997em; font-weight: bold}
+.class_s4KM {font-size: 1.19999em; font-weight: bold}
+.class_s4KN {font-size: 0.799997em}
+.class_s4KP {text-decoration: underline}
+.class_s4KW {font-size: 0.942em; font-weight: bold; line-height: 1.27418}
+.class_s4KX {font-size: 0.942em; line-height: 1.27418}
+.class_s4M0 {font-size: 0.9415em; line-height: 1.27512}
+.class_s4M2 {font-size: 1.21em}
+.class_s4M6 {font-family: 'Garamond MT Std',serif; font-style: italic; font-weight: bold}
+.class_s4MA {font-size: 0.942em; line-height: 1.27418; text-transform: uppercase}
+.class_s4MC {font-family: 'Devanagari MT',sans-serif}
+.class_s4MP {font-family: 'Garamond MT Std'; font-style: normal}
+.class_s4NN {font-size: 0.788999em}
+.class_s4NR {font-size: 1.4em}
+.class_s5W {-webkit-hyphens: none; font-weight: bold; hyphens: none; orphans: 1; widows: 1}
+.class_s6H {-webkit-hyphens: none; font-style: italic; font-weight: bold; hyphens: none; orphans: 1; widows: 1}
+.class_s6R {-webkit-hyphens: none; hyphens: none; margin-top: 0.444026em; orphans: 1; widows: 1}
+.class_s7N {-webkit-hyphens: none; color: #757575; font-family: 'Mwindyhk Bold',sans-serif; font-size: 4.84392em; hyphens: none; line-height: 1; margin-top: 1.24319em; orphans: 1; text-align: center; widows: 1}
+.class_s8B {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.5113em; hyphens: none; line-height: 1; orphans: 1; text-align: center; widows: 1}
+.class_s8D {-webkit-hyphens: auto; hyphens: auto; margin-top: 1.13025em; orphans: 1; text-align: justify; widows: 1}
+.class_s8G {-webkit-hyphens: none; font-style: italic; hyphens: none; margin-left: 2.695%; margin-top: 0.444026em; orphans: 1; widows: 1}
+.class_s8J {-webkit-hyphens: none; font-style: italic; hyphens: none; margin-left: 2.695%; orphans: 1; widows: 1}
+.class_s12 {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.87083em; hyphens: none; line-height: 1; margin-top: 1.09571em; orphans: 1; text-align: center; widows: 1}
+.class_s14 {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 3.40904em; hyphens: none; line-height: 1; margin-top: 0.474606em; orphans: 1; text-align: center; widows: 1}
+.class_s16 {-webkit-hyphens: none; font-size: 1.01399em; hyphens: none; line-height: 1.18404; margin-top: 1.17002em; orphans: 1; text-align: center; widows: 1}
+.class_s18 {-webkit-hyphens: none; hyphens: none; margin-top: 1.77611em; orphans: 1; text-align: center; widows: 1}
+.class_s22 {-webkit-hyphens: none; font-size: 0.896663em; hyphens: none; margin-top: 0.31562em; orphans: 1; text-align: center; widows: 1}
+.class_s31 {-webkit-hyphens: auto; font-size: 1.07643em; hyphens: auto; line-height: 1.12676}
+.class_s35-0 {margin-bottom: 0.444026em; margin-top: 0.444026em; text-align: center}
+.class_s35-1 {-webkit-hyphens: none; color: black; hyphens: none; orphans: 1; widows: 1; width: 100%}
+.class_s48 {-webkit-hyphens: none; hyphens: none; orphans: 1; widows: 1}
+.class_s57 {-webkit-hyphens: none; font-style: italic; font-weight: bold; hyphens: none; margin-top: 0.444026em; orphans: 1; widows: 1}
+.class_sF {-webkit-hyphens: none; font-size: 0.821313em; font-style: italic; hyphens: none; line-height: 1.23098; margin-bottom: 0.191644em; orphans: 1; widows: 1}
+.class_sH {-webkit-hyphens: auto; font-size: 0.821313em; hyphens: auto; line-height: 1.23098; orphans: 1; text-align: justify; widows: 1}
+.class_sK {-webkit-hyphens: auto; font-size: 0.821313em; hyphens: auto; line-height: 1.23098; margin-top: 0.287466em; orphans: 1; text-align: justify; widows: 1}
+.class_sP {-webkit-hyphens: none; font-size: 0.942046em; hyphens: none; line-height: 1.27418; orphans: 1; text-align: right; text-transform: uppercase; widows: 1}
+.class_sSB {-webkit-hyphens: auto; font-style: italic; hyphens: auto; orphans: 1; text-align: justify; text-indent: 0.444em; widows: 1}
+.class_sU {-webkit-hyphens: none; font-size: 0.821313em; font-style: italic; hyphens: none; line-height: 1.23098; margin-bottom: 0.191644em; margin-top: 0.958219em; orphans: 1; widows: 1}
+.heading_s2A {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 1.97309em; hyphens: none; line-height: 1; margin-top: 1.58618em; orphans: 1; text-align: center; widows: 1}
+.heading_s4EN {-webkit-hyphens: none; font-size: 1.25619em; hyphens: none; line-height: 1; margin-top: 2.42045em; orphans: 1; text-align: center; widows: 1}
+.heading_s4HG {font-family: 'DejaVu Sans'; font-size: 1.7761em; font-weight: bold; line-height: 1.12676; margin-bottom: 0.88395em}
+.heading_s4J {-webkit-hyphens: none; hyphens: none; margin-top: 0.928417em; orphans: 15; text-align: center; widows: 1}
+.heading_s4V {-webkit-hyphens: none; font-size: 0.942em; font-weight: bold; hyphens: none; line-height: 1.27418; orphans: 15; text-align: center; widows: 1}
+.heading_s7W {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 3.40904em; hyphens: none; line-height: 1; margin-top: 2.24464em; orphans: 1; text-align: center; widows: 1}
+.heading_s46 {-webkit-hyphens: none; font-size: 0.942em; font-weight: bold; hyphens: none; line-height: 1.27418; margin-top: 2.30033em; orphans: 15; text-align: center; widows: 1}
+.heading_s54 {-webkit-hyphens: none; font-size: 0.942em; font-weight: bold; hyphens: none; line-height: 1.27418; margin-top: 0.928204em; orphans: 15; text-align: center; widows: 1}
+.heading_s89 {-webkit-hyphens: none; font-family: 'Juliana Std',serif; font-size: 2.5113em; hyphens: none; line-height: 1; margin-top: 1.24373em; orphans: 1; text-align: center; widows: 1}

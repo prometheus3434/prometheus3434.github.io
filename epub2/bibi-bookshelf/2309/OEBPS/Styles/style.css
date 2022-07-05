@@ -1,0 +1,10 @@
+@font-face{font-family:"Calibri";font-style:normal;font-weight:normal;src:url(../Fonts/CALIBRI.TTF)}
+@font-face{font-family:"Calibri";font-style:normal;font-weight:bold;src:url(../Fonts/CALIBRIB.TTF)}
+@font-face{font-family:"Calibri";font-style:italic;font-weight:normal;src:url(../Fonts/CALIBRII.TTF)}
+body{margin-left:2%;margin-right:2%;margin-top:2%;margin-bottom:2%}
+.nomargin{margin:0}
+p{text-indent:2.4em;margin-left:0;line-height:150%;margin-right:0;text-align:justify;margin-top:0;margin-bottom:0;font-family:Calibri,sans-serif;font-size:109%}
+.p0{text-indent:3em;margin-left:0;text-align:center}
+.p1{text-indent:3em;margin-left:0;text-align:left}
+.p2{text-align:center}
+.t1{font-size:1.2em;line-height:150%}

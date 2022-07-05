@@ -1,0 +1,40 @@
+div.title {
+  text-align: center;
+  font-weight: bold;
+}
+div.edition{
+  text-align: justify;
+  font-size: 85%;
+  page-break-before: always;
+}
+p {
+  text-indent: 0;
+}
+p.title {
+  font-size: 200%;
+  margin-bottom: 0;
+}
+p.subtitle {
+  font-size: 150%;
+  margin-bottom: 0;
+}
+p.author {
+  font-size: 150%;
+  font-style: italic;
+  margin-top: 2em;
+}
+p.date {
+  font-size: 120%;
+}
+p.logo {
+  text-align: right;
+  margin: 10px;
+}
+p.logo img {
+  width: 100%;
+  max-width: 200px;
+}
+
+img.photo {
+  max-width: 80%;
+}

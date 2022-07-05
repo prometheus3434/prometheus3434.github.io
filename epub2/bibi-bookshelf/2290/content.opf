@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ateş ve güneş: Platon sanatçıları neden dışladı?</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Murdoch, Iris &amp; Kırkoğlu, Serdar Rifat">Iris Murdoch</dc:creator>
+    <dc:creator opf:role="aut">Serdar Rifat Kırkoğlu</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1992-06-15T12:18:16+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">06832ab9-c822-414e-b25b-4cba7605ebcc</dc:identifier>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">17b52bf1-b491-45af-92e8-59270007b5d4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755390208</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">rCmLngEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-09-28T12:58:19.079815+00:00"/>
+    <meta name="calibre:title_sort" content="Ateş ve güneş: Platon sanatçıları neden dışladı?"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Iris Murdoch&quot;: &quot;&quot;, &quot;Serdar Rifat Kırkoğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

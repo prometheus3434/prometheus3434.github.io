@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Babam Turan Dursun</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="yazar, Bilinmeyen">Bilinmeyen yazar</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:ebf8de09-cf5a-4b67-a69c-cb8890005a7e</dc:identifier>
+    <dc:date>2015-05-06T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">faa2782d-1e85-421c-8858-e2701ec8ea2b</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:ebf8de09-cf5a-4b67-a69c-cb8890005a7e</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="AbitDursun-BabamTuranDursun_cropped.jpg"/>
+    <meta name="calibre:title_sort" content="Babam Turan Dursun"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bilinmeyen yazar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/Abit Dursun - Babam Turan Dursun_cropped.jpg" id="AbitDursun-BabamTuranDursun_cropped.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-001.jpg" id="fotooo-001.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-002.jpg" id="fotooo-002.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-003.jpg" id="fotooo-003.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-004.jpg" id="fotooo-004.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-005.jpg" id="fotooo-005.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-006.jpg" id="fotooo-006.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-007.jpg" id="fotooo-007.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-008.jpg" id="fotooo-008.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-009.jpg" id="fotooo-009.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-010.jpg" id="fotooo-010.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-011.jpg" id="fotooo-011.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-012.jpg" id="fotooo-012.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-013.jpg" id="fotooo-013.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-014.jpg" id="fotooo-014.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-015.jpg" id="fotooo-015.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-016.jpg" id="fotooo-016.jpg" media-type="image/jpeg"/>
+    <item href="Images/fotooo-017.jpg" id="fotooo-017.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

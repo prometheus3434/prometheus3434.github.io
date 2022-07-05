@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Adem'le Havva'nın Güncesi</text>
+  </docTitle>
+  <docAuthor>
+    <text>Mark Twain</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>ÂDEM’LE HAVVA’NIN GÜNCESİ</text>
+      </navLabel>
+      <content src="Text/4.xhtml#_idParaDest-1"/>
+      <navPoint id="navpoint2" playOrder="2">
+        <navLabel>
+          <text>Âdem’in Güncesi</text>
+        </navLabel>
+        <content src="Text/5.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>Havva’nın Güncesi</text>
+        </navLabel>
+        <content src="Text/5-1.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>Âdem’in Güncesi</text>
+        </navLabel>
+        <content src="Text/5-2.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>Havva’nın Güncesi</text>
+        </navLabel>
+        <content src="Text/5-3.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>Şeytan’ın Güncesi</text>
+        </navLabel>
+        <content src="Text/5-4.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>Havva Anlatıyor</text>
+        </navLabel>
+        <content src="Text/5-5.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>Şeytan’ın Güncesi</text>
+        </navLabel>
+        <content src="Text/5-6.xhtml#_idParaDest-8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>MARK TWAIN’DEN BAŞKA ÖYKÜLER</text>
+      </navLabel>
+      <content src="Text/5-7.xhtml#_idParaDest-9"/>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>Calaveras İlinin En Hızlı Sıçrayan Kurbağası</text>
+        </navLabel>
+        <content src="Text/5-8.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>İskelet ile Nicodemus Dodge</text>
+        </navLabel>
+        <content src="Text/5-9.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>Sağ mı Ölü mü</text>
+        </navLabel>
+        <content src="Text/5-10.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>1.000.000’luk Banknot</text>
+        </navLabel>
+        <content src="Text/5-11.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>Geciken Pasaport</text>
+        </navLabel>
+        <content src="Text/5-12.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>Çalınan Fil</text>
+        </navLabel>
+        <content src="Text/5-13.xhtml#_idParaDest-15"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

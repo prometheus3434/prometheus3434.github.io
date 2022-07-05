@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Darağacında üç fidan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Behram, Nihat">Nihat Behram</dc:creator>
+    <dc:publisher>May Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Darağacında Üç Fidan; Nihat Behram'ın; 12 Mart Darbesi sonrasında Deniz Gezmiş, Hüseyin İnan ve Yusuf Aslan'ın dışarıda son günlerini, yakalanışlarını anlatan belgesel anlatı tarzında bir kitaptır. Mahkûmların 6 Mayıs 1972 tarihinde darağcına çıkış öyküleri ve idam anları çok patetik bir üslupla anlatılmıştır. Bazı bölümlerinde şiirlere de yer verilen kitapta 30 sayfa Deniz Gezmiş, Hüseyin İnan ve Yusuf Aslan'ın fotoğraflarına (siyah-beyaz) ayrılmıştır.
+
+Darağacında Üç Fidan, Mayıs 1976'da yayınlandı. Bu yapıt aynı adla (Darağacında Üç Fidan) belgesel anlatı tarzında on sekiz gün süren bir dizi yazıdan sonra kitaplaştırılmıştı. Dizi, yayını süresince hemen her gün ağır cezalık dava ve toplatma konusu ediliyordu. Kitaplaşan yapıt ağır baskılara uğradı. Sonunda kitap yasaklandı, dağıtılan ilk altı baskıdan raflarda kalanlar toplatıldı. Yedinci basımının kurşun dizgileri baskı makinesinden sökülerek el konuldu. 1980 Darbesi, kitap üstündeki baskıyı daha da koyulaştırdı. Eser, 80'li ve 90'lı yıllarda gençler arasında başka kitapların içine konularak gizli gizli okunan bir kitap oldu. Kitabın yazarı Nihat Behram hakkındaki ağır ceza davaları ise sıkıyönetim mahkemelerine devredildi. Bunun üzerine yazar, 1980 yılında yurtdışına çıkmak zorunda kaldı ve 17 yıl politik sürgün hayatı yaşadı.
+
+Darağacında Üç Fidan, 1988 yılında Yürekleri Şafakta Kıvılcımlar adıyla yeniden yayınlandı. Ama tekrar toplatıldı. Uzun süren hukukî mücadeleler sonrasında kitap için beraat kararı çıktı. Yazar Nihat Behram da 1996 yılında Türkiye'ye geri döndü. Tutuklandı, fakat kitabın beraat kararını kanıtlayarak serbest bırakıldı.
+
+Darağacında Üç Fidan, 1998 yılında şu anki yayınevi tarafından yeniden piyasaya sürüldü. Kitabın yeni baskılarında, 30 sayfalık galerideki resimlerden birinin posteri bulunur.&lt;/p&gt;</dc:description>
+    <dc:date>1976-06-15T11:43:36+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6db67f21-5eac-4595-9993-bcf5efd6ae42</dc:identifier>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Sol</dc:subject>
+    <dc:subject>Politika</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3a9d68f6-d0e7-45e7-b756-48d7b9f7e6f7</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9753168179</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">KeeyHAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753168175</dc:identifier>
+    <meta name="calibre:title_sort" content="Darağacında üç fidan"/>
+    <meta name="calibre:timestamp" content="2013-12-17T01:11:50.216000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nihat Behram&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

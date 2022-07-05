@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:131dc1d7-4caf-4b57-95ab-4fa316eb9e42" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Altı Derste Müziğin Poetikası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Çevirenin Notu</text>
+      </navLabel>
+      <content src="Text/Cevireninnotu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz: Yorgo Seferis</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I. Tanışma</text>
+      </navLabel>
+      <content src="Text/tanisma.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>II. Müzik Fenomeni</text>
+      </navLabel>
+      <content src="Text/muzikfenomeni.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>III. Müziğin Bestelenmesi</text>
+      </navLabel>
+      <content src="Text/mbestelenmesi.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>IV. Müziğin Tipolojisi</text>
+      </navLabel>
+      <content src="Text/mtipolojisi.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>V. Rus Müziğinin Avatarları</text>
+      </navLabel>
+      <content src="Text/rusmavatarlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>VI. Müziğin İcrası</text>
+      </navLabel>
+      <content src="Text/micrasi.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Epilog</text>
+      </navLabel>
+      <content src="Text/epilog.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

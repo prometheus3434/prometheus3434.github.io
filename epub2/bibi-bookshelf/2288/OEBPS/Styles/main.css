@@ -1,0 +1,28 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+sub, sup { 
+font-size: 80%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.simge{text-indent: 0em;text-align:center;margin-top:2em;margin-bottom:1em;}
+.ortali{text-indent: 0em;text-align:center;margin-top:0.5em;margin-bottom:0.5em;letter-spacing:0.5em;}
+.ortali2{text-indent: 0em;text-align:center;margin-top:0.5em;margin-bottom:1em;font-size:0.9em;}
+
+.baslik0{text-indent: 0em;text-align:center;margin-top:2em;margin-bottom:0.5em;font-size:1.7em;font-weight:bold;}
+.baslik1{text-indent: 0em;text-align:center;margin-bottom:2em;font-size:1.3em;font-style:italic;}
+
+.kutu1{margin-left:1.5em;}
+.kutu1 p{text-indent: 0em;text-align:left;font-style:italic;}
+
+.kutu2{margin-left:3em;}
+.kutu2 p{text-indent: 0em;text-align:left;font-style:italic;}
+
+.kutu11{margin-left:1.5em;}
+.kutu11 p{text-indent: 1.5em;text-align:left;}

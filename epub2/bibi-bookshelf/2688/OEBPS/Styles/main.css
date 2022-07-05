@@ -1,0 +1,105 @@
+p
+	{
+	text-align:left;
+	text-indent:1.5em;
+	margin-top:0.0em;
+	margin-bottom:0.0em;
+	font-size:medium;
+	}
+
+.p0
+	{
+	text-indent:0em;
+    }
+
+.kunye p
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:0em;
+	margin-left:1em;
+	margin-bottom:0em;
+	font-size: 0.9em;
+	}
+
+.orta
+	{
+	text-indent:0em;
+	margin-top:1em;
+	margin-bottom:1em;
+	text-align:center;
+	font-weight:normal;
+	}
+
+.sol
+	{
+	text-align:left;
+	text-indent:0em;
+	}
+
+.sag
+	{
+	text-align:right;
+	text-indent:0em;
+	}
+
+h1,h3,h4,h5,h6 {text-align:center;}
+h2 {text-align:left;
+    margin-bottom:3.5em;
+    font-size:1.5em;}
+
+.orta p 
+          {text-indent:0em;
+           text-align:center
+          }
+
+.kitap 
+      {font-size:2.5em;
+       margin-bottom:0em
+      }
+
+.yazar 
+      {font-size:2em;
+       margin-bottom:0em
+      }
+
+.ceviri 
+       {font-size:0.85em;
+        margin-bottom:2.3em; 
+        margin-top:2.3em
+       }
+.logo 
+     {margin-top:5em
+     }
+
+.ara05 {
+        padding-top:0.3em;
+        padding-bottom:0.3em;
+       }
+
+.ara4 {
+        padding-top:4em;
+        padding-bottom:4em;
+       }
+
+.basliksol
+	{
+	text-indent:0em;
+    margin-bottom:3em;
+    font-size:1.5em;
+    font-weight:bold;
+    }
+
+.tarih
+	{
+	text-indent:0em;
+    font-weight:bold;
+    font-size:1em;
+    margin-bottom:0em; 
+    margin-top:1.5em
+    }
+.p5 {text-indent:5em;}
+.p55 {text-indent:6em;}
+.p4 {text-indent:4.8em;}
+.p3 {text-indent:3.6em;}
+.p2 {text-indent:2.4em;}

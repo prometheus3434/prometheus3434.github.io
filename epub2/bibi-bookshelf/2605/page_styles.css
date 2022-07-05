@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 10pt;
+    margin-top: 10pt
+    }
+@font-face {
+    src: url(fonts/Bookerly.ttf);
+    font-family: "Bookerly";
+    panose-1: 2 2 6 2 4 3 5 2 2 4
+    }
+@font-face {
+    font-style: italic;
+    src: url(fonts/Bookerly-Italic.ttf);
+    font-family: "Bookerly";
+    panose-1: 2 2 6 2 4 3 5 9 2 4
+    }
+@font-face {
+    font-weight: bold;
+    src: url(fonts/Bookerly-Bold.ttf);
+    font-family: "Bookerly";
+    panose-1: 2 2 8 2 4 3 5 2 2 4
+    }
+@font-face {
+    font-weight: bold;
+    src: url(fonts/Bookerly-Bold-Italic.ttf);
+    font-family: "Bookerly";
+    panose-1: 2 2 7 2 4 3 5 2 2 4;
+    font-style: italic
+    }

@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Alçaklığın Evrensel Tarihi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Borges, Jorge Luis">Jorge Luis Borges</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:01f19897-284c-4ff0-83ea-fef8ddb96b1e</dc:identifier>
+    <dc:date>2021-09-01T10:51:39+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>Bu kitabı meydana getiren anlatı türündeki düzyazı çalışmaları 1933 ve 1934 yıllarında gerçekleştirildiler. Köklerinin Stevenson ve Chesterton’dan yaptığım yeniden okumaların yanı sıra Von Sternberg’in ilk filmlerine, hatta belki Evaristo Carriego’nun belli bir biyografisine kadar uzandığı kanısındayım. Birbiriyle alakasız şeyleri de bir arada sıralama, devamlılığı sağlamak adına anlık çözümler üretme ya da bir insanın yaşamının iki-üç sahneye indirgenmesi (“Pembe Köşedeki Adam” öyküsünü biçimlendiren de bu görsel niyet) gibi yöntemleri kendi amaçlarına alet ettiklerini söylemeliyim. Psikolojik metinler değiller ve öyle olmaya da çalışmıyorlar.Borges, edebiyatın evrensel tarihindeki en iyi hikâyelerden bazılarını yazdı. Aynı zamanda Alçaklığın Evrensel Tarihi’ni de yazdı.Julio Cortázar#kötülük #suç #metakurmaca #kurmaca #öykü #tarih #din</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cc2894d5-3e30-482a-80c1-7098ab594407</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750755606</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754707199</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:01f19897-284c-4ff0-83ea-fef8ddb96b1e</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ghVyEAAAQBAJ</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Alçaklığın Evrensel Tarihi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jorge Luis Borges&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz1.xhtml" id="onsoz1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz2.xhtml" id="onsoz2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="kunye.css" media-type="text/css"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/endpaper.jpg" id="endpaper.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="onsoz1.xhtml"/>
+    <itemref idref="onsoz2.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

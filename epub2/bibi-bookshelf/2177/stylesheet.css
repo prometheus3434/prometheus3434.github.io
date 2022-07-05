@@ -1,0 +1,87 @@
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    orphans: 2;
+    text-indent: 1em;
+    widows: 2;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.calibre3 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    font-size: 0.77419em;
+    line-height: 1.2;
+    orphans: 2;
+    text-align: center;
+    text-indent: 1em;
+    widows: 2;
+    margin: 0
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre8 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre9 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre10 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre11 {
+    display: block
+    }
+.sigil_not_in_toc {
+    display: block;
+    font-size: 1.54839em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.uline {
+    line-height: 1.2
+    }

@@ -1,0 +1,108 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.calibre3 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.41935em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.calibre5 {
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre7 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre8 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre9 {
+    font-family: Palatino Linotype, serif;
+    font-size: 0.70455em;
+    line-height: 1.2
+    }
+.calibre10 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.font {
+    font-family: "Palatino Linotype", serif;
+    font-size: 0.77419em
+    }
+.font1 {
+    font-family: "Palatino Linotype", serif;
+    font-size: 0.77419em;
+    font-style: italic
+    }
+.font2 {
+    font-family: "Constantia";
+    font-size: 0.77419em;
+    font-weight: bold
+    }
+.font3 {
+    font-family: "Palatino Linotype", serif;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.font4 {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 0.77419em
+    }
+.font5 {
+    font-family: "Palatino Linotype", serif;
+    font-size: 0.70455em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font6 {
+    font-family: "Palatino Linotype", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.font7 {
+    font-family: "Palatino Linotype", serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font8 {
+    font-family: "Palatino Linotype", serif;
+    font-size: 0.6em
+    }
+.font9 {
+    font-family: "Book Antiqua", serif;
+    font-size: 0.77419em;
+    font-style: italic
+    }

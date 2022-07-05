@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="94c26a7f-ecc8-44e6-bb6f-fac143d92eb4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dışlanmış Kadın</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{3B3D3770-992F-4804-8275-85963BECFB49}" playOrder="1">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{76D606E8-9638-4627-86DF-4B7E42F363FF}" playOrder="2">
+      <navLabel>
+        <text>Il</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{DDFBEED3-2379-4A25-9597-F4CA039DC24F}" playOrder="3">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

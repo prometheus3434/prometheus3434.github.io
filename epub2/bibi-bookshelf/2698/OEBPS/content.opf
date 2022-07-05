@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Chagrin de passage</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sagan, Françoise &amp; Altan, Ümit Moran">Françoise Sagan</dc:creator>
+    <dc:creator opf:role="aut">Ümit Moran Altan</dc:creator>
+    <dc:identifier id="uuid">{97944D48-B580-45B7-8536-5F7A5976952F}</dc:identifier>
+    <dc:date>1999-06-15T11:05:51+00:00</dc:date>
+    <dc:publisher>Can</dc:publisher>
+    <dc:description>&lt;p&gt;Françoise Sagan, adını dünyaya 1954 yılında, on dokuz yaşındayken yazdığı Günaydın Hüzün adlı romanıyla duyurmuştu. Unutulmazlar arasına giren o kitabından sonra bugüne kadar tam kırk iki roman yazdı ve ilk romanında yakaladığı başarıyı sürdürdü. Fransa'nın klasik yazarları arasında yer alan Françoise Sagan, romanlarındaki kurguları daha çok, birlikte olan bir kadınla bir erkek ve onların dışındaki üçüncü bir kişi üzerine oturtur. Kahramanları, genellikle burjuva çevrelerin insanlarıdır. Yalnızlık, acı ve hüzün, onun temel izlekleridir. Günübirlik Acı'nın kahramanı bir erkektir; başarılı bir mimar olan Matthieu. Sıradan şikayetlerle gittiği doktorundan birgün hiç beklemediği bir şey öğrenir genç adam: kanserdir. Çoğu kişinin yaptığını yapmaz. Matthieu, kendisiyle hesaplaşmaz, içine kapanmaz. Sorununu yakınındaki insanlarla paylaşır; onların tepkileri, onun bu insanlarla olan ilişkilerinin de sınanmasıdır bir bakıma. Çelişkiler içinde geçirdiği bu süreç, Matthieu'yü uzun zamandır yaşamından silmiş olduğu birine götürür: bir zamanlar delice sevmiş olduğu kadına. Bütün düzeni altüst olan genç adamı bir büyük sürpriz daha beklemektedir&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">447f3e86-1a36-455e-8a88-923aa1a6e466</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9755109641</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755109640</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">vBGJngEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Chagrin de passage"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Françoise Sagan&quot;: &quot;&quot;, &quot;Ümit Moran Altan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-author.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-info.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

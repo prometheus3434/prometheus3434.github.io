@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Benim Üniversitelerim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gorki, Maksim">Maksim Gorki</dc:creator>
+    <dc:publisher>Türkiye Is Bankasi Kültür Yayinlari</dc:publisher>
+    <dc:date>2017-11-15T10:36:58+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8caf449f-5eb2-4291-b7b3-c2f6204981a0</dc:identifier>
+    <dc:date opf:event="modification">2014-12-23</dc:date>
+    <dc:description>&lt;p&gt;Gorki'nin yaşamöyküsünü anlatan üçlemenin bu son kitabı, onun yirmili yaşlarına kadar topladığı hayat deneyimleri üzerine kuruludur. Kunduracı çıraklığından aşçı yamaklığına, kuş avcılığından ikona mağazası tezgâhtarlığına kadar bir tür hayata hazırlanma aşamalarından geçen yazar, hak ettiğini düşündüğü yüksek öğrenime yönelir. Kazan'daki üniversiteye girme imkânı bulamayan Gorki. hayat üniversitesinin içinden geçer. Önceki iki özyaşam öyküsü romanındaki doğal, kırsal dünya, burada yerini kentin izbe içindeki hayatlar gibi yıkık dökük, ama ayakta duran binalarına bırakır. Yazar bizi, ara sıra yorum kattığı bir belgesel sinema tekniğiyle farklı toplumsal katmanları temsil eden renkli tiplerin, karakterlerin dünyasından geçirirken, "hayat üniversitesinden mezun oluşunun" da ipuçlarını verir. Gorki kötülüğün, hoşgörüsüzlüğün, tembelliğin ve aptallığın dünyevi ve dinsel kurumların baskısından çok daha belirleyici olduklarını hatırlatır bize; Benim Üniversitelerim, onun bu engellere karşı verdiği mücadelenin üçüncü aşamasını oluşturur. Benim Üniversitelerim: Hayatın üniversitesi. 
+(Arka Kapak)&lt;/p&gt;</dc:description>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">91a08a38-c8d6-4961-a400-1e525c25fddc</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053326533</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">aX3qtgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785866589</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-03-28T08:50:28.600000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Benim Üniversitelerim"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Maksim Gorki&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_000.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_001.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_002.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_003.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_004.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_005.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Benim-Universitelerim_split_006.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

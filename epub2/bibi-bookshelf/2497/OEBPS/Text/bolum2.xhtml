@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title></title>
+  <link href="../Styles/main.css" rel="stylesheet" type="text/css" />
+  <link href="../Styles/fonts.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>II. Bölüm<br />
+  Algoritmalar ve Turing Makineleri</h1>
+
+  <h2 id="sigil_toc_id_10">Algoritma Kavramı</h2>
+
+  <p>Bir algoritma, veya bir Turing makinesi, veya bir evrensel Turing makinesi tam olarak nedir? Niçin “düşünen alet” nedir sorusu üstüne oluşan çağdaş düşünceler arasında bu kavramlar merkez konumundadırlar? Bir algoritmanın yapabilecekleri ilke olarak sınırlı mıdır? Bu sorulara yeterli yanıt getirebilmek için öncelikle algoritma fikrini ve Turing makineleri kavramını ayrıntılı incelememiz gerekecek.</p>
+
+  <p>İlerideki çeşitli tartışmalar sırasında bazen matematiksel ifadelere başvurmamız kaçınılmaz olacak. Okuyucularımdan bir kısmının bundan hiç hoşnut kalmayacaklarının, hatta belki bunu ürkütücü bulacaklarının farkındayım. Eğer bu okurlardan birisi iseniz, size sabır dileyerek, “Okuyucuya Açıklama” bölümündeki tavsiyelerimi izlemenizi öneririm. Burada verilen tartışmalar genelde ilköğretimin ötesinde bir matematik bilgisi gerektirmeyecek; ancak, ayrıntılara inebilmek için epey kafa yormak kaçınılmazdır. Aslında vereceğim pek çok örnek yeterince açıktır ve ayrıntıları izleyerek kavranabilirler. Ama şöylece üzerinden bir kez okunmaları bile tartışılan konular hakkında sizlere fikir verecektir. Öte yandan eğer konuların uzmanı iseniz sizlere de sabır dileyeceğim. Yine de diyeceklerime şöyle bir bakarsanız ilginizi çekecek birkaç şey bulabileceğinizi sanıyorum.</p>
+
+  <p>‘Algoritma’ kelimesi 9. yüzyılda yaşamış Horasan doğumlu matematikçi Ebu Cafer Muhammed İbn-i Musa el Harezmi’nin (al-Kho-wârizm) adından gelmektedir. M.S. 825 yıllarında “Kitab el cebr ve’l mukabele” başlığıyla çok etkili olmuş bir matematik ders kitabı yazmıştır. Eskiden kullanılmakta olan ‘algorizma' teriminin yerini bugünkü kullanımda “algoritma” kelimesinin almış bulunması “aritmetik” kelimesiyle kurulan bir ilişkiye bağlı olmalıdır. (‘Cebir’ kelimesinin de aynı kitabın başlığında yer alan Arapça el-cebr’den gelmiş olması ilginçtir).</p>
+
+  <p>Aslında algoritmalar el Harezmi’nin kitabından çok önce de bilinmekteydiler. Eski Yunan döneminden (yaklaşık M.Ö. 300 den) beri bilinen ve <span style="font-style:italic;">Eukleides algoritması</span> adıyla tanınan en iyi örnek, iki sayının en büyük ortak bölenini bulma yöntemidir. Konuyu daha iyi anlatmak için, örneğin 1365 ve 3654 gibi bir sayı çifti düşünmek yararlı olacaktır. Bu sayıların en büyük ortak böleni (EBOB), verilen her iki sayıyı tam olarak bölen en büyük tamsayıdır. Eukleides algoritmasını uygulamak için verilen sayılardan büyüğünü küçüğüne bölüp kalanı bulacağız: 1365, 3654’de iki kere var ve kalan 924 dür, (924 = 3654 - 2 x 1365) Şimdi önceden verilen sayı çifti yerine kalan 924 ve bölen 1365 sayılarını alalım. Bu yeni sayı çiftiyle yukarıdaki işlemi tekrarlayalım: 924, 1365’de bir kere var ve kalan 441’dir. Böylece 441 ve 924’den oluşan yeni bir sayı çifti oluşturduk. 924’ü 441’e bölersek kalan 42 olur. (42 = 924 - 2 x 441). Bir tam bölme işlemine kadar bu süreç tekrarlanır. Açıkça yazarsak:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-2.png" /></p>
+
+  <p>En son bölen sayı, yani 21 sayısı, aranmakta olan en büyük ortak bölendir.</p>
+
+  <p>Eukleides algoritması, bu ortak böleni bulmak için izlediğimiz <span style="font-style:italic;">sistemli yöntemin</span> kendisidir. Burada yöntemi belli bir sayı çiftine uyguladık, ama yöntemin kendisi herhangi iki sayıya uygulanabilecek kadar geneldir. Eğer verilen sayılar çok büyük olursa, yöntemi uygulamak uzun bir süre alabilir; sayılar ne kadar büyükse süreç o kadar uzun sürebilecektir. Fakat her durumda süreç tamamlanır ve sonlu sayıda işlem yaptıktan sonra kesin bir yanıta ulaşılır. Her adımda hangi işlemin yapılacağı tam olarak belirlenmiştir; sürecin ne zaman sona erdirileceği de kesin bir kurala bağlanmıştır. Ayrıca, tüm süreç sınırsız büyük doğal sayılara uygulanmakta olmasına rağmen <span style="font-style:italic;">sonlu</span> sayıda adımla belirlenebilmektedir. (‘Doğal sayılar’ deyince eksi olmayan tamsayıları <a href="../Text/notbolum2.xhtml#nb21" id="nb21d"><sup>[1]</sup></a> anlayacağız: 0, 1, 2, 3,...) Nitekim, Eukleides algoritmasının, mantıksal işlemlerinin tamamı (sonlu) bir ‘akış şeması’ ile temsil edilebilir.</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-3.png" /></p>
+
+  <p>Yukarıda sürecin en temel basamaklarına kadar ayrıştırılmadan verilmiş olduğuna dikkat edilmelidir. Çünkü A ve B diye verilen iki doğal sayının bölümünden elde edilecek kalan sayının hangi işlemlerle bulunacağını ‘bildiğimiz’ varsayılıyor. Hepimizin okulda öğrendiği bu bölme işlemi de algoritmik bir işlemdir. Gerçekte bölme işlemi Eukleides algoritmasının kendisinden daha karmaşık bir süreçtir, ancak benzer biçimde bir ‘akış şeması’ ile verilebilir. Esas zorluk doğal sayıları (normal olarak) ondalık sistemle göstermemizden kaynaklanmaktadır. Dolayısıyla çarpım tablosunu oluşturmak, eldeleri taşımak vb. işlemler yapılmaktadır.</p>
+
+  <p>Eğer bir <span style="font-style:italic;">n</span> sayısını göstermek için sadece <span style="font-style:italic;">n</span> çizik atsaydık, örneğin 5 sayısını ///// ile gösterseydik, kalanı bulmak gerçekten basit bir algoritmik işlem haline gelirdi. A sayısı B sayışına bölününce kalanı bulmak için A’dan B sayısını temsil eden çizik gruplarını peş peşe çıkarırdık. Geride kalan çizikler bize yanıtı verirdi. Örneğin, 17’yi 5’e bölersek kalanı bulmak için ///// gruplarını ///////////////// grubundan şöyle ayırırdık:</p>
+
+  <p style="text-align: center;">/////////////////</p>
+
+  <p style="text-align: center;">////////////</p>
+
+  <p style="text-align: center;">///////</p>
+
+  <p style="text-align: center;">//</p>
+
+  <p>Üç adım sonra yanıt iki olacaktır.</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-4.png" /></p>
+
+  <p>Bir bölme işleminde kalanı, tekrarlanan çıkarma işlemleriyle veren bir ‘akış şeması’ aşağıda verilmiştir. Eukleides algoritmasını veren akış şemasını tamamlamak için yukarıdaki şemayı önceki akış şeması içinde sağda ortadaki kutu içine yerleştirmeliyiz. Bu tür bir algoritmayı diğer bir algoritmanın içinde yerine koyma işlemine bilgisayar programlamasında sık rastlanır.</p>
+
+  <p><span style="font-style:italic;">n</span> sayısını, <span style="font-style:italic;">n</span> tane çizikle temsil etmek sayılar büyüdükçe giderek kullanışsız olmaya başlar, ve bizler bu nedenle sayıları göstermek için standart ondalık sistemi kullanırız. Ama burada işlemlerin veya gösterimin <span style="font-style:italic;">kullanışlılığı</span> bizi o kadar ilgilendirmiyor. Daha çok hangi işlemlerin <span style="font-style:italic;">ilke olarak</span> algoritmalarla yapılabileceği ile ilgilenmekteyiz. Bir sayı sisteminde algoritma ile yapılabilen bir işlem başka herhangi bir sayı sisteminde de algoritma ile yapılabilir. Farklar sadece ayrıntıda ve işlemlerin karmaşıklığındadır.</p>
+
+  <p>Eukleides algoritması, matematiğin hemen her dalında bulunabilecek, artık klasikleşmiş pek çok algoritmadan sadece birisidir. Ancak dikkate değer bir nokta, algoritma örneklerinin bu kadar geriye giden tarihine karşı, <span style="font-style:italic;">genel algoritma kavramının</span> kesin olarak verilmesinin ancak yüzyılımızda gerçeklemiş bulunmasıdır. Bu kavramın birbirine eşdeğer tanımlarının hepsi 1930’larda yapılmıştır. Bunlardan en doğrudan ve ikna edici olanı ve tarihsel açıdan da en önemlisi <span style="font-style:italic;">Turing makinesi</span> diye bilinen kavram yardımıyla verilenidir. Bu ‘makineleri’ ayrıntılarıyla incelemek gerekecektir.</p>
+
+  <p>Bir Turing makinesi hakkında aklımızda tutulacak en önemli husus bunun bir fiziksel nesne değil bir ‘soyut matematik’ ürünü olduğudur. Kavram ilk kez, İngiliz matematikçisi, ünlü şifre uzmanı ve ilk bilgisayar bilimcilerinden Alan Turing tarafından (Turing 1937) 1935-6 senesinde daha geniş kapsamlı bir probleme yanıt getirebilmek amacıyla ortaya konmuştur. <span style="font-style:italic;">Entscheidungsproblem</span> adıyla bilinen bu problem büyük Alman matematikçisi David Hilbert tarafından 1900 Paris Uluslararası Matematikçiler Kongresinde kısmen (Hilbert’in 10. problemi) ve daha sonra 1928 Bologna Kongresi’nde tam olarak tanımlanmıştı. Hilbert en genel bir matematik probleminin çözümü için algoritmik yöntem bulunup bulunamayacağını sormaktaydı; ya da ‘daha doğrusu’ böyle bir yöntemin ilke olarak var olup olmadığını sorgulamaktaydı. Hilbert’in amacı, aksiyomlarını ve yöntem kurallarını belirleyecek bir program yardımıyla, matematiği tartışılamaz sağlamlıkta bir temel üzerine oturtmaktı. Ancak daha Turing’e gelmeden önce 1931’de parlak Avusturyali mantıkçı Kurt Gödel’in şaşkınlık veren bir teoremi nedeniyle bu program çıkmaza girmiş bulunmaktaydı. Gödel teoremini ve bunun önemini IV. Bölüm’de ele alacağız. Turing’in ilgilenmiş olduğu Hilbert problemi (<span style="font-style:italic;">Entscheidungsproblem</span>) matematiğin herhangi bir aksiyom sistemi cinsinden yazılmasından daha derine inen bir problemdir. Sorun şudur: Matematiğin tüm problemlerini birbiri peşi sıra çözebilecek genel bir mekanik yöntem ilke olarak var mıdır?</p>
+
+  <p>Bu soruyu yanıtlamakta karşılaşılan bir zorluk <span style="font-style:italic;">mekanik yöntem</span> ile ne kastedildiğini anlamaktı. Kavram, o dönemin alışılmış matematik anlayışının dışında kalıyordu. Bir yanıt getirebilmek için, Turing önce ‘makine’ kavramını, işlevlerini temel öğelerine ayırarak nasıl tanımlayacağı üzerinde düşündü. Turing’in insan beynini bu anlamda bir ‘makine’ olarak gördüğü açıktır. Böylece matematikçinin bir matematik problemiyle uğraşırken yaptığı eylemler de ‘mekanik yöntemler’ başlığı altında toplanabilmekteydi.</p>
+
+  <p>Her ne kadar insan düşüncesine bu bakış açısı, Turing’in bu çok önemli kavramını geliştirmesinde değer taşımışsa da bizler aynı bakış açısını kabule zorunlu değiliz. Nitekim, bir mekanik yöntemden ne kastedildiğini tam olarak açıkladıktan sonra Turing, iyi tanımlı ama normal anlamda mekanik denmeyecek bazı matematik işlemlerin varlığını göstermiştir. Turing’in kendi çalışmalarına dayanarak onun akıl olgusunun doğası üzerine görüşlerinde açık noktalar bulunduğuna kanıt getirebilmek bir çelişki olmalı. Ancak şu an konumuz bu değil. Öncelikle Turing’in mekanik yöntem kavramının ne olduğunu anlamalıyız.</p>
+
+  <h2 id="sigil_toc_id_11">Turing Makinesi Kavramı</h2>
+
+  <p>Bir hesap yöntemini (sonlu tanımlanabilir) uygulayan bir makine düşünelim. Genel hatlarıyla nasıl bir makine olurdu bu acaba? Şimdilik uygulama tekniği hakkında fazlaca kafamızı yormayalım; matematik açısından ideal bir tasarıma sahip olması yeterli. Cihazımız olarak sonlu (belki de çok fazla sayıda) ve birbirinden farklı olası bir bağımsız durumlar kümesine sahip olsun istiyoruz. Biz bunlara makinenin içsel durumları adını veriyoruz. Ancak, makinemizin ilke olarak gerçekleştireceği hesapların boyutunu sınırlamak istemiyoruz. Eukleides’in yukarıda tanımladığımız algoritmasını anımsayınız. İlke olarak, algoritma veya genel hesap yöntemi, sayılar ne kadar büyük olursa olsun, yine aynıdır. Büyük sayılar söz konusu olduğu zaman, yöntem gerçekten çok uzun zaman alabilir ve hesapları yapabilmek için önemli miktarda 'müsvedde kağıdı’ gerekebilir. Fakat sayılar ne kadar büyük olursa olsun algoritma yine aynı sonlu komutlar kümesinden ibarettir.</p>
+
+  <p>Bu nedenle makinemiz, sonlu sayıda içsel duruma sahip olmasına karşın, boyutu sınırlanmamış bir girdiyle işlem yapabilmelidir. Ayrıca makinemiz, işlemleri için, sınırsız bir dışsal veri biriktirme alanından (‘müsvedde kağıdı’) yararlanabilmeli, aynı zamanda sınırsız boyutta çıktı üretebilmelidir. Makinemiz, sonlu sayıda farklı içsel duruma sahip olduğu için, ondan ne tüm dışsal verileri, ne de kendi hesaplarının sonuçlarını içsel konuma getirmesi beklenmemelidir. Bunun yerine, verilerin veya önceki hesapların <span style="font-style:italic;">anında</span> işleme soktuğu kısımlarını incelemeli, daha sonra bunlarla ilgili olarak hangi işlemlerin yapılması gerekiyorsa onları yapmalıdır. Dışsal veri biriktirme alanına, işlemin sonuçlarını kaydedebilir ve işlemin bir sonraki aşamasına gayet kararlı bir şekilde geçebilir. Girdinin, hesap mekânının ve çıktının sınırsız doğası, pratikte fiilen oluşturulabilecek bir şeyden çok, yalnız matematiksel bir idealin gerçekleşmesiyle ilgilendiğimizi hatırlatır (<a href="#%C5%9Eekil_2.1">bkz. Şekil 2.1</a>). Fakat bu konumuzla önemli ilgisi olan bir idealin gerçekleşmesidir. Modern bilgisayar teknolojisinin harikaları bize, pratik amaçlarımızın birçoğu için sınırsız olarak kullanılabilecek elektronik veri biriktirme alanı (bellek) sağlamıştır.</p>
+
+  <p>Gerçekte, dışsal olarak tanımlanan bellek alanı tipi, modern bir bilgisayarın içsel işlemlerinin bir kısmım oluşturur. Bellek alanının belirli bir kısmının dışsal veya içsel olarak nitelendirilmesi belki teknik bir ayrıntıdır. “Makine’ ve ‘dışsal’ kısım ayırımı, <span style="font-style:italic;">donanım</span> (hardware) ve <span style="font-style:italic;">yazılım,</span> (software) olarak kabul edilebilir. Buna göre, içsel kısım (mekanik) donanım, dışsal kısım yazılımdır. Bu konuya saplanıp kalmayacağım ama neresinden bakarsanız bakın, Turing’in idealleştirilmesi günümüzün elektronik bilgisayarlarına gerçekten çok yaklaşmıştır.</p>
+
+  <p id="Şekil_2.1" style="text-align: center;"><img alt="" src="../Images/main-5.png" /></p>
+
+  <p style="text-align: center;"><b>Şekil 2.1 Kurallara uygun bir Turing makinesi sonsuz bant gerektirir!</b></p>
+
+  <p>Turing, dışsal veri bellek alanını, üzerinde işaretler bulunan “bant” şeklinde gözünde canlandırmıştır. Bu bant ileri/geri hareket edebilir. Makine, gerekirse, bantın üzerine yeni işaretler koyabildiği gibi eski işaretleri silebilir ve böylece aynı bantın, girdi olduğu kadar dışsal bellek (‘müsvedde kağıdı’) gibi görev yapmasını sağlar. Gerçekte, dışsal bellek ile ‘girdi’ arasında ayırım yapmamak yararlı olur, çünkü işlemlerin çoğunda bir hesabın ara sonuçları, yeni veriler gibi rol alabilir. Eukleides’in algoritmasında, ilk girdimizle (A ve B sayıları), hesabın çeşitli aşamalarını birbirlerinin yerine koyduğumuzu hatırlayınız. Aynı şekilde, aynı bant, kesin çıktı (yani, ‘yanıt’) için kullanılabilir. Bant, başka hesapların yapılmasına gerek olduğu sürece durmadan ileri/geri hareketini sürdürecektir. İşlem tamamlandığı zaman makine durur ve hesap sonucu, bantın makinenin bir yanında yer alan kısmı üzerinde okunabilir. Kesin bir tanımlama için farz edelim ki, sonuç daima sol taraftan verilirken, girdi kapsamındaki tüm sayısal veriler ve çözülecek problemle ilgili komutlar daima sağ taraftan verilir.</p>
+
+  <p>Kendi adıma, sınırlı makinemizin, potansiyel olarak sonsuz bantı ileriye geriye hareket ettirmek zorunda olmasından biraz rahatsızlık duyuyorum. Malzemesi ne kadar hafif olursa olsun, <span style="font-style:italic;">sonsuz</span> bir bantı hareket ettirmek zor olmalı! Bantın, sınırlı makinemizin içinde hareket edebileceği dışsal ortamı temsil ettiğini düşlemeyi yeğlerdim (Kuşkusuz, modern elektronik cihazlarda, basit fiziksel anlamda, ne ‘bant’ ne de ‘cihaz’ gerçekten “hareket’ ederler; fakat böyle bir 'hareket’ nesnelerin hayalde canlandırılmasını kolaylaştırıyor). Bu teoriye göre makine, girdinin tamamını ortamdan alır. Ortamı, kendine ait ‘müsvedde kağıdı’ olarak kullanır. Sonuçta, çıktısını aynı ortam üzerine kaydeder.</p>
+
+  <p>Turing’in resminde 'bant’, her iki yönde sonsuz olduğu varsayılan ve karelerden meydana gelen çizgisel bir diziden oluşur. Bantın üzerindeki her kare ya boştur ya da üzerinde bir tek işaret vardır<a href="../Text/notbolum2.xhtml#nba2I" id="nba2Id"><sup>[I]</sup></a>. İşaretli veya işaretsiz kareler, ortamın, (yani bantın), parçalara ayrılarak birbirinden <span style="font-style:italic;">bağımsız</span> (süreklinin karşıtı olarak) kesikli elemanları olarak tanımlanabileceğini gösterir. Makinemizin fonksiyonlarını güvenilir ve kararlı şekilde yerine getirmesini istiyorsak bu özelliğe sahip olması gerekir, Ancak matematiksel idealleştirmenin bir özelliği olarak ‘ortamın’ (potansiyel bakımdan) sonsuz olmasına karşı değiliz, fakat hangi <span style="font-style:italic;">özel</span> durumda olursak olalım girdi, hesaplama işlemi ve çıktı daima <span style="font-style:italic;">sonlu</span> olmalıdır. Buna göre bant, sonsuz olarak uzun kabul edilse bile üzerinde bulunan işaretlerin sayısı sonsuz olamaz. Her bir yönde bant belirli bir noktadan sonra tümüyle boş olmalıdır.</p>
+
+  <p>Boş kareyi ‘0’ işaretli kareyi ‘1’ ile göstererek bir örnek verelim:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-6.png" /></p>
+
+  <p>Makinemizin, bantı ‘okuması’ gerekiyor; okuma işlemini bir defada bir kareyi okuyarak ve her okumadan sonra sağa veya sola yalnız bir kare hareket ederek gerçekleştirdiğini varsayıyoruz. Bir defada <span style="font-style:italic;">n</span> kare okuyan veya bir defada <span style="font-style:italic;">k</span> kare kayan cihazlar, bir defada yalnız bir kareyi okuyan ve geçen bir cihaz cinsinden kolaylıkla modellenebilirler. <span style="font-style:italic;">k</span> karelik bir hareket, bir karenin <span style="font-style:italic;">k</span> kere hareketiyle oluşturulabilir; <span style="font-style:italic;">n</span> karenin bir defada okunması veri depolamak suretiyle basit cihaz sanki <span style="font-style:italic;">n</span> karenin hepsini bir defada okuyormuş gibi yorumlanabilir.</p>
+
+  <p>Bu cihaz ayrıntılı olarak ne yapabilir? ‘Mekanik’ olarak tanımlayacağımız bir şeyin işlevini yerine getirebildiği en genel yöntem nedir? Cihazımızın <span style="font-style:italic;">içsel durumlarının</span> sayı bakımından sonsuz olmaması gerektiğini hatırlayınız. Bilmemiz gereken tek şey, bu sonsuz olmamanın ötesinde cihazın davranışının tamamen içsel durumu tarafından ve girdi tarafından kontrol edildiğidir. Girdiyi basitleştirmiş ve ‘0' ve '1’ sembollerinden biriyle temsil etmiştik. Başlangıç durumu ve bu girdiyle donanımlı olarak makinenin tamamen kararlı bir şekilde çalışması beklenir: İçsel durumunu bir başka (belki de aynı) içsel duruma değiştirir; okuma simgeleri olarak 0 veya 1 ’i kullanır veya bunların yerine başka simgeler koyar; sağa veya sola bir kare hareket eder; sonuçta, işlemi sürdürüp sürdürmemeye veya bitirmeye karar verir ve durur.</p>
+
+  <p>Cihazımızın çalışmasını daha açık anlatmak amacıyla içsel durumlarını <span style="font-style:italic;">numaralayalım</span>: 0, 1, 2, 3, 4, 5, ...; buna göre cihazın, veya <span style="font-style:italic;">Turing makinesinin,</span> çalışma sistemine, aşağıda örneklendiği gibi bir dizi yer değiştirme egemen olacaktır:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-7.png" /></p>
+
+  <p>Okun sol tarafındaki <span style="font-style:italic;">iri</span> rakam, cihazın okuma işlemini gerçekleştirmekte olduğunu gösteren ve bantın üzerinde yer alan işarettir; cihaz bu simgenin yerine sağ tarafta ortada bulunan iri rakamı koyar. ‘R’, cihazın bant boyunca sağa doğru bir adım, <span style="font-style:italic;">‘L'</span> ise sola doğru bir adım hareket etmek zorunda olduğunu gösterir. (Turing’in özgün tanımında olduğu gibi, cihazın yerine bantın hareket ettiğini düşünürsek, R’yi bantın bir kare sağa ve L’yi bir kare sola hareket etmesi komutu olarak yorumlayabiliriz), STOP sözcüğü, işlemin tamamlandığını ve cihazın durması gerektiğini gösterir. Özellikle, 01 —&gt;131L komutu cihaz ‘0’ durumunda ise ve banttan 1 okuyorsa, 13 numaralı içsel duruma geçmesi ve 1’i 1 olarak bant üzerinde bırakması ve bant üzerinde bir kare sola kayması gerektiğini gösterir. Son komut 2591 0OR.STOP, cihaz 259 durumunda ise ve bant üzerinde 1’i okuyorsa, 0 durumuna geçmesi, bant üzerinde 0 üretmek için 1’i silmesi, bant boyunca sağa doğru bir kare kayması ve işlemi tamamlaması gerektiğini gösterir.</p>
+
+  <p>İçsel durumları 0, 1, 2, 3, 4, 5,... gibi sayılar kullanarak göstermek yerine, O’lardan ve İlerden oluşan simgeler kullanmamız gerekseydi, bant üzerinde yukarıda açıklanan simgeler sistemine sadık kalmamız daha doğru olurdu. İstersek <span style="font-style:italic;">n</span> durumu için <span style="font-style:italic;">n</span> adet 1 kullanabilirdik ama bu yetersiz olurdu. Bunun yerine <span style="font-style:italic;">ikilik</span> sayı sistemini kullanalım:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-8.png" /></p>
+
+  <p>Burada sağ taraftaki son hane standart (ondalık) sistemde olduğu gibi, ‘birlikleri’ gösterirken, hemen ondan bir önceki hane ‘onluklar’ yerine ‘ikilikler’i gösterir. Bundan önceki hane yüzlükler değil, dörtlükler, daha önceki hane ‘binlikler’ değil ‘sekizlikler’, vs. gösterir ve sola doğru hareket ederken birbirini izleyen her hanenin değeri, birbirini izleyecek şekilde <span style="font-style:italic;">ikinin katlarıdır:</span> 1,2,4(= 2 x 2), 8(= 2 x 2 x 2), 16(= 2 x 2 x 2 x 2), 32(= 2 x 2 <span style="font-style:italic;">x</span> 2 x 2 x 2), vs. (İleride açıklayacağımız nedenlerle, doğal sayıları temsil etmek amacıyla ikilik veya ondalık sistemlerden başka bir basamak sistemi kullanmayı bazen daha uygun bulacağız: Örneğin, üçlük sistemde, 64 ondalık sayısı her hanesi üçün katları değerinde olmak üzere 64= (2 x 3<sup>3</sup>) + 3<sup>2</sup> + 1 olarak yazılacaktır. Bkz. IV. Bölüm)</p>
+
+  <p>İçsel durumları belirlemek için bu ikilik sistemi kullanırsak, Turing makinesinin komutları aşağıdaki şekilde olacaktır:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-9.png" /></p>
+
+  <p>Yukarıda R.STOP sembolünü STOP olarak kısalttım çünkü L. STOP komutu hiçbir zaman gözükmez ve işlemin son aşamasının sonucunun, yanıtın bir parçası olarak, daima cihazın sol tarafında gösterilmesi gerekir.</p>
+
+  <p>Diyelim ki cihazımız 11010010 ikilik dizi ile temsil edilen özel bir içsel durumda bulunsun, bant ise bir işlemin tam ortasında sayfa 43’te detaylanan biçimde bulunsun, ve biz 11010010O→111L komutunu uygulayalım. Bant üzerinde okunan hane (‘O') daha iri bir rakamla, içsel durumu belirleyen simgeler dizisinin sağında gösterilir.</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-10.png" /></p>
+
+  <p>Turing makinesi örneğinde (kendimce rasgele bazı değişiklikler yaptığım örnekte), okunmakta olan ‘O’ ile ‘1' yer değiştirirse ve içsel durum '11’e değiştirilirse cihaz sola doğru bir adım kaydırılmış olur.</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-11.png" /></p>
+
+  <p>Cihaz şimdi sonraki haneyi (yine bir ‘O’) okumaya hazırdır. Tabloya göre 'O’ı değiştirmeksizin olduğu gibi bırakır fakat içsel durumu '100101’ ile değiştirir ve bant boyunca sağa bir adım geri gider. Bu konumda '1'i okur ve tablonun aşağılarında bir yerde içsel durumu değiştirmek için ne gibi bir yer değiştirme uygulanacağına dair komutu bulur: Okumakta olduğu haneyi değiştirmesinin gerekli olup olmadığı ve bant boyunca hangi yönde ilerlemesi gerektiğine dair komut alır. STOP’a ulaşıncaya kadar bu şekilde devam eder; STOP aşamasında (sağa doğru bir adım daha ilerledikten sonra) işlemin tamamlandığı konusunda cihaz operatörünü uyarmak için bir zilin çaldığını varsayarız.</p>
+
+  <p>Cihazın daima O içsel durumunda uygulamaya başlatılmasını ve okuma cihazının sol yanında yer alan bantın başlangıçta boş olmasını öneriyoruz. Komutlar ve veriler sağ taraftan yüklenecektir. Daha önce değindiğimiz gibi, yüklenen bilgi daima <span style="font-style:italic;">sonlu</span> sayıda 0'lar ve 1'ler dizisi şeklinde alınmalı, bu diziyi boş bant (yani O'lar) izlemelidir. Makine STOP aşamasına ulaştığında işlemin sonucu, okuma cihazının solundaki bant üzerinde görünür.</p>
+
+  <p>Sayısal verileri girdimizin bir parçası olarak işleme dahil etmeyi arzu ettiğimiz için, girdinin bir parçası olarak basit sayıları (yani 0, 1, 2, 3, 4, ... gibi doğal sayıları) tanımlamanın bir yolunu bulmak durumundayız. Bunu gerçekleştirmenin bir yolu, <span style="font-style:italic;">n</span> sayısını temsil etmek için <span style="font-style:italic;">n</span> adet 1 kullanmaktadır (gerçi bu, doğal sayı 0 konusunda bize biraz zorluk çıkaracaktır):</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-12.png" /></p>
+
+  <p>Bu basit numaralama sistemi (oldukça mantıksız bir yaklaşımla) <span style="font-style:italic;">birlik</span> sistem olarak adlandırılır. Bu sistemde ‘O’ simgesi yerine farklı sayıları birbirinden ayırmaya yarayan boşluk kullanılabilir. Algoritmaların çoğu sayılardan oluşan <span style="font-style:italic;">dizileri</span> esas alarak işlem yaptıkları için sayıları birbirinden ayırmanın yolunu bulmak önemlidir. Örneğin, Eukleides’in algoritmasına göre cihazımız A ve B sayılarından oluşan bir sayı çiftini esas alarak işlem yapacaktır. Turing makineleri, fazla zorlanmadan, bu algoritmanın yazılımını gerçekleştirebilir. Konuya ilgi duyan bazı okuyucular yöntemin '0’ ile birbirinden ayrılan bir birlik sayı çiftine uygulanmasıyla Turing makinesinin (kısaca EUC olarak adlandırıyorum) Eukleides’in algoritmasını uygulayışını, deneme niteliğinde, kanıtlamak isteyebilirler.</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-13.png" /></p>
+
+  <p>Bu örneğe girişmeden önce okurumun, UN + 1 Turing makinesi gibi daha basit ve bir birlik sayıya sadece tek birim ekleyen sistemi denemesi daha akıllı bir davranış olacaktır:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-14.png" /></p>
+
+  <p>UN + 1 ’in bunu gerçekleştirebildiğini kontrol için, 4 sayısını temsil eden</p>
+
+  <p>...00000111100000...,</p>
+
+  <p>bantına uygulandığını varsayalım. Yine varsayalım ki cihaz başlangıçta 1'lerin solunda bir yerdedir. İçsel durumu ‘0’ olup, '<span style="font-style:italic;">0’</span> okumaktadır. İlk komuta uyarak bunu ‘O’ olarak bırakır ve sağa bir adım kayarken içsel durum ‘0’ da kalır. İlk 1’e ulaşıncaya kadar; sağa doğru birer adım atarak bu işlemi sürdürür. Sonra ikinci komut devreye girer: 1’i 1 olarak bırakır ve bu kez içsel durum 1’de olmak üzere tekrar sağa hareket eder. Dördüncü komuta göre, 1’lere dokunmadan içsel durum 1’de kalır, 1’leri izleyen ilk 0’a varıncaya kadar sağa doğru ilerler. Bu aşamada üçüncü komut cihaza, 0’ı 1’e değiştirmesini, sağa bir adım daha atamasını söyler. Böylece, 1 1er dizisine bir 1 daha eklenmiş olur, ve örneğimizin 4’ü, öngörüldüğü gibi, 5’e gerçekten çevrilmiş olur.</p>
+
+  <p>Denememizde biraz daha ileri giderek,</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-15.png" /></p>
+
+  <p>ile tanımlanan UN x 2 makinesinin bir birlik sayıyı amaçlandığı gibi iki katına çıkardığını kontrol edebiliriz.</p>
+
+  <p>EUC örneğinde, daha iyi bir fikir edinmek için daha açıklayıcı bir sayı çifti, Örneğin 6 ve 8 denenebilir. Okuma cihazının yine O başlangıç durumunda olduğunu varsayalım. Bant başlangıcında aşağıdaki şekilde işaretlenecektir:</p>
+
+  <p>...0000000000011111101111111100000...</p>
+
+  <p>Turing makinesi, birçok aşamadan sonra durduğu zaman, okuma cihazı, sıfır olamayan hanelerin sağında kalmak üzere aşağıdaki şekilde bir açılım elde ederiz:</p>
+
+  <p>...000011000000000000...</p>
+
+  <p>EUC (veya UN x 2) cihazının işleyişi ile ilgili bazı incelikleri açıklamak, bilgisayar programlarının pek de yabancısı olmadığımız özelliği gibi, makinenin, karmaşık yapısını anlatmaktan çok daha karmaşık! (Algoritmik bir yöntemin kendisinden beklenen fonksiyonu neden yaptığını tam anlamıyla anlamak <span style="font-style:italic;">sezgi</span> gerektirir. Sezgilerin kendileri algoritmik midir? Bizim için daha sonra önemli olacak bir soru bu!) EUC veya UN x 2 örnekleri için şimdi bu konuyu tartışmayacağım. Dikkatli bir okur, bu kitabın amaçlanan kapsamı içerisinde kavramları daha kısa ve öz açıklayabilmek için Eukleides’in algoritmasında ufak bazı değişiklikler yaptığımı fark etmiş olmalı. Buna rağmen, 11 farklı içsel durum için 22 basit komutu içeren EUC tanımı yine de karmaşıktır. Karmaşıklık büyük ölçüde sistemin düzeninden kaynaklanmaktadır. Örneğin, 22 komuttan yalnız 3’ü bant üzerindeki işaretlerin değiştirilmesi ile ilgilidir! (UN x 2 için dahi, yarısı işaret değiştirmekle ilgili 12 komut kullandım.)</p>
+
+  <h2 id="sigil_toc_id_12">Sayısal Verilerin İkilik Gösterimi</h2>
+
+  <p>Birlik sayı sistemi, büyük sayıların kodlanması için son derece yetersizdir. Bunun yerine, daha önce açıkladığımız gibi çoğunlukla ikilik sayı sistemini kullanacağız. Ancak, bunu doğrudan, bantı iki basamaklı sayı gibi okumaya kalkışarak yapamayız. Sayının iki basamaklı kodunun ne zaman sona erdiğini ve sağ tarafta boş bantı temsil eden sonsuz 0’lar serisinin ne zaman başladığını bildirmenin bu durumda hiçbir yolu yoktur. Üstelik, Eukleides’in algoritmasında öngörülen sayı çiftlerinde <a href="../Text/notbolum2.xhtml#nb22" id="nb22d"><sup>[2]</sup></a> olduğu gibi çeşitli sayıları yüklemek zorunda kalacağız. Bir basamaklı sayıların ikilik gösterim sistemine dahil 0'lardan veya 0'lar dizisinden, sayılar-arası aralıkları ayırt edemeyiz. Ayrıca, sayıların yanı sıra, her çeşit karmaşık komutları da veri bantına dahil etmek isteyebiliriz. Bu zorlukların üstesinden gelmek için, <span style="font-style:italic;">büzülüm</span> olarak adlandırdığım bir yöntem uygulayalım. Bu yöntemde, 0'lar ve 1'lerden oluşan (1'lerin sonlu toplam adediyle birlikte) herhangi bir dizi, sadece iki basamaklı sayı gibi okunmaz; bu dizinin yerine, ikinci sıradaki her bir hanenin, ilk sıranın birbirini izleyen 0'lar, 1’ler, 2’ler, 3’ler, vs’den oluşan yeni bir dizi geçer. Örneğin</p>
+
+  <p>Şimdi 2, 3, 4,... sayılarını işaretler veya herhangi bir türden komutlar olarak okuyabiliriz. 2 sayısı sadece ‘virgül’ görevini</p>
+
+  <p>01000101101010110100011101010111100110</p>
+
+  <p>dizisi yerine</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-16.png" /></p>
+
+  <p>üstlenirken, 3, 4, 5,... sayılarını, isteğimize göre, ‘eksi işareti’, ‘artı işareti’, ‘çarpı işareti', ‘işlemi tekrarla’ vs. gibi komutlar için kullanabiliriz. Artık, daha büyük rakamlarla birbirinden ayrılmış 0 ve 1'lerden oluşan dizilere sahibiz. Bu dizilerin her biri ikilik sistemde yazılmış basit sayıları gösterir. Buna göre yukarıdaki tam dizi (‘2’ yerine Virgül’ okunarak) şöyle okunur:</p>
+
+  <p>(1001 ikilik sayısı) virgül (11 ikilik sayısı) virgül...</p>
+
+  <p>1001, 11, 100, 0 sayıları için standart ‘9’, ‘3’, <span style="font-style:italic;">‘4’,</span> ‘0’ rakamlarım kullanarak dizinin tümü için [9, 3, 4 (komut 3) 3 (komut 4) O,] sonucuna ulaşırız.</p>
+
+  <p>Bu süreç bize özel olarak dizinin sonunda sadece virgül kullanmak suretiyle bir sayının tanımını sona erdirmek (ve bunu yapmakla sayıyı, sağ tarafta boş bantın sonsuz uzantısından ayırmak) olanağını verir. Ayrıca, sayıları ayırmak için virgüller kullanabileceğimiz tek bir O'lar ve 1'ler dizisi olması nedeniyle, ikilik sistemde yazılmış herhangi bir sonlu doğal sayılar dizisini kodlamamızı sağlar. Şimdi bunu örnekliyelim:</p>
+
+  <p>5,13, 0, 1, 1, 4, dizisini alalım. İkilik sistemde bu şöyle ifade edilir:</p>
+
+  <p>101, 1101, 0, 1, 1, 100,</p>
+
+  <p>Bu dizi bant üzerinde <span style="font-style:italic;">açılım</span> (yani büzülüm yönteminin tersi) yöntemiyle kaydedilir.</p>
+
+  <p>Bu gösterimi basit şekilde gerçekleştirmek için, iki haneli sayıların özgün sırasını değiştiririz;</p>
+
+  <p>. . .000010010110101001011001101011010110100011000 . . .</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-17.png" /></p>
+
+  <p>ve sonra her iki yöne sınırsız 0’lar ekleriz. Daha açık yazarsak, yakardaki dizinin banta nasıl uygulandığını açıkça görürüz: Sayı kümelerini göstermek için oluşturulan bu sisteme <span style="font-style:italic;">açılmış ikilik sayı sistemi</span> diyorum. (Örneğin 13’ün açılmış ikilik sayı sisteminde gösterimi 1010010’dur.)</p>
+
+  <p>Söz konusu sayı sistemi ile ilgili son bir noktaya daha değinmeliyim. Bu bir teknik ayrıntı olabilir ama konunun eksiksiz açıklanmış olması için gereklidir. <a href="../Text/notbolum2.xhtml#nb23" id="nb23d"><sup>[3]</sup></a> Doğal sayıların ikilik (veya ondalık) gösteriminde bir noktada hafif bir fazlalık vardır. Şöyle ki: Bir kodun sol tarafdaki uç noktasına yerleştirilen 0'lar ‘sayılmaz’ ve normal olarak çıkarılır. Örneğin, 00110010 ile 110010 ikilik sayıları aynıdır (0050 ile 50’in aynı ondalık sayının göstermesi gibi). Bu fazlalık 000 veya 00 veya O olarak yazılabilir, aslında, mantıksal açıdan, boş bir aralık da sıfırı gösterebilir! Basit bir sistemde bu durum büyük karışıldığa sebep olabilirse de, yukarıda tanımlanan sistem için uygundur. Bu nedenle, iki virgül arasında kalan sıfır, yan yana iki virgül („) olarak da yazılabilir ve bant üzerinde bir 0 ile ayrılmış iki 11 çiftiyle kodlanabilir:</p>
+
+  <p>...001101100...</p>
+
+  <p>Dolayısıyla yukarıdaki altı sayının ikilik sistemde kodlanması şöyledir:</p>
+
+  <p>101,1101,,1,1,100,</p>
+
+  <p>ve bant üzerinde açılmış ikilik sayı sistemine uygun olarak şeklinde gösterilir (Açılmış sistemle daha önce yazdığımız koda göre bir sıfır eksik...).</p>
+
+  <p>Artık örneğin Eukleides algoritmasını, açılmış ikilik sistemle</p>
+
+  <p>. . .00001001011010100101101101011010110100011000. . .</p>
+
+  <p>yazılmış 6 ve 8 sayılarına uygulayacak bir Turing cihazı tasarlayabiliriz. 6 ve 8 sayı çifti için daha önce kullandığımız,</p>
+
+  <p>...0000000000011111101111111100000...,</p>
+
+  <p>yerine ikilik sayı sistemindeki sırasıyla, 110 ve 1000 gösterimini kullanırsak; 6, 8 sayı çifti açılmış ikilik sistemde bant üzerine</p>
+
+  <p>...00000101001101000011000000...</p>
+
+  <p>şeklinde kaydedilir. Kısalık bakımından, bu gösterimin birlik sisteme göre fazla bir yarar sağlamadığı görülüyor. Ancak, 1583169 ve 8610 gibi (ondalık) bir sayı çiftini ele aldığımızı düşünelim. Bu sayı çiftinin ikilik sistemdeki gösterimi</p>
+
+  <p>1 10000010100001000001, 10000110100010,</p>
+
+  <p>olacaktır. Buna göre bant üzerinde</p>
+
+  <p>001010000001001000001000000101101000001010010000100110</p>
+
+  <p>şeklinde kaydedilecektir. Bu gösterim yalnız <span style="font-style:italic;">bir</span> satıra sığarken, teklik sistem söz konusu olsaydı bantın ‘1583169, 8610’ sayı çiftini kodlaması bu kitabın sayfalarından fazlasını kaplardı!</p>
+
+  <p>Sayılar açılmış ikilik sistemde ifade edildiği zaman Eukleides’in algoritmasını uygulayan bir Turing makinesi, istenirse, teklik sistem ile açılmış ikilik sistem arasında çeviri yapan uygun bir çift yardımcı algoritmanın EUC’a eklenmesiyle basit bir şekilde elde edilebilir. Ancak bu süreç, teklik sayı sistemi hâlâ ‘içsel’ olarak var olacağı, bu nedenle makinenin yavaşlamasına ve bu durumda (bantın sol tarafında) gerekecek ‘müsvedde kağıt’ miktarının artmasına yol açacağı için son derece elverişsiz olacaktır.</p>
+
+  <p>Bunun yerine, bir Turing makinesinin açılmış ikilik sistemde nasıl işlem yapacağını göstermek amacıyla Eukleides’in algoritmasından çok daha basit bir işlemi, bir doğal sayıya <span style="font-style:italic;">bir ekleme</span> sürecini deneyelim. Bu işlem (XN + 1 adını verdiğim) Turing makinesi tarafından yapılabilir:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-18.png" style="width:80%" /></p>
+
+  <p>Yine meraklı bir okurum, Turing makinesinin işlemi gerçekten yapıp yapamayacağını, diyelim, ikilik bir sistemde yazımı 10100111 olan 167 sayısına uygulayarak denemek isteyebilir. Buna göre bant üzerinde okunacak kod:</p>
+
+  <p>...0000100100010101011000...</p>
+
+  <p>olacaktır. İkilik sistemde bir sayıya 1 eklemek için, son 0’u 1’e çevirmemiz ve sonra bunu izleyen bütün 1’leri 0'larla değiştirmemiz yeterlidir. Buna göre, 167 + 1 = 168 bant üzerinde</p>
+
+  <p>10100111 + 1 = 10101000.</p>
+
+  <p>olarak yazılır. ‘Bir-ekleyen’ Turing makinemiz, yukarıda verilen kodu,</p>
+
+  <p>...0000100100100001100000...</p>
+
+  <p>koduna çevirecektir ve gerçekten de böyle yapar.</p>
+
+  <p>Yalnızca bir eklemek gibi basit bir işlemin bile, onbeş komut ve sekiz farklı içsel durum kullanan bu süreç kapsamında ne kadar karmaşık olduğuna dikkatinizi çekerim! Birlik sistemle işlem yapmak elbette daha basittir, çünkü 'bir ekleme’ işlemi için sadece 1'ler dizisini bir 1 daha ekleyerek uzatmak yeterlidir. Bu nedenle, UN + 1 makinemizin daha temel düzeyde işlem gerçekleştirmesine şaşmamak gerekir. Ancak çok büyük sayılarla UN + 1, aşırı uzunlukta bant gerektireceği için son derece yavaş çalışabilir. Bu nedenle kapsamlı bir açılmış ikilik sayı sistemini kullanması nedeniyle daha karmaşık bir makine olan XN +1 ’i kullanmak daha yararlı olacaktır.</p>
+
+  <p>Bu arada ‘ikiyle çarpım’ adı verilen ve Turing makinesinin birlik sistemden çok açılmış ikilik sistemle daha kolay uygulanabileceği bir işleme de değinmek istiyorum. Aşağıdaki işlemlerle tanımlanan XN x 2 Turing makinesi;</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-19.png" /></p>
+
+  <p>ikiyle çarpım işlemini kolaylıkla gerçekleştirirken, teklik sistemde daha önce tanımladığımız UN x 2 işlemi aynı işlemi çok daha karmaşık biçimde gerçekleştirir.</p>
+
+  <p>Bu örnekler bize Turing makinelerinin çok temel düzeyde neler yapabilecekleri hakkında fikir vermektedir. Tahmin edilebileceği gibi, karmaşık işlemlerin yapılması gerektiğinde bu cihazlar son derece karmaşık olabilirler ve olmaktadırlar. Bu cihazların en üst kapsamı nedir? Şimdi bunu ele alalım.</p>
+
+  <h2 id="sigil_toc_id_13">Church-Turing Tezi</h2>
+
+  <p>İnsan, bir kez basit Turing makineleri inşa etmeye alıştı mı, toplama, çıkarma, çarpma vb. çeşitli aritmetik işlemlerinin hepsinin özel Turing makineleriyle gerçekten yapılabildiğini görerek ikna olacaktır. Kalanlı bölme işleminde olduğu gibi sonuçta bir doğal sayı çiftinin çıktığı veya sonucu, zorunlu olarak sonlu fakat büyük miktarda sayılar kümeleri halinde alındığı işlemler de Turing makinelerince gerçekleştirilebilir. Ayrıca, hangi aritmetik işlemini yapması gerektiğinin önceden belirlenmediği fakat işlemle ilgili komutların banta yüklenmiş olduğu durumlar için de Turing makineleri inşa edilebilir.</p>
+
+  <p>Bu gibi durumlarda, herhangi bir aşamada yapılması gerekli işlem, makinenin daha önceki bir aşamada yapmak zorunda olduğu işlemin sonucuna bağlı olabilir (‘Bu işlemin sonucu şundan-şundan daha yüksekse bunu yap; değilse onu yap’). Aritmetik veya basit mantıksal işlemleri uygulayabilen Turing makineleri yapılabileceğine inandıktan sonra, bunların daha karmaşık algoritmik nitelikte işlemleri de nasıl yapabileceklerini düşünmek zor olmayacaktır. Bu fikre alıştıktan bir süre sonra <span style="font-style:italic;">herhangi bir mekanik işlemi</span> gerçekleştiren makineler üretebileceğinize kendinizi inandırabilirsiniz! Matematiksel olarak bir mekanik işlem, böyle bir cihazla yapılabilecek işlem olarak tanımlanabilir. ‘Algoritma’ ismi ve ‘hesaplanabilir’ ‘yinelenebilir’ ve ‘etkin’ gibi sıfatların hepsi, Turing makineleri gibi teorik makineler tarafından gerçekleştirilebilen mekanik işlemleri tanımlamak için matematikçiler tarafından kullanılır. Bir yöntem yeterince kesin ve mekanik ise, bu yöntemi uygulayacak bir Turing makinesinin gerçekten bulunabileceğine inanmak zor değildir. Bu inanç, (yani Turing’in inancı) ne de olsa, Turing makinesi kavramını, giriş bölümümüzde savunan görüşümüzün temelinde yatmaktadır.</p>
+
+  <p>Diğer taraftan, söz konusu makinelerin tasarımının belki gereğinden fazla sınırlayıcı olduğu düşünülebilir. Bir seferinde yalnız bir ikilik hane (0 ve 1) okuması ve <span style="font-style:italic;">tek</span> bir-boyutlu bant boyunca yalnız bir aralık hareket etmesi ilk bakışta sınırlayıcı görülebilir. Aynı anda çalışan ve birbiriyle bağlantılı çok sayıda okuma cihazlarıyla donanımlı dört veya beş, veya belki bin bağımsız bant neden olmasın? Yalnız bir-boyutluda ısrarlı olmak yerine O’lar ve 1'lerin oluşturduğu düzlemsel bir sisteme ve (belki üç-boyutlu bir sisteme) neden izin verilmesin? Daha karmaşık sistemlerinin veya alfabelerin kullanımına neden olanak sağlanmasın? Gerçekte, bunlardan bazıları işlemlerin ekonomik olması açısından (birden fazla bant kullanabilseydik elbette daha ekonomik olurduk) fark yaratabilirse de hiçbirisi, ilke olarak şu anda gerçekleştirilenler açısından en ufak bir fark yaratmazdı. Yapılan işlemlerin sınıfı yani ‘algoritmalar’ başlığı altında toplanan işlemler, (veya ‘hesaplamalar’ veya ‘etkin yöntemler’ veya ‘tekrarlı işlemler’), makinelerimizin tanımını bütün bu yönlerden aynı anda genişletmiş olsak dahi, kesinlikle değişmezdi!</p>
+
+  <p>Makine, bant üzerinde ihtiyacı olan boş alanı bulabildiği sürece, tek banttan fazlasına gerek yoktur. Boş alan arayışı içerisinde, veriler, bant üzerinde bir yerden diğerine taşınabilir. Bu ‘elverişsiz’ bir durum yaratsa da, ilke olarak gerçekleştirilmesi beklenen sonucu sınırlamaz. <a href="../Text/notbolum2.xhtml#nb24" id="nb24d"><sup>[4]</sup></a> Aynı şekilde son zamanlarda insan beyni ile daha yakın benzerlik sağlamak çabasıyla sık sık yapıldığı gibi, birden fazla Turing makinesinin <span style="font-style:italic;">paralel çalışması</span> ilke olarak hiçbir şey kazandırmaz (Ancak bazı koşullarda çalışma hızı artırılabilir). Birbiriyle doğrudan iletişimli iki makine, birbiriyle iletişimli olmayan iki ayrı makineden daha fazlasını gerçekleştiremez; zaten iletişimli olsalardı sonuçta bir makine olurlardı!</p>
+
+  <p>Turing’in tek boyutlu banta getirdiği sınırlama nedir? Bantın, ortamı temsil ettiğini düşünürsek, bir-boyutlu bant veya üç-boyutlu uzaydan daha çok bir düzlem varsaymayı tercih edebiliriz. Düzlem, bir-boyutlu bantla kıyaslandığında ‘akış şeması’ bakımından gerek duyduğumuz süreç için Eukleides algoritmasından daha uygun olacaktır. Ancak, bir akış şemasının ‘bir-boyutlu’ formda yazılmasının ilkesel hiçbir zorluğu yoktur.<a href="../Text/notbolum2.xhtml#nba2II" id="nba2IId"><sup>[II]</sup></a> (Örneğin, şemanın sözlü tanımının kullanılması suretiyle). İki-boyutlu düzlemde tanımlama yalnız bizim anlatımımız ve anlamamız açısından kolaylık sağlar; ilke olarak gerçekleştirilen sonuç üzerinde etkisi yoktur. Bir nesnenin yerini, iki-boyutlu uzayda işaretleyebileceğimiz gibi bir-boyutlu bant üzerinde de aynı şekilde işaretleyebiliriz (Gerçekte, iki-boyutlu düzlemin kullanımı <span style="font-style:italic;">iki</span> bant kullanımıyla tamamen özdeştir. İki bant, iki-boyutlu bir düzlemde yer alan bir noktanın tanımlanması için gerekli iki ‘koordinatı’ verebilir. Aynı şekilde, <span style="font-style:italic;">üç</span> bant, üç-boyutlu uzay görevi yapabilir). Tekrar ediyorum, söz konusu bir-boyutlu kodlama ‘elverişsiz’ olabilir fakat ilke olarak gerçekleştirilmesi gerekeni sınırlamaz.</p>
+
+  <p>Bütün bunlara karşın, bir Turing makinesi kavramının, ‘mekanik’ olarak adlandırabileceğimiz <span style="font-style:italic;">her</span> mantıksal veya matematiksel işlemi kapsayıp kapsamadığını kendimize sorabiliriz. Turing, teorisinin ilk makalesini yazarken bu konuyu, o sırada konu bugün olduğundan çok daha az açık tanımlanabildiği için, fazlaca ayrıntılamak gereğini duymuştur. Turing’in tezi, bu tezden bağımsız olarak (ve aslında ondan biraz daha önce), Amerikalı mantık bilimcisi Alonzo Church tarafından (S.C. Kleene’nin yardımıyla) öne sürülen ve Hilbert'in <span style="font-style:italic;">Entscheidungsproblem’i</span> çözmeye yönelik lambda hesabıyla ek destek bulmuştur. Turing’inkinden çok daha dar kapsamlı mekanik bir hesap olmasına karşın, matematiksel yapısının çok daha az karmaşık olmasıyla dikkat çeken Church’ün hesap yöntemini bu bölümün sonunda anlatacağım. Hilbert’in problemine çözüm önerileri getiren başka bilim adamları da vardır (bkz. Gandy 1988). Özellikle, Polonyalı-Amerikan mantık bilimcisi Emil Post’un önerisi dikkate değerdir (Turing’den biraz sonra öne sürdüğü görüşleri Church’ünkinden çok Turing’in görüşlerine yakındır). Çok geçmeden bu fikirlerin hepsinin tamamen birbirlerine özdeş olduğu anlaşılmıştır. <span style="font-style:italic;">Church-Turing Tezi</span> adı verilen ortak görüşte, Turing makinesi kavramının, matematik açısından, algoritmik bir yöntemle (veya etkin veya tekrarlı veya mekanik yöntemlerle) anlatmak istediğimiz kavram olduğu vurgulanmıştır. Elektronik bilgisayarların, günlük yaşantımızın alışkanlığı haline geldiği çağımızda pek az kişi fikrin özgün halini sorgulamak gereğini duyabilir. Bunun yerine, kesin <span style="font-style:italic;">fizik</span> yasalarına bağlı olmaları nedeniyle <span style="font-style:italic;">fizik</span> sistemlerinin (belki de insan beyni dahil) Turing makinelerinin gerçekleştirdiği mantıksal ve matematiksel işlemlerden daha fazlasını mı, daha azını mı, yoksa aynısını mı gerçekleştirdiklerini merak edebilirler. Bana kalırsa, Church-Turing Tezini, matematik açısından, ilk haliyle kabul etmekten çok mutluyum. Öte yandan, söz konusu tezin fizik sistemlerinin davranışı ile ilgisi ayrı bir konu olup, bu kitabın daha sonraki bölümlerinde ilgimizin odağını oluşturacaktır.</p>
+
+  <h2 id="sigil_toc_id_14">Doğal Sayılardan Başka Sayılar</h2>
+
+  <p>Yukarıda, doğal sayılara dayalı işlemleri ele almış ve her Turing makinesinin değişmez sonlu sayıda farklı içsel durumlara sahip olmasına karşın, zorunlu olarak büyük boyutta <span style="font-style:italic;">doğal sayıların</span> işlemlerini yapabileceğine değinmiştik. Ancak doğada eksi sayılar, kesirler veya sürekli kesirler gibi daha karmaşık sayılar vardır. Eksi sayılar ve kesirler (örneğin, -597/26), pay ve paydalar Turing makinelerince, ne boyutta olursa olsunlar, hesaplanabilirler. Sadece <span style="font-style:italic;">‘-</span>’ ve <span style="font-style:italic;">‘/</span>’ işaretleri için uygun koda ihtiyacımız vardır ve bu amaçla, daha önce tanımladığımız açılmış ikilik sayı sistemi kullanılabilir (örneğin, için ‘3’ ve ‘/’ için ‘4’ kullanarak sırasıyla 1110 ve 11110 kodlarını elde edebiliriz). Eksi sayılar ve kesirler böylece, doğal sayılardan oluşan sonlu kümeler halinde işleme dahil edilecekleri için genel hesaplanabilirlik bakımından bize yeni bir şey vermezler.</p>
+
+  <p>Aynı şekilde, uzun fakat <span style="font-style:italic;">sonlu</span> ondalık ifadeler de bizim için yeni değildir. Çünkü bunlar yalnızca bazı kesirlerden ibarettir. Örneğin, 3,14159265 sayısının sonlu ondalık ifadesi yalnızca 314159265/100000000 kesirsel sayısıdır. Bu ifade irrasyonel π sayısına bir ondalık yaklaşıklık gösterir. Ancak</p>
+
+  <p>π= 3,14159265358979...</p>
+
+  <p>gibi sonsuz ondalık ifadeler güçlüklere neden olurlar. Bir Turing makinesinin ne girdisi, ne de çıktısı sonsuz ondalık olamaz. Yukarıdaki π ifadesinin birbirini izleyen 3,1,4,1,5,9,.... hanelerinin hepsini kesintisiz çalıştıracağımız çıktı bantı üzerinde sürekli işleyebilecek bir Turing makinesinde buna izin verilmez. Çünkü çıktıyı incelemeden önce makinenin durmasını beklemek zorundayız (zilin çalmasıyla uyarılmalıyız!). Makine STOP pozisyonuna ulaşmadığı sürece çıktı her an değişebilir ve bu nedenle sonuca güvenilmez. Diğer taraftan, STOP pozisyonuna ulaşırsa, çıktı zorunlu olarak sonludur.</p>
+
+  <p>Ancak, bir Turing makinesinin, buna çok benzer şekilde, ondalık haneleri kuralına uygun olarak peşpeşe üretmesini sağlayacak bir yöntem vardır. Diyelim <span style="font-style:italic;">π</span> sayısının sonsuz ondalık açılımını bulmak istiyorsak, makinenin 0’a uygulayarak 3 tam sayısını, sonra 1’e uygulayarak birinci ondalık hane 1’i, 2’ye uygulayarak ikinci ondalık hane 4’ü, 3’e uygulayarak üçüncü ondalık hane 1’i, vs. üretmesini sağlayabiliriz. Gerçekte, işlemlerini açıkça tanımlamak biraz karmaşık olsa da, π sayısının tüm ondalık açılımını bu anlamda gerçekleştiren bir Turing makinesi vardır. √2=1,414213562... gibi diğer pek çok irrasyonel sayı bu Turing makinesince üretilebilir. Bir sonraki bölümde ele alacağımız gibi, hiçbir Turing makinesinin üretemeyeceği bazı irrasyonel sayılar da vardır. Turing makinesince üretilebilen sayılara <span style="font-style:italic;">hesaplanabilir</span> sayılar (Turing 1937) adı verilirken, üretilemeyen sayılar (büyük çoğunluğu oluşturan sayılar!) <span style="font-style:italic;">hesaplanamaz</span> sayılar olarak adlandırılırlar. Bu ve bununla ilgili konulara daha sonraki bölümlerde tekrar değineceğim. Çünkü bu. konu, <span style="font-style:italic;">gerçek fiziksel nesnenin</span> (örneğin insan beyni), fizik teorilerimize göre, hesaplanabilir matematik yapıları açısından yeterince tanımlanıp tanımlanamayacağı konusuyla bir ölçüde bağlantılıdır. Hesaplanabilirlik, genellikle matematikte, önemli bir konudur. Bu bağlamda, yalnız sayılara uygulanabilir bir konu olarak değerlendirilmemelidir. Cebir ve trigonometri denklemleri gibi <span style="font-style:italic;">matematik formüllerini</span> doğrudan uygulayabilen Turing makinelerine sahip olabiliriz. Yapmamız gereken tüm işlem, ilgili matematik simgelerinin hepsini 0’Iar ve 1'lerden oluşan kodlama sistemine yerleştirmek ve sonra Turing makinesi kavramını uygulamaktır. Genel nitelikte matematik sorularının yanıtlanması için bir algoritma yöntemine gereksinimi bulunan <span style="font-style:italic;">Entscheidungsproblem</span>’e karşı saldırısında Turing’in aklından geçen bu yöntemdi. Az sonra bu konuya döneceğiz.</p>
+
+  <h2 id="sigil_toc_id_15">Evrensel Turing Makinesi</h2>
+
+  <p>Evrensel Turing makinesi kavramını henüz tanımlamadım. Ayrıntıları biraz karmaşık olsa da, temel ilkesini açıklamak çok zor değil: Turing makinesi <span style="font-style:italic;">T</span> ile ilgili komutlar listesini, bant üzerinde kaydedilecek şekilde bir dizi 0'lar ve 1 ’ler halinde kodlamak yeterli. Bu bant daha sonra, evrensel Turing makinesi <span style="font-style:italic;">U</span> ile ilgili girdinin ilk kısmım oluşturmakta, evrensel makine aynı Turing T’de olduğu gibi, girdinin geri kalan kısmını uygulamaktadır. Evrensel Turing makinesi evrensel bir taklitçidir. Bantın başlangıç kısmı, <span style="font-style:italic;">T</span>’yi tıpatıp taklit etmesi için gerekli bütün verileri U’ya verir. Sistemi daha iyi anlamak için önce numaralama ile ilgili sistematik yöntemi inceleyelim: Komutlar listesini 0'lar ve 1'ler kullanarak ‘büzülüm’ yöntemiyle kodlamamız gerekmektedir. Örneğin, R, L, STOP, (→→) ve virgül simgelerini, sırasıyla 2, 3, 4, 5, ve 6 sayılarıyla temsil ederek, büzülüm yöntemiyle bunları 1 1 0, 1110, 11110, 1 1 1 1 1 0 ve 1111110 olarak kodlayabiliriz. Bu durumda, sırasıyla, O ve 10 olarak kodlanan 0 ve 1 haneleri tabloda ortaya çıkan bu simgelerin gerçek dizileri yerine kullanılabilir. Turing makinesi tablosunda 0 ve 1 ile gösterilen büyük haneleri küçük hanelerden ayırt etmek için farklı bir kodlama sistemi kullanmamız gerekmez. Çünkü ikilik sayı sisteminin sonunda yer alan büyük hanelerin konumu, bunları diğerlerinden ayırt etmek için yeterlidir. Buna göre, örneğin, 1101, 1101 ikilik sayısı gibi okunacak ve bant üzerinden 1010010 olarak kodlanacaktır. Özellikle 00, 00 olarak okunacak, O olarak veya tablodan tamamen çıkarılan bir simge olarak kodlanacaktır. Bir ok işaretini ve bu işaretten hemen önce yer alan simgeleri kodlama zahmetine girmeyerek, komutların sayısal sırasına göre değerlendirmek yoluyla büyük ölçekte ekonomi yapabiliriz. Ancak, bu yöntemi uygularken, gerektiği zaman bir kaç ‘sahte’ komut vererek, komut listesinde boşluk kalmamasına özen göstermeliyiz (Örneğin XN + 1 Turing makinesi uygulamasında 110O kombinasyonu hiç bir zaman meydana gelmediği için komut listesinde böyle bir kombinasyon yoktur. Bu nedenle 110O→ 0OR sahte komutunu kullanarak, hiçbir şeyi değiştirmeksizin, listedeki boşluğu doldurabiliriz. Aynı şekilde, 101→0OR sahte komutunu XN x 2 makinesine dahil edebiliriz.) Bu çeşit ‘sahte’ komutlar olmaksızın, listede yer alan bir sonraki komut sırası bozulabilir. L ve R sembolleri, komutları birbirinden ayırmaya yeterli olacağı için her komutun sonuna virgül koymak gerekmez. Buna göre sadece aşağıdaki kodlamayı kullanırız:</p>
+
+  <p>0 veya O için O, 1 veya 1 için 10, R için 110, L için 1110, STOP için 11110.</p>
+
+  <p>Örnek olarak, XN + 1 Turing makinesini kodlayalım (110O→0OR komutunu içerecek şekilde). Okları ve onlardan hemen önce gelen haneleri ve ayrıca virgülleri atarak aşağıdaki kodu elde ederiz:</p>
+
+  <p>0OR 1IR 0OR 10IR 11OL 101R O1STOP 100OL 101IL 100IL 110OR 101R 0OR 111IR 11IR 111OR.</p>
+
+  <p>Bu kodu, her 0O’ı atarak ve her O1’in yerine sadece 1 koyarak geliştirebiliriz:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-20.png" /></p>
+
+  <p>Bant üzerindeki sırasına göre şöyle kodlanır:</p>
+
+  <p>1101010110110100101101010011101001011 010111101000011101001010111010001011101 0100011010010110110101010101101010101101010100110.</p>
+
+  <p>Biraz daha ekonomi yapmak istersek, baştaki 100 sembolünü (boş bantın bu koddan önce gelen sonsuz uzantısı ile birlikte) daima çıkarabiliriz. Bu sembol, makinenin bantı üzerindeki işaretlerin en solundan zorunlu olarak başlangıç alarak birinci işarete ulaşıncaya dek sağa doğru ilerleyebilmesi için tüm Turing makinelerinin ortak özelliği olarak ima ettiğim gibi, 0O→0OR başlangıç komutunu temsil eden OOR’yi gösterir. Aynı şekilde, sondaki 110 simgesini de (ve onu takip ettiği farz edilen sonsuz 0'lar dizisini de) atabiliriz. Çünkü, bütün Turing makineleri tanımlamalarını bu şekilde bitirmek zorundadır (hepsi R, L, veya STOP ile sona ererler), XN + 1 cihazında sonuçta elde edilen ikilik sayı, Turing makinesinden çıkan sayıdır:</p>
+
+  <p style="text-align: justify;">10101101101001011010100111010010110101 1110100001110100101011101000101110101000 1101001011010101010101101010101101010100.</p>
+
+  <p>Standart ondalık sistemde, Turing sayısı aşağıdaki şekilde ifade edilir:</p>
+
+  <p>450 813 704 461 563 958 982 113 775 643 437 908.</p>
+
+  <p>Sayısı <span style="font-style:italic;">n</span> olan Turing makinesine bazen ‘<span style="font-style:italic;">n</span>'inci Turing makinesi diyor ve <span style="font-style:italic;">T<sub>n</sub></span> ile gösteriyoruz. Buna göre XN + 1, 450 813 704 461 563 958 982 113 775 643 437 908’inci Turing makinesidir!</p>
+
+  <p>Doğal bir sayıya (açılmış ondalık sistemde) bir eklemek gibi önemsiz bir işlemi yapabilenini bulmadan önce Turing makineleri liste’sinde bunca yol alabilmiş olmamız ilginç! (Kodlamamda bu aşamaya dek pek de yetersiz kaldığımı sanmıyorum; yine de ufak bazı değişiklikler yapmak olasılığıyla karşılaşabiliriz.) Gerçekte, ilgi çekici küçük sayılarla uygulama yapan bazı Turing makineleri vardır. Örneğin, UN + 1, standart ondalık sistemde 177 642 sayısının karşılığı olan</p>
+
+  <p>1010110101111101010</p>
+
+  <p>ikilik sayısına sahiptir! Yani son derece basit bir Turing makinesi olan UN + 1, 177 642’nci Turing makinesi olmaktadır. Sadece merakımızı gidermek amacıyla bir başka örnek verelim; ‘ikiyle çarpım’, her iki gösterimde de Turing makineleri listemizde bu örnek arasında bir yer alabilir; çünkü XN x 2’nin sayısı 10389728107, UN x 2’nin sayısı ise 1 492 923 420 919 872 026 917 547 669’dur.</p>
+
+  <p>Bu sayıların boyutları açısından, doğal sayıların çoğunluğunun Turing makinelerine işlerlik kazandırmadığını öğrenmek şaşırtıcı olmayabilir. İlk on üç Turing makinesini, bu numaralama sistemine uygun olarak sıralayalım:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-21.png" /></p>
+
+  <p>Bunlardan T<sub>0</sub>, karşılaştığı her şeyi silerek, asla durmadan ve asla geri dönmeden yalnız sağa doğru hareket eder. <span style="font-style:italic;">T<sub>x</sub></span> makinesi, bant üzerindeki her işareti sildikten sonra geri sıçrayarak, gide gele biraz beceriksizce de olsa aynı sonuca ulaşır. <span style="font-style:italic;">T<sub>2</sub></span> de T<sub>0</sub> gibi hiç durmadan sağa doğru hareket eder. Fakat daha saygılı davranarak, bant üzerindeki hiçbir işareti silmez. Bu örneklerden hiçbirisi, Turing makinesi olarak işe yaramazlar, çünkü hiçbiri asla durmaz. <span style="font-style:italic;">T<sub>3</sub></span> ilk saygıdeğer makinedir. Birinci 1’i (en soldaki) 0’a değiştirdikten sonra, alçakgönüllülük göstererek durur.</p>
+
+  <p><span style="font-style:italic;">T<sub>4</sub></span> ciddi bir sorunla karşılaşır. Bant üzerinde birinci 1 ’i bulduktan sonra, listede bulunmayan bir içsel durama girer ve bu nedenle bir sonraki aşamada ne yapacağına dair hiçbir komutu yoktur. T<sub>8</sub>, <span style="font-style:italic;">T<sub>9</sub></span> ve <span style="font-style:italic;">T<sub>10</sub></span> aynı soranla karşılaşırlar. <span style="font-style:italic;">T<sub>7</sub></span>'nin karşılaştığı soran daha da ciddidir. Kendisini kodlayan 0’lar ve 1’ler dizisinde <span style="font-style:italic;">beş</span> adet 1 peşpeşe yer almaktadır: 110111110. Bu dizinin yorumu olmadığı için T<sub>7</sub> bant üzerinde birinci 1 ile karşılaştığı anda takılıp kalacaktır ('n' sayısının ikilik açılımında peşpeşe dört adetten fazla 1 dizisi içeren T<sub>7</sub> makinesini, veya aynı niteliğe sahip herhangi bir <span style="font-style:italic;">T<sub>n</sub></span> makinesini doğru tanımlanamamış makineler olarak adlandıracağım). <span style="font-style:italic;">T<sub>5</sub>, T<sub>6</sub></span> ve T<sub>12</sub> makineleri, <span style="font-style:italic;">T<sub>0</sub>, T<sub>1</sub></span> ve <span style="font-style:italic;">T<sub>2</sub></span> makinelerininkine benzer sorunlarla karşılaşırlar. Hiç durmadan sonsuza kadar hareketlerine devam ederler. <span style="font-style:italic;">T<sub>0</sub>, T<sub>1</sub>, T<sub>2</sub>, T<sub>4</sub>, T<sub>5</sub>, T<sub>6</sub>,</span> T<sub>7</sub>, T<sub>8</sub> ,T<sub>9</sub> ,T<sub>10</sub> ve T<sub>12</sub> makinelerinin hepsi değersizdir! Yalnız <span style="font-style:italic;">T<sub>3</sub></span> ve işe yarayan Turing makineleri olmakla birlikte işlevleri bakımından ilgi çekici olmaktan uzaktırlar. <span style="font-style:italic;">T<sub>11</sub>, T<sub>3</sub>’</span>ten de mütevazıdır. 1'le ilk karşılaşmasında durur ve hiçbir şeyi değiştirmez!</p>
+
+  <p>Listemizde fazlalık bulunduğuna da dikkat çekmeliyiz. <span style="font-style:italic;">T<sub>12</sub></span> ve T<sub>6</sub> birbirinin aynısı olup, uygulama bakımından T<sub>0</sub>’a benzerler: <span style="font-style:italic;">T<sub>6</sub></span> ve T<sub>12</sub>’de 1 içsel durumuna asla girilmez. Listede yer alan yararsız Turing makinelerinin fazlalığı canımızı sıkmasın. Çoğunu eleyerek fazlalığın giderilmesi ve kodlama sistemimizin düzeltilmesi mümkün olabilirdi. Ama bu arada Turing makinesinin, 'n' sayısını okuyan zavallı evrensel Turing makinemizi <span style="font-style:italic;">T<sub>n</sub></span> imiş gibi davranmaya zorlayarak, biraz daha karmaşık hale getirmesine neden olurduk. Doğrusu, bütün işe yaramazlardan (veya fazlalıklardan) kurtulabilseydik buna değerdi. Oysa az sonra göreceğimiz gibi, bunu gerçekleştirmemiz mümkün değildir! Bu nedenle kodlama sistemimizi bırakalım olduğu gibi kalsın. Üzerinde, örneğin,</p>
+
+  <p>...0001101110010000...</p>
+
+  <p>işaretleri bulunan bir bant, bir sayının ikilik gösterimi olarak yorumlanabilir. O'ların her iki yönde sonsuz olarak devam ettiklerini fakat 1’lerin yalnız bir sonlu sayısı olduğunu hatırlayınız. Ben, 1’lerin sayısının (yani, en az bir 1 vardır) <span style="font-style:italic;">sıfır olmadığını</span> da varsayıyorum. İlk ve sonuncu 1’ler de dahil olmak üzere bunlar arasında kalan sonlu simgeler dizisi, yani yukarıdaki örneğe göre,</p>
+
+  <p>110111001,</p>
+
+  <p>bir doğal sayının (ondalık sistemde 441) ikilik gösterimi olarak okunabilir. Ancak, bu yöntemle <span style="font-style:italic;">tek</span> sayılar (ikilik sistemde sonu 1 ile biten sayılar) elde ederiz, oysa tüm doğal sayıları kodlayabilmeliyiz. Bu nedenle kolay yolu seçer ve sondaki 1 ’i (yalnızca kodlamanın sona erdiğini gösteren bir işaret olarak kabul edildiği için) kaldırır ve geriye kalanı ikilik sayı olarak okuruz. <a href="../Text/notbolum2.xhtml#nb25" id="nb25d"><sup>[5]</sup></a> Bu durumda yukarıdaki örnek için, ondalık sistemde 220’nin karşılığı olarak</p>
+
+  <p>11011100,</p>
+
+  <p>ikilik sayısını elde ederiz. Bu yöntemin yararı, sıfırın da bant üzerinde kodlanmasını sağlamasıdır:</p>
+
+  <p>...0000001000000...</p>
+
+  <p><span style="font-style:italic;">T<sub>n</sub></span> Turing makinesinin sağ taraftan yüklediğimiz bir bant üzerindeki O'lar ve 1 ’ler dizisine (sonlu) uygulanmasını ele alalım. Söz konusu diziyi, yukarıda tanımlanan hesap çevrçevesinde, bir sayının, diyelim <span style="font-style:italic;">m</span> sayısının iki basamaklı gösterimi olarak almak uygun olacaktır. Peşpeşe aşamalardan sonra <span style="font-style:italic;">T</span><sub>n</sub>’in sonunda STOP konumuna geldiğini düşünelim. Bu konuma ulaşıncaya kadar makinenin sol tarafta üretmiş olduğu ikilik haneler dizisi, hesabın yanıtıdır. Bunu, bir sayının, diyelim <span style="font-style:italic;">p</span> sayısının ikilik kodlaması olarak okuyalım: <span style="font-style:italic;">T<sub>n</sub>, m</span> sayısına uygulandığında <span style="font-style:italic;">p</span> sayısını üretir:</p>
+
+  <p><span style="font-style:italic;">T<sub>n</sub>(m)=p.</span></p>
+
+  <p>Bu ilişkiye şimdi biraz farklı bir açıdan bakalım. Bu ilişkinin <span style="font-style:italic;">p</span> sayısını elde etmek için bir çift sayıya, yani n ve <span style="font-style:italic;">m</span> sayılarına uygulanan özel bir işlemin ifadesi olduğunu düşünürüz, <span style="font-style:italic;">n</span> ve <span style="font-style:italic;">m</span> diye iki sayı verilirse <span style="font-style:italic;">T<sub>n</sub></span> makinesinin <span style="font-style:italic;">m</span> sayısını değerlendirmesine bakarak <span style="font-style:italic;">p</span> sayısını buluruz. Bu işlem tamamen bir algoritmik yöntemdir. Bu nedenle, özel bir <span style="font-style:italic;">U</span> Turing makinesi tarafından uygulanabilir: <span style="font-style:italic;">U, p</span> sayısını üretmek amacıyla bir <span style="font-style:italic;">(n, m)</span> sayı çiftini işleme sokar. <span style="font-style:italic;">U</span> makinesi, tek <span style="font-style:italic;">p</span> sonucu elde etmek için hem <span style="font-style:italic;">n</span> hem de <span style="font-style:italic;">m</span> sayılarını işleme sokmak zorunda olduğu için (<span style="font-style:italic;">n, m)</span> çiftini bir bant üzerinde kodlamanın yolunu bulmalıyız, <span style="font-style:italic;">n</span> sayısının normal ikilik sistemde yazıldığını ve hemen sonra 11110 dizisi tarafından sona erdirildiğini varsayabiliriz (Doğru tanımlanmış her Turing makinesinin 0'lar, IO'lar, 110'lar, 111O'lar ve 11110'lardan oluşan bir dizi olduğunun ve bu nedenle dört 1’den fazlasını içermediğini hatırlayınız. Bu nedenle, <span style="font-style:italic;">T<sub>n</sub></span> doğru tanımlanmış bir makineyse, 111110 sırasının oluşumu, <span style="font-style:italic;">n</span> sayısının tanımının tamamlandığını gösterir). Bunu izleyen her şey <span style="font-style:italic;">m</span> tarafından temsil edilen banttan başkası olamaz (yani, hemen 1000... sırası tarafından izlenen <span style="font-style:italic;">m</span> sayısı). Bu ikinci kısım, <span style="font-style:italic;">T<sub>n</sub></span> tarafından işleme alınması beklenen banttır.</p>
+
+  <p>Örneğin, n = 11 ve m = 6 olarak aldığımız zaman, <span style="font-style:italic;">U</span> makinesinin işleme alması gereken bant için işaretler sırası aşağıdaki gibidir:</p>
+
+  <p>...000101111111011010000...</p>
+
+  <p>Bu sıranın yapısı:</p>
+
+  <p>...0000 (başlangıçtaki boş bant)</p>
+
+  <p>1011 (11’in ikilik kodu)</p>
+
+  <p>111110 (n sayısının sonu)</p>
+
+  <p>110 (6’nın ikilik kodu)</p>
+
+  <p>10000... (bantın geri kalan kısmı)</p>
+
+  <p>T<sub>n</sub>’in <span style="font-style:italic;">m</span> ile ilgili her bir işlem aşamasında <span style="font-style:italic;">U</span> Turing makinesinin yapması gereken, <span style="font-style:italic;">m</span> (yani, T<sub>n</sub>’in bantı) ile ilgili hanelerde uygun yer değişikliklerini gerçekleştirmek amacıyla <span style="font-style:italic;">n</span> ile ilgili ifadede yer alan hanelerin sırasının yapısını incelemektir. Böyle bir makinenin inşası ilke olarak zor değildir (pratikte ise kesinlikle sıkıcıdır). Kendine ait komutlar listesi, <span style="font-style:italic;">n</span> sayısıyla kodlanan bu liste’ye <span style="font-style:italic;">m</span> tarafından yapılan girişi, bant hanelerine uygulamanın her aşamasında okuma olanağı sağlar, <span style="font-style:italic;">m</span> ve <span style="font-style:italic;">n</span> ile ilgili haneler arasında fazlaca 1’leri ve geri hareket meydana gelmesi olağandır ve bu nedenle bu yöntemle son derece yavaş uygulama yapılması kaçınılmazdır. Ancak, böyle bir makine için bir komut listesi elbette temin edilebilir; bu makinelere <span style="font-style:italic;">evrensel</span> Turing makinesi adını veriyoruz. Makinenin <span style="font-style:italic;">n ve m</span> sayılarına uygulanması U <span style="font-style:italic;">(n, m)</span> olarak gösterilirse aşağıdaki eşitlik elde edilir:</p>
+
+  <p><span style="font-style:italic;">U (n, m) = T<sub>n</sub> (m) n</span> ve <span style="font-style:italic;">m</span> sayılarının her biri için <span style="font-style:italic;">T<sub>n</sub></span> doğru tanımlanmış bir Turing makinesidir. <a href="../Text/notbolum2.xhtml#nb26" id="nb26d"><sup>[6]</sup></a> <span style="font-style:italic;">U</span> makinesi, <span style="font-style:italic;">n</span> sayısı ilk kez verildiği zaman, n’inci Turing makinesini en ince ayrıntısıyla taklit eder! <span style="font-style:italic;">U</span> bir Turing makinesi olduğuna göre kendine özgü sayısı da olacaktır;</p>
+
+  <p><span style="font-style:italic;">U=T<sub>U</sub></span></p>
+
+  <p>bağıntısını sağlayan bir <span style="font-style:italic;">u</span> sayısı bulunacaktır, <span style="font-style:italic;">u</span> ne kadar</p>
+
+  <p>büyüktür? Aslında <span style="font-style:italic;">tam olarak</span> u’nun değeri şöyle verilir (veya, en azından benzer boyutta bir başka sayı):</p>
+
+  <p><span style="font-style:italic;">u</span>=724485533533931757719839503961571123795236067255655963110814479 6606505059404241090310483613632359365644443458382226883278767626556 1446928141177150178425517075540856576897533463569424784885970469347 2573998858228382779529468346052106116983594593879188554632644092552 5505820555989451890716537414896033096753020431553625034984529832320 6515830476641421307088193297172341510569802627346864299218381721573 3348282307345371342147505974034518437235959309064002432107734217885 1492760797597634415123079586396354492269159479654614711345700145048 1673375621725734645227310544829807849651269887889645697609066342044 7798902191443793283001949357096392170390483327088259620130177372720 2718625919914428275437422351355675134084222299889374410534305471044 3686958764051781280194375308138706399427728231564252892375145654438 9905278079324114482614235728619311833261065612275553181020751108533 7633806031082361675045635852164214869542347187426437544428790062485 8270912404220765387542644541334517485662915742999095026230097337381 3772416217274772361020678685400289356608569682262014198248621698902 6091309402985706001743006700868967590344734174127874255812015493663 9389969058177385916540553567040928213322216314109787108145997866959 9704509681841906299443656015145490488092208448003482249207730403043 1884298993931352668823496621019471619107014619685231928474820344958 9770955356110702758174873332729667899879847328409819076485127263100 1740166787363477605857245036964434897992034489997455662402937487668 8397514044516657077500605138839916688140725455446652220507242623923 7921152531816251253630509317286314220040645713052758023076651833519 95689139748137504926429605010013651980186945639498</p>
+
+  <p>Sayı kuşkusuz insanı ürkütecek kadar büyük! Gerçekten de ürkütücü boyutta olan bu sayının daha küçük bir boyuta nasıl indirgenebileceğini bilmiyorum. Turing makineleri ile ilgili olarak önerdiğim kodlama yöntemlerinin ve kuralların oldukça mantıklı ve basit olmalarına karşın insanın, bir evrensel Turing makinesinin kodlanması için böylesine büyük boyutta bir sayıyla karşılaşması kaçınılmaz oluyor. <a href="../Text/notbolum2.xhtml#nb27" id="nb27d"><sup>[7]</sup></a></p>
+
+  <p>Bütün genel amaçlı modern bilgisayarların sonuçta birer evrensel Turing makinesi olduklarını daha önce söylemiştim. Bu çeşit bilgisayarların mantıksal tasarımının evrensel Turing makinesi ile ilgili tanımlamalarına tamamiyle benzemesi gerektiğini ima etmiyorum. Anlatmak istediğim şu ki, herhangi bir evrensel Turing makinesi ilk olarak uygun bir programla (girdi bantlının birinci kısmı) donattığımız zaman bu makineyi, herhangi bir Turing makinesinin davranışını taklit edebilir duruma getirebilirsiniz! Yukarıdaki tanımlamalara göre, program salt bir sayı <span style="font-style:italic;">(n</span> sayısı) biçimini alır, fakat Turing’in özgün tanımının birçok varyasyonunun bulunması nedeniyle başka yöntemler de kullanılabilir. Aslında ben de tanımlamalarımda, Turing’in özgün tanımından bir hayli saptım. Ancak, tanımlama farklılıklarının hiçbiri burada ele aldığımız konu bakımından önemli değildir.</p>
+
+  <h2 id="sigil_toc_id_16">Hilbert Probleminin Çözümsüzlüğü</h2>
+
+  <p>Gelelim Turing’in tezinin temelini oluşturan sava... Hilbert'in geniş kapsamlı <span style="font-style:italic;">Entscheidungsproblem’</span>i: Geniş kapsamlı, fakat iyi tanımlanmış bir sınıfta bulunan tüm matematik problemlerini çözümlemek için mekanik bir yöntem var mıdır? Turing bu soruyu, <span style="font-style:italic;">m</span> sayısına uygulanan <span style="font-style:italic;">T<sub>n</sub></span> makinesinin gerçekten STOP konumuna geçip geçmeyeceğine karar vermek problemi olarak yorumlamış, problem, <span style="font-style:italic;">durma problemi</span> adıyla anılmıştır. <span style="font-style:italic;">Herhangi</span> bir <span style="font-style:italic;">m</span> sayısı (örneğin, <span style="font-style:italic;">n =</span> 1 veya 2, veya STOP komutunun yer almadığı herhangi bir başka problem) için makinenin durmasını sağlayan bir komut listesi hazırlamak kolaydır. Hangi sayı verilirse verilsin (örneğin <span style="font-style:italic;">n =</span> 11) makinenin her zaman durmasını sağlayan birçok komut üstesi de vardır; bazı Turing makineleri bazı sayılara işlem yapınca dururken, diğer bazı sayılar işlem yaptıklarında asla durmazlar. Durmaksızın sonsuza kadar uzayıp giden kuramsal bir algoritmanın pek bir yararının olmadığı söylenebilir. Böylesi algoritma bile değildir. Bu nedenle, <span style="font-style:italic;">m</span> sayısına uygulanan <span style="font-style:italic;">T</span><sub>n</sub>’in yanıt verip vermeyeceğine karar verebilmek önemli bir sorudur! Yanıt vermezse (yani işlem durmazsa), bunu aşağıdaki gibi ifade edebilirim:</p>
+
+  <p><span style="font-style:italic;">T<sub>n</sub>(m)</span> = □ .</p>
+
+  <p>(Bu gösterime yukarıda değinirken T<sub>4</sub> ve <span style="font-style:italic;">T<sub>7</sub></span> makinelerinde olduğu gibi, uygun bir komut alamadığı için herhangi bir aşamada bir sorunla karşılaşan Turing makinesinin durumu da dahil edilebilir. Aynı zamanda, görünüşte başarılı makinemiz <span style="font-style:italic;">T<sub>3</sub></span> bile, ne yazık ki, bu durumda işe yaramaz olarak nitelendirilmelidir: <span style="font-style:italic;">T<sub>3</sub>(m) =</span> □ olacaktır çünkü <span style="font-style:italic;">T<sub>3</sub></span> uygulamasının sonucu daima boş bir banttan ibarettir; oysa hesap sonucunu bir sayıyla ifade edebilmemiz için çıktıda hiç olmazsa bir tane l’e ihtiyacımız vardır! Ancak <span style="font-style:italic;">T<sub>11</sub></span> bir 1 ürettiği için kullanışlıdır. Çıktısı, 0 sayılı banttır ve buna göre bütün <span style="font-style:italic;">m</span> sayıları için <span style="font-style:italic;">T<sub>11</sub> (m)</span> = 0 ifadesini kullanabiliriz).</p>
+
+  <p>Turing makinelerinin ne zaman duracağı matematikte önemli bir konudur. Örneğin, şu denklemi ele alalım:</p>
+
+  <p><span style="font-style:italic;">(x + 1)<sup>w+3</sup>+</span> <span style="font-style:italic;">(y</span> + 1<span style="font-style:italic;">)<sup>w+3</sup></span> =(z+1<span style="font-style:italic;">)<sup>w+3</sup></span></p>
+
+  <p>(Teknik matematik denklemlerden hoşlanmıyorsanız hemen vazgeçmeyin! Bu denklem yalnız bir örnek olarak verilmiştir, ayrıntılarıyla anlamanız gereksizdir). Söz konusu denklem, matematikte ünlü, belki en ünlü çözülmemiş problemle ilişkilidir. Problem şöyle: Bu denklemi sağlayan <span style="font-style:italic;">w, x, y, z</span> doğal sayılarından oluşan herhangi bir küme var mıdır? On yedinci yüzyılda yaşamış Fransız matematikçisi Pierre de Fermat (1601-1665) tarafından Diophantus’un <span style="font-style:italic;">Arithmetica</span> kitabının bir sayfasının kenarında not edilmiş ve “Fermat’nın Son Teoremi’ olarak tanınan ünlü teorem yukarıdaki denklemin <span style="font-style:italic;">asla</span> çözülemeyeceğini söyler.<a href="../Text/notbolum2.xhtml#nba2III" id="nba2IIId"><sup>[III]</sup></a> <a href="../Text/notbolum2.xhtml#nb28" id="nb28d"><sup>[8]</sup></a> Asıl mesleği avukatlık olan ve Descartes'la aynı çağda yaşamış olan Fermat, döneminin en iyi matematikçilerindendi, <span style="font-style:italic;">Arithmetica’nın</span> bir kenarına sığdırmaya çalıştığı tezinin ‘gerçekten harika bir kanıt’ olduğunu iddia eden Fermat’ın kanıtını bugüne değin hiç kimse yeniden inşa edemediği gibi bir karşıt-örnek bulabilen de çıkmamıştır!</p>
+
+  <p>Dörtlü sayı grubu <span style="font-style:italic;">(w, x, y ,z)</span> verildiğinde denklemin çözümlenip çözümlenemeyeceğine karar vermenin yalnızca bir hesap meselesi olduğu açıktır. Bir bilgisiyar algoritmasının dörtlü sayı gruplarını teker teker işleme soktuktan sonra ancak denklem çözülünce durduğunu düşünebiliriz (Daha önce değindiğimiz gibi, sonlu kümeleri tek bant üzerinde ve hesaplanabilir tarzda, yani yalnızca tek tek sayılar olarak kodlama yöntemleri vardır; böylece, söz konusu sayıların doğal sırasını izlemek suretiyle dört sayıyı teker teker işleme sokabiliriz). Bu algoritmanın durmaksızın uygulandığını kanıtlayabilirsek Fermat’ın tezinin kanıtına da sahip oluruz.</p>
+
+  <p>Diğer birçok çözümlenmemiş matematik problemini, Turing makinesinin durma problemine dayanarak aynı yöntemle ifade edebiliriz. Buna örnek ‘Goldbach sanıtı’dır: 2’den büyük her çift sayı iki asal sayının toplamıdır.<a href="../Text/notbolum2.xhtml#nba2IV" id="nba2IVd"><sup>[IV]</sup></a> Verilen bir sayının asal olup olmadığına karar vermek algoritmik bir işlemdir çünkü yalnız <span style="font-style:italic;">sayının kendinden küçük sayılarla bölünebilirliğinin denendiği sonlu</span> hesap gerektirir. 6, 8, 10, 12, 14,... çift sayılarını sırayla aşağıda gösterildiği gibi, tek sayılardan oluşan ikililere ayırmanın bütün yollarını deneyen ve ikiye ayırdığı sayının her iki üyesinin de asal olup olmadığını sınayan bir Turing makinesi icat edebiliriz:</p>
+
+  <p>6 = 3 + 3, 8 = 3 + 5, 10 = 3 + 7 = 5 +5, 12 = 5 +7 14 = 3 + 11 = 7 + 7,...</p>
+
+  <p>(2 dışında tüm asal sayılar tek sayılar olduğu için 2 + 2 hariç, <span style="font-style:italic;">çift</span> sayıdan oluşan ikilileri test etmemiz gerekmez). Makinemiz, ayrıldığı ikililerden <span style="font-style:italic;">hiçbiri</span> asal sayıdan oluşmayan ilk sayıya ulaştığı zaman duracaktır. Bu durumda, Goldbach sanıtına karşıt-örnek, yani, iki asal sayının toplamı olmayan ve 2’den büyük tek sayıyı buluruz. Böyle bir Turing makinesinin durup durmayacağına karar verebilsek, Goldbach sanıtının doğruluğuna karar vermenin bir yolunu da bulmuş oluruz.</p>
+
+  <p>Bu noktada bir soru kendiliğinden ortaya çıkıyor: Herhangi bir Turing makinesinin (belirli girdi verildiğinde) durup durmayacağına nasıl karar vermeliyiz? Turing makinelerinin çoğu için yanıtlaması kolay bir soru olabilirse de yanıt bazen, yukarıda gördüğünüz gibi, çözülmemiş bir matematik probleminin çözümünü gerektirebilir. Öyleyse, genel soruyu -yani durma problemini- tamamen otomatik olarak yanıtlamak için algoritmik bir yöntem var mıdır? Böyle bir yöntemin gerçekten bulunmadığını Turing göstermiştir.</p>
+
+  <p>Turing’in bu konudaki kanıtı şöyledir: Önce, böyle bir algoritmanın var olduğunu düşünelim.<a href="../Text/notbolum2.xhtml#nba2V" id="nba2Vd"><sup>[V]</sup></a> Öyle bir <span style="font-style:italic;">H</span> Turing makinesi bulunmalıdır ki <span style="font-style:italic;">n’inci</span> Turing makinesinin <span style="font-style:italic;">m</span> sayısına işlem yapınca durup durmayacağına karar verebilsin. Diyelim ki durmazsa çıktı bant üzerine O olarak işlensin, durursa 1 olarak işlensin:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-22.png" /></p>
+
+  <p>Burada <span style="font-style:italic;">U</span> evrensel makinesi için geçerli kural <span style="font-style:italic;">n</span> ve <span style="font-style:italic;">m</span> sayılarının kodlanmasına uygulanabilir. Ancak bu aşamada, bazı <span style="font-style:italic;">n</span> sayıları için (örneğin <span style="font-style:italic;">n = 7) T<sub>n</sub></span> doğru tanımlanmadığı için, teknik bir sorunla karşılaşabiliriz: 111101 işareti, bant üzerinde <span style="font-style:italic;">n’ı</span> m’den ayırmakta yetersiz kalabilir. Bu sorunun üstesinden gelmek için daha önce yaptığımız gibi, <span style="font-style:italic;">m’</span>i normal ondalık sistemde kodlarken, <span style="font-style:italic;">n</span>’in açılmış ondalık sistemde kodlandığını varsayalım. Böylece 110 işareti, <span style="font-style:italic;">n’i</span> m’den ayırmaya yeterli olacaktır. <span style="font-style:italic;">U(n, m)</span> ifadesindeki <span style="font-style:italic;">virgülün</span> yerinde <span style="font-style:italic;">H(n; m)</span> ifadesinde <span style="font-style:italic;">noktalı virgülün</span> kullanılması bu değişikliği gösterecektir.</p>
+
+  <p>Şimdi, olası tüm girdileri uygulayan olası tüm Turing makinelerinin tüm girdilerini liste halinde içeren sonsuz bir dizge düşleyelim.</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-23.png" /></p>
+
+  <p>Bu dizgenin <span style="font-style:italic;">n</span>’inci sırası, T<sub>n</sub> makinesinin 0, 1, 2, 3, 4,... girdileri üzerine işlem yaptığında çıktıların ne olduğunu göstermektedir. Yukardaki tabloda biraz hile yaparak, Turing makinelerine <span style="font-style:italic;">gerçekte</span> sahip olduklarından farklı numaralar verdim. Böyle yapmakla listenin daha başında sıkıcı görünmesini önlemeye çalıştım. Çünkü aksi halde <span style="font-style:italic;">n</span> sayısının 11’den küçük değere sahip olduğu tüm makineler □’lerden başka hiçbir şey üretmez ve <span style="font-style:italic;">n =</span> 11 için O’lardan başka hiçbir şey elde edemezdik. Bu nedenle listenin gerçekte nasıl göründüğü hakkında bir izlenim sağlamak amacıyla çok daha uygun bir kodlama yarattım.</p>
+
+  <p>Bu dizgenin bir algoritmayla, gerçekten <span style="font-style:italic;">hesaplanması</span> gerektiğini iddia etmiyorum (Zaten biraz sonra göreceğimiz gibi böyle bir algoritma yok). Gerçek listenin nasıl olduysa, belki de Tanrı tarafından, önümüze seriliverdiğini hayal etmemiz bekleniyor. Bu tür hesaplar sonsuza dek süreceği için bir □'yi hangi konuma ne zaman yerleştireceğimizden asla emin olamayız; işlemi gerçekleştirmeye kalkıştığımız zaman ortaya çıkacak □’ler karşılaşacağımız zorlukların başlıca kaynağı haline gelir.</p>
+
+  <p>Teorik, <span style="font-style:italic;">H</span>'i kullanabilseydik tabloyu üretmek için gerekli yöntemi bulabilirdik. Çünkü <span style="font-style:italic;">H,</span> □'lerin nerelerde oluşacağını bize söylerdi. Fakat, bunun yerine, her □’yi, 0 ile değiştirerek □'leri eklemek için <span style="font-style:italic;">H</span>'i kullanalım. T<sub>n</sub>'in <span style="font-style:italic;">m’e</span> uygulanmasından önce <span style="font-style:italic;">H</span> (<span style="font-style:italic;">n</span>; m)’in uygulamasıyla bu gerçekleşir; daha sonra, <span style="font-style:italic;">H</span>(<span style="font-style:italic;">n</span>; <span style="font-style:italic;">m)</span> = 1’in koşuluyla (yani, sadece <span style="font-style:italic;">T<sub>n</sub> (n)</span> hesabı gerçekten bir yanıt verirse) T„’in <span style="font-style:italic;">m</span>’ye işlem, yapmasına izin veririz, ve <span style="font-style:italic;">H(N; m) =</span> 0 ise. (yani <span style="font-style:italic;">T<sub>n</sub>(m)=0</span> ise) sadece 0 yazarız. Böylece bu yöntemi (yani, <span style="font-style:italic;">H(n;m)'</span>in <span style="font-style:italic;">T<sub>n</sub> (m)’</span>den önce uygulanmasıyla elde edilen yöntemi)</p>
+
+  <p><span style="font-style:italic;">T<sub>n</sub>(m)</span> x <span style="font-style:italic;">H(n;m)</span></p>
+
+  <p>olarak yazarız. (Burada, matematik işlemlerinin sıralanması ile ilgili bilinen bir matematik kuralını uyguluyorum: sağdaki işlem önce uygulanmalıdır. Sembolik olarak □ x 0= 0 olacaktır).</p>
+
+  <p>Buna göre tablo şu şekilde okunur:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-24.png" /></p>
+
+  <p><span style="font-style:italic;">H</span> makinesinin varolduğunu düşünsek, bu tablodaki sıralar <span style="font-style:italic;">hesaplanabilir dizgelerden</span> oluşmaktadır. (Hesaplanabilir dizge ile anlatmak istediğim, birbirini izleyen değerlerin bir algoritma tarafından üretilebildiği sonsuz dizidir; bir başka deyişle, <span style="font-style:italic;">m=</span> 0, 1, 2, 3, 4, 5... doğal sayılarına uygulandığında dizgenin birbirini izleyen elemanlarını üreten bir Turing makinesi bulunmalıdır). Şimdi bu tablonun iki özelliği üzerinde duralım.</p>
+
+  <p>Birincisi, her hesaplanabilir doğal sayılar dizisi en az bir (veya bir kaç) dizge halinde bulunmaktadır. Bu özellik, tablonun orijinalinde □’lerle görülmüştü. Ben yalnız ‘işe yaramaz' Turing makinelerinin (en az bir □ üreten makinelerin) yerine bazı sıralar ekledim. İkincisi, <span style="font-style:italic;">H</span> Turing makinesinin gerçekten varolduğu varsayımından hareketle tablo, <span style="font-style:italic;">T<sub>n</sub>(m)</span> x <span style="font-style:italic;">H(n; m)</span> yöntemiyle hesaplanabilir şekilde üretilmiştir (Başka bir deyişle, belli bir algoritma ile üretilmiştir). Açık olarak <span style="font-style:italic;">n</span> ve <span style="font-style:italic;">m</span> sayılarına uygulandığı zaman tabloya uygun kayıt üreten bir <span style="font-style:italic;">Q</span> Turing makinesi bulunmaktadır. Bunun için, aynen <span style="font-style:italic;">H</span> Turing makinesinde olduğu gibi, Q’un bantında da <span style="font-style:italic;">n</span> ve <span style="font-style:italic;">m</span>’i kodlayabiliriz:</p>
+
+  <p><span style="font-style:italic;">Q(n;m)</span> = <span style="font-style:italic;">T<sub>n</sub>(m)</span> x <span style="font-style:italic;">H(n;m).</span></p>
+
+  <p>Şimdi, Georg Cantor’un “köşegen yöntemi” adı verilen zekice planlanmış ve güçlü yöntemini değişik bir biçimde uygulayalım (Cantor’un adı geçen yöntemini bir sonraki bölümde ayrıntılı anlatacağım). Koyu renk rakamlarla işaretlenmiş bulunan elemanların oluşturduğu ana köşegene dikkat ediniz:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-25.png" /></p>
+
+  <p>Bu elemanların oluşturdukları 0, 0, 1, 2, 3, 7, 1,... dizisine 1 ekliyoruz:</p>
+
+  <p>1, 1, 2, 3, 2, 1, 4, 8, 2,...</p>
+
+  <p>Açıkça görüldüğü gibi bu bir hesaplanabilir yöntemdir ve tablomuz da hesaplanabilir tarzda üretilmiş olduğuna göre bize yeni bir hesaplanabilir dizge, gerçekte 1 + <span style="font-style:italic;">Q (n;n)</span> dizgesini; yani</p>
+
+  <p><span style="font-style:italic;">l + T<sub>n</sub>(n)xH(n;n)</span></p>
+
+  <p>vermektedir <span style="font-style:italic;">(m</span> ile <span style="font-style:italic;">n</span>’i eşitlemek suretiyle köşegen üzerinde verildiği için). Fakat tablomuz <span style="font-style:italic;">her</span> hesaplanabilir dizgeyi içerdiği için yeni dizi de listenin bir yerinde yer alıyor olmalı. Ama durum hiç de böyle değil! Çünkü yeni dizgemiz, ilk kaydın ilk sırasından, ikinci kaydın ikinci sırasından, üçüncü kaydın üçüncü sırasından, vs. farklıdır. Bu açık bir çelişkidir. İşte bu çelişki, kanıtlamaya çalıştığımız olguyu kanıtlar: Turing makinesi <span style="font-style:italic;">H</span> gerçekte mevcut değildir! <span style="font-style:italic;">Bir Turing makinesinin durup durmayacağı konusunda karar verecek evrensel bir algoritma yoktur.</span></p>
+
+  <p>Bu savı başka şekilde ifade etmek amacıyla diyelim ki Turing makinesi <span style="font-style:italic;">H</span> mevcuttur, ve 1 + <span style="font-style:italic;">Q(n;n)</span> algoritması (köşegen işlem!) için bir Turing makinesi sayısı, örneğin <span style="font-style:italic;">k,</span> vardır; bu durumda algoritmamız şöyledir:</p>
+
+  <p><span style="font-style:italic;">1 + T<sub>n</sub>(n)</span> x <span style="font-style:italic;">H(n;n</span>) = <span style="font-style:italic;">T<sub>k</sub>(n).</span></p>
+
+  <p>Bu ilişkide <span style="font-style:italic;">n</span> yerine <span style="font-style:italic;">k</span> koyarsak aşağıdaki algoritmayı elde ederiz:</p>
+
+  <p>1<span style="font-style:italic;">+T<sub>k</sub>(k)</span> x <span style="font-style:italic;">H(k;k) = T<sub>k</sub>(k).</span></p>
+
+  <p>Bu bir çelişkidir, çünkü <span style="font-style:italic;">T<sub>k</sub>(k)</span> durduğu takdirde olanaksız bir ilişki ortaya çıkar:</p>
+
+  <p><span style="font-style:italic;">1+T<sub>k</sub>(h)</span> = <span style="font-style:italic;">T<sub>k</sub> (k)</span></p>
+
+  <p><span style="font-style:italic;">H(k;k)=</span> 1 olduğuna göre, <span style="font-style:italic;">T<sub>k</sub>(k)</span> durmazsa =0 olur ki, aynı çelişkiyle burada da karşılaşılır:</p>
+
+  <p>1 + 0 = □.</p>
+
+  <p>Belirli bir Turing makinesinin durup durmayacağı sorusu, mükemmel tanımlanmış bir matematik sorusudur (ve biz daha önce görmüştük ki, aksine, çeşitli önemli matematik problemleri Turing makinelerinin durması olarak ifade edilebilirler). Böylece, Turing makinelerinin durması konusunda karar vermekle ilgili hiç bir algoritmanın varolmadığım göstermekle Turing, (daha farklı yaklaşımıyla Church'ün de gösterdiği gibi) matematik soruları ile ilgili karar vermenin genel algoritmasının varolmayacağını göstermiştir. Hilbert'in <span style="font-style:italic;">Entscheidungsproblem'</span>inin çözümü yoktur!</p>
+
+  <p>Bu, herhangi bir bireysel durumda, belirli bir matematik sorusunun doğru olup olmadığı hakkında veya başka bir niteliği hakkında, veya belirli bir Turing makinesinin durması hakkında karar veremeyeceğiz demek değildir. Biraz aklımızı, veya hatta sağ duyumuzu kullanarak bunu başarabiliriz (örneğin, bir Turing makinesinin komut listesinde STOP komutu bulunmazsa, veya böyle bir liste <span style="font-style:italic;">yalnız</span> STOP komutlarını içerirse, sağ duyumuz bize cihazın durup durmayacağını söylemek için yeterlidir). Fakat <span style="font-style:italic;">tüm</span> matematik soruları, <span style="font-style:italic;">tüm</span> Turing makineleri ve bunların uygulandığı <span style="font-style:italic;">tüm</span> sayılar için geçerli hiç bir algoritma yoktur.</p>
+
+  <p>Sanki en azından <span style="font-style:italic;">bazı</span> karar verilemez matematik sorularının mevcut olduğunu kanıtlamış gibi görünüyoruz. Oysa, bir şey yapmadık! Tam aksine, biraz sonra göreceğimiz gibi, özellikle kötü sayılar verildiğinde makinenin durup durmamasına karar vermesi kesinlikle olanaksız, ters bir Turing makinesi tablosunun varolduğunu göstermedik. <span style="font-style:italic;">Tek tek</span> problemlerin çözümsüzlüğü hakkında bir kelime bile söylemezken, problem <span style="font-style:italic;">ailelerinin algoritmik</span> çözümsüzlüğünden söz ettik. Herhangi bir belirli durumda yanıt 'evet’ veya 'hayır’ olmalıdır ve bu nedenle belirli durumla ilgili kararın bir algoritması elbette vardır. Başka bir deyişle, problemle karşı karşıya geldiğinde duruma göre ya ‘evet’ veya ‘hayır’ yanıtını veren algoritma vardır. Algoritmalardan <span style="font-style:italic;">hangisini</span> kullanacağımızı bilmeyebiliriz ve kuşkusuz işin zor yanı da budur. Sorun bir problemler ailesi ile ilgili sistematik karar sorunu değil, fakat bir tek problemin matematik gerçeği hakkında karar vermek sorunudur. Algoritmaların, matematik gerçeği hakkında kendi başlarına karar vermediklerini anlamak önemlidir. Bir algoritmanın <span style="font-style:italic;">geçerliliği</span> daima dışarıdan sağlanan olanaklarla kanıtlanmalıdır.</p>
+
+  <h2 id="sigil_toc_id_17">Bir Algoritmanın Üstesinden Nasıl Gelinir?</h2>
+
+  <p>Matematiksel ifadelerin gerçekliğine karar vermek konusu, Gödel’in. teoremi (bkz. IV. Bölüm) çerçevesinde daha sonra ele alınacaktır. Şimdilik, Turing’in teorisinin, aslında, anlatmağa çalıştığımdan çok daha yapıcı ve çok daha az olumsuz olduğunu belirtmek isterim. Bu aşamaya kadar, durup durmayacağına mutlak anlamda karar verilemez belli bir Turing makinesinin varlığını kanıtlamış değiliz. Gerçekte, Turing’in teorisini dikkatle incelersek, Turing’in yöntemiyle inşa ettiğimiz görünüşte ‘özellikle karmaşık’ makinelerle ilgili yanıtı, kullandığımız yöntemin bize ima ettiğini anlarız!</p>
+
+  <p>Şimdi bunun nasıl gerçekleştiğini görelim. Bir Turing makinesinin ne zaman durmayacağını bazen bize söyleyebilir bir algoritmaya sahip olduğumuzu farz edelim. Daha önce genel hatlarıyla tanımladığımız Turing yöntemi, işlemin durup durmayacağına bu algoritma tarafından karar verilemeyen bir Turing makinesi işlemini açıkça verecektir. Aslında, böyle yaparken, bu işlemle ilgili yanıtı anlamamızı da sağlayacaktır: Turing makinesinin işlemi gerçekten durmayacaktır.</p>
+
+  <p>Biraz daha ayrıntılı anlatmak gerekirse, bir Turing makinesinin ne zaman durmayacağına dair bize bazen bilgi veren bir algoritmaya sahip olduğumuzu farz edelim. Daha önce olduğu gibi, bu algoritmayı (Turing makinesi) <span style="font-style:italic;">H</span> ile temsil ediyoruz, fakat biliyoruz ki Turing makinesi durmayacaktır:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-26.png" /></p>
+
+  <p>böylece <span style="font-style:italic;">T<sub>n</sub>(m</span>) □ olduğu zaman <span style="font-style:italic;">H(n</span>; <span style="font-style:italic;">m)</span> = □ bir olasılıktır. <span style="font-style:italic;">H(n;m</span>) gibi bir çok algoritma vardır. (Örneğin, pratikte pek fazla yararı olmasa da, <span style="font-style:italic;">T<sub>n</sub>(m)</span> durur durmaz <span style="font-style:italic;">H(n;m</span>) bir 1 üretir!)</p>
+
+  <p>Buna göre, yine Turing’in yöntemini izleyerek, fakat bu kez <span style="font-style:italic;">tüm</span> □'lerin yerine O'ları koymayarak, elimizde bazı □’ler kaldığım görürüz. Köşegen yöntemimiz, köşegen üzerindeki eleman olarak bize</p>
+
+  <p>1 + <span style="font-style:italic;">T<sub>n</sub>(n</span>) x <span style="font-style:italic;">H(n;n)</span></p>
+
+  <p>ifadesini vermişti. (<span style="font-style:italic;">H(n;n)=</span> □ olursa daima □ elde ederiz. □ x □ = □, 1 + □ = □ olduğunu unutmayınız) Bu, sonucu mükemmel bir hesaptır ve bir Turing makinesince, diyelim <span style="font-style:italic;">k’inci</span> , makine tarafından gerçekleştirilmiştir.</p>
+
+  <p>Şimdi şu eşitliğe sahibiz:</p>
+
+  <p><span style="font-style:italic;">1+T<sub>n</sub>(n) x H(n,n) = T<sub>k</sub>(n).</span></p>
+
+  <p>k’inci köşegen elemana bakalım, yani <span style="font-style:italic;">n</span> = <span style="font-style:italic;">k</span> alalım:</p>
+
+  <p>1<span style="font-style:italic;">+T<sub>k</sub>(k) x H(k;k) = T<sub>k</sub>(k).</span></p>
+
+  <p>elde ederiz. <span style="font-style:italic;">T<sub>k</sub>(k)</span> hesabı durursa bir çelişkiyle karşılaşırız çünkü <span style="font-style:italic;">T<sub>k</sub>(k</span>) ne zaman durursa dursun <span style="font-style:italic;">H (k:k)’nı</span> 1 olduğu varsayılır ve bu durumda eşitlik tutarsızdır: 1<span style="font-style:italic;">+T<sub>k</sub></span> (<span style="font-style:italic;">k</span>) = <span style="font-style:italic;">T<sub>k</sub></span> (<span style="font-style:italic;">k</span>). Öyleyse <span style="font-style:italic;">T<sub>k</sub></span> (<span style="font-style:italic;">k</span>) duramaz, diğer bir deyişle</p>
+
+  <p><span style="font-style:italic;">T<sub>k</sub></span> (<span style="font-style:italic;">k)</span> = □.</p>
+
+  <p>Fakat algoritma bunu ‘bilemez’, çünkü; <span style="font-style:italic;">H(k;k</span>)=0 eşitliğini verseydi yine bir çelişkiyle karşılaşırdık (sembolik olarak, geçersiz bir ilişki, 1 + 0 = □ elde ederdik).</p>
+
+  <p>Bu nedenle <span style="font-style:italic;">‘k’i</span> bulabilirsek, yanıtını bildiğimiz algoritmayı alt etmek amacıyla kendi özel işlemimizi nasıl inşa etmemiz gerektiğini öğreniriz! <span style="font-style:italic;">k’i</span> nasıl buluruz? Bu zor iş. Yapmamız gereken <span style="font-style:italic;">H(n;m)’in</span> ve <span style="font-style:italic;">T<sub>n</sub>(m)’</span>in inşasına ayrıntılarıyla bakmak ve sonra</p>
+
+  <p>1<span style="font-style:italic;">+T<sub>n</sub>(n)</span> x <span style="font-style:italic;">H(n,n)</span> ifadesinin bir Turing makinesinin sayısını, yani <span style="font-style:italic;">k’i</span> buluruz, işlemi ayrıntılı olarak gerçekleştirmek, biraz karmaşık olsa da, mümkündür.<a href="../Text/notbolum2.xhtml#nba2VI" id="nba2VId"><sup>[VI]</sup></a> İşlemin karmaşıklığı nedeniyle <span style="font-style:italic;">T<sub>k</sub>(k)’ın</span> hesaplanması bizi hiç ilgilendirmeyebilirdi fakat onu, <span style="font-style:italic;">H</span> algoritmasına karşı üstünlük sağlayabilmek için özellikle ürettik! Önemli olan, iyi tanımlanmış bir yönteme sahip olmamızdır. Bize hangi <span style="font-style:italic;">H</span> verilmiş olursa olsun bu yöntemle <span style="font-style:italic;">H</span> karşıtı k'i bulunabilir. <span style="font-style:italic;">T<sub>k</sub>(k)</span> ile <span style="font-style:italic;">H</span>'<span style="font-style:italic;">i</span> alt eder ve böylece algoritmanın gerçekleştireceğinden daha iyisini gerçekleştirebiliriz. Algoritmalardan daha iyi olduğumuzu düşünmek, belki bizi biraz rahatlatır!</p>
+
+  <p>Yöntem öylesine iyi tanımlanmıştır ki, <span style="font-style:italic;">H</span> verildiğinde k’i üretecek bir <span style="font-style:italic;">algoritma</span> bulabiliriz. Bu nedenle, daha fazla ayrıntıya girmeden önce bu algoritmanın H’e uygulanabileceğini anlamalıyız, <a href="../Text/notbolum2.xhtml#nb29" id="nb29d"><sup>[9]</sup></a> çünkü algoritma, <span style="font-style:italic;">T<sub>k</sub>(k) =</span> □ eşitliğini 'bilir', -yoksa bilmez mi? Algoritma ile ilgili antropomorfik bir terim olan 'bilmek’ terimini, tanımlamamı kolaylaştırdığı için kullandım. Ancak, algoritma, izlemesi için kendisine verdiğimiz kuralları izlerken, ‘bilmek’ işlemini yapan biz değil miyiz? Yoksa, bizzat biz mi, beynimizin yapısından ve çevremizden izlemek için programlanmış olduğumuz kuralları izliyoruz? Konu, yalnızca bir algoritma konusu değil, aynı zamanda neyin gerçek neyin gerçek olmadığına hüküm vermek meselesidir. Bu konulara daha sonra tekrar döneceğiz. Matematiksel gerçek (ve onun algoritmik olmayan özelliği) konusu IV. Bölüm’de ele alınacaktır. Şimdilik, en azından, ‘algoritma’ ve ‘hesaplanabilirlik’ terimlerinin <span style="font-style:italic;">anlamları</span> hakkında biraz sezgi ve ilgili konularda bir fikir edinmiş bulunmaktayız.</p>
+
+  <h2 id="sigil_toc_id_18">Church’ün Lambda Hesabı</h2>
+
+  <p>Hesaplanabilirlik kavramı, önemli ve güzel bir matematiksel fikirdir. İlk kez 1930larda -bu kavram gibi temel nitelikli diğer kavramlarla birlikte-matematik bilimine girdiği için aynı zamanda oldukça yeni bir fikirdir ve matematiğin <span style="font-style:italic;">tüm</span> alanlarını kapsar (Matematikçilerin çoğu, yine de, bugün bile hesaplanabilirlik sorunlarıyla kendilerini pek yormazlar diyebiliriz). Hesaplanabilirlik fikrinin gücü, kısmen, bazı iyi tanımlanmış matematik işlemlerinin aslında <span style="font-style:italic;">hesapalanamaz</span> olmasından kaynaklanır (Turing makinesinin durma veya durmama problemi gibi, öteki örnekleri IV. Bölüm’de göreceğiz). Çünkü, böyle hesaplanamaz işlemler olmasaydı, hesaplanabilirlik kavramı, matematiğin ilgisini çekmezdi. Ne de olsa matematikçiler bilmecelerden hoşlanırlar. Bir matematik işleminin hesaplanıp hesaplanmayacağı konusunda karar vermek onlar için ilgi çekici bir bilmece olabilir. Özellikle ilginç olabilir çünkü böyle bir bilmecenin yanıtı bile hesaplanamaz niteliktedir!</p>
+
+  <p>Bir şeyi açıkça belirtmeliyim. Hesaplanabilirlik gerçek bir ‘mutlak’ matematik kavramıdır. Benim tanımladığım şekliyle ‘Turing makineleri’ açısından, herhangi bir anlayışın tamamen ötesinde soyut bir fikirdir. Daha önce değindiğim gibi, Turing’in zekice planlanmış, kendine özgü yaklaşımını karakterize eden ‘bantlar’ ve ‘içsel durumlar’, vs. gibi kavramlara özel bir önem vermemiz gerekmemektedir. Hesaplanabilirlik fikrini açıklayan başka yollar da vardır. Bunlardan, tarih bakımından birincisi, Amerikalı mantıkçı Alonza Church’ün, Stephen C. Kleene’in yardımıyla geliştirdiği lambda hesabı’dır. Church’ün yöntemi Turing’in yönteminden oldukça farklı ve daha soyuttur. Gerçekte Church’ün düşüncelerini ifade tarzında belirginleştiği gibi aralarında gözle görülür, ‘mekanik’ denilebilecek pek az benzerlik vardır. Church’ün yönteminin ana fikri, özünde gerçekten <span style="font-style:italic;">soyuttur-</span> Church’ün ‘soyutlama’ olarak tanımladığı bir matematik işlemidir.</p>
+
+  <p>Yalnız hesaplanabilirliğin, herhangi bir hesap makinesi kavramından bağımsız olarak, bir matematiksel fikir olduğunu vurguladığı için değil, matematikte soyut fikirlerin gücünü de gösterdiği için Church’ün tasarımının kısa bir tanımını yapmak istiyorum. Bu gibi konulara ilgi duymayan okurum, bu aşamada, bir sonraki bölüme hemen geçebilir ve konunun akışında fazla bir şey kaçırmış sayılmaz. Ancak, bu gibi okurlar bana biraz daha katlanarak Church’ün tasarımının sağladığı sihirli ekonomiye tanık da olabilirler (bkz. Church 1941).</p>
+
+  <p>Bu tasarımda ilgi odağı olarak nesnelerin 'evreni’ ile ilgilenmekteyiz ve bunu örneğin</p>
+
+  <p><span style="font-style:italic;">a, b, c, d, ..., z, a', b',</span> ... z’, <span style="font-style:italic;">a”, b”, ..., a</span>”’, ... a””, ...</p>
+
+  <p>ifadesiyle göstermekteyiz; her harf bir matematik işlemini veya <span style="font-style:italic;">fonksiyonunu</span> temsil etmektedir (Üslü harfler, fonksiyonları temsil eden simgelerin sınırsız sayıda bulunmasını sağlar). Bu fonksiyonların ‘değişkenleri’, yani bu fonksiyonların üzerine işlem yaptığı nesneler, aynı türden başka şeylerdir, yani onlar da fonksiyonlardır. Ayrıca, bir diğerine uygulanan bir fonksiyonun ‘değeri’nin de yine bir fonksiyon olması gerekir (Church’ün sisteminde gerçekten harika bir kavramlar ekonomisi var). Bu nedenle,</p>
+
+  <p><span style="font-style:italic;">a = bc</span></p>
+
+  <p>yazdığımız zaman<a href="../Text/notbolum2.xhtml#nba2VII" id="nba2VIId"><sup>[VII]</sup></a> <span style="font-style:italic;">‘c’</span> fonksiyonuna uygulanan <span style="font-style:italic;">‘b’</span> fonksiyonunun sonucunun bir başka 'a' fonksiyonu olduğunu kastederiz. Bu tasarımda, iki veya daha fazla değişkenli bir fonksiyon fikrini ifade etmek zor değildir, <span style="font-style:italic;">p</span> ve <span style="font-style:italic;">g</span> değişkenlerine bağlı bir <span style="font-style:italic;">f</span> fonksiyonunu</p>
+
+  <p>((fp) q</p>
+
+  <p>olarak ifade edebiliriz (q’a uygulanan <span style="font-style:italic;">fp</span> fonksiyonunun sonucu). Üç değişkenli bir fonksiyon için</p>
+
+  <p>((fp) <span style="font-style:italic;">q) r</span></p>
+
+  <p>ifadesini kullanabiliriz ve bu böylece sürer gider.</p>
+
+  <p>Şimdi sıra, güçlü <span style="font-style:italic;">soyutlama</span> işlemine geldi. Bunun için Yunan harfi λ (lambda)’yı kullanıyor ve hemen ardından Church’ün fonksiyonlarından birini temsil eden bir harf, örneğin <span style="font-style:italic;">x</span> harfini (‘sahte değişken’ adını verdiğimiz harfi) koyuyoruz. <span style="font-style:italic;">‘x’</span> değişkeninin yer aldığı her kare-parantez, ifadenin tümünü izleyen herhangi bir simgenin yerini tutabilen bir ‘boşluk’ olarak kabul edilebilir. Buna göre</p>
+
+  <p>λx. [fx]</p>
+
+  <p>yazdığımız zaman fonksiyonun, diyelim a’ya uygulandığında <span style="font-style:italic;">‘fa’</span> sonucunu verdiğini anlatırız. Başka deyişle,</p>
+
+  <p>(λx. [fx]) <span style="font-style:italic;">a = fa</span></p>
+
+  <p>Bir başka deyişle, λx. [fx]) ,<span style="font-style:italic;">’f</span> fonksiyonundan ibarettir, yani:</p>
+
+  <p>λx. [fx]) = <span style="font-style:italic;">f</span></p>
+
+  <p>Bunlar ilk bakışta fazla bilgiççe ve önemsiz göründüğü için ana fikir gözden kaçabilir. Bu nedenle, alışık olduğumuz okul matematiğinden bir örnek alalım ve <span style="font-style:italic;">f</span> fonksiyonunun, bir açının sinüsünü almak gibi trigonometrik bir işlem olduğunu varsayalım. Bu durumda ‘sin' soyut fonksiyonu şu şekilde ifade edilir:</p>
+
+  <p>λx. [sin x ] = <span style="font-style:italic;">sin.</span></p>
+
+  <p>(x ‘fonksiyonunun’ bir açı olarak nasıl kabul edilebileceğini merak etmeyin. Kısa bir süre sonra, sayıların bile fonksiyonlar olarak kabul edildiği işlemler yapacağız; ve bir açı da bir tür sayıdır). Bu aşamaya kadar gerçekten oldukça önemsiz görünebilir örneklerimiz. Fakat, ‘sin’ ifadesinin icad edilmemiş olduğunu fakat sin <span style="font-style:italic;">x</span> için kuvvet serisi ifadesini bildiğimizi farzedin:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-27.png" /></p>
+
+  <p>Buna göre</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-28.png" /></p>
+
+  <p>tanımını verebiliriz.</p>
+
+  <p>Herhangi bir standart ‘fonksiyonel’ ifadesi bulunmayan, diyelim ‘küp almanın altıda-biri’ işlemini, daha da kolay, tanımlayabiliriz:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-29.png" /></p>
+
+  <p>ve örneğin, şu sonucu alırız:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-30.png" /></p>
+
+  <p>Church’ün basit fonksiyonel işlemlerinden alınan ifadeler konumuzla daha ilgili olabilir; örneğin,</p>
+
+  <p>λf. [f(fx)]</p>
+
+  <p>Bu, bir başka fonksiyona örneğin ‘g' fonksiyonuna uygulandığında, <span style="font-style:italic;">x’e</span> iki kez üst üste ‘g’nin uygulandığı işlemi üretir:</p>
+
+  <p><span style="font-style:italic;">(</span>λf. [f(fx)]) g <span style="font-style:italic;">= g (gx)</span></p>
+
+  <p>‘Soyut tarzda’ ifade edersek:</p>
+
+  <p>λf. [λx. [f(fx)]]</p>
+
+  <p>veya kısa olarak:</p>
+
+  <p>λfx. [[f(fx)]]</p>
+
+  <p>Bu, g’ye uygulandığında, g’nin iki kez tekrarlanmış fonksiyonunu veren işlemdir. Aslında bu, tam Church’ün 2 doğal sayısı ile özdeşleştirdiği fonksiyondur:</p>
+
+  <p>2 = λfx [f(fx)]</p>
+
+  <p>ve buna göre (2 g) y = g (gy). Benzer şekilde, Church şu tanımlamaları yapar:</p>
+
+  <p>3 = λfx.[f(f(fx))], 4 = λfx.[f(f(f(fx)))], vs.</p>
+
+  <p>ile birlikte</p>
+
+  <p>1 = λfx. [<span style="font-style:italic;">fx], 0 = fx.[x]</span></p>
+
+  <p><a id="sy83"></a></p>
+
+  <p>Aslında Church’ün 2’si ‘iki kez’e, 3’ü ‘üç kez’e vs. daha çok benzer. Böylelikle, 3’ün <span style="font-style:italic;">f</span> fonksiyonuna uygulanması, yani 3 <span style="font-style:italic;">f, ‘f'in</span> üç kez tekrarlanması’ işlemidir. Bu nedenle 3 <span style="font-style:italic;">f'in y’e</span> uygulanması: (3f) y = <span style="font-style:italic;">f(f(f(y)))’dir.</span></p>
+
+  <p>Çok basit bir aritmetik işleminin, örneğin 1’in bir sayıyla toplamının, Church’ün sisteminde nasıl ifade edileceğini görelim:</p>
+
+  <p><span style="font-style:italic;">S =</span> λ<span style="font-style:italic;">abc.[b((ab)c)]</span></p>
+
+  <p>S’in, Church’ün ifadesinde tanımlanan bir sayıya 1 eklemesini göstermek için, örneğimizi 3 üzerinde deneyelim:</p>
+
+  <p><span style="font-style:italic;">S3 =</span> λx.a<span style="font-style:italic;">bc, [b((ab)c] 3 =</span> λ<span style="font-style:italic;">bc.[(b((3b)c)]</span></p>
+
+  <p><span style="font-style:italic;">=</span> λ<span style="font-style:italic;">bc.[b(b(b(bc)))] = 4</span></p>
+
+  <p>çünkü (3b) c = <span style="font-style:italic;">b(b(bc)).</span> Bu ifadeler kuşkusuz herhangi bir doğal sayıya uygulanabilir (Aslında λ<span style="font-style:italic;">abc. [(ab)</span> (bc)], S’in yerini pekala tutabilirdi).</p>
+
+  <p>Bir sayının ikiyle çarpımına ne dersiniz? Bu işlem</p>
+
+  <p><span style="font-style:italic;">D =</span> λ<span style="font-style:italic;">abc. [(ab) (ab)</span> c)] ifadesiyle verilir. Örnek olarak 3’e uygulanmasıyla,</p>
+
+  <p>D = λ<span style="font-style:italic;">abc.[(ab)((ab)c)]</span> 3 = λbc.[(3b)((3b)c)]</p>
+
+  <p>= λbc.[(3b)(b(6/bc)))] = λ<span style="font-style:italic;">bc.[b(b(b(b(b(bc))))] =</span> 6 bulunur.</p>
+
+  <p>Temel aritmetik işlemleri, toplama, çarpma ve kuvvetini alma sırasıyla, şöyle ifade edilebilirler:</p>
+
+  <p>A = λ<span style="font-style:italic;">fgxy.[((fx)(gx))y],</span></p>
+
+  <p><span style="font-style:italic;">M</span> = λ<span style="font-style:italic;">fgx.[f(gx)],</span></p>
+
+  <p><span style="font-style:italic;">P =</span> λfg.[fg].</p>
+
+  <p>Okuyucu kendini,</p>
+
+  <p>(Am)n = m + n, (Mm)n. = m x <span style="font-style:italic;">n,</span> (Pm)n = n<sup>m</sup></p>
+
+  <p>olduğuna ikna edebilir -veya bana güvenebilir. Burada m ve n, Church’ün iki doğal sayı için fonksiyonları, m + n toplam için fonksiyonu, vb.’dir. Sonuncusu en şaşırtıcı olanıdır, m = 2, n = 3 örnekleriyle bunu deneyelim:</p>
+
+  <p>(P2)3 = ((λf<span style="font-style:italic;">g.[fg])</span> 2)3 = (λg.[2g])3</p>
+
+  <p>= (λg.[λfx.[f(fx)]3 = <span style="font-style:italic;">gx.[g(gx)]3</span> = λx.[3(3x)] = 1x.[λfy.[f(f(fy))](3x)]</p>
+
+  <p>= λxy.[(3x)((3x)((3x)y))]</p>
+
+  <p>= λxy.[(3x)((3x)(x(x(xy))))]</p>
+
+  <p>= λxy.[(3x)(x(x(x(x(x(xy))))))]</p>
+
+  <p>=λxy.[x(x(x(x(x(x(x(x(xy))))))))] = 9 = 3<sup>2</sup>.</p>
+
+  <p>Çıkarma ve bölme işlemleri bu kadar kolay tanımlanamaz (Gerçekten de m, n’den küçük olduğu zaman ‘m - n’ işlemini; m, n'e bölünemediği zaman ‘m - n' işlemine uygulanacak bir yönteme ihtiyacımız var). 1930’ların başlarında Kleene, Church’ün sistemi kapsamında çıkarma işleminin nasıl yapılacağını keşfettiği zaman konuya ilişkin önemli bir aşama katedildi. Bunu diğer işlemler izledi. Sonunda, 1937 yılında, Church ve Turing, her hesaplanabilir işlemin (veya algoritmik işlemin) Church ifadeleri kullanılarak -bugünün Turing makineleri- gerçekleştirilebileceğini (veya bunun tersi: algoritmik işlemler kullanılarak Church’ün ifadelerinin sağlanacağını) gösterdiler.</p>
+
+  <p>Church’ün hesaplanabilirlik fikri ilk bakışta hesap makineleriyle bağdaşmıyorsa da, pratikte, özellikle güçlü ve esnek bir bilgi işlem dili olan LISP ile Church’ün tasarımının ana yapıları arasında sıkı bir bağlantı vardır.</p>
+
+  <p>Daha önce belirttiğim gibi, hesaplanabilirlik fikrim tanımlamak için başka yöntemler de vardır. Postun makinesi Turing’in makinesine çok benzer ve hemen hemen aynı dönemde fakat birbirinden ayrı üretilmişlerdir. J. Herbrand ve Gödel, kullanışlı bir hesaplanabilirlik tanımlamışlardır. 1929’da H.B. Curry ve 1924’de M, Schönfinkel konuya biraz farklı yaklaşmışlardır; Church’ün sistemi kısmen bu yaklaşıma dayalıdır (bkz. Gandy 1988). Hesaplanabilirliğe modern yaklaşımlar (Cutland’ın 1980’de tanımladığı sınırsız kayıt makinesi gibi), Turing’in teorisinden ayrıntıda önemli ölçüde farklıdır. Ancak farklı yaklaşımlardan hangisi benimsenirse benimsensin hesaplanabilirlik kavramı aynıdır.</p>
+
+  <p>Başta son derece güzel ve temel olanlar gelmek üzere pek çok diğer matematiksel fikir gibi hesaplanabilirlik fikrinin de kendine özgü bir tür Platonik gerçekliği var gözüküyor. Gelecek iki bölümde işte bu gizemli konuyu, matematik kavramların Platonik gerçekliği konusunu işleyeceğiz.</p>
+
+  <p><br /></p>
+</body>
+</html>

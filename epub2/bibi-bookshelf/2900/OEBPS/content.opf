@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dilin mimarisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Noam Chomsky">Noam Chomsky</dc:creator>
+    <dc:identifier id="uuid">{96810AF7-CB50-455C-843C-2F8AE8735424}</dc:identifier>
+    <dc:description>Noam Chomsky dil ve zihin konusunda en yaratıcı ve en çok yayın yapmış yazarlardan birisidir. Birçok kitap ve makale yazmış olmasının yanı sıra, bu konularda dünyanın çeşitli yerlerinde konuşmalar yapmış, bu konuşmalardan bazıları da kitap olarak yayımlanmıştır. Dilin Mimarisi Chomsky’nin Ocak 1996’da Delhi’de yaptığı bir konuşmanın ve onu izleyen soru-cevap bölümünün metninden oluşmaktadır.
+
+Chomsky, içerikçe son derece zengin bu konuşmasında, dille ilgili ilk çalışmalarından başlayıp Yetinmeci Çizgi’nin ortaya çıkışına kadar geçen zaman içindeki olayların tarihsel bir dökümünü sunuyor. Felsefi ve kavramsal konular ile teknik yenilikleri ve ampirik çalışmaları bir araya getiriyor. Ayrıca, dil yetisinin de içinde olduğu bilişsel sistemlerle ilgili mevcut çalışmaların dayandığı varsayımları açıklıyor ve araştırmaların ilerleyebileceği doğrultularla ilgili işaretleri ortaya koyuyor. Çağdaş üretici dilbilgisinin tarihini merak edenler bu konuşmayı son derece öğretici bulacaklar.</dc:description>
+    <dc:publisher>Boğaziçi Üniversitesi Yayınevi</dc:publisher>
+    <dc:relation>Dilbilim</dc:relation>
+    <dc:rights>Noam Chomsky</dc:rights>
+    <dc:date>2014-06-15T12:15:16+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">2cfaf8c9-56f5-485a-905a-f600b86086cf</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054787418</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">6054787418</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">6kL1jwEACAAJ</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dilin mimarisi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Noam Chomsky&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chomsky.xhtml" id="chomsky.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cevirmen.xhtml" id="cevirmen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dn1.xhtml" id="dn1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dn2.xhtml" id="dn2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dn3.xhtml" id="dn3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynakca.xhtml" id="kaynakca.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id6" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/CHOMSKY.jpg" id="CHOMSKY.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/LOGO.jpg" id="LOGO.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitled-1.jpg" id="Untitled-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitled-2.jpg" id="Untitled-2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="chomsky.xhtml"/>
+    <itemref idref="cevirmen.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="dn1.xhtml"/>
+    <itemref idref="dn2.xhtml"/>
+    <itemref idref="dn3.xhtml"/>
+    <itemref idref="kaynakca.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Bir Dilek Tut - Bölüm 1</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Daştan Mutlu, Arzu">Arzu Daştan Mutlu</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Storytel</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">35360921-7992-446f-85aa-3ea9dec7a971</dc:identifier>
+    <dc:date>2020-11-17T00:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6595b393-012b-46d5-ad35-eadde9f6f927</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789180115834</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T08:40:45.124731+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Dilek Tut - Bölüm 1, Bir"/>
+    <meta name="calibre:author_link_map" content="{&quot;Arzu Daştan Mutlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverxhtml" href="OPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright-pagexhtml" href="OPS/copyright-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepagexhtml" href="OPS/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml" href="OPS/chapter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OPS/image/cover.jpg" media-type="image/jpeg"/>
+    <item id="image__logopng" href="OPS/image/logo.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="chapterxhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover Image"/>
+  </guide>
+</package>

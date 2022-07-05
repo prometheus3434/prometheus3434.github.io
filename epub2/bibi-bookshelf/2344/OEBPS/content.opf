@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Aziz ayyaşın efsanesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roth, Joseph">Joseph Roth</dc:creator>
+    <dc:description>&lt;p&gt;Ünlü Avusturyalı yazar Joseph Roth 1939 yılında kaleme aldığı Aziz Ayyaşın Efsanesi için "benim vasiyetnamem" der. Bu anlatı onun üzerindeki büyük baskıyı hissettirmeyen örtük bir ironiyle doludur.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{BF736364-230D-4DFC-90AC-35D9455D6719}</dc:identifier>
+    <dc:date>2000-06-15T11:06:20+00:00</dc:date>
+    <dc:publisher>Dost Kitabevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">354eabe7-dee4-4354-baeb-f1307c26f6c7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758457243</dc:identifier>
+    <dc:identifier opf:scheme="ISNB">9758457241005</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">eAgIAwAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Aziz ayyaşın efsanesi"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Joseph Roth&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id2" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id1" media-type="text/css"/>
+    <item href="Images/AAE.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id2">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

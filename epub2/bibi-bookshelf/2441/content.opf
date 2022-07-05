@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>ben_bir_hayaletim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Tudem Yayın Grubu</dc:publisher>
+    <dc:date>2020-12-10T11:49:44+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ca778805-9ad6-4512-8e5d-eca9dc4568c4</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">25068362-72d7-4e5b-ab38-f00e1d565563</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T13:52:05.583697+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="ben_bir_hayaletim"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uDjz7KIynNROj3YVAJmf2Q3" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim" href="OEBPS/ben_bir_hayaletim.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-1" href="OEBPS/ben_bir_hayaletim-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-2" href="OEBPS/ben_bir_hayaletim-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-3" href="OEBPS/ben_bir_hayaletim-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-4" href="OEBPS/ben_bir_hayaletim-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-5" href="OEBPS/ben_bir_hayaletim-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-6" href="OEBPS/ben_bir_hayaletim-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-7" href="OEBPS/ben_bir_hayaletim-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-8" href="OEBPS/ben_bir_hayaletim-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-9" href="OEBPS/ben_bir_hayaletim-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-10" href="OEBPS/ben_bir_hayaletim-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-11" href="OEBPS/ben_bir_hayaletim-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-12" href="OEBPS/ben_bir_hayaletim-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-13" href="OEBPS/ben_bir_hayaletim-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-14" href="OEBPS/ben_bir_hayaletim-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-15" href="OEBPS/ben_bir_hayaletim-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-16" href="OEBPS/ben_bir_hayaletim-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-17" href="OEBPS/ben_bir_hayaletim-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-18" href="OEBPS/ben_bir_hayaletim-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-19" href="OEBPS/ben_bir_hayaletim-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-20" href="OEBPS/ben_bir_hayaletim-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ben_bir_hayaletim-21" href="OEBPS/ben_bir_hayaletim-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/1.png" media-type="image/png"/>
+    <item id="x2.jpg" href="OEBPS/image/2.jpg" media-type="image/jpeg"/>
+    <item id="ben_bir_hayaletim_kapak.png" href="OEBPS/image/ben_bir_hayaletim_kapak.png" media-type="image/png"/>
+    <item id="ben_bir_hayaletim_kapak1.png" href="OEBPS/image/ben_bir_hayaletim_kapak1.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uDjz7KIynNROj3YVAJmf2Q3"/>
+    <itemref idref="ben_bir_hayaletim"/>
+    <itemref idref="ben_bir_hayaletim-1"/>
+    <itemref idref="ben_bir_hayaletim-2"/>
+    <itemref idref="ben_bir_hayaletim-3"/>
+    <itemref idref="ben_bir_hayaletim-4"/>
+    <itemref idref="ben_bir_hayaletim-5"/>
+    <itemref idref="ben_bir_hayaletim-6"/>
+    <itemref idref="ben_bir_hayaletim-7"/>
+    <itemref idref="ben_bir_hayaletim-8"/>
+    <itemref idref="ben_bir_hayaletim-9"/>
+    <itemref idref="ben_bir_hayaletim-10"/>
+    <itemref idref="ben_bir_hayaletim-11"/>
+    <itemref idref="ben_bir_hayaletim-12"/>
+    <itemref idref="ben_bir_hayaletim-13"/>
+    <itemref idref="ben_bir_hayaletim-14"/>
+    <itemref idref="ben_bir_hayaletim-15"/>
+    <itemref idref="ben_bir_hayaletim-16"/>
+    <itemref idref="ben_bir_hayaletim-17"/>
+    <itemref idref="ben_bir_hayaletim-18"/>
+    <itemref idref="ben_bir_hayaletim-19"/>
+    <itemref idref="ben_bir_hayaletim-20"/>
+    <itemref idref="ben_bir_hayaletim-21"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

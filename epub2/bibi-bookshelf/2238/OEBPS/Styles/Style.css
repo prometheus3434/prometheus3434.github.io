@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Fontin";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Fontin-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Fontin";
+  font-weight: bold;
+  font-style: normal;
+  src: url(../Fonts/Fontin-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Fontin";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../Fonts/Fontin-Italic.ttf);
+}
+
+body {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+
+
+
+h3 {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+
+p {
+    text-indent: 1.5em;
+    margin: 0 2%;
+	text-align:justify;
+	line-height:150%;
+    }

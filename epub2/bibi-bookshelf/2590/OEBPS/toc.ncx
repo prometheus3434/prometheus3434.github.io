@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{40240811-35B9-4D8A-8E11-E88ABA3F1D3E}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Budala Nietzsche ve Dostoyevski Karşı Karşıya</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/Sunus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum_1_Nietzsche.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Nietzsche</text>
+      </navLabel>
+      <content src="Text/Bolum_1_Nietzsche.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Küçük Pastör’den Deccal’e Nietzsche</text>
+        </navLabel>
+        <content src="Text/KucukPastorden.xhtml"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>Nietzsche Büyürken</text>
+          </navLabel>
+          <content src="Text/KucukPastorden.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>Tanrı Öldü!</text>
+          </navLabel>
+          <content src="Text/KucukPastorden.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>İnanç Maskesinin Arkasındaki Gerçek</text>
+          </navLabel>
+          <content src="Text/KucukPastorden.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>Mesih Psikolojisi</text>
+          </navLabel>
+          <content src="Text/KucukPastorden.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Nietzsche, Renan ve Dostoyevski</text>
+        </navLabel>
+        <content src="Text/Nietzsche_Renan_ve_Dostoyevski.xhtml"/>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>Nietzsche’nin Renan’a Benzerliği</text>
+          </navLabel>
+          <content src="Text/Nietzsche_Renan_ve_Dostoyevski.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>Idios</text>
+          </navLabel>
+          <content src="Text/Nietzsche_Renan_ve_Dostoyevski.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>Nietzsche Dostoyevski’yi Keşfediyor</text>
+          </navLabel>
+          <content src="Text/Nietzsche_Renan_ve_Dostoyevski.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>Louise Salome, Paul Ree ve Nietzsche</text>
+          </navLabel>
+          <content src="Text/Nietzsche_Renan_ve_Dostoyevski.xhtml#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>Dostoyeski’nin Nietzsche Üzerindeki Etkileri</text>
+          </navLabel>
+          <content src="Text/Nietzsche_Renan_ve_Dostoyevski.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>2. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum_2_Dostoyevski_Kapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Dostoyevski</text>
+      </navLabel>
+      <content src="Text/Bolum_2_Dostoyevski_Kapak.xhtml#sigil_toc_id_11"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Dostoyevski’nin İnanç Yolculuğu</text>
+        </navLabel>
+        <content src="Text/InancYolculugu.xhtml"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Beşikten Sibirya’ya</text>
+          </navLabel>
+          <content src="Text/InancYolculugu.xhtml#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Sibirya ve Etkileri</text>
+          </navLabel>
+          <content src="Text/InancYolculugu.xhtml#sigil_toc_id_13"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>Mesih’e Geri Dönüş</text>
+          </navLabel>
+          <content src="Text/InancYolculugu.xhtml#sigil_toc_id_14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Romanın Adı: Budala</text>
+        </navLabel>
+        <content src="Text/RomaninAdiBudala.xhtml"/>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Romanın Oluşumu</text>
+          </navLabel>
+          <content src="Text/RomaninAdiBudala.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Uygun bir Tasvir Arayışı</text>
+          </navLabel>
+          <content src="Text/RomaninAdiBudala.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Romandaki Prens Mışkin</text>
+          </navLabel>
+          <content src="Text/RomaninAdiBudala.xhtml#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Budalalık Teolojisi</text>
+          </navLabel>
+          <content src="Text/RomaninAdiBudala.xhtml#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Dostoyevski Başarısız mı Oldu?</text>
+          </navLabel>
+          <content src="Text/RomaninAdiBudala.xhtml#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>Budala ve Karamazov Kardeşler</text>
+          </navLabel>
+          <content src="Text/RomaninAdiBudala.xhtml#sigil_toc_id_20"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>3. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum_3_Nietzsche_Dostoyevski_ve_Biz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Nietzsche, Dostoyevski ve Biz</text>
+      </navLabel>
+      <content src="Text/Bolum_3_Nietzsche_Dostoyevski_ve_Biz.xhtml#sigil_toc_id_21"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Nietzsche’yi Kendi Kıstasları İle Yargılamak</text>
+        </navLabel>
+        <content src="Text/KendiKistaslari.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Tapınmaya Layık Tanrı</text>
+        </navLabel>
+        <content src="Text/KendiKistaslari.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Dostoyevski’nin Yazılarında Nietzsche Tiplemeleri</text>
+        </navLabel>
+        <content src="Text/KendiKistaslari.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Şiirselliğin Altındaki Metodolojik Hatalar</text>
+        </navLabel>
+        <content src="Text/KendiKistaslari.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Nietzsche’nin Geri Tepen ad hominem Argümanları</text>
+        </navLabel>
+        <content src="Text/KendiKistaslari.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>21. Yüzyılda Nietzsche ve Dostoyevski Okumak</text>
+        </navLabel>
+        <content src="Text/21Yuzyilda.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Nietzsche’ye olan ihtiyacımız</text>
+        </navLabel>
+        <content src="Text/21Yuzyilda.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Dostoyevski’ye olan ihtiyacımız</text>
+        </navLabel>
+        <content src="Text/21Yuzyilda.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Kaynakça</text>
+        </navLabel>
+        <content src="Text/Kaynakca.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

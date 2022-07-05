@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ateş ve buz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bradbury, Ray &amp; Dolanoğlu, İrma">Ray Bradbury</dc:creator>
+    <dc:creator opf:role="aut">İrma Dolanoğlu</dc:creator>
+    <dc:identifier id="BookId">AWP-543E9113-D1CC-4641-ABF2-9E73BCB0D9C9</dc:identifier>
+    <dc:publisher>Nisan Yayınları</dc:publisher>
+    <dc:date>1986-06-15T12:45:02+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b8ee6478-547d-4efd-aec7-d291a7e6524f</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">peHJPgAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Ateş ve buz"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ray Bradbury&quot;: &quot;&quot;, &quot;İrma Dolanoğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

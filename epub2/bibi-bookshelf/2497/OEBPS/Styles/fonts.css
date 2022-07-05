@@ -1,0 +1,34 @@
+@font-face {
+	src: url(../Fonts/Arial.ttf);
+	font-family: "Arial"
+}
+
+@font-face {
+	src: url(../Fonts/Arial-Italic.ttf);
+	font-family: "Arial";
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Arial-Bold-Italic.ttf);
+	font-family: "Arial";
+	font-weight: bold;
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Arial-Bold.ttf);
+	font-family: "Arial";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman.ttf);
+	font-family: "Times New Roman"
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman-Bold.ttf);
+	font-family: "Times New Roman";
+	font-weight: bold
+}

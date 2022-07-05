@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="86f13465-f3fd-477c-9322-a5d7edd4a44a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Acik Dusman</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{8A729E89-24BB-4026-BD27-6667B75682EF}" playOrder="1">
+      <navLabel>
+        <text>Beyaz Dünyaya Yöneltilen Kin Michele Manceaux ile Söyleşi</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E71F6AD0-BC58-45A1-8C2F-8CCE8DFF1B62}" playOrder="2">
+      <navLabel>
+        <text>Filistinliler</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{0174AD25-0D2A-4B33-A008-123373578DAB}" playOrder="3">
+      <navLabel>
+        <text>İsyan Eden Halklardan Yana Oldum</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{845D6BB9-6557-4226-979C-D11B454449EF}" playOrder="4">
+      <navLabel>
+        <text>İşkenceciye Kendi Dilinde Hitap Etmeliydim Bertrand Poirot-Delpech ile Söyleşi</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,143 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-family: "Bookerly", serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 10pt
+    }
+.calibre_ {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre_1 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre_2 {
+    color: blue
+    }
+.calibre_rescale_ {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre1 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre2 {
+    color: white;
+    display: none;
+    vertical-align: middle
+    }
+.calibre3 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    display: block;
+    font-family: "Bookerly", serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 10pt
+    }
+.calibre6 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.cbj_author {
+    display: table-cell;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.cbj_banner {
+    background: #eee;
+    border-radius: 8px;
+    color: black;
+    display: block;
+    padding: 1em;
+    margin: 1em;
+    border: black solid thin
+    }
+.cbj_comments {
+    display: block;
+    font-family: sans-serif
+    }
+.cbj_content {
+    display: table-cell;
+    font-family: sans-serif;
+    text-align: left;
+    vertical-align: inherit;
+    width: 67%;
+    padding: 1px
+    }
+.cbj_footer {
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.75em;
+    margin-top: 8px;
+    text-align: center
+    }
+.cbj_header {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.cbj_label {
+    display: table-cell;
+    font-family: sans-serif;
+    text-align: right;
+    vertical-align: inherit;
+    width: 33%;
+    padding: 1px
+    }
+.cbj_title {
+    display: table-cell;
+    font-size: 1.375em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.mbp_pagebreak {
+    display: block;
+    margin: 0
+    }
+.metadata_divider {
+    color: gray;
+    display: block;
+    height: 2px;
+    width: 90%;
+    margin: 0.5em auto 0.5em 5%;
+    border-top: white solid 0;
+    border-right: white solid 0;
+    border-bottom: black solid 1px;
+    border-left: white solid 0
+    }
+.title {
+    line-height: 1.2
+    }
+.underline {
+    text-decoration: underline
+    }

@@ -1,0 +1,315 @@
+.block {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    color: #000;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    color: #000;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    color: #000;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    color: #000;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    color: #000;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: #000;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    display: block;
+    font-size: 0.83333em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    display: block;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block11 {
+    display: list-item;
+    font-size: 0.83333em;
+    margin-left: 36pt;
+    text-align: center
+    }
+.block12 {
+    color: black;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.83333em;
+    margin-left: 36pt;
+    text-align: center
+    }
+.block13 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    text-align: right;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block18 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    padding: 0;
+    margin: 0
+    }
+.block19 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    color: black;
+    display: block;
+    font-family: "Kunstler Script", cursive;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    color: black;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block22 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    color: black;
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block26 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block28 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: right;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block29 {
+    color: black;
+    display: block;
+    font-style: italic;
+    padding: 0;
+    margin: 0
+    }
+.block30 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 0
+    }
+.block31 {
+    color: black;
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.block32 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #595959;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: 42.8pt;
+    width: 96pt
+    }
+.calibre2 {
+    font-style: italic
+    }
+.list {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }

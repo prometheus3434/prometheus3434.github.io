@@ -1,0 +1,126 @@
+body {
+  text-align: justify;
+  text-indent: 1em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+  line-height: 1.2em;
+}
+p {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+.poetry {
+  display: block;
+  padding: 1em;
+  font-style: italic;
+  text-indent: 0;
+}
+p.center {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  text-align: center;
+  text-indent: 0%;
+  font-size: 1em;
+}
+.center {
+  text-indent: 0%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  margin-right: 0%;
+  font-weight: bold;
+}
+/*bölüm numara, başlık*/
+/*Kitap adı, yazar, yayınevi*/
+h1 {
+  font-size: 0.9em;
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  text-indent: 0;
+  line-height: 1em;
+  display: block;
+}
+/*logo, resim, harita*/
+/*- Künye -*/
+.kunye {
+  margin-left: 1em;
+}
+.kunye p {
+  font-size: 0.72em;
+  text-indent: 0;
+  margin-top: 1em;
+  text-align: justify;
+}
+/*- Yazar -*/
+.yazar {
+  margin-top: 1em;
+  font-size: 1.6em;
+  margin-bottom: 2em;
+}
+.yazar p {
+  text-align: justify;
+  text-indent: 0;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+p.orta1 {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  text-align: center;
+}
+p.orta2 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  font-style: italic;
+  text-align: center;
+}
+/*- İç Kapak -*/
+.ickapak {
+  margin-top: 1.5em;
+}
+.ickapak p {
+  text-indent: 0;
+  text-align: center;
+}
+.kitap {
+  font-size: 2.5em;
+  margin-bottom: 1em;
+}
+.ickapak span {
+  font-size: 0.5em;
+  font-style: italic;
+  font-weight: normal;
+}
+/*- Giriş -*/
+.giris {
+  margin: 3em 1em 0 1em;
+}
+.giris p {
+  text-indent: 0;
+  margin-bottom: 0.5em;
+  text-align: left;
+  font-size: 0.8em;
+}
+/*- Epigraf -*/
+.epigraf {
+  margin: 4em 1em 0 1em;
+  text-align: right;
+}
+.epigraf p {
+  text-indent: 0;
+  margin-bottom: 1em;
+}
+.sag {
+  text-align: right;
+  margin-top: 6em;
+}

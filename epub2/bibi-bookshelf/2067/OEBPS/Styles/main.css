@@ -1,0 +1,27 @@
+p {
+margin-top:0.1em;
+margin-bottom:0.1em;
+text-indent:1.5em;
+text-align:justify;}
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.ilk{text-indent: 0em;}
+.kucuk{text-indent: 0em;text-align:center;font-size:0.8em;}
+.dip1{text-indent: 0em;font-size:0.8em;}
+.dip2{text-indent: 0em;font-size:0.8em;margin-top:0.5em;}
+
+.bolum{text-indent: 0em;margin-top: 2em;margin-bottom: 0.3em; font-style:italic;font-weight:bold;font-size:1.1em;}
+
+
+.gir1 {text-indent: 0em;margin-top:0.5em;margin-left:3em;font-size:0.9em;}
+.gir2 {text-indent: 0em;margin-left:3em;font-size:0.9em;}
+.gir3 {text-indent: 0em;margin-bottom:0.5em;margin-left:3em;font-size:0.9em;}
+.gir4 {text-indent: 0em;margin-top:0.5em;margin-bottom:0.5em;margin-left:3em;font-size:0.9em;}
+.orta{margin-top:0.5em;margin-bottom:0.3em;text-align:center;}

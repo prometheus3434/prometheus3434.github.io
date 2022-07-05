@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Büyükanneler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lessing, Doris">Doris Lessing</dc:creator>
+    <dc:identifier id="BookId">AWP-0EE7AE87-8B4A-4798-8D0D-C6F90D95A6AC</dc:identifier>
+    <dc:publisher>Kirmizikedi Yayinevi</dc:publisher>
+    <dc:date>2016-02-15T10:23:55+00:00</dc:date>
+    <dc:date opf:event="modification">2016-03-22</dc:date>
+    <dc:contributor opf:role="edt">Epub: balci60, tarama: Laylay</dc:contributor>
+    <dc:description>Vier novellen, waarvan drie als thema een buitenechtelijke verhouding hebben.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İngiliz Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b85225a4-d3e8-4fc4-92c7-a1f5806180c8</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">cL-sjwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786059799881</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Büyükanneler"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doris Lessing&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevi.html" id="yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Buyukanneler.html" id="Buyukanneler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Victoria ve Staveney Ailesi.html" id="Victoria_ve_Staveney_Ailesi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Bunun Nedeni.html" id="Bunun_Nedeni.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Ask Cocogu.html" id="Ask_Cocogu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.html" id="arkakapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/balci60.css" id="balci60.css" media-type="text/css"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="Fonts/BELL MT TR BOLD.TTF" id="BELL_MT_TR_BOLD.TTF" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BELL MT TR ITALIC.TTF" id="BELL_MT_TR_ITALIC.TTF" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BELL MT TR.TTF" id="BELL_MT_TR.TTF" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yayinevi.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="Buyukanneler.html"/>
+    <itemref idref="Victoria_ve_Staveney_Ailesi.html"/>
+    <itemref idref="Bunun_Nedeni.html"/>
+    <itemref idref="Ask_Cocogu.html"/>
+    <itemref idref="arkakapak.html"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

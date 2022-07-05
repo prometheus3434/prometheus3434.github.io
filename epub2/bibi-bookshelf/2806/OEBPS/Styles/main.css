@@ -1,0 +1,19 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.ortali{text-indent: 0em;text-align:center;margin-top:0.8em;margin-bottom:0.8em;}
+
+.baslik1 {text-indent: 0em;text-align:center;margin-top:20%;margin-bottom:1em;font-size:130%;}
+
+.gir1{text-indent: 0em;margin-left:1.5em;}
+.gir2{text-indent: 1.5em;margin-left:1.5em;font-style:italic;}

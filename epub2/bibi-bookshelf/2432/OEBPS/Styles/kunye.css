@@ -1,0 +1,20 @@
+p {
+  margin:0 auto 0 auto;  
+  font-size:0.8em;
+  text-indent:0em;
+  text-align:left;
+}
+
+.bos05{margin-top:0.5em;}
+.bos1{margin-top:1em;}
+.bos2{margin-top:2em;}
+.bos10{margin-top:10em;}
+.bos15{margin-top:15em;}
+
+.buyuk{font-size:120%;font-weight:bold;}
+.kun0{font-size:1em;text-align:center;}
+.kun1{font-size:1.5em;text-align:center;}
+.kun2{font-size:3em;font-weight:bold;text-align:center;}
+.logo{text-align:center;}
+.yazar{margin-left:1.5em;text-indent:-1.5em;text-align:justify;}
+.yazar2{margin-left:1.5em;text-indent:1.5em;text-align:justify;}

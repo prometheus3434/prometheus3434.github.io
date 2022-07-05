@@ -1,0 +1,139 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre2 {
+    font-size: 1.66667em;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre4 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre5 {
+    height: 1315px;
+    vertical-align: baseline;
+    width: 938px
+    }
+.calibre6 {
+    display: block
+    }
+.calibre7 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre8 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre9 {
+    font-size: 0.75em
+    }
+.calibre10 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    text-indent: 1em;
+    margin: 0
+    }
+.calibre11 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre12 {
+    font-size: 0.83333em
+    }
+.calibre13 {
+    font-size: 1em
+    }
+.calibre14 {
+    text-decoration: line-through
+    }
+.calibre15 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    text-indent: 5em;
+    margin: 0
+    }
+.calibre16 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 1em;
+    margin: 0
+    }
+.calibre17 {
+    height: 1296px;
+    vertical-align: baseline;
+    width: 896px
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+h1
+{
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1.5em;
+}

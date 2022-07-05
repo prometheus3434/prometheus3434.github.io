@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dalgaların Sesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Mişima, Yukio">Yukio Mişima</dc:creator>
+    <dc:identifier id="uuid">{8A4918FE-6220-45E7-B54C-C495326E6B02}</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2014-06-08T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;Bereket Denizi dörtlemesi, Bir Maskenin İtirafları, Yaz Ortasında Ölüm, Denizi Yitiren Denizci gibi eserlerinden tanıdığımızYukio Mişima, &lt;i&gt;Dalgaların Sesi&lt;/i&gt;’nde farklı bir yönüyle çıkıyor okurun karşısına. Romanlarında insan doğasının karanlık yönlerini deşen, onlarla cesurca hesaplaşan Mişima, bu kez kalemini ışığa çevirerek sevginin farklı veçheleri etrafında kuruyor öyküsünü.&lt;/p&gt;
+&lt;p&gt;Dalgaların Sesinde, Şarkılar Adası olarak da bilinen Uta-Jima adasında genç balıkçı Şinji ile varlıklı Miyata ailesinin güzel kızları Hatsue arasındaki ilk aşk öykülenir; cesur, heyecanlı, duru iki gencin masalsı bir dille kaleme alınmış öyküsüdür bu. Aynı zamanda, zamanın ve mekânın ötesindeki bu korunaklı dünyada gelenekleriyle ve doğayla bağlarını koruyan dalgıç kadınların, balıkçı erkeklerin öyküsüdür &lt;i&gt;Dalgaların Sesi&lt;/i&gt;. Ve elbette denizin, dalgaların ve fırtınanın da.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-06-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bf5a4ecb-49dd-4d77-bace-2ec83368055c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750724107</dc:identifier>
+    <meta content="Dalgaların Sesi" name="calibre:title_sort"/>
+    <meta content="{&quot;Yukio Mişima&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye0.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id9" media-type="text/css"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/can.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/cover1.jpg" id="id" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id6" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

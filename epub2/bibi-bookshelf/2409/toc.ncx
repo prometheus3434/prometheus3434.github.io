@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="1002487f-77e9-4332-9bc5-68e363379aa9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bay Lear</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="169023a7-178d-4af7-9492-c9e4fc0bc090" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="baylear_split_004.html"/>
+    </navPoint>
+    <navPoint id="7a273d37-5085-4ed7-9ff5-95f6fe58c1c8" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="baylear_split_005.html"/>
+    </navPoint>
+    <navPoint id="08a5a40b-e420-4b25-aa4d-6e3c5ea9684d" playOrder="3">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="baylear_split_006.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

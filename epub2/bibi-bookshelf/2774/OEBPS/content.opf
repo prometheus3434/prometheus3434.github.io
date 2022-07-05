@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Çit</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pilkington, Doris">Doris Pilkington</dc:creator>
+    <dc:publisher>NoktaKitap</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d15d4062-4fe7-4ee8-848c-7788e05e0844</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;div&gt;1931 yılında Avustralya Hükümeti'nin isteği üzerine siyah Aborijin çocuklar ailelerinden alınarak, eğitim görme gerekçesiyle beyaz ailelerin yanına hizmetkar olarak verilip, asimile edilmeye başlanır.&lt;/div&gt;&lt;div&gt;Bu asimile programında Aborijinler'in kendi dillerini konuşmaları yasaklanır. Aborijin olduklarını unutmaya, kültürel olarak birer "Beyaz" olmaya zorlanırlar.&lt;/div&gt;&lt;div&gt;Molly ve Molly'nin kuzinleri olan Daisy ve Gracia'yi görevliler zorla evlerinden alıp Monroo isimli yere götürürler.&lt;/div&gt;&lt;div&gt;Sefalet ve pislik içinde birer mahkum hayatı yaşadıkları parmaklıklı pencerelerinden, buz gibi soğuk ve sert yataklarından nefret ederek kaderlerine boyun eğmeyip kamptan kaçmaya karar verirler.&lt;/div&gt;&lt;div&gt;Evin yolunu bulmak için tavşan geçirmeyen 2000 km'lik çiti takip ederler. Evlerine doğru bir ay sürecek zorlu bir yolculuk onları beklemektedir.&lt;/div&gt;&lt;div&gt;Yaklaşık 100 bin çocuğun ailelerinden koparılıp beyazların yanına verildiği program, Avustralya tarihinin kara lekelerinden biridir.&lt;/div&gt;&lt;div&gt;Avustralya Hükümeti, 1997 yılında bu ayrımcı uygulama yüzünden resmen Aborijinler'den özür diledi.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2003-06-15T10:13:43+00:00</dc:date>
+    <dc:date opf:event="modification">2015-09-04</dc:date>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Anı</dc:subject>
+    <dc:subject>Dram</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">13045017-f214-45fc-843f-1588f4707d19</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9759759255773</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759254773</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Am8wAAAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-08-27T13:42:36.368000+00:00" name="calibre:timestamp"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="Çit" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doris Pilkington&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image.png" id="id3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

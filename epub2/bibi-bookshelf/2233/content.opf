@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Arı usun eleştirisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kant, Immanuel">Immanuel Kant</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d161e81e-f694-44fd-809d-c0f066b413ff</dc:identifier>
+    <dc:date>2010-06-15T12:26:36+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>İdea Yayınevi</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fbc2714d-c7eb-45c7-ab7e-56e1c719b2db</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753971133</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">xpilswEACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Arı usun eleştirisi"/>
+    <meta name="calibre:timestamp" content="2016-10-31T07:32:07.613151+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Immanuel Kant&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-4.html" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-5.html" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-6.html" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/images/cover.jpg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="x7-6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

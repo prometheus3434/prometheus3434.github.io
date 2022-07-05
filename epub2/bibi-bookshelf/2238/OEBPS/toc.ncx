@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:564fbbd2-3afa-4a3e-be3f-88cf53a94558" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz - KURŞUN MADENİ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Bölüm I - BÜYÜK SERÜVEN</text>
+      </navLabel>
+      <content src="Text/001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bölüm II - JUDITH</text>
+      </navLabel>
+      <content src="Text/014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bölüm III - HOLOPHERNE</text>
+      </navLabel>
+      <content src="Text/025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bölüm IV - LONDRA, VENEDİK VE NAPOLİ</text>
+      </navLabel>
+      <content src="Text/029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Bölüm V - BARIŞIN VE SANATIN ZAFERİ</text>
+      </navLabel>
+      <content src="Text/039.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

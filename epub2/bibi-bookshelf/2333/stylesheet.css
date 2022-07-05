@@ -1,0 +1,119 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre2 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    font-family: "Times New Roman", "serif";
+    font-size: 2em;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre7 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre8 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre9 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: top;
+    width: 457.5pt;
+    padding: 0
+    }
+.calibre10 {
+    color: black;
+    font-family: "Courier New";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.msonormal {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-autospace: none;
+    text-indent: 1.5em;
+    margin: 0;
+    border-top: currentColor none 0;
+    border-bottom: currentColor none 0
+    }
+.msonormal1 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-autospace: none;
+    text-indent: 3%;
+    margin: 0;
+    border-top: currentColor none 0;
+    border-bottom: currentColor none 0
+    }
+.msonormal2 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-autospace: none;
+    text-indent: 3%;
+    margin: 0;
+    border-top: currentColor none 0;
+    border-bottom: currentColor none 0
+    }
+.msonormaltable {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 457.5pt
+    }
+.wordsection {
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em;
+    border-top: currentColor none 0;
+    border-bottom: currentColor none 0
+    }

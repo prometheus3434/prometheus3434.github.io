@@ -1,0 +1,24 @@
+@charset utf-8;
+
+p {
+font-size:0.8em;
+margin-top:0.2em;
+margin-bottom:0.2em;
+text-indent:0em;
+text-align:center;}
+
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.sayfa_kes{page-break-before: always;}
+.ort{text-align:center;}
+.baslik{margin-top:0.5em;font-size:1.2em;font-weight:bold;}
+.kck{font-size:0.7em;}
+.son_yazi{margin-left:1em;text-indent:-1em;margin-top:8em;margin-bottom:0.8em;font-weight:bold;text-align:left;}
+.son_yazi2{margin-left:1em;text-indent:-1em;text-align:left;}

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="deu">
+  <head>
+    <meta content="d161e81e-f694-44fd-809d-c0f066b413ff" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.50.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Arı Usun Eleştirisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>[Birinci Yayıma; A] Önsöz</text>
+      </navLabel>
+      <content src="OEBPS/5.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>İkinci Yayıma [B] Önsöz</text>
+      </navLabel>
+      <content src="OEBPS/6.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="OEBPS/7.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Aşkınsal Öğeler Öğretisi</text>
+      </navLabel>
+      <content src="OEBPS/7-2.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

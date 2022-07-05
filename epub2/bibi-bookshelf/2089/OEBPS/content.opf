@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ah Avrupa!</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Enzensberger, Hans Magnus">Hans Magnus Enzensberger</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2e8b3ea6-19c6-4fba-a9df-8da772f36d44</dc:identifier>
+    <dc:date>1990-06-15T11:38:59+00:00</dc:date>
+    <dc:description>&lt;p&gt;Tek bir Avrupa var mıdır? Güncel siyasetten kültüre her alanda tekil ve bütünlüklü bir olgu olarak ele alınan "Avrupa" ne ölçüde gerçektir? Yoksa Avrupa dendiğinde kastedilen salt İngiltere, Fransa ve Federal Almanya mıdır?&lt;/p&gt; &lt;p&gt;Ah Avrupa'da Enzensberger, Avrupa'nın güç odaklarını oluşturan bu üç ülkeyi kasıtlı olarak dışarıda bırakıyor ve bizi farklı bir Avrupa yolculuğuna çağırıyor. Tüm homojenleştirme çabalarına rağmen varlığını sürdüren kuraldışı Avrupa'yı esprili bir dille ve röportaj tekniği kullanarak anlatıyor. İnsanı uysallaştırmayı totaliter rejimleri kıskandıracak ölçüde başaran İsveç'ten okyanusta yalnız ada misali yitik imparatorluğunu arayan Portekiz'e, yasaların başkaları için yapıldığına inanılan İtalya'dan dünyanın manevi liderliği rüyasını yaşayan Polonya'ya, petrolden gelen zenginliğini ülkenin en ücra köşelerine kadar 49 havaalanı yaparak çarçur eden Norveç'ten eceliyle ölen diktötürünü gömdükten sonra can sıkıcılık derecesinde çağdaşlaşan İspanya'ya, Doğu Bloku'nda son yıllarda yaşanan değişimleri kendi bütçesinde çoktan gürültüsüz patırtısız gerçekleştirmiş olan Macaristan'a uzanan bir yolculuk bu.&lt;/p&gt; &lt;p&gt;Avrupa Topluluğu'na girme çabalarının söz konusu olduğu ülkemizde bu kitap, Avrupa'yı tek bir blok olarak görmenin ne kadar yanıltıcı olduğuna dikkat çekmesi açısından önem taşıyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:rights>© Metis Yayınları</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Kültür</dc:subject>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cdaead0c-6fde-4fd1-8dbb-a8af43cec464</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757650461</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">MlNgywAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:2e8b3ea6-19c6-4fba-a9df-8da772f36d44</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757650461</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Ah Avrupa!" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Hans Magnus Enzensberger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="x29862.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.xhtml" id="copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/29862.jpg" id="x29862.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="notlar.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/copyright.xhtml" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

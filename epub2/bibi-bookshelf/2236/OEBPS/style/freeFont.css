@@ -1,0 +1,94 @@
+/* --------------- free font serif --------------- */
+@font-face {
+    font-family: FreeFontSerif;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/FreeSerif.otf);
+    }
+@font-face {
+    font-family: FreeFontSerif;
+    font-style: normal;
+    font-weight: bold;
+    src: url(../fonts/FreeSerifBold.otf);
+    }
+@font-face {
+    font-family: FreeFontSerif;
+    font-style: italic;
+    font-weight: normal;
+    src: url(../fonts/FreeSerifItalic.otf);
+    }
+@font-face {
+    font-family: FreeFontSerif;
+    font-style: italic;
+    font-weight: bold;
+    src: url(../fonts/FreeSerifBoldItalic.otf);
+    }
+/* --------------- free font sans --------------- */
+@font-face {
+    font-family: FreeFontSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/FreeSans.otf);
+    }
+@font-face {
+    font-family: FreeFontSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url(../fonts/FreeSansBold.otf);
+    }
+@font-face {
+    font-family: FreeFontSans;
+    font-style: italic;
+    font-weight: normal;
+    src: url(../fonts/FreeSansOblique.otf);
+    }
+@font-face {
+    font-family: FreeFontSans;
+    font-style: italic;
+    font-weight: bold;
+    src: url(../fonts/FreeSansBoldOblique.otf);
+    }
+/* --------------- free font mono --------------- */
+@font-face {
+    font-family: FreeFontMono;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/FreeMono.otf);
+    }
+@font-face {
+    font-family: FreeFontMono;
+    font-style: normal;
+    font-weight: bold;
+    src: url(../fonts/FreeMonoBold.otf);
+    }
+@font-face {
+    font-family: FreeFontMono;
+    font-style: italic;
+    font-weight: normal;
+    src: url(../fonts/FreeMonoOblique.otf);
+    }
+@font-face {
+    font-family: FreeFontMono;
+    font-style: italic;
+    font-weight: bold;
+    src: url(../fonts/FreeMonoBoldOblique.otf);
+    }
+/* --------------- free font application classes --------------- */
+.serif {
+    font-family: FreeFontSerif, serif;
+    }
+.sans {
+    font-family: FreeFontSans, sans-serif;
+    }
+.monospace {
+    font-family: FreeFontMono, monospace;
+    }
+code {
+    font-family: FreeFontMono, monospace;
+    }
+pre {
+    font-family: FreeFontMono, monospace;
+    }
+body {
+    font-family: FreeFontSerif, serif;
+    }

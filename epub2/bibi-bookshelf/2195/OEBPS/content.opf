@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Anarşizm mi, Sosyalizm mi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Stalin, Jozef">Jozef Stalin</dc:creator>
+    <dc:identifier id="uuid">{D07FF11C-28A7-4693-AF90-766E22D3A12C}</dc:identifier>
+    <dc:publisher>Kalıt Yayınları</dc:publisher>
+    <dc:date>2014-08-03T22:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt; &lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal"&gt;&lt;span style="font-size:9.0pt"&gt;Stalin, anarşistlere karşı "Anarşizm mi, Sosyalizm mi?" genel başlığı altında, Gürcüce bir dizi makale yazdı; bu kitapçık bu makalelerden oluşmaktadır.&lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal"&gt;&lt;span style="font-size:9.0pt"&gt;“&lt;span class="apple-style-span"&gt;&lt;i style="mso-bidi-font-style:normal"&gt;&lt;span style="color:black;background:white"&gt;Sosyalizm de, bütün ve bölünmez değildir: onun içinde de farklı eğilimler vardır… Sosyalizm üç ana eğilime ayrılmıştır: reform, anarşizm ve marksizm… Bazı kişiler, marksizmin ve anarşizmin aynı ilkelere dayandığını ve aralarındaki anlaşmazlıkların yalnızca taktiklere ilişkin olduğunu sanırlar, öyle ki, bu kişilerin görüşüne göre, bir eğilimi diğerinin karşısına çıkartmak yanlıştır&lt;/span&gt;&lt;/i&gt;&lt;span style="color:black;background:white"&gt;.&lt;/span&gt;”&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2014-09-12</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Sosyalizm</dc:subject>
+    <dc:subject>Anarşizm</dc:subject>
+    <dc:subject>Marksizm</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2bfa315c-b289-488b-9b60-7216f1d45a84</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Anarşizm mi, Sosyalizm mi" name="calibre:title_sort"/>
+    <meta content="{&quot;Jozef Stalin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="cover" content="Kapak.jpg"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/fonts_1.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/fonts.css" id="font_embed1" media-type="text/css"/>
+    <item href="Styles/main.css" id="id7" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/Kapak.jpg" id="Kapak.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/Georgia-Italic.ttf" id="font" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Georgia.ttf" id="font1" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

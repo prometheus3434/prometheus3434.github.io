@@ -1,0 +1,84 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Demokrasiler Nasıl Ölür?</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ziblat, Steven Levitsky - Daniel">Steven Levitsky - Daniel Ziblat</dc:creator>
+    <dc:publisher>Salon Yayınları</dc:publisher>
+    <dc:date>2020-07-14T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{F6E596A9-5B79-4513-9AF2-04D260519900}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e6c5b129-27bc-4022-8b34-980f508e65d3</dc:identifier>
+    <meta name="Sigil version" content="1.2.0"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Demokrasiler Nasıl Ölür?"/>
+    <meta name="calibre:author_link_map" content="{&quot;Steven Levitsky - Daniel Ziblat&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="WhoSaidW.xhtml" href="WhoSaidW.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TagPage.xhtml" href="TagPage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-01.xhtml" href="-Part-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-02.xhtml" href="-Part-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-03.xhtml" href="-Part-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-04.xhtml" href="-Part-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-05.xhtml" href="-Part-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-06.xhtml" href="-Part-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-07.xhtml" href="-Part-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-08.xhtml" href="-Part-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-09.xhtml" href="-Part-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-10.xhtml" href="-Part-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-Part-11.xhtml" href="-Part-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-01.xhtml" href="--LNote-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-02.xhtml" href="--LNote-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-03.xhtml" href="--LNote-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-04.xhtml" href="--LNote-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-05.xhtml" href="--LNote-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-06.xhtml" href="--LNote-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-07.xhtml" href="--LNote-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-08.xhtml" href="--LNote-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-09.xhtml" href="--LNote-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x--LNote-10.xhtml" href="--LNote-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id17" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="x--Part-09.css" href="--Part-09.css" media-type="text/css"/>
+    <item id="BookStyles.css" href="BookStyles.css" media-type="text/css"/>
+    <item id="cover.jpg" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="ArialNarrow-Bold.otf" href="Fonts/ArialNarrow-Bold.otf" media-type="font/otf"/>
+    <item id="ArialNarrow.otf" href="Fonts/ArialNarrow.otf" media-type="font/otf"/>
+    <item id="Cambria-Bold.otf" href="Fonts/Cambria-Bold.otf" media-type="font/otf"/>
+    <item id="Cambria-BoldItalic.otf" href="Fonts/Cambria-BoldItalic.otf" media-type="font/otf"/>
+    <item id="Cambria-Italic.otf" href="Fonts/Cambria-Italic.otf" media-type="font/otf"/>
+    <item id="Cambria.otf" href="Fonts/Cambria.otf" media-type="font/otf"/>
+    <item id="CenturyGothic-Bold.otf" href="Fonts/CenturyGothic-Bold.otf" media-type="font/otf"/>
+    <item id="CenturyGothic-Regular.otf" href="Fonts/CenturyGothic-Regular.otf" media-type="font/otf"/>
+  </manifest>
+  <spine toc="id17">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="WhoSaidW.xhtml"/>
+    <itemref idref="TagPage.xhtml"/>
+    <itemref idref="x-Part-01.xhtml"/>
+    <itemref idref="x-Part-02.xhtml"/>
+    <itemref idref="x-Part-03.xhtml"/>
+    <itemref idref="x-Part-04.xhtml"/>
+    <itemref idref="x-Part-05.xhtml"/>
+    <itemref idref="x-Part-06.xhtml"/>
+    <itemref idref="x-Part-07.xhtml"/>
+    <itemref idref="x-Part-08.xhtml"/>
+    <itemref idref="x-Part-09.xhtml"/>
+    <itemref idref="x-Part-10.xhtml"/>
+    <itemref idref="x-Part-11.xhtml"/>
+    <itemref idref="x--LNote-01.xhtml"/>
+    <itemref idref="x--LNote-02.xhtml"/>
+    <itemref idref="x--LNote-03.xhtml"/>
+    <itemref idref="x--LNote-04.xhtml"/>
+    <itemref idref="x--LNote-05.xhtml"/>
+    <itemref idref="x--LNote-06.xhtml"/>
+    <itemref idref="x--LNote-07.xhtml"/>
+    <itemref idref="x--LNote-08.xhtml"/>
+    <itemref idref="x--LNote-09.xhtml"/>
+    <itemref idref="x--LNote-10.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+  </guide>
+</package>

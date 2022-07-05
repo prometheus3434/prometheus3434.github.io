@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Acik Dusman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Genet, Jean">Jean Genet</dc:creator>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;Fransız edebiyatının lanetli yazarı, Sartre'ın "azizlik" payesiyle taçlandırdığı adam... Roman ve oyun yazarı Jean Genet, edebi eserler vermekten vazgeçme kararını aldıktan sonra, 68 Mayısı'ndan Kara Panterler'e, Mağripli göçmen işçilerden Filistinli mücahitlere varana kadar, kurumsallaşmadıkları sürece her başkaldırı hareketinin yanında, hatta ta içinde yer alıp çok sayıda siyasi yazı yayımlamıştır. Üçüncü baskısını yaptığımız Açık Düşman bu yazıların büyük çoğunu bir araya getiren bir seçkidir. &lt;/div&gt;&lt;div&gt;YAZAR HAKKINDA: 1910 Paris doğumlu. Kimsesizler yurdunda büyüdü. On sekiz yaşında askere yazıldı. Altı yıllık askeri hayatın ardından firar etti ve ele geçmemek için Fransa'dan ayrıldı. 1937'de Paris'e dönüşünü takip eden yedi yıl içinde asker kaçaklığı, serserilik, kimlik sahtekârlığı ve hırsızlıkla suçlandı. İlk şiirlerini tutukluyken yayımladı. 1942-1964 arasında roman, günlük ve oyunlar yazdı.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">86f13465-f3fd-477c-9322-a5d7edd4a44a</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2000-01-31T22:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">832bbad9-4785-4f1d-b67a-9307a21b2ab1</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2015-04-24T11:22:18.929000+00:00"/>
+    <meta name="calibre:title_sort" content="Acik Dusman"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean Genet&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-10.png" id="id10" media-type="image/png"/>
+    <item href="main-11.png" id="id11" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-8.png" id="id8" media-type="image/png"/>
+    <item href="main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

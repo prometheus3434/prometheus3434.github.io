@@ -1,0 +1,204 @@
+@namespace epub "http://www.idpf.org/2007/ops"; 
+
+@font-face{
+	font-family: "Palatino";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/Palatino-Turk.ttf") format(truetype);
+}
+
+@font-face{
+	font-family: "Palatino";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/Palatino-ItalicOsF.ttf") format(truetype);
+}
+
+@font-face{
+	font-family: "Palatino";
+	font-weight: bold;
+	font-style: normal;
+	src:url("../Fonts/Palatino-Bold.ttf") format(truetype);
+}
+
+
+@font-face{
+	font-family: "Helvetica";
+	font-weight:normal;
+	font-style: normal;
+	src:url("../Fonts/HelveticaNarrowTurk.ttf") format(truetype);
+}
+
+/*cover*/
+
+.cover-container {
+	max-width: 500px;
+	page-break-inside: avoid;
+	margin: auto;
+}
+
+/*biography*/
+.bio-header {
+	text-align: center;
+	margin: 1em auto 2em auto;
+	font: normal normal .92em/1.2em "Palatino";
+}
+
+.biography p {
+	font: normal normal .7em/1.35em "Palatino";
+	text-indent: 0;
+	margin-bottom: .2em;
+}
+
+/*titlepage*/
+
+.titlepage div{
+	text-align: center;
+	font-family: "Palatino";
+}
+.work{
+	margin-top:2em;
+	font-size: 2em;
+	font-weight: bold;
+}
+.aut{
+	margin-top:2em;
+	font-size: 1.66em;
+}
+
+.type {
+	text-align: center;
+	font-size: 1.2em;
+	margin-top: 3em;
+}
+
+.logo{
+	width: 100px;
+	margin: auto;
+	page-break-inside: avoid;
+	margin-top: 4em;
+}
+
+img {
+	width:100%;
+}
+
+/*copyright-page*/
+
+.copyright-page section{
+	margin-top: 1em;
+	text-align: center;
+	font: normal normal .8em/1.2em "Palatino";
+}
+
+.copyright-page span {
+	display: block;
+	text-align: center;
+}
+
+.copyright-page a {
+	text-decoration: none;
+	color: #777;
+}
+
+
+/*chapter*/
+
+h1 {
+	font:normal normal 1em/1.2em "Palatino";
+	text-align: center;
+  margin:5em 0 0 ;
+}
+h2{
+  font: italic normal 1.5em/1.2em "Palatino";
+	text-align: center;
+	margin:.5em auto;
+}
+
+p {
+	font: normal normal .875em/1.3em "Palatino";
+	text-indent: 2em;
+	margin:0;
+}
+.no-indent{
+	text-indent: 0;
+}
+.right {
+	text-align: right;
+	margin-top: 1.2em;
+	text-indent: 0
+}
+
+.last{
+margin-bottom: 3em;
+font-size: 1.12em;
+font-style: italic;
+}
+.margin-top{
+  margin-top: 1em;
+}
+.double{
+  margin-top: 1.75em;
+}
+.triple{
+  margin-top: 2.5em;
+}
+figure{
+  width: 99.5%;
+  margin:1em auto 2em auto;
+  page-break-inside: avoid;
+}
+figcaption{
+  font-family: Helvetica;
+  font-size: .8em;
+  text-align: center;
+  padding-top: .5em;
+}
+.big{
+  max-width: 320px;
+}
+.middle{
+	max-width: 450px;
+}
+article{
+  padding-top: 5em;
+}
+blockquote p{
+text-indent: 0;
+}
+blockquote h1{
+font-size: .875em;
+font-style: normal;
+font-weight: normal;
+text-align: left;
+margin-bottom: 1em;
+margin-top: 0;
+}
+.center{
+	padding-left: 3em;
+}
+.align-center{
+	text-align: center;
+	margin: 1.2em auto;
+}
+.behice{
+	margin: .5em auto;
+	text-align: center;
+	font-size: 1em;
+	font-style: italic;
+}
+.genc{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 1em;
+	
+}
+blockquote{
+	margin:1em 0 1em 2em;
+}
+.pull-right{
+	padding-left: 3em;
+}
+.alinti{
+	margin: 1em 0;
+}

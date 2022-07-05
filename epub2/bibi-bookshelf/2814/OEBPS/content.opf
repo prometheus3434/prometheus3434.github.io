@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Dante ve Ortaçağ'da dini sembolizm</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Guenon, Rene &amp; Taşpınar, İsmail">Rene Guenon</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">İsmail Taşpınar</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>İnsan Yayınları</dc:publisher>
+    <dc:date>2001-06-15T10:36:27+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-02-24</dc:date>
+    <dc:description>&lt;p&gt;Sembollerin temsil ettikleri kültürel kodların ifadelendirilmesi ve bunun zaman-mekan-insan üçgeninde çözümlendirilmesiyle ilgili, Guénon’un dikkat çeken eserlerinden biri olarak öne çıkan bu çalışma, sizi sembolik anlamlar üzerinde bir zaman yolculuğuna çıkarıyor; Mirac’tan Ortaçağ’a, Ortaçağ’dan günümüze gelen bir zihni yolculuk olacak bu. Bu kitapta dikkat çeken iki önemli konu var: Dinî sembolizmin Ortaçağ’daki yaygınlığı ile Dante’nin eserlerinde görülen İslam ve Hıristiyanlığın ortak etkileşimi... Dante’nin önemli üçlemesinde İbn Arabi’den alınan ilham ve tasvirlerindeki Mirac yolculuğundan taşınan izler dikkat çekici. Bunun yanı sıra Ortaçağ’daki kilise odaklı yapılanma, Tapınak Şövalyeleri ve onların günümüze kadar uzayan serüvenlerinden önemli kesitler ve son bölümde ise Haçlı Seferleri’nin düzenlenmesi ve "bir şekilde" bugünkü Avrupa Birliği’nin temellerini oluşturmaya varan etkisiyle Aziz Bernard’ın ilginç yaşam öyküsü anlatılırken, O’nun Dante üzerindeki etkileri de ortaya konuluyor.&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Dante</dc:subject>
+    <dc:subject>İnanç</dc:subject>
+    <dc:subject>Ortaçağ</dc:subject>
+    <dc:subject>Orjinal</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">5544d05a-d999-4f53-9722-55b105757394</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="GOOGLE">DBPYPgAACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789755743066</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9755743065</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Dante ve Ortaçağ'da dini sembolizm" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Rene Guenon&quot;: &quot;&quot;, &quot;İsmail Taşpınar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/dante_fmt.jpeg" id="dante_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+</package>

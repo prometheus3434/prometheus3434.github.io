@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bir Avuç Kum</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Smith, Wilbur">Wilbur Smith</dc:creator>
+    <dc:date>2013-08-02T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ce915d7f-0dea-4d34-bfab-c2e595b36126</dc:identifier>
+    <dc:date opf:event="modification">2014-04-07</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;p&gt;Aynı serüvende bütünleşen üç kişiydiler. Bir kadın ve iki erkek. Güçlüydüler ama kuvvetli ile zayıfın savaşında kimden yana olacaklarını biliyorlardı. Mücadeleleri yalnızca bir avuç kum için değildi. Yılların küllediği acı bir gerçeğin yeniden alevlenişiydi bu...&lt;/p&gt;</dc:description>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4caff358-cc43-4721-bfba-0a8138c0d857</dc:identifier>
+    <meta content="Avuç Kum, Bir" name="calibre:title_sort"/>
+    <meta content="2013-08-03T07:44:05+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Wilbur Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.htm" id="x1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/2.htm" id="x2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/3.htm" id="x3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/4.htm" id="x4.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/5.htm" id="x5.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/6.htm" id="x6.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/7.htm" id="x7.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/8.htm" id="x8.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.htm"/>
+    <itemref idref="x2.htm"/>
+    <itemref idref="x3.htm"/>
+    <itemref idref="x4.htm"/>
+    <itemref idref="x5.htm"/>
+    <itemref idref="x6.htm"/>
+    <itemref idref="x7.htm"/>
+    <itemref idref="x8.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

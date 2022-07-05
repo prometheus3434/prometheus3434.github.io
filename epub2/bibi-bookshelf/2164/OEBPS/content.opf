@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Altı derste müziğin poetikası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Stravinsky, Ïgor">Ïgor Stravinsky</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d4a08f02-9729-48ac-8768-2ef277ac8be6</dc:identifier>
+    <dc:date>2000-06-15T10:03:55+00:00</dc:date>
+    <dc:publisher>Pan Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Bu kitaptaki müzik açıklaması, müzik fenomeninin çözümlemesiyle başlayan ve müziğin icrası sorunuyla biten altı dersten oluşmaktadır.
+
+Tanışmaya ayrılan ilk derste derslerin bütününün yol gösterici ilkeleri özetlenmektedir.
+İkinci derste müzik fenomeninin ses ve zaman ilişkileri içinde bir spekülasyon biçimi olarak incelenmesi; bu incelemeden yaratım sürecinin diyalektiğinin çıkarılması; bununla bağlantılı olarak da benzerlik ve karşıtlık ilkesi; müziğin öğeleri ve morfolojisi ele alınırken üçüncü derste 'Kompozisyon nedir, besteci nedir? Besteci tam olarak nasıl ve ne ölçüde bir yaratıcıdır?' sorularına yanıt aranmakta ve bununla bağlantılı olarak buluş, hayal gücü, ilham; kültür ve beğeni; düzensizliğe karşı kural ve yasa olarak düzen ve son olarak da zorunluluk dünyasının özgürlük dünyasına karşıtlığı kavramlarına açıklık getirmeye çalışılmaktadır.
+
+Dördüncü ders müzikal tipolojinin incelenmesine, beşinci ders ise Rus müziğine ayrılmıştır. 
+İcrayı ele alan altıncı ve son derste fiziksel müzik fenomeni tanımlanmakta; yorumu yorumsuz icradan ayırt eden öğelere, icracılarla dinleyicilere ve çok önemli olan yargıya varma ya da eleştiri sorununa değinildikten sonra müziğin derin anlamı ile temel amacı saptanmaktadır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Müzik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">183fefac-3e3b-4fb0-b37d-740622dbeca8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758434077</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:d4a08f02-9729-48ac-8768-2ef277ac8be6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9799758434076</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">OHpLnQEACAAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Altı derste müziğin poetikası"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ïgor Stravinsky&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Cevireninnotu.xhtml" id="Cevireninnotu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tanisma.xhtml" id="tanisma.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/muzikfenomeni.xhtml" id="muzikfenomeni.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/mbestelenmesi.xhtml" id="mbestelenmesi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/mtipolojisi.xhtml" id="mtipolojisi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/rusmavatarlar.xhtml" id="rusmavatarlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/micrasi.xhtml" id="micrasi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epilog.xhtml" id="epilog.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Cevireninnotu.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="tanisma.xhtml"/>
+    <itemref idref="muzikfenomeni.xhtml"/>
+    <itemref idref="mbestelenmesi.xhtml"/>
+    <itemref idref="mtipolojisi.xhtml"/>
+    <itemref idref="rusmavatarlar.xhtml"/>
+    <itemref idref="micrasi.xhtml"/>
+    <itemref idref="epilog.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

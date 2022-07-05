@@ -1,0 +1,56 @@
+@font-face{font-family:"Palatino Linotype";font-style:normal;font-weight:normal;src:url(../Fonts/pala.ttf)}
+
+@font-face{font-family:"Palatino Linotype";font-style:italic;font-weight:normal;src:url(../Fonts/palai.ttf)}
+
+@font-face{font-family:"Palatino Linotype";font-style:normal;font-weight:bold;src:url(../Fonts/palab.ttf)}
+
+@font-face{font-family:"Monotype Corsiva",cursive;font-style:italic;src:url(../Fonts/MTCORSVA.TTF)}
+
+body{margin-left:2%;margin-right:2%;margin-top:2%;margin-bottom:2%}
+
+
+p{text-indent:2em;margin-left:0;margin-right:0;text-align:justify;margin-top:0;margin-bottom:0;font-family:"Palatino Linotype",serif;font-size:127%}
+
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:2em;margin-bottom:2em}
+
+.p1{text-indent:0;margin-left:0}
+
+.p2{text-indent:0;margin-left:0;text-align:center}
+
+.p3{text-indent:0;margin-left:0;text-align:center;margin-top:6.1em}
+
+.p4{text-indent:0;margin-left:0;text-align:center;margin-top:4.1em;margin-bottom:8.1em}
+
+.p5{text-indent:0;margin-left:0;text-align:center;margin-bottom:1em}
+
+.p7{text-indent:0;margin-left:0;text-align:center;margin-top:3em;margin-bottom:1em}
+
+.p8{text-indent:0;margin-left:0;text-align:right;margin-top:3em}
+
+.p9{text-indent:0;margin-left:0;text-align:center;margin-top:4.1em;margin-bottom:1em}
+
+.p10{text-indent:0;margin-left:0;text-align:center;margin-bottom:8.1em}
+
+.p11{text-indent:0;margin-left:0;margin-top:2em}
+
+.p12{text-indent:2em;margin-top:1em}
+
+.p13{text-indent:2em;margin-bottom:1em;margin-top:1em}
+
+.p14{text-indent:2em;margin-top:1em}
+
+.p15{text-indent:2em;margin-bottom:1em}
+
+.t0{font-size:1.1em}
+
+.t2{color:blue;text-decoration:underline}
+
+.t3{font-family:"Palatino Linotype";font-size:2em}
+
+.t4{font-family:"Monotype Corsiva",cursive;font-size:2.6em}
+
+.t5{font-family:"Monotype Corsiva",cursive;font-size:1.4em}
+
+.t6{font-family:"Monotype Corsiva",cursive;font-size:1.9em}
+
+.t7{font-family:"Palatino Linotype";font-style:normal;font-weight:bold;font-size:1.6em}

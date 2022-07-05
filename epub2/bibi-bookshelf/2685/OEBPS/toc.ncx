@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:3e2361b0-bf81-465b-9644-c5649c16a6d9" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cengiz Han'ın Hazinesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Section0007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>10 AĞUSTOS, MS 1281</text>
+      </navLabel>
+      <content src="Text/Section0002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİR HANEDANIN İZİ</text>
+      </navLabel>
+      <content src="Text/Section0003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BAYKAL GÖLÜ, SİBİRYA 2 HAZİRAN 2007</text>
+      </navLabel>
+      <content src="Text/Section0004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>XANADI GİDENİ</text>
+      </navLabel>
+      <content src="Text/Section0005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>SARSINTILAR</text>
+      </navLabel>
+      <content src="Text/Section0006.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

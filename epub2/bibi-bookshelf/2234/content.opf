@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>AromatikAdam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-12-01T11:24:43+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b8c74aab-a168-49fc-9223-12906fd3c14f</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">79ba0a26-ff25-4bb9-935b-19b53f7c6a8b</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-12-02T10:49:13.140183+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="AromatikAdam"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uGjYEP45EHWRyunpgImq3y7" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski7" href="OEBPS/AromatikAdam-19-4.baski_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski6" href="OEBPS/AromatikAdam-19-4.baski_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski5" href="OEBPS/AromatikAdam-19-4.baski_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski4" href="OEBPS/AromatikAdam-19-4.baski_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski3" href="OEBPS/AromatikAdam-19-4.baski_split_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski2" href="OEBPS/AromatikAdam-19-4.baski_split_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AromatikAdam-19-4.baski1" href="OEBPS/AromatikAdam-19-4.baski_split_006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/AromatikAdam.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uGjYEP45EHWRyunpgImq3y7"/>
+    <itemref idref="AromatikAdam-19-4.baski7"/>
+    <itemref idref="AromatikAdam-19-4.baski6"/>
+    <itemref idref="AromatikAdam-19-4.baski5"/>
+    <itemref idref="AromatikAdam-19-4.baski4"/>
+    <itemref idref="AromatikAdam-19-4.baski3"/>
+    <itemref idref="AromatikAdam-19-4.baski2"/>
+    <itemref idref="AromatikAdam-19-4.baski1"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bu Ölümsüz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:date opf:event="modification">2017-03-26</dc:date>
+    <dc:publisher>Ithaki Yayinlari</dc:publisher>
+    <dc:date>2018-08-15T11:48:32+00:00</dc:date>
+    <dc:description>&lt;p class="description"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Ölmekte olan bir dünyadaki tek ölümsüz, dünyasını nasıl yeniden hayata döndürebilir? İşte bunlardan dolayıdır ki her geri dönüşümde kendimi yenilenmiş bulurum, çünkü artık birçok yılı geride bırakmış bir adam olarak, bütün Yer için aynı şeyleri hissediyorum. Bunlar için dövüştüm ben, bunlar için öldürdüm, bombaladım ve bunlar için Vegalıların orada, Taler'deki sürgün hükümetimizden Yer'i adım adım satın almalarını önlemek amacıyla kitaptaki bütün yasal numaraları uyguladım.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{86CC79B6-B6D9-46C0-86F8-209095BDA54E}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim-Kurgu</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">babbc021-1f43-4333-9613-e83f97486612</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053758358</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">MvUOugEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9753422881</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Bu Ölümsüz"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="tanitim1.xhtml" href="Text/tanitim1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="biyografi.xhtml" href="Text/biyografi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum0.xhtml" href="Text/bolum0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tanitim2.xhtml" href="Text/tanitim2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="SB.css" href="Styles/SB.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="metis2.JPG" href="Images/metis2.JPG" media-type="image/jpeg"/>
+    <item id="metisbk.JPG" href="Images/metisbk.JPG" media-type="image/jpeg"/>
+    <item id="OK.JPG" href="Images/OK.JPG" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="titlepage"/>
+    <itemref idref="tanitim1.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="biyografi.xhtml"/>
+    <itemref idref="bolum0.xhtml"/>
+    <itemref idref="tanitim2.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

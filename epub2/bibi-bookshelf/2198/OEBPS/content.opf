@@ -1,0 +1,95 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Androidler Elektrikli Koyun Düşler mi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dick, Philip K.">Philip K. Dick</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">df2422d5-cf21-43ea-9c6c-d111eae1d195</dc:identifier>
+    <dc:date>1996-01-03T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-01-04</dc:date>
+    <dc:publisher>Kavram Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Android'ler Elektrikli Koyun Düşler mi?, ilk kez 1968 senesinde yayınlanan Philip K. Dick tarafından yazılan bilim kurgu romanıdır. Hikaye örgüsü, bir android avcısı Rick Deckard'ın, ikinci bir avcı John İsidore isyancı androidlerin peşinden gitmesi anlatılır. Roman insanlık felsefesini inceler. 1982 yılında Hampton Fancher ve David Peoples'ın kitaptan uyarladıkları senaryo Ridley Scott tarafından Harrison Ford'un başrolde olduğu Bıçak Sırtı adlı filme çekildi. Kitabın devam romanlarının başlığı da Blade Runner olarak kondu.
+
+Kitap 1968 yılında Nebula Ödülleri'nde adaylık elde etti. 1998 yılında ise Locus Poll Ödülleri'nde 1990 yılından önce yayımlanmış en iyi bilim kurgu kitabı seçildi.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:subject>Felsefi roman</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Distopya</dc:subject>
+    <dc:subject>Spekülatif kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4d8cbce1-bfbf-4a6f-b507-488c72b83ec4</dc:identifier>
+    <dc:identifier opf:scheme="UUID">df2422d5-cf21-43ea-9c6c-d111eae1d195</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753661096</dc:identifier>
+    <meta name="cover" content="androidler.jpg"/>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Androidler Elektrikli Koyun Düşler mi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Philip K. Dick&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="text13" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="text14" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="text15" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="text16" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="text17" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="text18" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="text19" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="text20" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter20.xhtml" id="text21" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter21.xhtml" id="text22" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter22.xhtml" id="text23" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter23.xhtml" id="text24" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter24.xhtml" id="text25" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter25.xhtml" id="text26" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="Images/androidler.jpg" id="androidler.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text13"/>
+    <itemref idref="text14"/>
+    <itemref idref="text15"/>
+    <itemref idref="text16"/>
+    <itemref idref="text17"/>
+    <itemref idref="text18"/>
+    <itemref idref="text19"/>
+    <itemref idref="text20"/>
+    <itemref idref="text21"/>
+    <itemref idref="text22"/>
+    <itemref idref="text23"/>
+    <itemref idref="text24"/>
+    <itemref idref="text25"/>
+    <itemref idref="text26"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,976 @@
+@font-face {
+  font-family: DINPro;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/DINPro.otf');
+}
+@font-face {
+  font-family: "DINPro-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url('../Fonts/DINPro-Black.otf');
+}
+@font-face {
+  font-family: "Libel Suit";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/LibelSuit-Regular.ttf');
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/MinionPro-Bold.otf');
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-style: italic;
+  font-weight: bold;
+  src: url('../Fonts/MinionPro-BoldIt.otf');
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-style: oblique;
+  font-weight: bold;
+  src: url('../Fonts/MinionPro-BoldIt.otf');
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Fonts/MinionPro-It.otf');
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-style: oblique;
+  font-weight: normal;
+  src: url('../Fonts/MinionPro-It.otf');
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/MinionPro-Regular.otf');
+}
+@font-face {
+  font-family: "Minion Pro SmBd";
+  font-style: normal;
+  font-weight: 600;
+  src: url('../Fonts/MinionPro-Semibold.otf');
+}
+@font-face {
+  font-family: "Myriad Pro";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/MyriadPro-Bold.otf');
+}
+@font-face {
+  font-family: "Myriad Pro";
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Fonts/MyriadPro-It.otf');
+}
+@font-face {
+  font-family: "Myriad Pro";
+  font-style: oblique;
+  font-weight: normal;
+  src: url('../Fonts/MyriadPro-It.otf');
+}
+@font-face {
+  font-family: "Myriad Pro Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url('../Fonts/MyriadPro-Light.ttf');
+}
+@font-face {
+  font-family: "Myriad Pro Light";
+  font-style: italic;
+  font-weight: 300;
+  src: url('../Fonts/MyriadPro-LightIt.ttf');
+}
+@font-face {
+  font-family: "Myriad Pro Light";
+  font-style: oblique;
+  font-weight: 300;
+  src: url('../Fonts/MyriadPro-LightIt.ttf');
+}
+@font-face {
+  font-family: "Myriad Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/MyriadPro-Regular.otf');
+}
+@font-face {
+  font-family: "Myriad Pro Light";
+  font-style: normal;
+  font-weight: 600;
+  src: url('../Fonts/MyriadPro-Semibold.ttf');
+}
+@font-face {
+  font-family: "Trajan Pro";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/TrajanPro-Bold.otf');
+}
+@font-face {
+  font-family: "Trajan Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/TrajanPro-Regular.otf');
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+}
+body {
+  -epub-hyphens: auto;
+}
+@page {
+  margin: 0px 0px 0px 0px;
+}
+div.Temel-Metin--er-evesi {
+  border-style: solid;
+}
+p.Ayet {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 3px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 3px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 9px;
+  text-transform: none;
+  widows: 1;
+}
+p.Dipnot {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 0.75em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.1;
+  margin-bottom: 3px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 11px;
+  text-transform: none;
+  widows: 1;
+}
+p.Düz-Metin {
+  color: #000000;
+  font-family: "Courier New" , serif;
+  font-size: 0.833em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 20px;
+  text-transform: none;
+  widows: 1;
+}
+li.Maddeler {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  list-style-position: inside;
+  margin-bottom: 0;
+  margin-left: 6px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 6px;
+  text-transform: none;
+  widows: 1;
+}
+li.Maddeler-copy {
+  color: #000000;
+  font-family: "Minion Pro SmBd" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 1.2;
+  list-style-position: inside;
+  list-style-type: disc;
+  margin-bottom: 0;
+  margin-left: 20px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Normal, li.Normal {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 11px;
+  text-transform: none;
+  widows: 1;
+}
+p.Normal1 {
+  color: #000000;
+  font-family: "Minion Pro SmBd" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  margin-left: 20px;
+  margin-right: 0;
+  margin-top: 6px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Normal1-copy {
+  color: #000000;
+  font-family: "Minion Pro SmBd" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  margin-left: 20px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Normal1-copy-2 {
+  color: #000000;
+  font-family: "Minion Pro SmBd" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  margin-left: 20px;
+  margin-right: 0;
+  margin-top: 6px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Normal1boşluksuz {
+  color: #000000;
+  font-family: "Minion Pro SmBd" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  margin-left: 20px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Temel-Paragraf {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Paragraph-Style-2 {
+  color: #000000;
+  font-family: "Libel Suit" , sans-serif;
+  font-size: 1.167em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 9px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Paragraph-Style-3 {
+  color: #000000;
+  font-family: DINPro , sans-serif;
+  font-size: 0.75em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.778;
+  margin-bottom: 0;
+  margin-left: 17px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Paragraph-Style-4 {
+  -epub-hyphens: none;
+  color: #000000;
+  font-family: "Myriad Pro" , sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Paragraph-Style-5 {
+  -epub-hyphens: none;
+  color: #000000;
+  font-family: "Trajan Pro" , serif;
+  font-size: 1.167em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 57px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 113px;
+  orphans: 1;
+  page-break-after: avoid;
+  page-break-before: always;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.Paragraph-Style-5-kopyala {
+  -epub-hyphens: none;
+  color: #000000;
+  font-family: "Libel Suit" , sans-serif;
+  font-size: 1.333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 57px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: avoid;
+  page-break-before: always;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.anametin-epub {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 0.917em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 142px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 0;
+  text-transform: none;
+  widows: 1;
+}
+p.kaynak-a {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 4px;
+  margin-left: 20px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 11px;
+  text-transform: none;
+  widows: 1;
+}
+li.maddeler-harf {
+  color: #000000;
+  font-family: "Minion Pro" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 53px;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: -18px;
+  text-transform: none;
+  widows: 1;
+}
+p.o {
+  color: #000000;
+  font-family: "Times New Roman" , serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 30px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 11px;
+  text-transform: none;
+  widows: 1;
+}
+p.spot-ayet {
+  -epub-hyphens: none;
+  color: #000000;
+  font-family: "Myriad Pro" , sans-serif;
+  font-size: 0.833em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 9px;
+  margin-left: 91px;
+  margin-right: 0;
+  margin-top: 113px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: right;
+  text-decoration: none;
+  text-indent: 23px;
+  text-transform: none;
+  widows: 1;
+}
+p.spot-ayet-kopyala {
+  -epub-hyphens: none;
+  color: #000000;
+  font-family: "Myriad Pro" , sans-serif;
+  font-size: 1.083em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 9px;
+  margin-left: 91px;
+  margin-right: 0;
+  margin-top: 3px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: right;
+  text-decoration: none;
+  text-indent: 23px;
+  text-transform: none;
+  widows: 1;
+}
+span.Character-Style-1 {
+  font-family: "Minion Pro" , serif;
+  font-style: normal;
+  font-weight: bold;
+}
+span.Dipnot-Başvurusu {
+  vertical-align: super;
+}
+span.b1 {
+  font-family: "Myriad Pro" , sans-serif;
+  font-size: 1.167em;
+  font-style: normal;
+  font-weight: bold;
+}
+p.ParaOverride-1 {
+  text-align: center;
+}
+p.ParaOverride-2 {
+  -epub-hyphens: none;
+  text-align: center;
+}
+p.ParaOverride-3 {
+  -epub-hyphens: none;
+  margin-bottom: 57px;
+  margin-top: 113px;
+  page-break-after: avoid;
+  page-break-before: always;
+  text-align: center;
+}
+p.ParaOverride-4 {
+  -epub-hyphens: none;
+  margin-left: 43px;
+}
+p.ParaOverride-5 {
+  text-align: right;
+}
+p.ParaOverride-6 {
+  margin-right: 3px;
+}
+li.ParaOverride-7 {
+  list-style-position: outside;
+  list-style-type: decimal;
+  margin-left: 38px;
+  text-indent: 0px;
+}
+li.ParaOverride-8 {
+  list-style-position: outside;
+  list-style-type: upper-alpha;
+  margin-left: 38px;
+  text-indent: 0px;
+}
+p.ParaOverride-9 {
+  margin-left: 21px;
+}
+li.ParaOverride-10 {
+  list-style-position: outside;
+  list-style-type: lower-alpha;
+  margin-left: 53px;
+  text-indent: 0px;
+}
+p.ParaOverride-11 {
+  margin-right: 3px;
+  text-indent: 18px;
+}
+p.ParaOverride-12 {
+  text-indent: 28px;
+}
+li.ParaOverride-13 {
+  list-style-position: outside;
+  list-style-type: decimal;
+  margin-left: 35px;
+  text-indent: 0px;
+}
+li.ParaOverride-14 {
+  list-style-position: inside;
+  list-style-type: decimal;
+  margin-left: 21px;
+  text-indent: 1px;
+}
+li.ParaOverride-15 {
+  list-style-position: outside;
+  list-style-type: upper-alpha;
+  margin-left: 17px;
+  text-indent: 0px;
+}
+p.ParaOverride-16 {
+  text-indent: 18px;
+}
+p.ParaOverride-17 {
+  margin-left: 20px;
+}
+span.CharOverride-1 {
+  font-family: "Libel Suit";
+  font-size: 7.75em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-2 {
+  font-family: "Myriad Pro Light" , sans-serif;
+  font-size: 0.833em;
+  font-style: normal;
+  font-weight: 300;
+}
+span.CharOverride-3 {
+  font-family: "Myriad Pro Light" , sans-serif;
+  font-size: 1.167em;
+  font-style: normal;
+  font-weight: 600;
+}
+span.CharOverride-4 {
+  font-family: "DINPro-Black" , sans-serif;
+  font-size: 0.833em;
+  font-style: normal;
+  font-weight: 900;
+}
+span.CharOverride-5 {
+  font-family: "Myriad Pro";
+  font-size: 0.667em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-6 {
+  font-family: "Myriad Pro";
+  font-size: 0.75em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-7 {
+  font-family: "Myriad Pro Light";
+  font-size: 0.683em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-8 {
+  font-family: "Myriad Pro";
+  font-size: 0.667em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-9 {
+  font-family: "Myriad Pro Light" , sans-serif;
+  font-size: 0.667em;
+  font-style: italic;
+  font-weight: 300;
+}
+span.CharOverride-10 {
+  font-family: "Libel Suit" , sans-serif;
+  font-size: 1.5em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-11 {
+  font-family: "Libel Suit" , sans-serif;
+  font-size: 1.285em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-12 {
+  font-size: 0.833em;
+}
+span.CharOverride-13 {
+  font-family: "Minion Pro";
+  font-size: 0.833em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-14 {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-15 {
+  font-family: "Minion Pro";
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-16 {
+  font-family: "Trajan Pro";
+  font-size: 0.667em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-17 {
+  font-size: 58%;
+  vertical-align: super;
+}
+span.CharOverride-18 {
+  font-size: 58%;
+  vertical-align: sub;
+}
+span.CharOverride-19 {
+  font-family: "Minion Pro";
+  font-size: 58%;
+  font-style: normal;
+  font-weight: bold;
+  vertical-align: super;
+}
+span.CharOverride-20 {
+  font-family: "Libel Suit" , sans-serif;
+  font-size: 0.875em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-21 {
+  font-size: 1.833em;
+}
+span.CharOverride-22 {
+  font-family: "Minion Pro";
+  font-size: 58%;
+  font-style: italic;
+  font-weight: normal;
+  vertical-align: super;
+}
+span.CharOverride-23 {
+  font-size: 0.727em;
+}
+span.CharOverride-24 {
+  font-size: 0.667em;
+}
+span.CharOverride-25 {
+  font-size: 0.75em;
+}
+span.CharOverride-26 {
+  font-size: 1.667em;
+}
+span.CharOverride-27 {
+  font-family: "Minion Pro";
+  font-style: italic;
+  font-weight: bold;
+}
+span.CharOverride-28 {
+  font-family: "Minion Pro";
+  font-size: 0.75em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-29 {
+  font-family: "Trajan Pro" , serif;
+  font-size: 1.167em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-30 {
+  font-size: 58%;
+}
+span.CharOverride-31 {
+  font-family: "Minion Pro" , serif;
+  font-size: 1.1em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-32 {
+  font-family: "Minion Pro" , serif;
+  font-size: 0.638em;
+  font-style: italic;
+  font-weight: normal;
+  vertical-align: super;
+}
+span.CharOverride-33 {
+  font-family: "Minion Pro";
+  font-size: 58%;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-34 {
+  font-family: "Minion Pro" , serif;
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-35 {
+  font-family: "Minion Pro";
+  font-size: 58%;
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-36 {
+  font-size: 0.9em;
+}
+span.CharOverride-37 {
+  font-family: "Minion Pro";
+  font-size: 0.917em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-38 {
+  font-size: 0.917em;
+}
+span.CharOverride-39 {
+  font-family: "Minion Pro";
+  font-size: 0.917em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-40 {
+  font-size: 1.222em;
+}
+span.CharOverride-41 {
+  color: #000000;
+  font-size: 1.222em;
+}
+p._idGenParaOverride-1 {
+  page-break-after: always;
+}
+p._idGenParaOverride-2 {
+  margin-left: -18px;
+}
+p._idGenParaOverride-3 {
+  margin-left: -38px;
+}
+p._idGenParaOverride-4 {
+  margin-left: 0px;
+}
+p._idGenParaOverride-5 {
+  margin-left: -21px;
+}
+p._idGenParaOverride-6 {
+  margin-left: -1px;
+}
+span._idGenCharOverride-1 {
+  font-size: 58%;
+}
+._idGenDropcap-1 {
+  float: left;
+  font-family: "Minion Pro" , serif;
+  font-size: 4.692em;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1;
+  margin-bottom: -0.273em;
+  margin-right: 0.05em;
+  margin-top: -0.075em;
+}
+div._idGenPageitem-1 {
+  display: inline-block;
+  height: 38px;
+  width: 322px;
+}
+div._idGenPageitem-2 {
+  display: inline-block;
+  height: 51px;
+  width: 322px;
+}
+div._idGenPageitem-3 {
+  display: inline-block;
+  height: 41px;
+  width: 322px;
+}
+img._idGenPageitem-4 {
+  height: 73px;
+  width: 39px;
+}
+div._idGenPageitem-5 {
+  display: inline-block;
+  height: 32px;
+  width: 322px;
+}
+div._idGenPageitem-6 {
+  display: inline-block;
+  height: 15px;
+  width: 322px;
+}
+div._idGenPageitem-7 {
+  display: inline-block;
+  height: 5px;
+  width: 322px;
+}
+div._idGenObjectStyleOverride-1 {
+  border-width: 0px;
+}
+div._idGenObjectLayout-1 {
+  text-align: center;
+}

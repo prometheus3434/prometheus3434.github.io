@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="40021a68-ab06-4f9a-ac4f-854988bdb6f7" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Amber Yıllıkları (Tek Cilt)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KAPAK</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>AMBER YILLIKLARI</text>
+      </navLabel>
+      <content src="OEBPS/Text/AMBER.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>AMBERDE DOKUZ PRENS</text>
+      </navLabel>
+      <content src="OEBPS/Text/AmberdeDokuzPrens02.html#sigil_toc_id_1"/>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens03.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens04.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens05.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens06.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens07.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens08.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens09.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens10.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens11.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens12.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/AmberdeDokuzPrens13.html#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>AVALONUN TÜFEKLERİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi.html#sigil_toc_id_3"/>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri1.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri2.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri3.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri4.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri5.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri6.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri7.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri8.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri9.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/AvalonunTufekleri10.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>TEKBOYNUZUN İŞARETİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi3.html#sigil_toc_id_5"/>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz1.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz2.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz3.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz4.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz5.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz6.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz7.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz8.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz9.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz10.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz11.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Tekboynuz12.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>OBERON'UN ELİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi4.html#sigil_toc_id_7"/>
+      <navPoint class="chapter" id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0001.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0002.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0003.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Bölüm 13</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Oberon%27un%20Eli_0014.html#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>KAOS SARAYLARI</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi5.html#sigil_toc_id_9"/>
+      <navPoint class="chapter" id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0001.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0002.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0003.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Bölüm 13</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Bölüm 14</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari_0014.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Saraylari15.html#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>KIYAMETİN KOZ KARTLARI</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi6.html#sigil_toc_id_11"/>
+      <navPoint class="chapter" id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0001.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0002.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0003.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kiyametin%20Koz%20Kartlari_0011.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>AMBER KANI</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi7.html#sigil_toc_id_13"/>
+      <navPoint class="chapter" id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Giriş</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani1.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani2.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani3.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani4.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani5.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani6.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani7.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani8.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani9.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani10.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani11.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani12.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani12_0001.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Amberkani13.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>KAOS İMGESİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi8.html"/>
+      <navPoint class="chapter" id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi1.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi2.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi3.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi4.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi5.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi6.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi7.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi8.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi9.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi10.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi11.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi12.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Imgesi13.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>GÖLGELERİN ŞÖVALYESİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi9.html"/>
+      <navPoint class="chapter" id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0001.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0002.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0003.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Golgelerin%20sovalyesi_0013.html#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>KAOS PRENSİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Cilt%20ismi10.html"/>
+      <navPoint class="chapter" id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0001.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0002.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0003.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="OEBPS/Text/Kaos%20Prensi_0013.html#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>YAYINEVİ</text>
+      </navLabel>
+      <content src="OEBPS/Text/Yayinevi.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>YAZAR HAKKINDA</text>
+      </navLabel>
+      <content src="OEBPS/Text/Yazar%20Hakkinda.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

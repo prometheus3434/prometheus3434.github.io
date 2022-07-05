@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{D1BF143A-6C12-46C6-BD71-4B6AE45696D1}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.49.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Adını Unutan Adam</text>
+  </docTitle>
+  <navMap>
+    
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/kapak.xhtml"/>
+    </navPoint>
+            
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/ic_kapak.xhtml"/>
+    </navPoint>   
+                
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>         
+                                          
+      <navPoint playOrder="1">
+      <navLabel>
+        <text>ADINI UNUTAN ADAM</text>
+      </navLabel>
+      <content src="Text/kitap.xhtml"/>
+    </navPoint>
+           
+  </navMap>
+</ncx>

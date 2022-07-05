@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Acı kahve</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha &amp; Akari, Dilek">Agatha Christie</dc:creator>
+    <dc:creator opf:role="aut">Dilek Akari</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c258aa5c-5436-428c-af2d-87b7637b449b</dc:identifier>
+    <dc:date>1999-06-15T10:47:22+00:00</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Agatha Christie'nin ilk tiyatro oyunu olan Acı Kahve, 1930 yılında ilk kez sahneye konulmuş ve ertesi yıl sinemaya uyarlanmıştır. Ölümünden yirmi bir yıl sonra roman halinde yayınlanmıştır.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-01-23</dc:date>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c258aa5c-5436-428c-af2d-87b7637b449b</dc:identifier>
+    <dc:subject>Polisiye</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d0fe95df-e1b1-4008-af5b-5286f1696dbf</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c258aa5c-5436-428c-af2d-87b7637b449b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754058789</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754058789</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">4_GYAAAACAAJ</dc:identifier>
+    <meta name="cover" content="aci_kahve.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Acı kahve" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;, &quot;Dilek Akari&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Aci Kahve - Agatha Christie.htm" id="Aci_Kahve_-_Agatha_Christie.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.htm" id="Section0010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.htm" id="Section0011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.htm" id="Section0012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.htm" id="Section0013.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.htm" id="Section0014.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.htm" id="Section0015.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.htm" id="Section0016.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.htm" id="Section0017.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/aci_kahve.jpg" id="aci_kahve.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Aci_Kahve_-_Agatha_Christie.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="Section0010.htm"/>
+    <itemref idref="Section0011.htm"/>
+    <itemref idref="Section0012.htm"/>
+    <itemref idref="Section0013.htm"/>
+    <itemref idref="Section0014.htm"/>
+    <itemref idref="Section0015.htm"/>
+    <itemref idref="Section0016.htm"/>
+    <itemref idref="Section0017.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

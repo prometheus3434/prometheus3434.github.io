@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Anadolunun Ruhu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kılıç, Mahmud Erol">Mahmud Erol Kılıç</dc:creator>
+    <dc:description>Anadolu’nun Ruhu, Prof. Dr. Mahmud Erol Kılıç’la tasavvuf, felsefe ve siyaset üzerine yapılmış söyleşilerden oluşuyor. Kılıç, söyleşi-kitap türündeki eserde genel manada ezoterizmin, hususi manada irfani geleneğin felsefi referans arayışındaki modern Türkiye’ye sunduğu imkânları ortaya koyuyor.Dünyada tasavvuf düşüncesi alanında söz sahibi olan Kılıç, gelenekteki dört katmanlı din anlayışının dinî tefekkür dünyasındaki sığlık ve yüzeyselliğin terapisinde nasıl önemli bir yere sahip olduğunu örneklerle anlatıyor. Peygamber dilinden söylenen &amp;quot;Rabbim bana şeylerin hakikatini göster&amp;quot; düsturunu insani hayatın her alanına taşıyarak suretten manaya, kılıftan öze doğru bir yolculuğa çıkmanın “anlama”daki önemini vurguluyor. Osmanlı ariflerinin &amp;quot;Biz iki anneden süt emdik&amp;quot; sözlerinin izini sürerek İbn Arabî ve Mevlânâ’dan Anadolu insanının aydınlanmasındaki iki büyük kurucu figür olarak bahsediyor.Bu söyleşiler bütününden çıkan mesaj çok çarpıcı. Kılıç, tarihte hiçbir kurucu rolü olmamış marjinal grup ve düşünüş tarzlarının dahi imtiyazlar elde edebildiği günümüzde mazlum &amp;quot;tasavvuf&amp;quot;a hakkının ne zaman teslim edileceğini soruyor, soruşturuyor, sorguluyor…</dc:description>
+    <dc:publisher>Sufi</dc:publisher>
+    <dc:date>2010-12-31T10:27:24+00:00</dc:date>
+    <dc:identifier id="bookid">978-975-9161-54-5</dc:identifier>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:date opf:event="modification">2015-06-27</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Islam</dc:subject>
+    <dc:subject>Religion</dc:subject>
+    <dc:subject>Sufi</dc:subject>
+    <dc:subject>Tasavvuf</dc:subject>
+    <dc:subject>Orijinal</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">dc69438c-df7f-45a9-9cc6-df6c162f9af9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759161545</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">-JlLDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759161545</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="anadolununruhu_dis.jpg"/>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Anadolunun Ruhu"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Mahmud Erol Kılıç&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/anadolununruhu_kapak.html" id="anadolununruhu-kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/anadolununruhu_epub.html" id="anadolununruhu-epub" media-type="application/xhtml+xml"/>
+    <item href="Text/anadolununruhu_epub_1.html" id="anadolununruhu-epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/anadolununruhu_epub_2.html" id="anadolununruhu-epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/anadolununruhu_epub_3.html" id="anadolununruhu-epub-3" media-type="application/xhtml+xml"/>
+    <item href="Text/anadolununruhu_epub_4.html" id="anadolununruhu-epub-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="_toc_ncx_" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/274.jpg" id="x274.jpg" media-type="image/jpeg"/>
+    <item href="Images/276.jpg" id="x276.jpg" media-type="image/jpeg"/>
+    <item href="Images/anadolununruhu_dis.jpg" id="anadolununruhu_dis.jpg" media-type="image/jpeg"/>
+    <item href="Images/anadolununruhu_ic_fmt.jpeg" id="anadolununruhu_ic_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Text/_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_" toc="_toc_ncx_">
+    <itemref idref="anadolununruhu-kapak"/>
+    <itemref idref="anadolununruhu-epub"/>
+    <itemref idref="anadolununruhu-epub-1"/>
+    <itemref idref="anadolununruhu-epub-2"/>
+    <itemref idref="anadolununruhu-epub-3"/>
+    <itemref idref="anadolununruhu-epub-4"/>
+  </spine>
+</package>

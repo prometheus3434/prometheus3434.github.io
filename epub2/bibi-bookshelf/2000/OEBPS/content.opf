@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>10 Buçuk Bölümde Dünya Tarihi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Barnes, Julian">Julian Barnes</dc:creator>
+    <dc:identifier id="uuid">{FE5981F4-405C-4BE0-80C8-B06D06AA049F}</dc:identifier>
+    <dc:date>1994-12-06T22:00:00+00:00</dc:date>
+    <dc:publisher>Afa Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e999a52d-1af7-4352-875e-cc6d9af03705</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754142563</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="10 Buçuk Bölümde Dünya Tarihi"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Julian Barnes&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-baslik.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-ithaf.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main-hakkinda.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id6" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/m.jpg" id="id" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="titlepage"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

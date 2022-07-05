@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Avrupa evrenselciliği: iktidarın retoriği</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Wallerstein, Immanuel Maurice &amp; Önal, Sinan">Immanuel Maurice Wallerstein</dc:creator>
+    <dc:creator opf:role="aut">Sinan Önal</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">34268433-05fe-46a0-9276-1fe1f32d9244</dc:identifier>
+    <dc:date opf:event="modification">2013-06-08</dc:date>
+    <dc:date>2007-06-15T09:56:52+00:00</dc:date>
+    <dc:publisher>Aram</dc:publisher>
+    <dc:type>Siyaset</dc:type>
+    <dc:description>&lt;p class="description"&gt;Immanuel Wallerstein "Avrupa Evrenselciliği"nde, Batı'nın dünyaya müdahale ederken başvurduğu söylemleri inceler. Tarihte bu tür üç söylemle karşılaşırız: Amerikan Yerlilerini köleleştiren İspanyollar, onların "barbar" olduklarını, "ahlakdışı" âdetleri olduğunu savunurlar. Osmanlı İmparatorluğu, Ortadoğu gibi bölgelere nüfuz eden Avrupalılar, bu "yüksek medeniyetler"in gelişmeye kapalı olduğunu ileri sürerler.Günümüzde eski Yugoslavya'ya, Irak'a müdahale eden Batılı güçler ise, buralarda diktatörlükler olduğunu ve insan haklarının çiğnendiğini iddia ederler. Wallerstein, müdahalelerin hep "evrensel değerler"e atıf yapılarak haklılaştırıldığına dikkat çeker. Bu değerler gerçekten evrensel midir, yoksa çarpıtılıp öyleymiş gibi mi takdim edilmektedir? Eğer öyleyse eşitlikçi bir dünya arzulayanlar, gerçek anlamda evrensel değerleri nasıl inşa edebilirler?&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Kuram</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4ade8e48-5731-4c6c-8cd2-079bcb3b531e</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-9944-222-04-4</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">25sQtwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944222044</dc:identifier>
+    <meta content="Avrupa evrenselciliği: iktidarın retoriği" name="calibre:title_sort"/>
+    <meta content="2011-11-28T23:33:05+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="AvrupaEvrenselciligi.jpg"/>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Immanuel Maurice Wallerstein&quot;: &quot;&quot;, &quot;Sinan Önal&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Copyright.htm" id="Copyright.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Tesekkur.html" id="Tesekkur.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.html" id="Giris.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.html" id="notlar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvrupaKaynak.xhtml" id="AvrupaKaynak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Images/AvrupaEvrenselciligi.jpg" id="AvrupaEvrenselciligi.jpg" media-type="image/jpeg"/>
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Copyright.htm"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="Tesekkur.html"/>
+    <itemref idref="Giris.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="notlar.html"/>
+    <itemref idref="AvrupaKaynak.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/Copyright.htm" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/title.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/ithaf.html" title="Dedication" type="dedication"/>
+    <reference href="Text/Tesekkur.html" title="Acknowledgements" type="acknowledgements"/>
+    <reference href="Text/notlar.html" title="Notes" type="notes"/>
+    <reference href="Text/AvrupaKaynak.xhtml" title="Bibliography" type="bibliography"/>
+  </guide>
+</package>

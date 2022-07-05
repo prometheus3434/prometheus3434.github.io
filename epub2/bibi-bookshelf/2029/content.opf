@@ -1,0 +1,36 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>50 Soruda yapay zeka</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Say, Cem">Cem Say</dc:creator>
+    <dc:date>2018-10-15T12:07:50+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e24496a1-da4d-4ff4-9595-a6fc14bdccf2</dc:identifier>
+    <dc:publisher>Bilim ve Gelecek Kitapligi</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1119b818-2857-45bc-b79e-5b8e289bcb54</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055888589</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">41pawAEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2019-03-01T13:23:19.101764+00:00"/>
+    <meta name="calibre:title_sort" content="50 Soruda yapay zeka"/>
+    <meta name="calibre:series" content="OzetKitap.com"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cem Say&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

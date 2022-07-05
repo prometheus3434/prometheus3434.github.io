@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Clovis Dardentor</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:81f1f906-6ee1-4488-a8ee-516f0c12427d</dc:identifier>
+    <dc:date>2017-03-19T09:57:53+00:00</dc:date>
+    <dc:publisher>BoD – Books on Demand</dc:publisher>
+    <dc:description>Nachdruck des Originals von 1897 aus dem Hartleben Verlag, mit 47 Illustrationen.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Science Fiction</dc:subject>
+    <dc:language>de</dc:language>
+    <dc:identifier opf:scheme="calibre">1271d0b4-aa91-4e12-9bc4-70daacc5f7b6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752731769</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789925054923</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">sbFmDgAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:81f1f906-6ee1-4488-a8ee-516f0c12427d</dc:identifier>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Clovis Dardentor"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-01.xhtml" id="B-01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-02.xhtml" id="B-02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-03.xhtml" id="B-03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-04.xhtml" id="B-04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-05.xhtml" id="B-05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-06.xhtml" id="B-06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-07.xhtml" id="B-07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-08.xhtml" id="B-08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-09.xhtml" id="B-09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-10.xhtml" id="B-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-11.xhtml" id="B-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-12.xhtml" id="B-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-13.xhtml" id="B-13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-14.xhtml" id="B-14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-15.xhtml" id="B-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-16.xhtml" id="B-16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-17.xhtml" id="B-17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-18.xhtml" id="B-18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-19.xhtml" id="B-19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-20.xhtml" id="B-20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/Ithaki.jpg" id="Ithaki.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="B-01.xhtml"/>
+    <itemref idref="B-02.xhtml"/>
+    <itemref idref="B-03.xhtml"/>
+    <itemref idref="B-04.xhtml"/>
+    <itemref idref="B-05.xhtml"/>
+    <itemref idref="B-06.xhtml"/>
+    <itemref idref="B-07.xhtml"/>
+    <itemref idref="B-08.xhtml"/>
+    <itemref idref="B-09.xhtml"/>
+    <itemref idref="B-10.xhtml"/>
+    <itemref idref="B-11.xhtml"/>
+    <itemref idref="B-12.xhtml"/>
+    <itemref idref="B-13.xhtml"/>
+    <itemref idref="B-14.xhtml"/>
+    <itemref idref="B-15.xhtml"/>
+    <itemref idref="B-16.xhtml"/>
+    <itemref idref="B-17.xhtml"/>
+    <itemref idref="B-18.xhtml"/>
+    <itemref idref="B-19.xhtml"/>
+    <itemref idref="B-20.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

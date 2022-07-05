@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ben Claudius</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Graves, Robert">Robert Graves</dc:creator>
+    <dc:publisher>Türkiye Is Bankasi Kültür Yayinlari</dc:publisher>
+    <dc:description>&lt;p&gt;Yirminci yüzyıl İngiliz şiirinin en büyük ustalarından biri sayılan Robert Graves (1895-1985) roman, anı, deneme ve eleştiri türlerinde de başarılı yapıtlar vermiş bir yazardır. Özellikle tarihsel romanlarıyla yaygın bir üne kavuşmuş; BBC'nin televizyon dizisi olarak hazırladığı "Ben, Claudius" dünyanın birçok ülkesinde hayranlıkla izlenmiştir. Robert Graves, "Ben, Claudius"ta istemeye istemeye kendini imparatorluk tahtında bulan kekeme Claudius'un ağzından Roma İmparatorluğu'nun görkemini, soysuzlaşmasını ve akıl almaz çılgınlıklarını ele alırken Augustus ile Tiberius'un kanlı temizlik girişimlerini, Livia'nın saray entrikalarını, Caligula'nın kendisini tanrılığa yükseltişini usta bir alaycılıkla sergilemektedir.&lt;/p&gt;</dc:description>
+    <dc:date>2015-03-15T11:35:11+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f083d7fb-3802-4a30-bd65-1331a99bb1ef</dc:identifier>
+    <dc:date opf:event="modification">2015-04-25</dc:date>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3115f37e-5e29-48df-9f6a-7afcf1277fda</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ZsnktgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053323969</dc:identifier>
+    <meta content="Ben Claudius" name="calibre:title_sort"/>
+    <meta content="2015-04-05T12:55:49.497000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Graves&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_000.xhtml" id="Section0001.xhtml7" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_001.xhtml" id="Section0001.xhtml6" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_002.xhtml" id="Section0001.xhtml5" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_003.xhtml" id="Section0001.xhtml4" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_004.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_005.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split_006.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/soyagaci.png" id="soyagaci.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml7"/>
+    <itemref idref="Section0001.xhtml6"/>
+    <itemref idref="Section0001.xhtml5"/>
+    <itemref idref="Section0001.xhtml4"/>
+    <itemref idref="Section0001.xhtml3"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

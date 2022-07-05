@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="a11cb560-bca9-4589-be0a-b1335b7d0c56" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Camera Lucida Fotoğraf Üzerine Düşünceler Altıkırkbeş Yayınları</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{7BE5D6AD-152C-4F08-9BC3-EE6E078623D8}" playOrder="1">
+      <navLabel>
+        <text>ll</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{0AF9BE0E-0036-4F57-B9F1-B6A66DC9BDC3}" playOrder="2">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{60E894DA-FCE0-4285-88E3-9E5AF66FD6F4}" playOrder="3">
+      <navLabel>
+        <text>47</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

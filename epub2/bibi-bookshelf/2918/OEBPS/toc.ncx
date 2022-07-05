@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{B5F63DA9-BA9E-4A50-A51F-7DC0CCCA5C82}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dişi Kurdun Gecesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Harita</text>
+      </navLabel>
+      <content src="Text/harita.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Öndeyiş: Özsuyun Son Damlası</text>
+      </navLabel>
+      <content src="Text/ondeyis.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1. Bölüm: Kehanet</text>
+      </navLabel>
+      <content src="Text/1.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>2. Bölüm: Toprağın Askerleri</text>
+      </navLabel>
+      <content src="Text/2.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>3. Bölüm: Geçitler</text>
+      </navLabel>
+      <content src="Text/3.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>4. Bölüm: Ejderhanın Karnında</text>
+      </navLabel>
+      <content src="Text/4.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>5. Bölüm: Büyük Av Partisi</text>
+      </navLabel>
+      <content src="Text/5.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>6. Bölüm: Kurdun Ölümü</text>
+      </navLabel>
+      <content src="Text/6.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>7. Bölüm: Taş Kentin Kapılarında</text>
+      </navLabel>
+      <content src="Text/7.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>8. Bölüm: Saîman'ın Kaynağı</text>
+      </navLabel>
+      <content src="Text/8.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>9. Bölüm: Celladın Bakışları</text>
+      </navLabel>
+      <content src="Text/9.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>10. Bölüm: Tozlar Tepesi</text>
+      </navLabel>
+      <content src="Text/10.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>11. Bölüm: Shanka Sarayı</text>
+      </navLabel>
+      <content src="Text/11.bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Sondeyiş: Borcelia Efsanesi</text>
+      </navLabel>
+      <content src="Text/sondeyis.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Karakterler</text>
+      </navLabel>
+      <content src="Text/karakterler.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Gaelia Tarihi</text>
+      </navLabel>
+      <content src="Text/tarih.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Gaelia Coğrafyası</text>
+      </navLabel>
+      <content src="Text/siyasal.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Gaelia Irkları</text>
+      </navLabel>
+      <content src="Text/irklar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

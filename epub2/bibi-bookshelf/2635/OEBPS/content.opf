@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Büyük balık: Efsanevi ölçülerde bir roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Wallace, Daniel">Daniel Wallace</dc:creator>
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:date>2012-06-15T09:56:55+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Edward Bloom çocukken herkesten hızlı koşar, okulu asla asmazdı. Büyüdüğünde birçok insanın hayatını kurtardı, devleri ehlileştirdi. Hayvanların dilinden anlardı, onlar da onu çok severdi. İnsanlarsa ona bayılırdı. Kadınlar ona tutulur, o da karşılık vermeden duramazdı. Üstelik anlatacak o kadar çok öyküsü vardı ki. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Şimdi hasta yatağında ölümü bekleyen Edward Bloom, yanı başındaki oğlu William'la hayatın anlamı üzerine konuşmak ya da ona nasihat etmek yerine bildiği fıkraları anlatıyor, hikâyeleriyle hayatına dair ipuçları veriyor. Büyük Balık, Edward Bloom'un, onu oğlunun gözünde dünyanın en sıradışı adamı haline getiren inanması güç olaylarla örülü yaşamöyküsü. Büyüleyici, tuhaf ve eğlenceli, efsanevi ölçülerde bir roman.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-10-31</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c9982a4e-df09-4f09-a73f-33bf41e03398</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">u_C7ngEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750819063</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750819063</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Büyük balık: Efsanevi ölçülerde bir roman" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Daniel Wallace&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0007.html" id="section-0007_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0009.html" id="section-0009_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0010.html" id="section-0010_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg"/>
+    <item href="Images/yky.jpg" id="yky_jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+    <itemref idref="section-0007_html"/>
+    <itemref idref="section-0008_html"/>
+    <itemref idref="section-0009_html"/>
+    <itemref idref="section-0010_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

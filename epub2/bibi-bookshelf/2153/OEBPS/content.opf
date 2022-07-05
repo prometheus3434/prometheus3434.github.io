@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Algernon'a çiçekler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Keyes, Daniel">Daniel Keyes</dc:creator>
+    <dc:identifier id="uuid">{37891FC8-AE6B-483B-90E8-2F9CD2F99F3A}</dc:identifier>
+    <dc:publisher>Beyaz Balina</dc:publisher>
+    <dc:date>2005-06-15T10:27:30+00:00</dc:date>
+    <dc:description>&lt;p&gt;Çok düşük bir IQ ile doğan Charlie, bilim adamlarının, zeka seviyesini artıracak deneysel ameliyatı gerçekleştirmeleri için kusursuz bir adaydır. Bu deney Algernon adındaki laboratuvar faresinde test edilmiş ve büyük bir başarı elde edilmiştir.
+
+Ameliyattan sonra, Charlie’nin durumu günlüğüne yazdığı raporlarla takip edilmeye başlanır, ilk yazdığı raporlara çocuksu bir dil ve imla hataları hakimdir. Ve sonra ameliyat etkisini göstermeye başlar. Charlie artık, insanların kendisiyle dalga geçemeyeceğini ve bir sürü arkadaş edineceğini, aşık olduğu kadına açılabileceğini düşünür. Fakat zekası normalin çok üstüne fırladığından, çevresinde yadırganır, kıskanılır ve istemiş olduğu arkadaşları edinmekte yine başarısız olur ve yine yalnızdır...
+
+Bu deney, son derece önemli bir buluş olarak görülüyordu, ta ki Algernon’da ani bir gerileme baş gösterene kadar... Acaba Charlie’de de aynı gerileme olacak mıydı?
+
+ALGERNON’A ÇİÇEKLER, bugüne dek 27 dilde 30 ülkede yayınlandı, 5 milyon adetten fazla sattı. Prestijli Hugo ve Nebula ödüllerini kazandı.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-06-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">07b2d5ea-5074-40c1-9d20-565584be3da1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759990077</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054629862</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">zThaXwAACAAJ</dc:identifier>
+    <meta content="Algernon'a çiçekler" name="calibre:title_sort"/>
+    <meta content="{&quot;Daniel Keyes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id2"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ovgu.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/eflatun.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/icerik1.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/icerik2.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/icerik3.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/icerik4.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/icerik5.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/icerik6.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id17" media-type="text/css"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/koridor.png" id="id20" media-type="image/png"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id1"/>
+    <itemref idref="id16"/>
+    <itemref idref="id19"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Büyük Umutlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dickens, Charles">Charles Dickens</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b0abd078-4f23-479b-a6bd-172e1ac43bd2</dc:identifier>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:date>2009-06-15T10:44:08+00:00</dc:date>
+    <dc:date opf:event="modification">2014-05-26</dc:date>
+    <dc:description>&lt;p&gt;Fakir bir çocuk olan Pip küçük yaşta anne ve babasını kaybetmiş, ablasıyla birlikte yaşamaktadır. Bir gün mezarlıkta kaçak bir mahkûmla karşılaşır ve ablasının mutfağından aşırdığı yiyeceklerle bu adama yardım eder. Kaçak mahkûm, Pip'in yardımlarını asla unutmayacaktır.
+
+Bir gün Pip kimliği gizli bir hayırseverin gönderdiği para ile zengin olur. Artık onun da büyük umutları vardır. Belki de başka insanların büyük umutlarının aracı olacaktır.
+
+Çoğu eleştirmen tarafından modern romana uzanan önemli bir adım olarak görülen bu şiirsel eseri Ayşe Esra İyidoğan'ın usta çevirisiyle sunuyoruz okuyucularımıza...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İngiliz Edebiyatı</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">895b829b-a221-466b-9b66-916daedb5215</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789994184521</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944184526</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">6bxCzQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:b0abd078-4f23-479b-a6bd-172e1ac43bd2</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_kapak.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Büyük Umutlar"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Charles Dickens&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup.html" id="buyukumutlar-ebup" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup-1.html" id="buyukumutlar-ebup-1" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup-2.html" id="buyukumutlar-ebup-2" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup-3.html" id="buyukumutlar-ebup-3" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup-4.html" id="buyukumutlar-ebup-4" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup-5.html" id="buyukumutlar-ebup-5" media-type="application/xhtml+xml"/>
+    <item href="Text/buyukumutlar-ebup-6.html" id="buyukumutlar-ebup-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/19733.jpg" id="x19733.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="buyukumutlar-ebup"/>
+    <itemref idref="buyukumutlar-ebup-1"/>
+    <itemref idref="buyukumutlar-ebup-2"/>
+    <itemref idref="buyukumutlar-ebup-3"/>
+    <itemref idref="buyukumutlar-ebup-4"/>
+    <itemref idref="buyukumutlar-ebup-5"/>
+    <itemref idref="buyukumutlar-ebup-6"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

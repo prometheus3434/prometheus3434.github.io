@@ -1,0 +1,104 @@
+/*gövde,paragraf*/
+body {
+  text-align: justify;
+  text-indent: 1em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+  line-height: 1.2em;
+}
+p {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+.blok {
+  display: block;
+  text-align: left;
+  font-size: small;
+  text-indent: 0em;
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
+	margin-left:3em;
+	margin-right:3em;
+  line-height: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+p.ovgu {
+  display: block;
+  text-align: center;
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+.row {
+    display: table-row;
+    vertical-align: middle
+    }
+.cell {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.raw {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: center;
+    vertical-align: inherit
+    }
+/*bölüm numara, başlık*/
+/*Kitap adı, yazar, yayınevi*/
+h1 {
+  font-family: "Titillium", sans-serif;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+h2 {
+  font-family: "Titillium", sans-serif;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+h3 {
+  font-family: "Titillium", sans-serif;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+h1.kadi {
+  font-family: "Titillium", sans-serif;
+  text-align: center;
+  margin-top: 4em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+/*logo, resim, harita*/
+@font-face {
+  font-family: "Titillium";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Titillium-Semibold.otf);
+  }

@@ -1,0 +1,96 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ateş Şarkısı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nicholson, William">William Nicholson</dc:creator>
+    <dc:identifier id="uuid">{ACB7EE27-AE33-4790-8208-C756D7181EA8}</dc:identifier>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:date>2015-10-07T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;Ateş Şarkısı, anayurtlarına ulaşmak için yola düşen tutsak Manth halkının destanıdır.&lt;/p&gt;
+&lt;p&gt;Açlık, kar fırtınası ve acımasız Morahlılara karşı onların tek kurtarıcıları Ira Hath’tır. Ancak o da bu yolculukta zayıf düşmüştür.&lt;/p&gt;
+&lt;p&gt;Kestrel, annesi Ira Hath zayıf düşmüşken anayurda ulaşmalarının ne zorluklar getireceğini bilmektedir.&lt;/p&gt;
+&lt;p&gt;İkiz kardeşi Bowman ise, gizemli Albrad’dan öğrendikleriyle kendini halkının kurtuluşuna adamak üzere hazırlanmaktadır.&lt;/p&gt;
+&lt;p&gt;Bu arada Ateş Rüzgârı, yaşama umudunun önünde hızlanarak esmektedir...&lt;/p&gt;    &lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-10-31</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Fantastik Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">931ee3d5-58e0-4c35-90dc-41275202c956</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751410900</dc:identifier>
+    <meta content="Ateş Şarkısı" name="calibre:title_sort"/>
+    <meta content="Ateş Rüzgarı" name="calibre:series"/>
+    <meta content="{&quot;William Nicholson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id36"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:series_index" content="3.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/s5.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/9.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/18.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/19.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id" media-type="text/css"/>
+    <item href="Styles/main.css" id="id7" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id36" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id37" media-type="image/jpeg"/>
+    <item href="Images/remzi.png" id="id38" media-type="image/png"/>
+    <item href="Images/s5.jpg" id="id39" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,197 @@
+@page
+    {margin: 5pt;}
+body
+    {font-family: "100%", serif, sansserif;}
+p
+    {
+    margin:0pt;
+    text-indent:1.5em;
+    line-height: 1.3em;
+    text-align: justify;
+    font-size: 1em;
+    widows: 2;
+    orphans: 2;
+    }
+
+.kunye, .kunye p	{
+	text-indent:0em; 	
+font-size:0.9em;
+    line-height: 1.3em;
+	margin: 0em 0em 10px 0em; 	
+	text-align: center;
+	}
+.blok p, .blok{
+margin: 1em 2em 1em 2em; 
+text-indent:0em; 	
+font-size: 0.95em;
+line-height: 1.2em;
+text-align: justify;
+	}
+
+.alinti{
+font-size:0.9em;
+line-height: 1.2em;
+text-align: justify;
+margin: 1em 2em 1em 2em;}
+
+.alinti p{text-indent:0em;}
+
+a
+    {
+  text-decoration: none;
+    color:#000000;
+    }
+h2
+    {
+margin: 5em auto 5em auto;
+    font-weight: bold;
+ 	 line-height: 1.5em;
+    font-size: 1.6em;
+    text-align: center;
+text-indent:0em;
+    }
+h2 + p, .poem + p {text-indent:0em;}
+
+.big {font-size:120%}
+.small {font-size:80%}
+
+.poem {
+margin: 1em auto 1em 1.5em;
+font-style: italic;
+}
+.poem p {
+margin-left: 3em;
+  text-indent: -1.5em;
+  font-size:0.9em;
+text-align: left;
+line-height: 1.3em;
+}
+.left-em, .left-em p {
+margin-left: 0.5em;
+font-size: 1em;
+text-align: left;
+line-height: 1.2em;
+}
+
+.right-em, .right-em p {
+margin-right: 3em;
+font-size: 1em;
+text-align: right;
+line-height: 1.2em;
+}
+
+.nonindent
+{text-indent:0em;}
+
+.gecis
+{margin-top: 1em; text-indent: 1.5em}
+
+.left, .left p 
+    {
+    text-align: left;
+    }
+.center, .center p 
+    {
+    text-align: center;
+    text-indent:0em;
+    }
+.right,.right p
+    {
+    text-align: right;
+    }
+.bold
+    {
+    font-weight: bold;
+    }
+.italic, i
+    {
+    font-style: italic;
+       }
+.underline
+    {
+    text-decoration:underline;
+    }
+
+.title1
+    {
+    margin-top:10%;
+    margin-bottom:3em;
+    font-size: 1.2em;
+    text-align: center;
+    text-indent:0em;
+    }
+.title2
+    {
+     margin-bottom:1.5em;
+    font-size: 1.5em;
+    text-align: center;
+    text-indent:0em;
+    }
+.title3
+    {
+    margin-top:3em;
+    font-size: 1em;
+    text-align: center;
+    text-indent:0em;
+    }
+
+.logo{margin-top:10%;text-align: center;height: 100%;}
+
+.fig{text-align: center;height:100%;}
+
+
+.fig2 {
+	font-size:60%;
+vertical-align:middle;
+	padding:1px;
+	padding-top:1px;
+}
+
+hr {width: 50%; margin-left: 15%;}
+
+.bosluk1{margin-top:1em}
+.bosluk2{margin-top:2em}
+
+h1, h2, h3, .poem p, .title1, .title2, .title3, .kunye p {hyphens: none !important;}
+
+
+
+.footnote
+{
+	font:normal normal .875em Berkeley;
+	margin-bottom:.25em;
+	margin-left:1em;
+	text-align:justify;
+	text-indent:0;
+}
+
+.footnotelabel
+{
+	width:2.5em;
+	float:left;
+	font-size:.93em;
+	line-height:165%;
+}
+
+.footnoteref,.footnotetarget
+{
+	border:1px solid #999;
+	font-size:90%;
+	padding:1px;
+	padding-top:3px;
+}
+
+.footnotecontent
+{
+	padding-left:3em;
+	margin-bottom:10px;
+}
+
+.footnotecontent p
+{
+	text-indent:0;
+	margin-left:5px;
+	vertical-align:middle;
+	page-break-before:avoid;
+	margin-top:1px;
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Çıplak maymun</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Morris, Desmond &amp; Yavuz, Nuran">Desmond Morris</dc:creator>
+    <dc:creator opf:role="aut">Nuran Yavuz</dc:creator>
+    <dc:identifier id="uuid">{85CE87A9-2303-456B-9C00-EB55175C8B39}</dc:identifier>
+    <dc:date>1985-06-15T10:20:10+00:00</dc:date>
+    <dc:publisher>Inkılap</dc:publisher>
+    <dc:description>&lt;p&gt;Zoolog Desmond Morris'in yıllar süren çalışmalarının ürünü olan "ÇIPLAK MAYMUN" tüm dünyada olağanüstü bir ilgi uyandırdı. Pek çok dile çevrilen ve milyonlarca satan "ÇIPLAK MAYMUN"a okurlar tarafından gösterilen bu büyük ilginin sebebi; şimdiye dek ileri sürüldüğü gibi insanın maymundan türemiş bir tür değil, doğrudan doğruya maymun olduğunu açıklamış, kanıtlamış olması... Desmond Morris, insan dediğimiz çıplak maymunun seks, yavru yetiştirme, beslenme, korunma, savaşma ve başka konulardaki davranış modellerinin temel niteliklerini ortaya koyuyor.
+ÇIPLAK MAYMUN her okuyanı şaşırtacak, (belki de kızdıracak), eğlendirecek ve düşündürecek bir eser...
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Biyoloji</dc:subject>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:subject>Antropoloji</dc:subject>
+    <dc:subject>Bilim</dc:subject>
+    <dc:subject>Psikoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">aeb24040-1b09-4af7-b041-2d354aa0eae9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751002570</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751028501</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">gx7cPgAACAAJ</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Çıplak maymun"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Desmond Morris&quot;: &quot;&quot;, &quot;Nuran Yavuz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tsk.xhtml" id="tsk.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/birinci.xhtml" id="birinci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ikinci.xhtml" id="ikinci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ucuncu.xhtml" id="ucuncu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dorduncu.xhtml" id="dorduncu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/besinci.xhtml" id="besinci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/altinci.xhtml" id="altinci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yedinci.xhtml" id="yedinci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sekizinci.xhtml" id="sekizinci.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynaklar.xhtml" id="kaynaklar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bibliografya.xhtml" id="bibliografya.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id14" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/inkilap.jpg" id="inkilap.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="tsk.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="birinci.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="ikinci.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="ucuncu.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="dorduncu.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="besinci.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="altinci.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="yedinci.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="sekizinci.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="kaynaklar.xhtml"/>
+    <itemref idref="bibliografya.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

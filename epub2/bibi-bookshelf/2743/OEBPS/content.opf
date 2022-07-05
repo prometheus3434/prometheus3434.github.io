@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Çankaya: Atatürkʼün doğumundan ölümüne kadar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Atay, Falih Rıfkı">Falih Rıfkı Atay</dc:creator>
+    <dc:date>2004-06-15T11:45:04+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4697d1f3-d158-4227-9a17-4ea46692821b</dc:identifier>
+    <dc:date opf:event="modification">2014-10-17</dc:date>
+    <dc:publisher>Pozitif</dc:publisher>
+    <dc:description>&lt;p&gt;Atatürk’ün doğumundan ölümüne kadar olan hayatı,harp zamanında düşmana ve Cumhuriyet zamanında yaptığı inkilaplarla gericilere karşı verdiği savaşı anlatmaktadır.&lt;/p&gt;</dc:description>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Cumhuriyet Dönemi</dc:subject>
+    <dc:subject>Atatürk</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f57b552c-aac0-4887-9850-6aacc3d26f4b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756461051</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">XcBSmgEACAAJ</dc:identifier>
+    <meta content="Çankaya: Atatürkʼün doğumundan ölümüne kadar" name="calibre:title_sort"/>
+    <meta content="2013-10-12T15:42:12.313000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{&quot;Falih Rıfkı Atay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/content_1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/content_2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/content_3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/content_4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/content_5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/content_6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/content_7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/content_8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/content_9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/content_10.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/content_11.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/CALIBRI.TTF" id="CALIBRI" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

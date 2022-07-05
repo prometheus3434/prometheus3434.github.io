@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="d27c2176-a483-4d64-986a-1ae0e8811304" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Don</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{7D8481F3-3B95-4F57-9631-A9AB026D4CA2}" playOrder="1">
+      <navLabel>
+        <text>Yedinci Gün</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{5EFDFE6F-F613-4167-A677-9473C313398E}" playOrder="2">
+      <navLabel>
+        <text>Dokuzuncu Gün</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{47F647E9-39BA-4AF2-9EA9-4CFA9614C430}" playOrder="3">
+      <navLabel>
+        <text>Ondördüncii Gün</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{4096B55F-6A4B-438D-82FB-C03CC1F76AE2}" playOrder="4">
+      <navLabel>
+        <text>Onaltıncı Gün</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7C394447-4A97-4E09-87AC-26F03C3E6D24}" playOrder="5">
+      <navLabel>
+        <text>Yirminci Gün</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{22121C16-AEDB-47EE-BA98-68DB1EB592EF}" playOrder="6">
+      <navLabel>
+        <text>Yirmicıltıncı Gün</text>
+      </navLabel>
+      <content src="main-6.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

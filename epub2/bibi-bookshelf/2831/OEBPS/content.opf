@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Dede Korkut kitabı (Kitâb-ı Dede Korkut alâ Lisân-ı Tâif'i Oǧuzân)</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Korkut, Kitab-i Dede">Kitab-i Dede Korkut</dc:creator>
+    <dc:publisher>Varlık Yayınevi</dc:publisher>
+    <dc:date>1962-06-15T12:22:29+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:770ae362-e1c4-4b83-99d8-d618da21b614</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">5bd2c140-788b-41b9-86b0-07185e3a2f94</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="GOOGLE">KFBazgEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Dede Korkut kitabı (Kitâb-ı Dede Korkut alâ Lisân-ı Tâif'i Oǧuzân)"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kitab-i Dede Korkut&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub.html" id="dedekorkutkitabi-epub" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-1.html" id="dedekorkutkitabi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-2.html" id="dedekorkutkitabi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-3.html" id="dedekorkutkitabi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/antikturk_fmt.jpeg" id="antikturk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/dedekorkutkitabi-dis.jpg" id="dedekorkutkitabi-dis.jpg" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="dedekorkutkitabi-epub"/>
+    <itemref idref="dedekorkutkitabi-epub-1"/>
+    <itemref idref="dedekorkutkitabi-epub-2"/>
+    <itemref idref="dedekorkutkitabi-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

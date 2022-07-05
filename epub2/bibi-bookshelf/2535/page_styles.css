@@ -1,0 +1,19 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-weight: bold
+    }

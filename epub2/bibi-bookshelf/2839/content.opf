@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Değişimler Serisi Cilt2 Korsan Kral</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R. A.">R. A. Salvatore</dc:creator>
+    <dc:date>2012-06-22T16:07:29+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f9032ba6-bbc7-433a-a96e-04939d3b56d0</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">52a8ff09-bad7-43b8-8a63-668c48340c17</dc:identifier>
+    <meta name="calibre:series" content="Değişimler"/>
+    <meta name="calibre:title_sort" content="Değişimler Serisi Cilt2 Korsan Kral"/>
+    <meta name="calibre:timestamp" content="2012-06-22T16:07:29+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series_index" content="2.0"/>
+    <meta name="calibre:user_categories" content="{&quot;TARİH&quot;: [], &quot;FANTASTİK&quot;: []}"/>
+    <meta name="calibre:author_link_map" content="{&quot;R. A. Salvatore&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="jacket.xhtml" id="calibre_jacket" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="korsan kral.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Title Page"/>
+  </guide>
+</package>

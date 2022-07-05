@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>107 Kimya Öyküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vlasov, L. &amp; Trifonov, D.">L. Vlasov</dc:creator>
+    <dc:creator opf:role="aut">D. Trifonov</dc:creator>
+    <dc:description>&lt;div&gt;107 Kimya Öyküsü'nde Periyodik Çizelgenin yapısı, okurken kendinizi bir tür kimya müzesinde bulacağınız ilginç örneklerle anlatılmaktadır. Elinizdeki kitabın, kimyanın rol oynadığı çeşitli meslek dallarıyla tanışmanıza ve büyüleyici bir bilim dalı olan kimyayı daha yakından tanımanıza yardımcı olacağını umuyoruz.&lt;br&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1997-06-15T11:26:50+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">22d7c5c2-a884-4eab-a75a-98871421ea04</dc:identifier>
+    <dc:date opf:event="modification">2015-06-14</dc:date>
+    <dc:publisher>Tübitak</dc:publisher>
+    <dc:subject>Popüler Bilim</dc:subject>
+    <dc:subject>Kimya</dc:subject>
+    <dc:subject>araştırma</dc:subject>
+    <dc:subject>Bilim</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">56f7070f-ebaf-4b71-8606-04aded66dfcf</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">v1-SzgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754030440</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754030440</dc:identifier>
+    <meta content="107 Kimya Öyküsü" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2014-03-07T13:19:12+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;L. Vlasov&quot;: &quot;&quot;, &quot;D. Trifonov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_000.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_001.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_002.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_003.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_004.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_005.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/107_Kimya_Oykusu_split_006.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/00006.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="Images/00007.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/00008.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/00009.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="Images/00010.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference href="Text/107_Kimya_Oykusu_split_006.html#filepos459669" title="Table of Contents" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

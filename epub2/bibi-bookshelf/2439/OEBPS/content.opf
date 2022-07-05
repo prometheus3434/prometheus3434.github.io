@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ben ve Savunma Mekanizmaları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Freud, Anna">Anna Freud</dc:creator>
+    <dc:description>&lt;p&gt;Ben ve Savunma Mekanizmaları'nı Anna Freud 1936 yılında babasının 80'inci doğum gününe armağan olarak yayımladı. Yazıldığı yıldan beri güncelliğini yitirmeyen kitap, bugün hâlâ gerek çocuk gerekse erişkin psikanalizini öğrenenler için en etkileyici ve yararlı eserlerden biri olma özelliğini koruyor.
+Psikanalizin dört okulu –dürtü kuramı, ben psikolojisi, nesne ilişkileri kuramı ve kendilik psikolojisi– içinde Anna Freud'un kitabı ben psikolojisi okulunun kurucu metinlerinden biri olarak kabul edilir.
+Çocuk analizinin kurucusu sayılan Anna Freud temel eğitiminin öğretmenlik olması nedeniyle ruhsal yapının sağlıklılığa nasıl ulaştığıyla yakından ilgilenmiş, bu eserinde de ruhsal sorunlara nasıl yardımcı olunacağıyla birlikte sağlıklı ruh gelişimi için sosyal boyutta hangi önkoşulların gerekli olduğunu tartışmıştır.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{A0E1F814-AE4C-4399-8EB9-21B4C1AA160A}</dc:identifier>
+    <dc:date>2013-08-03T21:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Psikoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9398a5f4-8d7c-40cf-9226-020910b77ae8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753424936</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="id1"/>
+    <meta name="calibre:title_sort" content="Ben ve Savunma Mekanizmaları"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Anna Freud&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id26" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id25" media-type="text/css"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id26">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

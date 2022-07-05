@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Asıl Adalet</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Eluard, Paul">Paul Eluard</dc:creator>
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:publisher>Evrensel Basım Yayın</dc:publisher>
+    <dc:date>2014-04-10T12:37:22+00:00</dc:date>
+    <dc:subject>Poetry</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Bu kitap; baş sayfalarında Eluardın hayatını özetleyen yazısı, şairin kişiliği ve sanatı üzerine Claude Roy ve Gaeton Picondan Asım Bezircinin çevirileri ile bu alanda örnek bir eser değerini taşıyor. Seçmelerin en ünlü ve titiz şiir ve sanat eserlerimizin çevirilerinden derlenmiş olmasıyla da boşa gitmemiş, kutlanması gereken, ciddi bir çaba."Behçet Necatigil"A. Bezirci ile A.Kadirin "biri edebiyat incelemecisi ve tarihçisi, öbürü şair" ortaklaşa düzenledikleri Eluard, bu büyük çağdaş şairin hem hayat hikayesini, sanatını, kişiliğini, hem de şiirlerinden yapılmış bir seçmeyi veriyor okura. Dergi sayfalarında dağınık, kalakalmış Eluard şiirlerini bu denli bir araya getirmek, şaire karşı olumlu bir davranış. Şaire olduğu kadar Eluard okurlarına da tabii."Tarık Dursun</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b6b364bf-9268-4020-992d-22689b50b7d8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054834884</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">bW5TAwAAQBAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Asıl Adalet"/>
+    <meta name="calibre:author_link_map" content="{&quot;Paul Eluard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg"/>
+    <item href="Images/evrensel_basim_yayin3771.jpg" id="evrensel_basim_yayin3771_jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Alemdağ'da var bir yılan: öykü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Abasıyanık, Sait Faik">Sait Faik Abasıyanık</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">59737fb4-6f1b-412a-8653-6a2c5b649c0d</dc:identifier>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:description>&lt;p&gt;"...Onun hikayelerini okuyup sokağa çıktığımız zaman bir evin damını, uzakta uçan kuşu, yaprakların arasından denizi görünce birileri arkamızdan 'Hişt! Hişt!' diye seslenecek." 
+Oktay Rifat
+
+"... İşte hikayelerimi yazdığımı şimdilik merak eden dostum, yarın incir çekirdeğini doldurmayacak mevzuları yazan bir hikayecinin iyi bir hikayeci olmadığını yazacağına göre, bilmem hikayem oldu mu? Olmadıysa ne yapalım? Bizim hikaye anlayışımız da böyle efendim." diyen büyük yazarın ilk kez 1954'te yayınlanan hikaye kitabı Alemdağ'da Var Bir Yılan yeniden gözden geçirilerek yayına hazırlandı.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-06-15T11:01:02+00:00</dc:date>
+    <dc:date opf:event="modification">2014-05-03</dc:date>
+    <dc:subject>Deneme</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">abbc877d-d0f8-4f64-85eb-67594e498989</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">N_RNzQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750805042</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750803048</dc:identifier>
+    <meta content="Alemdağ'da var bir yılan: öykü" name="calibre:title_sort"/>
+    <meta content="2014-04-28T00:36:31.197000+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Sait Faik Abasıyanık&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="cover" content="Sait_Faik.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="index_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="index_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="index_split_009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="index_split_010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="index_split_011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="index_split_012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="index_split_013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_014.html" id="index_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_015.html" id="index_split_015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_016.html" id="index_split_016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_017.html" id="index_split_017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_018.html" id="index_split_018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_019.html" id="index_split_019.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/Sait Faik.jpg" id="Sait_Faik.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="index_split_001.html"/>
+    <itemref idref="index_split_002.html"/>
+    <itemref idref="index_split_003.html"/>
+    <itemref idref="index_split_004.html"/>
+    <itemref idref="index_split_005.html"/>
+    <itemref idref="index_split_006.html"/>
+    <itemref idref="index_split_007.html"/>
+    <itemref idref="index_split_008.html"/>
+    <itemref idref="index_split_009.html"/>
+    <itemref idref="index_split_010.html"/>
+    <itemref idref="index_split_011.html"/>
+    <itemref idref="index_split_012.html"/>
+    <itemref idref="index_split_013.html"/>
+    <itemref idref="index_split_014.html"/>
+    <itemref idref="index_split_015.html"/>
+    <itemref idref="index_split_016.html"/>
+    <itemref idref="index_split_017.html"/>
+    <itemref idref="index_split_018.html"/>
+    <itemref idref="index_split_019.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Alejandro Zambra - Eve Donmenin Yollari</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="yazar, Bilinmeyen">Bilinmeyen yazar</dc:creator>
+    <dc:identifier id="uuid">{34BD4B9D-479C-4DCA-B8CC-196CC368FF78}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">f2d40876-7151-4170-82a1-ea8ae297c49f</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="Alejandro Zambra - Eve Donmenin Yollari"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bilinmeyen yazar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id6" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="main-2.jpg" id="id2" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="cover.xhtml"/>
+  </guide>
+</package>

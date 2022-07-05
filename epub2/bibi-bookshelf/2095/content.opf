@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Ahmet Taşağıl - Bozkırların İlk İmparatorluğu Hunlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="yazar, Bilinmeyen">Bilinmeyen yazar</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>Hones</dc:description>
+    <dc:date>2021-03-08T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">591432d9-899f-4edd-9efd-5e1b94e50efa</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">faba599d-8a96-44e0-a7c4-542a791c0f5a</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-09-29T09:42:06.262928+00:00"/>
+    <meta name="calibre:title_sort" content="Ahmet Taşağıl - Bozkırların İlk İmparatorluğu Hunlar"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bilinmeyen yazar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TOC.xhtml" href="OEBPS/Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id0" href="OEBPS/Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="OEBPS/Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="OEBPS/Text/main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="OEBPS/Text/main-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="OEBPS/Text/main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="OEBPS/Text/main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="OEBPS/Text/main-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="OEBPS/Text/main-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="OEBPS/Text/main-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="OEBPS/Text/main-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="Big.jpg" href="OEBPS/Images/Big.jpg" media-type="image/jpeg"/>
+    <item id="id11" href="OEBPS/Images/main-2.jpg" media-type="image/jpeg"/>
+    <item id="id12" href="OEBPS/Images/main-3.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="OEBPS/Text/TOC.xhtml" title="İçindekiler"/>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

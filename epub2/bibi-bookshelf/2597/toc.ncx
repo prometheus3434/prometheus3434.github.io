@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="22b5a38a-a5b7-46e1-9263-a84a35dbd47d" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Buluştuğumuz Yer Burası</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Lizbon</text>
+      </navLabel>
+      <content src="OEBPS/Text/lizbon.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Cenevre</text>
+      </navLabel>
+      <content src="OEBPS/Text/cenevre.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Krakow</text>
+      </navLabel>
+      <content src="OEBPS/Text/krakow.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ölülerin Hatırladıkları Kadarıyla Bazı Meyveler</text>
+      </navLabel>
+      <content src="OEBPS/Text/bazimeyveler.xhtml"/>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Kavun</text>
+        </navLabel>
+        <content src="OEBPS/Text/bazimeyveler.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Şeftali</text>
+        </navLabel>
+        <content src="OEBPS/Text/bazimeyveler.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Frenk Eriği</text>
+        </navLabel>
+        <content src="OEBPS/Text/bazimeyveler.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Kiraz</text>
+        </navLabel>
+        <content src="OEBPS/Text/bazimeyveler.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Mürdüm Eriği</text>
+        </navLabel>
+        <content src="OEBPS/Text/bazimeyveler.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Islington</text>
+      </navLabel>
+      <content src="OEBPS/Text/islington.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Le Pont d'Arc</text>
+      </navLabel>
+      <content src="OEBPS/Text/lepont.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Madrid</text>
+      </navLabel>
+      <content src="OEBPS/Text/madrid.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Szum ve Ching</text>
+      </navLabel>
+      <content src="OEBPS/Text/szumveching.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>81/2</text>
+      </navLabel>
+      <content src="OEBPS/Text/81.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="OEBPS/Text/tesekkur.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

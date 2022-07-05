@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Daniel Martin</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Fowles, John">John Fowles</dc:creator>
+    <dc:date>2004-06-15T11:37:51+00:00</dc:date>
+    <dc:description>Spanning three decades and many different countries, 'Daniel Martin' is the account of a contemporary Englishman's attempt to see himself and his time in the mirrors of his past and his present.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">68065821-b5b3-4e91-9d43-40cd7f84525e</dc:identifier>
+    <dc:publisher>Vintage</dc:publisher>
+    <dc:date opf:event="modification">2015-01-31</dc:date>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Aşk</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Çağdaş Edebiyat</dc:subject>
+    <dc:subject>Modern</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">ca293ecd-b738-4964-822e-cd4e41ecf779</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">UwXC0NVdMP0C</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755396606</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9780099478348</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Daniel Martin" name="calibre:title_sort"/>
+    <meta content="2015-01-27T14:41:39.668000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Fowles&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/main-14.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/main-15.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-16.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/main-17.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-18.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

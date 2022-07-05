@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-0EE7AE87-8B4A-4798-8D0D-C6F90D95A6AC" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Büyükanneler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BÜYÜKANNELER</text>
+      </navLabel>
+      <content src="Text/Buyukanneler.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>VİCTORİA VE STAVENEY AİLESİ</text>
+      </navLabel>
+      <content src="Text/Victoria%20ve%20Staveney%20Ailesi.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BUNUN NEDENİ</text>
+      </navLabel>
+      <content src="Text/Bunun%20Nedeni.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>AŞK ÇOCUĞU</text>
+      </navLabel>
+      <content src="Text/Ask%20Cocogu.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

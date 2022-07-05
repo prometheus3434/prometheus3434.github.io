@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="dfce526e-240c-40ba-a152-75f5c81d8201" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bilinmeyen Değer</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{1D5EEDE0-37BE-4A85-B0FA-9FBC0908F34E}" playOrder="1">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{2F096BFC-1206-4F62-825C-27A52CE3AEC4}" playOrder="2">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{1FD2431B-D213-44BD-B993-543EDAFDB37E}" playOrder="3">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{174B2B68-7890-429D-BE1E-FFB75534D103}" playOrder="4">
+      <navLabel>
+        <text>beşinci bölüm</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{54DFC64B-F950-4DE9-9F54-848789E2FD00}" playOrder="5">
+      <navLabel>
+        <text>BÖLÜM II</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{9C0F39A5-E68E-4E26-A1CE-84C88B85B616}" playOrder="6">
+      <navLabel>
+        <text>BÖLÜM 111</text>
+      </navLabel>
+      <content src="main-6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{4C48F069-5025-45C1-94D2-BB13F90BC41F}" playOrder="7">
+      <navLabel>
+        <text>BÖLÜM IV</text>
+      </navLabel>
+      <content src="main-7.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

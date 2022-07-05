@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bahara Kadar Bekle Bandini</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Fante, John">John Fante</dc:creator>
+    <dc:identifier id="uuid">{89E33366-D4A1-481A-B6D3-FA9BCD5A517F}</dc:identifier>
+    <dc:date>2003-03-06T22:00:00+00:00</dc:date>
+    <dc:publisher>Parantez Gazetecilik ve Yayıncılık</dc:publisher>
+    <dc:date opf:event="modification">2015-03-08</dc:date>
+    <dc:description>&lt;p&gt;Nereye şimdi, Bandini? Kısa bir süre önce, kırk beş dakika önce, Tanrı şahidi, bir daha asla dönmemek üzere hızla inmişti o yolu. Kırk beş dakika-bir saat bile değil, ama çok kötü şeyler olmuştu ve sonsuza dek unutmayı umduğu o yolu geri yürüyordu şimdi. Maria, ne yaptın? Svevo Bandini, yüzünü kanlı bir mendille gizlemiş; kar taneleriyle konuşarak Dul Hildegarde'nin evine giden yokuşu tırmanırken Kış'ın öfkesi de onu gizliyor. Kar tanelerine anlat öyleyse, Bandini; soğuktan donmuş ellerini sallayarak anlat onlara. Hıçkıra hıçkıra ağlıyordu Bandini-olgun bir adam, kırk iki yaşında, ağlıyordu çünkü Noel Gecesi'ydi ve günahına dönüyordu, çünkü çocuklarıyla birlikte olamayacaktı. Ne yaptın, Maria?
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Çağdaş Edebiyat</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5aba6ed1-5a2a-4a9d-bfbb-30d62dd7719f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758441983</dc:identifier>
+    <meta content="Bahara Kadar Bekle Bandini" name="calibre:title_sort"/>
+    <meta content="{&quot;John Fante&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id2"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/00.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/john_fante.jpg" id="id17" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id18"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

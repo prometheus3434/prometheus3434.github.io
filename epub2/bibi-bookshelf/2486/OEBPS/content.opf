@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bir Beyoğlu düşü ; Berlin'de sanrı ; Kanallar: toplu anlatılar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Özlü, Demir">Demir Özlü</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c686057b-1a00-4625-b543-7be7d0b8fb1f</dc:identifier>
+    <dc:date>2011-06-15T10:16:24+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Gençliğin bunaltılı erotizmiyle dolu Beyoğlu, Kleist'ın izinde Wannsee'de yaşanan şiddetli aşk, Kierkegaard'a yaslı yaşam-ölüm, aşk-cinsellik sorunlarının deşildiği Amsterdam... Özlü, anlatılarında düşlerin izini sürerken bir yandan da melankoli desenliyor. Üç anlatı bir arada okunduğunda birbirine sıkı sıkıya bağlı oldukları, ortak bir duyguları besledikleri görülüyor.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">65ea64aa-ef29-4779-a913-b0d45f96eba6</dc:identifier>
+    <dc:identifier opf:scheme="IISBN">9754582394</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750819681</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">dVEUywAACAAJ</dc:identifier>
+    <meta content="Beyoğlu düşü ; Berlin'de sanrı ; Kanallar: toplu anlatılar, Bir" name="calibre:title_sort"/>
+    <meta content="2014-01-13T20:59:09.739000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Demir Özlü&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/bir beyoglu dusu.htm" id="bir_beyoglu_dusu.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/son.jpg" id="son.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="bir_beyoglu_dusu.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0003.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>

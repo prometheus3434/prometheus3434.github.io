@@ -1,0 +1,16 @@
+@charset utf-8;
+/* Styles for Berenis&apos;in Saçları */
+p {
+  font-size:0.85em;
+	margin-top:0em;
+  margin-bottom:0em;
+  text-indent:0em;
+  text-align:left;
+}
+
+.baslik{text-indent: 0em;text-align:center;font-weight:bold;font-size:1em;margin-bottom:0.5em;}
+.td_baslik{font-weight:bold;font-size:0.9em;margin-bottom:0.3em;margin-top:0.3em;}
+.tablo{
+  border: 1px solid black;
+  width:85%;
+  }

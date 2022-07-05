@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Darwinya</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Wilson, Robert Charles">Robert Charles Wilson</dc:creator>
+    <dc:identifier id="uuid">{936E79F6-5F6E-4298-A25A-1DB06F34FCB3}</dc:identifier>
+    <dc:date>2014-12-27T22:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Kazandığı ödüller arasında John W. Campbell Anma Ödülü, Philip K. Dick Ödülü, Theodore Sturgeon Anma Ödülü bulunan ve yaşayan en iyi bilimkurgu yazarlarından biri olan Robert Charles Wilson'dan, mucize kıta Darwinya'nın gizemli öyküsünün anlatıldığı nefes kesici bir roman.
+
+1912'de insanlık tarihi bir mucizeyle altüst olur. Avrupa topraklarında artık Darwinya adlı yeni bir kıta ortaya çıkmıştır. Amerika'dan Darwinya'ya keşfe giden Guilford Law, hayal edebileceğinin çok ötesinde bir kaderle yüz yüze gelir. Usta yazar Robert C. Wilson, çok farklı bir yirminci yüzyılı anlattığı bu bilimkurgu romanında, sadece tarihe ve evrime bir alternatif getirmiyor, aynı zamanda modern insanın ve yaşadığımız dünyanın "öteki"sine yönelik tekinsiz bir yorum sunuyor.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">422d219b-2edb-4077-a4f8-98b9d05bbc18</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053753995</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Darwinya"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Charles Wilson&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/drw.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

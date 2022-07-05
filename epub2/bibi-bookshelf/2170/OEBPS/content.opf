@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Altın Işık</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gökalp, Ziya">Ziya Gökalp</dc:creator>
+    <dc:publisher>Antik Kitap</dc:publisher>
+    <dc:date>2018-02-28T12:32:50+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8e6f3a13-70ea-46e0-a84e-5336811ad802</dc:identifier>
+    <dc:date opf:event="modification">2014-09-09</dc:date>
+    <dc:description>Manzum ve mensur hikâyelerin bir araya geldiği Altın Işık&amp;#39;ta Ziya Gökalp&amp;#39;in babaannesinden dinlediği masallar vardır. Doğruluk dürüstlük gibi değerlerin kuşaktan kuşağa aktarılması aile bağlarının korunması kötülere boyun eğilmemesi gibi erdemlere yapılan vurgu kitabın hemen her sayfasında derinden hissedilir. Altın Işık Türkiye Cumhuriyeti&amp;#39;nin kurucu ideolojisini oluşturan fikir adamlarından biri olan Ziya Gökalp&amp;#39;in halk edebiyatına yöneliş biçimini göstermesi açısından da dikkatle incelenmesi gereken bir çalışmadır.</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e9cee382-9773-4bb1-ab65-c8919ee08be6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054985821</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">LV-IDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055588830</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Altın Işık"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ziya Gökalp&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_000.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_001.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_002.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_003.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_004.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_005.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_006.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_007.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_008.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_009.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_010.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_011.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_012.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Altin Isik_split_013.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-2" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

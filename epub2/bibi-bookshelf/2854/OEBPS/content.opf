@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Delilik Nedir?</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Leader, Darian">Darian Leader</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:dbad7b6b-244c-45e6-9cd2-ece8b7dcb6ca</dc:identifier>
+    <dc:publisher>Encore Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">54942cc6-c1e7-451a-bb11-e85bd993022d</dc:identifier>
+    <meta content="Adobe InDesign 9.0" name="generator"/>
+    <meta name="calibre:title_sort" content="Delilik Nedir?"/>
+    <meta name="calibre:author_link_map" content="{&quot;Darian Leader&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="kapak_fmt.jpeg"/>
+  </metadata>
+  <manifest>
+    <item href="kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="6-1.xhtml" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="6-2.xhtml" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="6-3.xhtml" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="6-4.xhtml" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="6-5.xhtml" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="6-6.xhtml" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="6-7.xhtml" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="6-8.xhtml" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="6-9.xhtml" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="6-10.xhtml" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="6-11.xhtml" id="x6-11" media-type="application/xhtml+xml"/>
+    <item href="6-12.xhtml" id="x6-12" media-type="application/xhtml+xml"/>
+    <item href="6-13.xhtml" id="x6-13" media-type="application/xhtml+xml"/>
+    <item href="6-14.xhtml" id="x6-14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x6-11"/>
+    <itemref idref="x6-12"/>
+    <itemref idref="x6-13"/>
+    <itemref idref="x6-14"/>
+  </spine>
+  <guide>
+    <reference href="image/kapak_fmt.jpeg" type="cover"/>
+  </guide>
+</package>

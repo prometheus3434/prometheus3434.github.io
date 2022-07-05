@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Avalon'un Tüfekleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:507b9a28-fcb1-4357-a3e6-7095dcc25aaa</dc:identifier>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2001-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="trl">BARIŞ E. ALKIM</dc:contributor>
+    <dc:date opf:event="modification">2015-01-25</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Sadece Bir Tek Gerçek Dünya Var. Diğerleri -Yaşadığımız Dünya Da Dahil- Gölgelerden İbaret...
+
+Gözlerini bir hastane odasında açan ve vücudunun sargılar içinde olduğunu gören Carl Corey, geçmişine dair hiçbir şey hatırlamamaktadır. İnsanüstü kuvveti ve siyah-gri kıyafetlere düşkünlüğü dışında, elinde geçmişine ait pek az ipucu vardır.
+Arayışı, onu hiç ummadığı gerçeklerle yüzleştirir: Yaşadığımız dünya, ölümsüz şehir Amber'in sayısız gölgelerinden yalnızca biri; kendisi de iradesiyle gerçekliğe yön verebilen Amber Prensi Corwin'dir. Hafızasını yitirmiş bir şekilde asırlar boyunca dünyamızda dolanmış olan Corwin, geçmişini araştırdıkça, iktidar uğruna hiçbir entrikadan, savaştan ve cinayetten sakınmayan ölümsüz kardeşlerinin, sayısız dünyayı, sihri, teknolojiyi ve yaratığı içine sürükleyen mücadelesinin tam ortasında bulur kendisini.
+
+Amber Yıllıkları toplam 10 kitaptan oluşmaktadır. İthaki Yayınları bu 10 kitabı, 3 cilt halinde yayımlayacaktır. Ekim ayında yayımlanmış olan birinci ciltte yer alan kitapların isimleri şöyledir:
+1. Kitap: Amber'de Dokuz Prens
+2. Kitap: Avalon'un Tüfekleri
+3. Kitap: Tekboynuz'un İşareti&lt;/p&gt;</dc:description>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8725bc00-1f04-47c9-984d-c39bf7dce2f7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9758607383</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:507b9a28-fcb1-4357-a3e6-7095dcc25aaa</dc:identifier>
+    <meta content="0.8.0" name="Sigil version"/>
+    <meta name="cover" content="avalon.jpg"/>
+    <meta content="Avalon'un Tüfekleri" name="calibre:title_sort"/>
+    <meta content="Amber Yıllıkları" name="calibre:series"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Roger Zelazny&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icbaslik.html" id="icbaslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Cilt_ismi.html" id="Cilt_ismi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri1.html" id="AvalonunTufekleri1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri2.html" id="AvalonunTufekleri2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri3.html" id="AvalonunTufekleri3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri4.html" id="AvalonunTufekleri4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri5.html" id="AvalonunTufekleri5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri6.html" id="AvalonunTufekleri6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri7.html" id="AvalonunTufekleri7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri8.html" id="AvalonunTufekleri8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri9.html" id="AvalonunTufekleri9.html" media-type="application/xhtml+xml"/>
+    <item href="Text/AvalonunTufekleri10.xhtml" id="AvalonunTufekleri10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.html" id="Yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar_Hakkinda.html" id="Yazar_Hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/avalon.jpg" id="avalon.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="icbaslik.html"/>
+    <itemref idref="Cilt_ismi.html"/>
+    <itemref idref="AvalonunTufekleri1.html"/>
+    <itemref idref="AvalonunTufekleri2.html"/>
+    <itemref idref="AvalonunTufekleri3.html"/>
+    <itemref idref="AvalonunTufekleri4.html"/>
+    <itemref idref="AvalonunTufekleri5.html"/>
+    <itemref idref="AvalonunTufekleri6.html"/>
+    <itemref idref="AvalonunTufekleri7.html"/>
+    <itemref idref="AvalonunTufekleri8.html"/>
+    <itemref idref="AvalonunTufekleri9.html"/>
+    <itemref idref="AvalonunTufekleri10.xhtml"/>
+    <itemref idref="Yayinevi.html"/>
+    <itemref idref="Yazar_Hakkinda.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

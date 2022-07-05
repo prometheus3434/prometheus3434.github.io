@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Attila</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4db51e68-8783-4837-aaf0-7f5648c7fac3</dc:identifier>
+    <dc:publisher>Ötüken Neşriyat A.Ş.</dc:publisher>
+    <dc:date>2010-10-04T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-24</dc:date>
+    <dc:description>Attilâ, Peyami Safa&amp;#39;nın yegâne tarihî romanıdır. Peyami Safa bu romanıyla, Attilâ gibi büyük bir Türk cihangirinin devrine ve kişiliğine ilk defa bir Türk gözüyle bakmış, Batı dünyasının “geçtiği yerde ot bitmez” diye karaladığı bir devlet adamı ve kumandanını Türk gözüyle tasvir etmiştir. Peyami Safa, Attilâ’yı yazarken yabancı kaynaklardan ve özellikle Bizans tarihçilerinin verdiği bilgilerden oldukça istifade etmiştir. Çelik iradeli, demir disiplinli bu Türk hakanının yalnızca bir devlet adamı ve kumandan olarak değil, şahsî ilişkilerde yumuşak huylu, engin merhametli ve kendisine sığınanlara karşı ne kadar hassas yürekli bir insan olduğunu da göstererek, onu efsanelerin örtüsünden sıyırıp gerçek bir tarihî şahsiyet olarak karşımıza çıkarmıştır. Belki de bütün bunlardan daha önemlisi; Peyami Safa, Attilâ’nın şahsında, Türk cihan hâkimiyeti ülküsünün izlerini ve bozulmuş bir dünyaya yeniden nizam verme iradesini ortaya koymuştur.[Ötüken Neşriyat A.Ş.]</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Attila</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Türk</dc:subject>
+    <dc:subject>Orjinal</dc:subject>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e8ae8623-9552-4c0e-adec-897fbc892c49</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051550862</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754377842</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:4db51e68-8783-4837-aaf0-7f5648c7fac3</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">kCjvDAAAQBAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_Attila.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Attila" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Peyami Safa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/attila.xhtml" id="attila" media-type="application/xhtml+xml"/>
+    <item href="Text/attila-1.xhtml" id="attila-1" media-type="application/xhtml+xml"/>
+    <item href="Text/attila-2.xhtml" id="attila-2" media-type="application/xhtml+xml"/>
+    <item href="Text/attila-3.xhtml" id="attila-3" media-type="application/xhtml+xml"/>
+    <item href="Text/attila-4.xhtml" id="attila-4" media-type="application/xhtml+xml"/>
+    <item href="Text/attila-5.xhtml" id="attila-5" media-type="application/xhtml+xml"/>
+    <item href="Text/attila-6.xhtml" id="attila-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/attila_idstyles.css" id="attila_idstyles.css" media-type="text/css"/>
+    <item href="Images/_Attila.jpg" id="_Attila.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="attila"/>
+    <itemref idref="attila-1"/>
+    <itemref idref="attila-2"/>
+    <itemref idref="attila-3"/>
+    <itemref idref="attila-4"/>
+    <itemref idref="attila-5"/>
+    <itemref idref="attila-6"/>
+  </spine>
+</package>

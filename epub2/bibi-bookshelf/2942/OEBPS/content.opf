@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Dolandırıcılar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sade, Marquis de">Marquis de Sade</dc:creator>
+    <dc:publisher>Kafekültür Yayincilik</dc:publisher>
+    <dc:date>2013-01-15T12:55:30+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8a4be155-f15b-48e2-9c21-cc672feb9e83</dc:identifier>
+    <dc:date opf:event="modification">2015-05-01</dc:date>
+    <dc:description>Simone de Beauvoir sordu: Sade&amp;#39;yi Yakmalı mı? Diğer yazarlar, Sade 150 yıl yasaklandıktan sonra onda radikal bir felsefenin izlerini bulmaya çalıştılar. Cinselliği odak noktası motif olarak gören Sigmund Freud&amp;#39;un psikanalizinin öncülü olarak da görüldü Sade. Sürrealistler onu selamladılar ve Guillaume Apollinaire onun için şöyle dedi: &amp;quot;Dünyaya gelmiş olan en özgür ruh&amp;quot; dendi.“Birçok dikkatsiz kadın, kendilerine bir sevgili bulmaksızın ve kocalarını da karşılarına almaksızın, her türlü cilveleşme yöntemine açıktır. Ama bu yöntemle kendilerini, bekleyen kaçınılmaz sondan daha tehlikeli bir sona sürüklerler. Bu bağlamda, sözünü açtığımız bu konuya en çok uyacak olay ise kuşkusuz Languedovc markizinin başına gelenlerdir.Aklı bir karış havada, delidolu, neşeli ve açık görüşlü nazik bayan Guissac, Aumela baronuyla yaptığı mektup alışverişlerinin bir sorun yaratmayacağına inanıyordu. Böyle düşünmesinin başlıca nedeni bu mektupların zaten ortaya çıkmayacağına olan inancıydı; hatta bayan Guissac’a göre bu mektuplar bir gün ortaya çıkacak olursa da kocasına şöyle veya böyle masumiyetini kanıtlayacağına inanıyordu. Ancak yanılıyordu...”</dc:description>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Short Stories (single author)</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b2e0424c-a32e-41c3-a102-90d9e60089ba</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">EzfpDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055229955</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055229955</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2013-01-15T12:55:30.037000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dolandırıcılar"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Marquis de Sade&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_000.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_001.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_002.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_003.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_004.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_005.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_006.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_007.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_008.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_009.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_010.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/dolandiricilar_split_011.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

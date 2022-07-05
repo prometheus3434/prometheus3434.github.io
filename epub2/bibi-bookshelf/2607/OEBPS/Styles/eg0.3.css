@@ -1,0 +1,359 @@
+@font-face {
+    font-family: 'Bookerly';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/bookerly-regular.otf');
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/bookerly-bold.otf');
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/bookerly-bold-italic.otf');
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/bookerly-italic.otf');
+}
+/*gövde,paragraf*/
+body {
+  font-family: 'Bookerly';
+  text-align: justify;
+  text-indent: 1em;
+  margin-left: 1.1em;
+  margin-right: 1.1em;
+  line-height: 1.3em;
+}
+.giris {
+  font-family: 'Bookerly';
+  text-align: justify;
+  text-indent: 0em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+  line-height: 1.2em;
+}
+p {
+  font-size: medium;
+  text-indent: 1em;
+  margin-top: 0em;
+  margin-bottom: 0.2em;
+  line-height: 1.3em;
+  orphans: 2;
+  widows: 2;
+}
+p.kitap-adi {
+  font-size: large;
+  margin-top: 4em;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+p.yayıevi {
+  font-size: small;
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+p.quotename {
+  display: block;
+  text-align: right;
+  text-indent: 1em;
+  font-style: italic;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+p.quote {
+  display: block;
+  text-align: right;
+  text-indent: -10%;
+  font-style: italic;
+  padding: 0.5em;
+}
+p.noindent {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 6%;
+  text-indent: 0%;
+}
+.blok {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 1em;
+  text-align: center;
+}
+.poetry {
+display: block;
+padding: 30px;
+font-style: italic; 
+}
+p.center {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+  text-indent: 0%;
+}
+.left {
+	text-indent:0%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-align:left;
+	margin-right:0%;
+	font-family:monospace;
+	font-weight:bold;
+}
+.center {
+	text-indent:0%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-align:center;
+	margin-right:0%;
+	font-weight:bold;
+}
+.right {
+	text-indent:0%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-align:right;
+	margin-right:20%;
+	font-family:monospace;
+	font-weight:bold;
+}
+.uline{
+	text-decoration: underline;
+}
+.nob{
+	margin-bottom:0em;
+}
+.not{
+	margin-top:0em;
+}
+.notb{
+	margin-top:0em;
+	margin-bottom:0em;
+}
+/*bölüm numara, başlık*/
+h2.bölüm-no {
+  font-family: 'Bookerly';
+  font-weight: bold;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+h2.bölüm-ad {
+  font-family: 'Bookerly';
+  font-weight: bold;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+/*Kitap adı, yazar, yayınevi*/
+p.yayınevi {
+  text-align: center;
+  line-height: 1.1em;
+}
+h1 {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+}
+.chaptername {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  line-height: 1em;
+  display: block;
+}
+.chapternumber {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+}
+h2 {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+}
+h3 {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+  font-weight: normal;
+}
+h4 {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+}
+h5 {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1em;
+  display: block;
+
+}
+h6 {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1em;
+  display: block;
+}
+h1.story {
+  font-family: 'Bookerly';
+  text-align: center;
+  font-size: 2em;
+  margin-top: 3em;
+  margin-bottom: 0em;
+  line-height: 1em;
+  display: block;
+  font-weight: normal;
+}
+h2.author {
+  font-family: 'Bookerly';
+  text-align: right;
+  font-size: 1em;
+  margin-top: 0em;
+  margin-bottom: 2em;
+  line-height: 1em;
+  display: block;
+  font-weight: normal;
+}
+h3.subhead {
+  font-family: 'Bookerly';
+  text-align: center;
+  margin-top: 0em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  display: block;
+  font-weight: normal;
+}
+/*logo, resim, harita*/
+p.logo {
+  margin-top: 1em;
+  text-indent: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+.publish {
+  font-size: small;
+  text-align: center;
+  text-indent: 1em;
+  margin-top: 1em;
+  margin-bottom: 0;
+  line-height: 1em;
+  orphans: 2;
+  widows: 2;
+}
+.mektup{
+    float:left;
+    font-size:300%;
+    margin-top:0.2em;
+    margin-left:0.5em;
+    margin-bottom:0.2px;    
+}
+
+.ilkharf{
+   font-family: 'Bookerly';
+	font-size:1.5em;
+	font-style:bold;
+}
+
+.baslik{
+   font-family: 'Bookerly';	
+   text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:3em;
+	margin-top:2em;
+	margin-bottom:0.5em;
+}
+
+.baslik2{
+   font-family: 'Bookerly';
+	text-align:center;
+	font-style:bold;
+	font-size:1.6em;
+	text-indent:0em;
+	margin-top:4em;
+	margin-bottom:2em;
+}
+
+.baslik3{
+   font-family: 'Bookerly';
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1.4em;
+	margin-top:0.5em;
+	margin-bottom:2em;
+}
+
+.baslik4{
+   font-family: 'Bookerly';
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1.2em;
+	margin-top:0.5em;
+	margin-bottom:1.5em;
+}
+.baslik5{
+   font-family: 'Bookerly';
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1em;
+	margin-top:0.5em;
+	margin-bottom:2em;
+}
+
+.p1{
+	text-indent:0em;
+}
+
+
+
+

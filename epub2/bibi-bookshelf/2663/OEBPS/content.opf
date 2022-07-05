@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Can kırıkları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Karakaşlı, Karin">Karin Karakaşlı</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c3c682e3-e92f-49f0-8bac-1ab6f7b4c63b</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2002-06-15T12:26:25+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">87067154-24c5-4ce3-9297-633b7a7340d9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752930384</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">BB-QbwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c3c682e3-e92f-49f0-8bac-1ab6f7b4c63b</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Can kırıkları"/>
+    <meta name="calibre:author_link_map" content="{&quot;Karin Karakaşlı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/CAN_KIRIKLARI.xhtml" id="CAN_KIRIKLARI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/CAN_KIRIKLARI-1.xhtml" id="CAN_KIRIKLARI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI.xhtml" id="YERIN_SESI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI-1.xhtml" id="YERIN_SESI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI-2.xhtml" id="YERIN_SESI-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YERIN_SESI-3.xhtml" id="YERIN_SESI-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALACAKARANLIK_KADINLARI.xhtml" id="ALACAKARANLIK_KADINLARI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALACAKARANLIK_KADINLARI-1.xhtml" id="ALACAKARANLIK_KADINLARI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ALACAKARANLIK_KADINLARI-2.xhtml" id="ALACAKARANLIK_KADINLARI-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YABANCI.xhtml" id="YABANCI.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YABANCI-1.xhtml" id="YABANCI-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YABANCI-2.xhtml" id="YABANCI-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC.xhtml" id="GOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC-1.xhtml" id="GOC-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC-2.xhtml" id="GOC-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GOC-3.xhtml" id="GOC-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="CAN_KIRIKLARI.xhtml"/>
+    <itemref idref="CAN_KIRIKLARI-1.xhtml"/>
+    <itemref idref="YERIN_SESI.xhtml"/>
+    <itemref idref="YERIN_SESI-1.xhtml"/>
+    <itemref idref="YERIN_SESI-2.xhtml"/>
+    <itemref idref="YERIN_SESI-3.xhtml"/>
+    <itemref idref="ALACAKARANLIK_KADINLARI.xhtml"/>
+    <itemref idref="ALACAKARANLIK_KADINLARI-1.xhtml"/>
+    <itemref idref="ALACAKARANLIK_KADINLARI-2.xhtml"/>
+    <itemref idref="YABANCI.xhtml"/>
+    <itemref idref="YABANCI-1.xhtml"/>
+    <itemref idref="YABANCI-2.xhtml"/>
+    <itemref idref="GOC.xhtml"/>
+    <itemref idref="GOC-1.xhtml"/>
+    <itemref idref="GOC-2.xhtml"/>
+    <itemref idref="GOC-3.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

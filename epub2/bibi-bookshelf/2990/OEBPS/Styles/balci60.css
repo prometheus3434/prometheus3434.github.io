@@ -1,0 +1,46 @@
+@page{margin-left:0.2cm;margin-right:0.2cm;margin-top:0.2cm;margin-bottom:0.2cm}
+body{margin:0}
+p{
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:0;margin-left:0;text-align:center}
+.p2{text-indent:1.4em;margin-left:0}
+.p3{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p4{text-indent:0;margin-left:2.4em;text-align:left}
+.p5{text-indent:0;margin-left:0}
+.p6{text-indent:0;margin-left:0;line-height:100%;text-align:right;margin-top:0;margin-bottom:0}
+.p8{text-indent:0;margin-left:0;line-height:100%;margin-top:0;margin-bottom:0}
+.p9{text-indent:-.95em;margin-left:.95em;line-height:100%;margin-top:0;margin-bottom:0}
+.p10{text-indent:1.2em;line-height:100%;margin-top:0;margin-bottom:0}
+.p11{text-indent:0;margin-left:2.4em;margin-right:2.4em}
+.p12{text-indent:0}
+h1{text-indent:0;margin-left:0;line-height:110%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.5em;margin-bottom:.5em;font-family:Alegreya,monospace;font-size:109%;font-weight:normal}
+.h11{text-indent:0}
+.t2{font-size:.83em;line-height:110%;font-weight:bold}
+.t3{font-family:Arial,sans-serif;font-size:.83em;line-height:110%;font-weight:bold}
+.t4{font-family:Arial,sans-serif;font-size:.83em;line-height:110%;font-weight:bold;font-style:italic}
+.t5{font-family:Arial,sans-serif;font-size:.83em;line-height:110%}
+.t6{font-family:Arial,sans-serif;font-size:.83em;line-height:110%;font-style:italic}
+.t7{font-size:.83em;line-height:100%;font-style:italic}
+.t8{font-size:.83em;line-height:100%}
+.t9{font-size:.83em;line-height:110%}
+.t10{font-size:1.3em;line-height:100%}
+.t11{font-size:2em;line-height:100%}
+.t13{font-size:.83em;line-height:110%;font-style:italic}
+.t14{vertical-align:-.5em}
+.t15{font-style:italic}
+.t16{font-style:italic}
+.t17{font-weight:bold}
+.t18{font-weight:bold}
+.t19{font-size:.65em;line-height:110%;font-weight:bold;vertical-align:super}
+.t20{font-size:.65em;line-height:100%;font-weight:bold;vertical-align:super}
+.t21{font-size:.75em;line-height:100%;font-weight:bold}
+.t22{font-size:.75em;line-height:100%;font-weight:bold;font-style:italic}
+.t23{font-size:.65em;line-height:110%;vertical-align:super}
+.t24{font-size:.92em;line-height:110%}
+.t25{font-size:.92em;line-height:110%;font-style:italic}

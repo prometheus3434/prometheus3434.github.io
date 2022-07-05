@@ -1,0 +1,57 @@
+@font-face {
+	src: url(../Fonts/Times-New-Roman.ttf);
+	font-family: "Times New Roman"
+}
+
+@font-face {
+	src: url(../Fonts/Constantia-Italic.ttf);
+	font-family: "Constantia";
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Sylfaen.ttf);
+	font-family: "Sylfaen"
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman-Bold.ttf);
+	font-family: "Times New Roman";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(../Fonts/Courier-New-Bold-Italic.ttf);
+	font-family: "Courier New";
+	font-weight: bold;
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman-Italic.ttf);
+	font-family: "Times New Roman";
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Franklin-Gothic-Medium.ttf);
+	font-family: "Franklin Gothic Medium"
+}
+
+@font-face {
+	src: url(../Fonts/AngsanaUPC-Italic.ttf);
+	font-family: "AngsanaUPC";
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Tahoma-Bold.ttf);
+	font-family: "Tahoma";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(../Fonts/Franklin-Gothic-Medium-Italic.ttf);
+	font-family: "Franklin Gothic Medium";
+	font-style: italic
+}

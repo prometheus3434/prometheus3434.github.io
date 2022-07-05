@@ -1,0 +1,248 @@
+@font-face {
+  font-family: "Cambria";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/CAMBRIA.TTF);
+  }
+@font-face {
+  font-family: "Cambria";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/CAMBRIAB.TTF);
+  }
+@font-face {
+  font-family: "Cambria";
+  font-style: italic;
+  font-weight: bold;
+  src: url(../Fonts/CAMBRIAZ.TTF);
+  }
+@font-face {
+  font-family: "Cambria";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/CAMBRIAI.TTF);
+  }
+@page {
+  margin-left: 0.3cm;
+  margin-right: 0.3cm;
+  margin-top: 0.3cm;
+  margin-bottom: 0.3cm;
+  }
+body {
+  margin: 0;
+}
+p {
+  text-indent: 1.4em;
+  margin-left: 0;
+  line-height: 110%;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-family: Cambria, serif;
+  font-size: 109%;
+}
+.p0 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p1 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4.5em;
+}
+.p2 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+}
+.p3 {
+  text-indent: 0;
+  margin-left: 0;
+  line-height: 108%;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 0.67em;
+}
+.p5 {
+  text-indent: 0;
+  margin-left: 0;
+  line-height: 100%;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p6 {
+  text-indent: 0;
+  margin-left: 0;
+  line-height: 100%;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+.p7 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+.p8 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 2.5em;
+}
+.p9 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4em;
+}
+.p10 {
+  text-indent: 3.5em;
+  margin-left: 0;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p11 {
+  text-indent: 3.5em;
+  margin-left: 0.92em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p12 {
+  text-indent: 0;
+  margin-left: 0;
+}
+.p13 {
+  text-indent: 1.4em;
+  line-height: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p14 {
+  text-indent: 1.4em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p15 {
+  text-indent: 1.4em;
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+.p16 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 1.5em;
+}
+.p17 {
+  text-indent: 0;
+  margin-left: 0;
+  line-height: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.p18 {
+  text-indent: -0.95em;
+  margin-left: 1.4em;
+}
+.p19 {
+  text-indent: -0.95em;
+  margin-left: 1.4em;
+  margin-top: 1.5em;
+}
+.p20 {
+  text-indent: 0;
+}
+h1 {
+  text-indent: 0;
+  margin-left: 0;
+  line-height: 108%;
+  margin-right: 0;
+  text-align: center;
+  page-break-after: avoid;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  font-family: Cambria, serif;
+  font-size: 145%;
+  font-weight: bold;
+}
+.h11 {
+  text-indent: 0;
+}
+h2 {
+  text-indent: 0;
+  margin-left: 0;
+  line-height: 108%;
+  margin-right: 0;
+  page-break-after: avoid;
+  margin-top: 2.3em;
+  margin-bottom: 0.92em;
+  font-family: Cambria, serif;
+  font-size: 118%;
+  font-weight: bold;
+}
+.h21 {
+  text-indent: 0;
+}
+.t1 {
+  font-weight: bold;
+}
+.t2 {
+  font-size: 1.3em;
+  line-height: 110%;
+  font-weight: bold;
+}
+.t3 {
+  font-size: 1.3em;
+  line-height: 108%;
+  font-weight: bold;
+}
+.t4 {
+  font-size: 0.75em;
+  line-height: 100%;
+}
+.t5 {
+  font-size: 0.75em;
+  line-height: 110%;
+}
+.t6 {
+  font-size: 0.83em;
+  line-height: 110%;
+}
+.t7 {
+  font-size: 2.2em;
+  line-height: 110%;
+  font-weight: bold;
+}
+.t8 {
+  font-size: 0.92em;
+  color: black;
+  text-decoration: none;
+  line-height: 110%;
+}
+.t10 {
+  font-style: italic;
+}
+.t11 {
+  font-weight: bold;
+  font-style: italic;
+}
+.t13 {
+  font-weight: bold;
+  font-style: italic;
+}
+td {
+  border-style: solid;
+  border-width: 2px;
+}
+table {
+  border-collapse: collapse;
+}

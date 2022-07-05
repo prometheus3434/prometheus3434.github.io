@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750723032" name="dtb:uid"/>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Çaresaz</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Kısaltmalar</text>
+         </navLabel>
+         <content src="Text/kisaltma.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Sunuş</text>
+         </navLabel>
+         <content src="Text/introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>1. Çaresaz’ın küçüklüğü ve gençliği</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>2. [Münir]</text>
+         </navLabel>
+         <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>3. Münir hasta oluyor</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>4. İmam nikâhı ve resmî nikâh</text>
+         </navLabel>
+         <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>5. Çift kadınlı ev</text>
+         </navLabel>
+         <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Başvurulan kaynaklar</text>
+         </navLabel>
+         <content src="Text/bibliography.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

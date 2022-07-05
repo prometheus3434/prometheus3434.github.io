@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Ak TavusKuşu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="D.H.Lawrence">D.H.Lawrence</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d854b54f-1254-4489-b6dd-6ef909a3340c</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Yolumuza devam ederken, 'Böyle bir alacakaranlıkta aşkın büyüsüne kapıldığını ve sevgilinle yeri göğü birbirine kattığını bir hayal etsene,' dedim. Ancak düşen ağacın yanına gittiğimizde, o düşündüğümüz türden âşıklarla değil de boylu boyunca uzanmış, uykusunda mırıldanan bir adamla karşılaştık. Başını, kırık dalı büyük bir özenle süsleyen küçük yabani sardunyalara yaslamıştı; şapkası da kır saçlarından bir kenara düşmüştü."&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Lawrence'ın daha sonraki eserlerinde de ayrıntılı ve yoğun bir dille işleyeceği izleklerin ipuçlarına rastladığımız ilk romanı Ak Tavus Kuşu, doğa betimlemelerinin görkemi, yarattığı karakterlerin gösterişten uzak oluşu ve salt duyguların kendilerini var etmesiyle dikkati çekiyor. Dostluğu ve aşkı odağına alan bu roman; vazgeçiş ve kabulleniş arasındaki ikilemde salınırken, dostluğun şiirini yazıyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Aylak Adam</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0465a5f5-28e9-4f16-bd3b-c88d3c09c0ce</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-02-21T11:43:24.066000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Ak TavusKuşu"/>
+    <meta name="calibre:author_link_map" content="{&quot;D.H.Lawrence&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

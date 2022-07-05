@@ -1,0 +1,474 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.alt-alt {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 312;
+    width: 349
+    }
+.calibre11 {
+    height: 232;
+    width: 350
+    }
+.calibre12 {
+    height: 154;
+    width: 350
+    }
+.calibre13 {
+    height: 312;
+    width: 350
+    }
+.calibre14 {
+    height: 76;
+    width: 350
+    }
+.calibre15 {
+    height: 265;
+    width: 350
+    }
+.calibre16 {
+    height: 280;
+    width: 350
+    }
+.calibre17 {
+    height: 338;
+    width: 350
+    }
+.calibre18 {
+    height: 207;
+    width: 350
+    }
+.calibre19 {
+    height: 378;
+    width: 350
+    }
+.calibre2 {
+    height: 96;
+    width: 88
+    }
+.calibre20 {
+    height: 54;
+    width: 350
+    }
+.calibre21 {
+    height: 100;
+    width: 350
+    }
+.calibre22 {
+    height: 346;
+    width: 350
+    }
+.calibre23 {
+    height: 196;
+    width: 350
+    }
+.calibre24 {
+    height: 288;
+    width: 350
+    }
+.calibre25 {
+    height: 249;
+    width: 350
+    }
+.calibre26 {
+    height: 364;
+    width: 350
+    }
+.calibre27 {
+    height: 174;
+    width: 350
+    }
+.calibre28 {
+    height: 287;
+    width: 350
+    }
+.calibre29 {
+    height: 250;
+    width: 350
+    }
+.calibre3 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre30 {
+    height: 420;
+    width: 350
+    }
+.calibre31 {
+    height: 268;
+    width: 350
+    }
+.calibre32 {
+    height: 255;
+    width: 350
+    }
+.calibre33 {
+    height: 73;
+    width: 350
+    }
+.calibre34 {
+    height: 248;
+    width: 351
+    }
+.calibre35 {
+    height: 253;
+    width: 350
+    }
+.calibre36 {
+    height: 283;
+    width: 350
+    }
+.calibre37 {
+    height: 270;
+    width: 350
+    }
+.calibre38 {
+    height: 115;
+    width: 350
+    }
+.calibre39 {
+    height: 304;
+    width: 350
+    }
+.calibre4 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre40 {
+    height: 132;
+    width: 350
+    }
+.calibre41 {
+    height: 155;
+    width: 350
+    }
+.calibre42 {
+    height: 290;
+    width: 350
+    }
+.calibre43 {
+    height: 286;
+    width: 350
+    }
+.calibre44 {
+    height: 363;
+    width: 350
+    }
+.calibre45 {
+    height: 330;
+    width: 350
+    }
+.calibre46 {
+    height: 211;
+    width: 350
+    }
+.calibre47 {
+    height: 361;
+    width: 350
+    }
+.calibre48 {
+    height: 214;
+    width: 350
+    }
+.calibre49 {
+    height: 294;
+    width: 350
+    }
+.calibre5 {
+    background-color: #eee;
+    border: 1px solid #fff;
+    display: table-cell;
+    font-family: Arial, sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.2em;
+    text-align: left;
+    vertical-align: inherit
+    }
+.calibre50 {
+    height: 254;
+    width: 350
+    }
+.calibre51 {
+    height: auto;
+    width: auto
+    }
+.calibre6 {
+    height: 251;
+    width: 350
+    }
+.calibre7 {
+    height: 194;
+    width: 350
+    }
+.calibre8 {
+    height: 247;
+    width: 350
+    }
+.calibre9 {
+    height: 305;
+    width: 350
+    }
+.chapter {
+    display: block
+    }
+.generictable {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-before: always;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.image {
+    height: 327;
+    width: 260
+    }
+.image1 {
+    height: 199;
+    width: 283
+    }
+.image2 {
+    height: 295;
+    width: 302
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kapakmetin {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.5em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.leftFloat {
+    height: 229;
+    width: 385
+    }
+.media {
+    height: 390;
+    width: 225
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal2 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal3 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortaitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resimalti {
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: center
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.solbaslik {
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.solbaslik1 {
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    page-break-before: always;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

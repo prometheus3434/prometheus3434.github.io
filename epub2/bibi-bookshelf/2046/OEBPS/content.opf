@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Abi: kabadayılar, mafya ve derin devlet : inceleme</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yurdakul, Doğan">Doğan Yurdakul</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Kırmızı Kedi Yayınevi</dc:publisher>
+    <dc:date>2012-06-15T11:49:06+00:00</dc:date>
+    <dc:description>&lt;p&gt;"Rahmetli Sabahattin Eyüboğlu ile ilgili bir anım var. Birlikte yatıyoruz. 12 Mart dönemi. Şimdi Sabahattin Bey Amca bana soruyor -çok zeki adamdı-: 'Evladım Dündar, bizi buraya neden getirdiler?' Ben de diyorum ki: 'Aaa! Hocam. Ben diyeyim altı ay, sen de on altı ay sonra seni çağırıp soracaklar: 'Kimsin?' Sen diyeceksin ki 'Ben Profesör Sabahattin Eyüboğlu'yum'. 'Hay Allah, bir yanlışlık olmuş. Biz pezevenk Sabahattin'i arıyorduk. Kusura bakma,' deyip seni salıverecekler. İşte seni o zannediyorlar, onun için tutuyorlar Hocam..." Bir kuşağın son temsilcisidir Dündar Kılıç. İlhan Selçuk'un ifadesiyle "Külhanbeyi değil kabadayı, mafya babası değil kabadayı"dır. 21 yılı cezaevlerinde geçen hayatı, yeraltı dünyasının iç işleyişini, devletle olan gizli-açık ilişkilerini ve suçun evrimini gözler önüne serer. Gazeteci-yazar Doğan Yurdakul "Abi" lakabıyla tanınan Dündar Kılıç'ın renkli kişiliği ve "racon" etrafında şekillenen sıra dışı yaşamı üzerinden Türkiye'nin yeraltı dünyasının bir dönemine ışık tutuyor.&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">1006e918-fdc0-4318-a327-f4be757a816f</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055340315</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9786055340315</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">swR7MAEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Abi: kabadayılar, mafya ve derin devlet : inceleme"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doğan Yurdakul&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/590.png" id="x590.png" media-type="image/png"/>
+    <item href="Images/KedigriLogo-1_fmt.jpeg" id="KedigriLogo-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/KedigriLogo-1_fmt.png" id="KedigriLogo-1_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uZHXHYXJKLK6PHkIeXqmbI3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

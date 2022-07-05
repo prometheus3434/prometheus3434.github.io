@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Çalıkuşu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Güntekin, Reşat Nuri">Reşat Nuri Güntekin</dc:creator>
+    <dc:identifier id="BookId">AWP-9324395C-1697-4B48-AF8E-1DA3C945E227</dc:identifier>
+    <dc:date>2008-06-15T12:31:31+00:00</dc:date>
+    <dc:publisher>İnkılap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">81aaa8e1-25a0-4a71-83d0-a3962fd19339</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751027689</dc:identifier>
+    <dc:identifier opf:scheme="MERITOKRASI NOTU">5</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">DgHQYgEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Çalıkuşu"/>
+    <meta name="calibre:author_link_map" content="{&quot;Reşat Nuri Güntekin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Cover.html" id="Cover.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ExLibris.html" id="ExLibris.html" media-type="application/xhtml+xml"/>
+    <item href="Text/eserleri.html" id="eserleri.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0001.html" id="x0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0002.html" id="x0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0003.html" id="x0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0004.html" id="x0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0005.html" id="x0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0006.html" id="x0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0007.html" id="x0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0008.html" id="x0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0009.html" id="x0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0010.html" id="x0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0011.html" id="x0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0012.html" id="x0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0013.html" id="x0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0014.html" id="x0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/0015.html" id="x0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/sozlukce.html" id="sozlukce.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="Images/img3.png" id="img3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.html" linear="no"/>
+    <itemref idref="ExLibris.html"/>
+    <itemref idref="eserleri.html"/>
+    <itemref idref="x0001.html"/>
+    <itemref idref="x0002.html"/>
+    <itemref idref="x0003.html"/>
+    <itemref idref="x0004.html"/>
+    <itemref idref="x0005.html"/>
+    <itemref idref="x0006.html"/>
+    <itemref idref="x0007.html"/>
+    <itemref idref="x0008.html"/>
+    <itemref idref="x0009.html"/>
+    <itemref idref="x0010.html"/>
+    <itemref idref="x0011.html"/>
+    <itemref idref="x0012.html"/>
+    <itemref idref="x0013.html"/>
+    <itemref idref="x0014.html"/>
+    <itemref idref="x0015.html"/>
+    <itemref idref="sozlukce.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/Cover.html" title="Cover" type="cover"/>
+  </guide>
+</package>

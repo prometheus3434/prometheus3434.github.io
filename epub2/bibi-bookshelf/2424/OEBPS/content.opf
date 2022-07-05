@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Beklenmedik Bir Anda: Zit kutuplar birbirini ceker. Hem de en olmadik zamanda...</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Strom, Abigail">Abigail Strom</dc:creator>
+    <dc:identifier id="uuid">{DCA72670-7DD2-43F1-A014-BC348738C2AD}</dc:identifier>
+    <dc:date>2016-02-01T12:04:32+00:00</dc:date>
+    <dc:publisher>Nemesis Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">0b649998-6594-41f4-8fd4-d2d40b177ab9</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">FP2DjwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786059809511</dc:identifier>
+    <meta name="cover" content="x0000000681156-1.jpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Beklenmedik Bir Anda: Zit kutuplar birbirini ceker. Hem de en olmadik zamanda..."/>
+    <meta name="calibre:author_link_map" content="{&quot;Abigail Strom&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/0000000681156-1.jpg" id="x0000000681156-1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

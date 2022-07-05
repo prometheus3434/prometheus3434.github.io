@@ -1,0 +1,40 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre3 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre4 {
+    display: list-item
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    font-variant: small-caps
+    }
+.calibre7 {
+    font-variant: small-caps;
+    font-weight: bold
+    }
+.calibre8 {
+    font-weight: bold
+    }

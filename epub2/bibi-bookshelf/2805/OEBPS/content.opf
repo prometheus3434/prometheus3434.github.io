@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dalgalar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Woolf, Virginia">Virginia Woolf</dc:creator>
+    <dc:identifier id="uuid">{AA860BF7-CB31-468A-9AC6-6334CA6207EA}</dc:identifier>
+    <dc:date>2013-04-15T11:01:27+00:00</dc:date>
+    <dc:publisher>Iletisim Yayinlari</dc:publisher>
+    <dc:description>&lt;p&gt;Virginia Woolf, Dalgalar’da dış dünyayı yok eder. Üç erkek ve üç kadının çocukluklarından yaşlılık dönemlerine kadar tüm hayatlarının anlatıldığı kitapta dış dünya nesnel olarak değil, ancak kişilerin iç dünyalarına yansıdığı kadarıyla verilir. “Bir olay örgüsüne uyarak değil, bir ritme uyarak” yazılan kitap, “şiir olmayan herhangi bir şey edebiyata neden girsin ki” diyen Woolf tarafından iki yıl içinde üç kez yazılır ve dalgaların sesine uydurularak, şiir gibi yüksek sesle okunarak düzeltilir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İngiliz Edebiyatı</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">49472151-4fec-41ce-850a-a94f8da3fbe8</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">zdsxSQAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754709391</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754709391</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.gif"/>
+    <meta name="calibre:title_sort" content="Dalgalar"/>
+    <meta name="calibre:series" content="Toplu Eserleri"/>
+    <meta name="calibre:series_index" content="6.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Virginia Woolf&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B1.xhtml" id="B1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B2.xhtml" id="B2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B3.xhtml" id="B3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B4.xhtml" id="B4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B5.xhtml" id="B5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B6.xhtml" id="B6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B7.xhtml" id="B7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/kapak.gif" id="kapak.gif" media-type="image/gif"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="B1.xhtml"/>
+    <itemref idref="B2.xhtml"/>
+    <itemref idref="B3.xhtml"/>
+    <itemref idref="B4.xhtml"/>
+    <itemref idref="B5.xhtml"/>
+    <itemref idref="B6.xhtml"/>
+    <itemref idref="B7.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

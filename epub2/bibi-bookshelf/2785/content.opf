@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Çocukluğun soğuk geceleri: roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Tezer Özlü</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1990-06-15T11:54:51+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1ea01e0c-1b48-444f-a294-c2bf7df6788e</dc:identifier>
+    <dc:publisher>Ada Yayınları</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6fae80fd-6c62-4f0a-a36c-db1891c873cc</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">S9o0AgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754380231</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T04:24:30.908316+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Çocukluğun soğuk geceleri: roman"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tezer Özlü&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="on_kapak" href="OEBPS/on_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1" href="OEBPS/1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-2" href="OEBPS/1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-3" href="OEBPS/1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-42" href="OEBPS/1-4_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-41" href="OEBPS/1-4_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-5" href="OEBPS/1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-6" href="OEBPS/1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-7" href="OEBPS/1-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/186.jpg" media-type="image/jpeg"/>
+    <item id="kapak_fmt.jpeg" href="OEBPS/image/kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="yky_fmt.jpeg" href="OEBPS/image/yky_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="on_kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-42"/>
+    <itemref idref="x1-41"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

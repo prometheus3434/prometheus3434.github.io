@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:7dd4a2fb-1a95-4ee9-ae1e-c55a6cc611e9" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Amber Kanı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>AMBER YILLIKLARI</text>
+      </navLabel>
+      <content src="Text/icbaslik.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>AMBER KANI</text>
+      </navLabel>
+      <content src="Text/Cilt_ismi.html#sigil_toc_id_1"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Giriş</text>
+        </navLabel>
+        <content src="Text/Amberkani1.html"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>Kristal Mağarada Düşünceler</text>
+          </navLabel>
+          <content src="Text/Amberkani1.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="Text/Amberkani2.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="Text/Amberkani3.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="Text/Amberkani4.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="Text/Amberkani5.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="Text/Amberkani6.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="Text/Amberkani7.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="Text/Amberkani8.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="Text/Amberkani9.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="Text/Amberkani10.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="Text/Amberkani11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="Text/Amberkani12.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="Text/Amberkani12_0001.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="Text/Amberkani13.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/Yayinevi.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/Yazar_Hakkinda.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

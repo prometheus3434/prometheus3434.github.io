@@ -1,0 +1,75 @@
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  margin: 1em 0;
+}
+.calibre2 {
+  font-weight: bold;
+}
+.calibre3 {
+  font-style: italic;
+}
+.calibre4 {
+  font-variant: small-caps;
+  font-weight: bold;
+}
+.calibre5 {
+  font-size: 0.75em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre6 {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre7 {
+  display: list-item;
+}
+.calibre8 {
+  display: block;
+  list-style-type: circle;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+.calibre9 {
+  display: block;
+  list-style-type: square;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+.calibre10 {
+  text-decoration: underline;
+}
+.calibre11 {
+  font-style: italic;
+  font-weight: bold;
+}
+img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+  font-size: 1.5em;
+}
+p {
+  text-align: justify;
+  text-indent: 1em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}

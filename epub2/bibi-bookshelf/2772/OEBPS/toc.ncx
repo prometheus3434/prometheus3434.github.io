@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{85CE87A9-2303-456B-9C00-EB55175C8B39}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Desmond Morris - Çıplak Maymun</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/tsk.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM - KÖKLER</text>
+      </navLabel>
+      <content src="Text/birinci.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM - CİNSELLİK</text>
+      </navLabel>
+      <content src="Text/ikinci.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM - YAVRU YETİŞTİRME</text>
+      </navLabel>
+      <content src="Text/ucuncu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM - ARAŞTIRICILIK</text>
+      </navLabel>
+      <content src="Text/dorduncu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM - SAVAŞMA</text>
+      </navLabel>
+      <content src="Text/besinci.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ALTINCI BÖLÜM - BESLENME</text>
+      </navLabel>
+      <content src="Text/altinci.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM - KONFOR</text>
+      </navLabel>
+      <content src="Text/yedinci.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM - HAYVANLAR</text>
+      </navLabel>
+      <content src="Text/sekizinci.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>KAYNAKLAR</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BİBLİYOGRAFYA</text>
+      </navLabel>
+      <content src="Text/bibliografya.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

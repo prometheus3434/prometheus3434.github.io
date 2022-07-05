@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Dar Kapı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gide, Andre">Andre Gide</dc:creator>
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:date>2009-06-21T21:00:00+00:00</dc:date>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Hayatın biricik anlamı olacak kadar derin bir aşkın trajediye dönüştüğü Dar Kapı'da sorgulanan, erdeme giden yolun zorluğudur. Jerome bütün erdemlerini aşkıyla ayakta tutarken, Alissa gerçek erdemin her şeyden arınmış olması gerektiğine inanır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Fedakârlık nedir, insan aşk için nelerden vazgeçer? Peki ya ilahi aşk?.. Saflık için, Tanrı'ya tertemiz geri dönmek için, erdem olarak kabul edilen değerleri korumak için insan hayatını verebilir mi?&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Dar Kapı, tercihlerini zor olandan yana kullananların yaşadığı ruhsal fırtınalarını gözler önüne sererken, Nobel Edebiyat Ödüllü André Gide, çarpıcı üslubuyla okuru derinden etkiliyor.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Nobel</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2ea1327e-d1e3-4c41-8319-315fb6ad98c9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752639249</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dar Kapı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Andre Gide&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg"/>
+    <item href="Images/image0.jpg" id="image0_jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="section-0004_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Avrupa'da osmanlı damgası</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Schulhof, Isaac">Isaac Schulhof</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>2007-06-15T12:07:27+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">978-975-263-664-4</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">660a9329-fb09-49b5-8e65-9b8841aa50eb</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="GOOGLE">s4qGtgEACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789752636644</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Avrupa'da osmanlı damgası"/>
+    <meta name="calibre:author_link_map" content="{&quot;Isaac Schulhof&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub.html" id="avrupadaosmanlidamgasi-epub" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub-1.html" id="avrupadaosmanlidamgasi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub-2.html" id="avrupadaosmanlidamgasi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="avrupadaosmanlidamgasi-epub-3.html" id="avrupadaosmanlidamgasi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/127158.jpg" id="x127158.jpg" media-type="image/jpeg"/>
+    <item href="images/budindestani-dis.jpg" id="budindestani-dis.jpg" media-type="image/jpeg"/>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub-1"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub-2"/>
+    <itemref idref="avrupadaosmanlidamgasi-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

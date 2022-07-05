@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dönüşüm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b7b85393-65dc-4c86-922c-b1c1738e899d</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>İlk kez 1915 yılında yayınlanan ve sonrasında 20. yüzyılın en önemli eserleri arasına giren Dönüşüm, gezici bir kumaş pazarlamacısı olan Gregor Samsa’nın bir sabah tedirgin düşlerinden uyandığında kendini devasa bir böceğe dönüşmüş olarak bulmasıyla başlar. Bu dönüşümün hikmetini asla öğrenemeyiz. Neden artık kubbeli bir karnı, panzer sertliğinde bir sırtı vardır, neden çaresizce kımıldanan bir sürü cılız bacakla uyanmıştır, bilemeyiz.Kafka bunu bize hiçbir zaman açıklamaz. Ancak haşereye dönüşmesinin ailesine yaşattığı sıkıntılarla, bu yeni haline alışmasının zorluklarıyla cebelleşen eski insan, yeni böcek Bay Gregor Samsa, dünyanın tüm üniversitelerinde hâlâ üzerinde çalışılan, özellikle Batı sineması, edebiyatı üzerinde derin etkiler bırakan, böcekliği bir metafor olarak popüler kültüre mal eden bir hikâyenin kahramanı olur ve bize insanlık haline, yabancılaşmaya, diğerlerinden farklı olmaya dair hiç eskimeyecek gibi görünen içgörüler sunar.��Dönüşüm, absürtlüğü ve insanın tekinsiz ihtimaller karşısındaki korkularını en uç noktalara taşıyarak içimize büyüteçli bir ayna tutar.Samsa’nın böceğe dönüşmesinin sebebini bilemesek de, bu kısa romanın bunca sevilmesinin hikmeti belki de budur.</dc:description>
+    <dc:publisher>Epsilon Yayincilik Ltd. Sti</dc:publisher>
+    <dc:date>2016-11-01T10:29:37+00:00</dc:date>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Dünya Klasikleri</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">14a7c967-7ef7-4050-8564-0093c70dcf29</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053609322</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054820412</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:b7b85393-65dc-4c86-922c-b1c1738e899d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">pMGXDQAAQBAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Franz Kafka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="26.0" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-09-02T16:34:53.955000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Dönüşüm" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.8.6" name="Sigil version"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{}" name="calibre:user_categories"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/donusum_000.xhtml" id="donusum_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_001.xhtml" id="donusum_001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_002.xhtml" id="donusum_002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_003.xhtml" id="donusum_003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_101.xhtml" id="donusum_101.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_102.xhtml" id="donusum_102.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/donusum_103.xhtml" id="donusum_103.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/donusum.jpg" id="donusum.jpg" media-type="image/jpeg"/>
+    <item href="Images/isbankasi.jpg" id="isbankasi.jpg" media-type="image/jpeg"/>
+    <item href="Images/isbankasi2.jpg" id="isbankasi2.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="donusum_000.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="donusum_001.xhtml"/>
+    <itemref idref="donusum_002.xhtml"/>
+    <itemref idref="donusum_003.xhtml"/>
+    <itemref idref="donusum_101.xhtml"/>
+    <itemref idref="donusum_102.xhtml"/>
+    <itemref idref="donusum_103.xhtml"/>
+  </spine>
+</package>

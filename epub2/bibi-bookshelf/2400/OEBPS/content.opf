@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Baştan Çıkarıcının Günlüğü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kierkegaard, Soren">Soren Kierkegaard</dc:creator>
+    <dc:date>2020-03-22T11:28:47+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">81d6b48a-ed7a-4690-a446-389958e43fd8</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-12-05</dc:date>
+    <dc:publisher>Gökhan Doğru</dc:publisher>
+    <dc:description>Danimarkalı varoluşçu filozof Søren Kierkegaard&amp;#39;ın kendi biyografisinden yola çıkarak yazdığı aşk, insan ruhunun çelişkileri ve zayıflıkları üzerine güçlü çözümlemeler içeren bir roman.&amp;quot;Bir kadın olarak benden nefret ediyor; yetenekli bir kadın olarak benden korkuyor; iyi bir zihin olarak ise beni seviyor. Ruhuna ektiğim bu çelişki, stratejimin ilk adımı. Gururum, meydan okuyuculuğum, ince alayım ve duygusuz ironim onu kışkırtıyor, bunlar beni sevdiği anlamına gelmiyor.&amp;quot;</dc:description>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Psikoloji</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Comics &amp; Graphic Novels</dc:subject>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4587d9db-7870-45d9-a0e6-babd92e98d3d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">CDzYDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755391441</dc:identifier>
+    <meta content="Baştan Çıkarıcının Günlüğü" name="calibre:title_sort"/>
+    <meta content="2014-12-04T13:29:16.107000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Soren Kierkegaard&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Soren_Kierkegaard_-_Bastan_Cikaricinin_Gunlugu_split_000.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Soren_Kierkegaard_-_Bastan_Cikaricinin_Gunlugu_split_001.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Soren_Kierkegaard_-_Bastan_Cikaricinin_Gunlugu_split_002.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Soren_Kierkegaard_-_Bastan_Cikaricinin_Gunlugu_split_003.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Soren_Kierkegaard_-_Bastan_Cikaricinin_Gunlugu_split_004.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Soren_Kierkegaard_-_Bastan_Cikaricinin_Gunlugu_split_005.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

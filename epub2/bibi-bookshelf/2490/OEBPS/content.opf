@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Biçem Alıştırmaları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Queneau, Raymond">Raymond Queneau</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9ab65489-4303-40d5-9f1b-e41fa99ab2ad</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Biçem Alıştırmaları, Queneau'nun adının duyulmasına yol açan kitabı. Sıradan bir hikayenin 99 değişik biçimde anlatılmasına dayanan bu ufak kitap. Queneau'nun en önemli yapıtlarından biri; Oulipo akımının birçok özelliğinin nüvesi, bu kitaptan geliyor. Biçem Alıştırmaları, doğurduğu illüstrasyonlar, kabareler, tiyatro oyunları, başka yazarlarca yapılan ekler, ilham verdiği yapıtlarla çağdaş edebiyatın klasiklerinden biri. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Biçem Alıştırmaları, dilin, anlatımın, gerçekliğin çokyönlülüğü ve çeşitliliği üzerine son derece ciddi imalar içeren bir mizah kitabı (ya da son derece gayriciddi bir dilbilim kitabı) olarak okunabilir. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Kitabı, bütün Avrupa dillerinden sonra nihayet Türkçe'ye getiren bu çeviri, Queneau'nun hazırladığı iki edisyondaki (1947 ve 1973) bütün alıştırmaları içeriyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>SEL</dc:publisher>
+    <dc:date>2015-02-28T21:00:00+00:00</dc:date>
+    <dc:subject>Deneme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f7e204bc-efb2-4afe-b19c-ca0ef4bbbfbb</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-02-28T12:56:40.588000+00:00" name="calibre:timestamp"/>
+    <meta content="Biçem Alıştırmaları" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Raymond Queneau&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

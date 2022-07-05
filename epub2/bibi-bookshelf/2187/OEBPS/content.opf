@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Anadolu 1913</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Horváth, Béla">Béla Horváth</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d3181df3-2b5c-4fa4-9614-1e35aaa354fb</dc:identifier>
+    <dc:date>1996-06-15T12:28:56+00:00</dc:date>
+    <dc:publisher>Türkiye Ekonomik ve Toplumsal Tarih Vakfı</dc:publisher>
+    <dc:description>Macar araştırmacı Bela Horvath, Birinci Dünya Savaşı'nın arifesinde Budapeşte'deki Turan Cemiyeti'nden ve İstanbul'daki Tahsil-i Sanayi Cemiyeti'nden aldığı referanslarla Anadolu'da bir seyahata çıktı. İstanbul ve Ankara üzerinden Nevşehir, Niğde, Konya ve Karaman'a kadar at sırtında 2300 kilometrelik bu seyahatte son derece ilginç kültürel, etnografik ve sosyolojik gözlemlerde bulundu. Devlet adamları, aydınlar ve subaylar ve sıradan Anadolularla konuştu, onların geleceğin Türkiye'sine ait görüşlerini kaydetti. Konya'da tiyatroya gitti, fasulye yedi, ayran içti, antik şehirleri dolaştı. Seksen üç yıl önceki Anadolu'yu anlatan önemli bir belge.</dc:description>
+    <dc:subject>tarih</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">1d81f117-f322-44e6-95c2-97cb31c2e4a1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753330572</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:d3181df3-2b5c-4fa4-9614-1e35aaa354fb</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">lYlpAAAAMAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-975-333-057-2</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Anadolu 1913" name="calibre:title_sort"/>
+    <meta content="{&quot;Béla Horváth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.htm" id="telif.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.htm" id="toc.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/sunus.htm" id="sunus.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.htm" id="giris.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/08.htm" id="x08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/09.htm" id="x09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/10.htm" id="x10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/11.htm" id="x11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/12.htm" id="x12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/13.htm" id="x13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/14.htm" id="x14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.htm" id="notlar.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Images/3star.gif" id="x3star.gif" media-type="image/gif"/>
+    <item href="Images/cizgi.png" id="cizgi.png" media-type="image/png"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/TarihVakfi.jpg" id="TarihVakfi.jpg" media-type="image/jpeg"/>
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.xhtml"/>
+    <itemref idref="telif.htm"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="toc.htm"/>
+    <itemref idref="sunus.htm"/>
+    <itemref idref="giris.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="x08.htm"/>
+    <itemref idref="x09.htm"/>
+    <itemref idref="x10.htm"/>
+    <itemref idref="x11.htm"/>
+    <itemref idref="x12.htm"/>
+    <itemref idref="x13.htm"/>
+    <itemref idref="x14.htm"/>
+    <itemref idref="notlar.htm"/>
+  </spine>
+  <guide/>
+</package>

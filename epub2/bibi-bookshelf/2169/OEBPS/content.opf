@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Altın Gözlük</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bassani, Giorgio">Giorgio Bassani</dc:creator>
+    <dc:identifier id="uuid">{BA9FD5B0-63D8-49FF-AFFD-89EB250139ED}</dc:identifier>
+    <dc:date>2016-03-04T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;100. Doğum Yıldönümünde YKY'den yeni bir Giorgio Bassani kitabı yayımlanıyor: "Altın Gözlük" ilk kez Türkçede...
+
+"İnsanda fazlasıyla hayvansı bir yan vardır, böyle olmakla beraber insan kendi doğasına teslim olabilir mi? Bir hayvan olduğunu kabul edebilir mi?"
+
+Zengin, büyüleyici ve öte yandan faşizmin baskıladığı Ferrara kentinde, genç bir Yahudi öğrencinin kaderi orta yaşlı, olgun ve oldukça ünlü bir doktor olan Athos Fadigati'yle kesişir. Aralarında gelişen bu dostluk, romanın anlatıcısı gencin, Doktor Fadigati'nin kültürlü ve seçkin kişiliğinin gizlediği eşcinselliği yüzünden içine düştüğü yalnızlık uçurumunu keşfetmesini sağlar. O günlerin İtalya'sında bağışlanabilecekler arasında yer almayan bir günah… Ve bu saygıdeğer meslek sahibinin altın çerçeveli gözlüğü de, böylelikle kolay kolay kabullenilemeyen bir farklılığın -tıpkı anlatıcının Yahudi olması gibi-, sadece trajik bir duygu karmaşasına yol açacak bir çeşitliliğin simgesine dönüşür.
+
+Giorgio Bassani'nin ünlü kitabı Finzi-Contini'lerin Bahçesi'nden sonra Altın Gözlük hem İtalya'nın o dönem siyasi arka planı hem de insan ruhu üzerine yine benzersiz bir roman... Ayrıca roman, 1987 yılında Giuliano Montaldo tarafından aynı adla filme çekildi. Film hem ödüller aldı hem de çeşitli ödüllere aday gösterildi.
+
+Tadımlık
+"Fadigati'ye karşı büyük ölçüde hoşgörülü olmalarını, hatta hayranlık duymalarını gerektiren şey aslında onun tarzıydı; tarzı derken öncelikle, dehşet uyandıran ilk panik dalgasından sonra, her zaman hayatında yer verdiği ve de vermeyi sürdürdüğü bu zevklerini bir skandala dönüştürmemek için ortada gün gibi parlayan gizemli kişiliğiyle kendisini çevreye karşı sakınma çabasıydı. Evet -diyorlardı-: Artık sırrı sır olmaktan çıktığına göre, ona nasıl davranacakları da belli olmuştu. Gündüzleri, gün ışığında saygı gösterilecek; akşamları, San Romano Sokağı'nda onunla burun buruna gelindiğinde tanımazdan gelinecekti. Doktor Jekyll filmindeki Fredric March gibi, Doktor Fadigati'nin de iki farklı yaşamı vardı. Kimin yoktu ki? Fazla meraklı olmamayı, 'vazgeçmeyi' bilmek, anlamakla eşdeğerdi." 
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Tarihi Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1c37ae7d-289e-412f-a5c8-22d6be6eca43</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750835841</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Altın Gözlük"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Giorgio Bassani&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Text/bcover.xhtml" id="bcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/hakkinda.xhtml" id="hakkinda.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/altingozluk.xhtml" id="altingozluk.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/bcover.jpg" id="bcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="bcover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="hakkinda.xhtml"/>
+    <itemref idref="altingozluk.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" type="cover"/>
+  </guide>
+</package>

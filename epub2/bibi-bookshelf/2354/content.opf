@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Babam Nereye Gitti</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Saygı, Sevgi">Sevgi Saygı</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Günişiği Kitapliği Yayincilik A.ş.</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">46b6e569-256c-41f6-b13e-835226b518fb</dc:identifier>
+    <dc:date>2009-01-01T12:07:42+00:00</dc:date>
+    <dc:subject>Juvenile Fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Memo’nun babası yıllar önce ortadan kaybolmuş, neredeyse buhar olup uçmuştur. Başından geçenleri, düşüncelerini günlüğüyle paylaşan Memo, büyüdükçe babasını daha çok merak etmeye, ondan kalan eşyayı araştırmaya başlar. Sandıkta bulduğu eski film kamerası onu babasına yaklaştırır sanki. Ancak, annesinin evlenmeye kalkışması ve okulda peşine düşen çete, Memo’ya yaşamı dar eder. Neyse ki, arkadaşı Derinsu’nun cin fikirleri vardır…</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7b08ae60-76c5-4006-a215-60ee9b5e3d33</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786059952446</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">mD6jDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786059952446</dc:identifier>
+    <meta name="calibre:timestamp" content="2022-01-14T15:17:57.335962+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Babam Nereye Gitti"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sevgi Saygı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverxhtml" href="OPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="partxhtml" href="OPS/part.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepagexhtml" href="OPS/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dedicationxhtml" href="OPS/dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml10" href="OPS/chapter_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml9" href="OPS/chapter_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml8" href="OPS/chapter_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml7" href="OPS/chapter_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml6" href="OPS/chapter_split_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml5" href="OPS/chapter_split_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml4" href="OPS/chapter_split_006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml3" href="OPS/chapter_split_007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml2" href="OPS/chapter_split_008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapterxhtml1" href="OPS/chapter_split_009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright-pagexhtml" href="OPS/copyright-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="biographyxhtml" href="OPS/biography.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverbxhtml" href="OPS/coverb.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OPS/image/cover.jpg" media-type="image/jpeg"/>
+    <item id="image__coverbjpg" href="OPS/image/coverb.jpg" media-type="image/jpeg"/>
+    <item id="image__titlepagepng" href="OPS/image/titlepage.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="partxhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="chapterxhtml10"/>
+    <itemref idref="chapterxhtml9"/>
+    <itemref idref="chapterxhtml8"/>
+    <itemref idref="chapterxhtml7"/>
+    <itemref idref="chapterxhtml6"/>
+    <itemref idref="chapterxhtml5"/>
+    <itemref idref="chapterxhtml4"/>
+    <itemref idref="chapterxhtml3"/>
+    <itemref idref="chapterxhtml2"/>
+    <itemref idref="chapterxhtml1"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="coverbxhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover Image"/>
+  </guide>
+</package>

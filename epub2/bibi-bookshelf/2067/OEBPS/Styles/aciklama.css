@@ -1,0 +1,15 @@
+@charset utf-8;
+
+p {
+font-size:0.9em;
+margin-top:0.2em;
+margin-bottom:0.2em;
+margin-left:1.5em;
+text-indent:-1.5em;
+text-align:justify;}
+
+.bolum1{text-indent: -1.5em;margin-top: 1em;margin-bottom: 1em; font-weight:bold;font-size:1em;text-align:center;}
+
+.bolum2{text-indent: -1.5em;margin-top: 1em;margin-bottom: 1em; font-weight:bold;font-size:1em;}
+
+.kck{font-size:0.8em;}

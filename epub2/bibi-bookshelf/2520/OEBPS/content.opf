@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Binatlı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bahadıroğlu, Yavuz">Yavuz Bahadıroğlu</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7f02baa1-34a3-466b-bd9e-e744c9dd3b2a</dc:identifier>
+    <dc:publisher>Nesil Basım Yayın Gıda Ticaret ve Sanayi A.Ş</dc:publisher>
+    <dc:date>2001-08-01T12:48:55+00:00</dc:date>
+    <dc:subject>Juvenile Fiction</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:subject>Middle East</dc:subject>
+    <dc:description>Bu kitapta, kâh Belgrad içlerinde, kâh Viyana önlerinde, kâh Mohaç'ta yahut Çaldıran'da şimşek gibi çakıp yıldırım gibi düşen büyük ordunun cıva gibi akıcı, ateş gibi yakıcı öncü kolunu teşkil eden akıncılardan birkaçı bulacaksınız. Bu kitapta, imanla coşup, akından akına koşan serdengeçtilerin Tuna boylarında hâlâ çınlayan nal sesleri, çığlıkları, kılıç şakırtıları var...</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">2d17f6d5-bb9f-42d7-b839-d9413b511de3</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:7f02baa1-34a3-466b-bd9e-e744c9dd3b2a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051318905</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">mqUKAwAAQBAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign 9.1" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="BinatliKapak.jpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Binatlı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yavuz Bahadıroğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap.xhtml" id="BinatliEkitap" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-1.xhtml" id="BinatliEkitap-1" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-2.xhtml" id="BinatliEkitap-2" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-3.xhtml" id="BinatliEkitap-3" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-4.xhtml" id="BinatliEkitap-4" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-5.xhtml" id="BinatliEkitap-5" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-6.xhtml" id="BinatliEkitap-6" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-7.xhtml" id="BinatliEkitap-7" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-8.xhtml" id="BinatliEkitap-8" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-9.xhtml" id="BinatliEkitap-9" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-10.xhtml" id="BinatliEkitap-10" media-type="application/xhtml+xml"/>
+    <item href="Text/BinatliEkitap-11.xhtml" id="BinatliEkitap-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idefixnesil.css" id="idefixnesil.css" media-type="text/css"/>
+    <item href="Images/BinatliKapak.jpg" id="BinatliKapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nesil_fmt.jpeg" id="Nesil_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Nesil_fmt1.jpeg" id="Nesil_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/nesildigital_fmt.jpeg" id="nesildigital_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/YavuzBahadiroglu_fmt.jpeg" id="YavuzBahadiroglu_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="BinatliEkitap"/>
+    <itemref idref="BinatliEkitap-1"/>
+    <itemref idref="BinatliEkitap-2"/>
+    <itemref idref="BinatliEkitap-3"/>
+    <itemref idref="BinatliEkitap-4"/>
+    <itemref idref="BinatliEkitap-5"/>
+    <itemref idref="BinatliEkitap-6"/>
+    <itemref idref="BinatliEkitap-7"/>
+    <itemref idref="BinatliEkitap-8"/>
+    <itemref idref="BinatliEkitap-9"/>
+    <itemref idref="BinatliEkitap-10"/>
+    <itemref idref="BinatliEkitap-11"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{1597DAB6-B151-4E37-AE9D-61584F4DB2DA}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Carlo Rovelli - Fizik Üzerine Yedi Kısa Ders CS</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/sunus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KURAMLARIN EN GÜZELİ</text>
+      </navLabel>
+      <content src="Text/1.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KUANTA</text>
+      </navLabel>
+      <content src="Text/2.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>EVRENİN MİMARİSİ</text>
+      </navLabel>
+      <content src="Text/3.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>PARÇACIKLAR</text>
+      </navLabel>
+      <content src="Text/4.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>UZAY TANECİKLERİ</text>
+      </navLabel>
+      <content src="Text/5.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>OLASILIK, ZAMAN VE KARA DELİKLERİN ISISI</text>
+      </navLabel>
+      <content src="Text/6.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BİZ</text>
+      </navLabel>
+      <content src="Text/7.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+  </navMap>
+</ncx>

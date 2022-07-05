@@ -1,0 +1,126 @@
+/* FONTS USED */
+
+@font-face {
+  	font-family:ArnoPro;
+  	font-style:normal;
+  	font-weight:normal;
+  	src:url(Fonts/ArnoPro-Regular.ttf); 
+}
+
+@font-face {
+  	font-family:ArnoPro;
+  	font-style:italic;
+  	font-weight:normal;
+  	src:url(Fonts/ArnoPro-Italic.ttf); 
+}
+
+@font-face {
+  	font-family:ArnoPro;
+  	font-style:normal;
+  	font-weight:bold;
+  	src:url(Fonts/ArnoPro-Bold.ttf); 
+}
+
+
+
+/* GENERAL DEFINITIONS */
+
+body {
+	display:block;
+	margin:10px 30px;
+	text-align:justify;
+	orphans:1;
+	widows:1;
+}
+
+h2 {
+	display:block;
+	color:#000000;
+	font-family: ArnoPro,serif;
+	font-style:normal;
+	font-weight:bold;
+	font-size:26px;
+	line-height:auto;
+	margin:50px 10px 120px 10px;
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+}
+
+hr {
+	margin:0px 10px 20px 10px;
+	}
+
+/* PARAGRAPH DEFINITIONS */
+
+p {
+	display:block;
+	font-family:ArnoPro,serif;
+	display:block;
+	color:#000000;
+	margin:2px 10px 2px 10px;
+	text-indent:20px;
+	text-align:justify;
+	line-height:auto;
+	font-style:normal;
+	font-weight:normal;
+	font-size:14px;
+}
+
+.tPge {
+	font-size:12px;
+	text-indent:0px;
+	line-height:auto;
+	text-align:left;
+	margin-bottom:10px
+}
+
+.iCov1 {
+	font-size:20px;
+	line-height:22px;
+	text-align:center;
+	text-indent:0px;
+	margin:30% 0px 30px 0px;
+}
+
+.iCov2 {
+	font-size:28px;
+	font-weight:bold;
+	line-height:28px;
+	text-align:center;
+	text-indent:0px;
+	margin:5px 0px 180px 0px;
+}
+
+.centr {
+  	font-family:ArnoPro;
+	font-weight:bold;
+	font-size:16px;
+	text-align:center;
+	text-indent:0px
+}
+
+.sptx {
+	font-weight:normal;
+	font-size:12px;
+}
+
+.auth{
+	text-indent:0px;
+	margin-top:20px;
+}
+
+.nTxt {
+	text-align:right;
+	margin-top:50%;
+}
+
+.fitpict img {
+	display: block;
+	max-width: 95%;
+	height: auto;
+     margin: 10px auto;
+}

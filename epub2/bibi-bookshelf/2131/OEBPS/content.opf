@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Alan Woods</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Isyani, Aklin">Aklin Isyani</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9c9b975f-6572-443e-b69d-04de41d0cbff</dc:identifier>
+    <dc:date>2014-03-30T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4bb2f9f5-a10a-48dc-9cfb-0799c83e5db9</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:9c9b975f-6572-443e-b69d-04de41d0cbff</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Alan Woods"/>
+    <meta name="calibre:author_link_map" content="{&quot;Aklin Isyani&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ani.xhtml" id="ani.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz2.xhtml" id="onsoz2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/18.xhtml" id="x18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/19.xhtml" id="x19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynakca.xhtml" id="kaynakca.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="kunye.css" media-type="text/css"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/bolum16_image002.gif" id="bolum16_image002.gif" media-type="image/gif"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ani.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="onsoz2.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="kaynakca.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

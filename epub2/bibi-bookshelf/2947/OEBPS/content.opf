@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Doppler. Vita con l'alce</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Loe, Erlend &amp; Falcinella, Cristina">Erlend Loe</dc:creator>
+    <dc:creator opf:role="aut">Cristina Falcinella</dc:creator>
+    <dc:identifier id="uuid">{62053AA7-8998-4289-B381-CD5A953E6CF0}</dc:identifier>
+    <dc:date>2007-06-15T10:23:11+00:00</dc:date>
+    <dc:publisher>Iperborea</dc:publisher>
+    <dc:description>Una mattina di novembre Andreas Doppler, norvegese benestante e borghese dal curriculum esemplare, professionista di successo e ineccepibile padre di famiglia, cade dalla bicicletta. Dal colpo in testa si riprende presto ma l'illuminazione che riceve in un istante cambia la sua visione del mondo: la vita che ha condotto fino ad ora perde ogni valore e scopre di essere innanzitutto un cacciatore-raccoglitore, in lutto per un padre che ha appena perso e forse mai conosciuto. Si stabilisce così nel bosco alle porte di Oslo, in una tenda, dove permarrà per vari mesi in compagnia di un cucciolo di alce, Bongo, con cui intavola esilaranti monologhi. Via dalla civiltà capitalista e dai suoi plurimi inessenziali bisogni, dalle aspettative della società in un ritorno alla natura nella più (tragi)comica delle versioni hamsuniane, il suo unico scopo è non fare nulla in una misantropia che ride di se stessa e lasciarsi alle spalle tanta bravura per cercare di diventare un po' più incompetente e felice. Ma una serie di personaggi disturba suo malgrado la sua programmatica solitudine panica. Ne nasce un romanzo dal taglio ironico di "uomini in crisi": un pensionato vedovo che si dedica a ricostruire un modellino in scala della battaglia in cui perse la vita prima della sua nascita suo padre, un ufficiale tedesco, il ladro gentiluomo, il ricco e arrogante "uomo di destra" che si converte al baratto propugnato dal protagonista e organizza un festival della fratellanza.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:language>it</dc:language>
+    <dc:identifier opf:scheme="calibre">15b51a09-9fdf-4ffd-b1bd-9c613feac22a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9788870911541</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">N5vingEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750835292</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="fcover.Jpeg"/>
+    <meta name="calibre:title_sort" content="Doppler. Vita con l'alce"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Erlend Loe&quot;: &quot;&quot;, &quot;Cristina Falcinella&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sunum.xhtml" id="sunum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kasim.xhtml" id="kasim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kasim-1.xhtml" id="kasim-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/aralik.xhtml" id="aralik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/aralik1.xhtml" id="aralik1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ocak.xhtml" id="ocak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ocak1.xhtml" id="ocak1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/subat.xhtml" id="subat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/subat1.xhtml" id="subat1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/mart.xhtml" id="mart.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/mart1.xhtml" id="mart1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nisanmayis.xhtml" id="nisanmayis.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nisanmayis1.xhtml" id="nisanmayis1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bcover.xhtml" id="bcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/bcover.Jpeg" id="bcover.Jpeg" media-type="image/jpeg"/>
+    <item href="Images/fcover.Jpeg" id="fcover.Jpeg" media-type="image/jpeg"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="sunum.xhtml"/>
+    <itemref idref="kasim.xhtml"/>
+    <itemref idref="kasim-1.xhtml"/>
+    <itemref idref="aralik.xhtml"/>
+    <itemref idref="aralik1.xhtml"/>
+    <itemref idref="ocak.xhtml"/>
+    <itemref idref="ocak1.xhtml"/>
+    <itemref idref="subat.xhtml"/>
+    <itemref idref="subat1.xhtml"/>
+    <itemref idref="mart.xhtml"/>
+    <itemref idref="mart1.xhtml"/>
+    <itemref idref="nisanmayis.xhtml"/>
+    <itemref idref="nisanmayis1.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+    <itemref idref="bcover.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

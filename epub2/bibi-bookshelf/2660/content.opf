@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>CAMDAKİ KIZ</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">GÜLSEREN BUDAYCIOĞLU</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">10f1cfda-7949-4593-8bb7-ec8f8e5bcf91</dc:identifier>
+    <dc:date>2020-04-15T22:33:43+00:00</dc:date>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.</dc:rights>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1b4c5fac-3c1b-4969-87e5-e6b20b5d13de</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050959611</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-11-12T11:42:03.529759+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="CAMDAKİ KIZ"/>
+    <meta name="calibre:author_link_map" content="{&quot;GÜLSEREN BUDAYCIOĞLU&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="OnKapak.xhtml" href="OEBPS/OnKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1" href="OEBPS/1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-2" href="OEBPS/1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-3" href="OEBPS/1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-4" href="OEBPS/1-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-5" href="OEBPS/1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-6" href="OEBPS/1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-72" href="OEBPS/1-7_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-71" href="OEBPS/1-7_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-82" href="OEBPS/1-8_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-81" href="OEBPS/1-8_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-9" href="OEBPS/1-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-10" href="OEBPS/1-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-11" href="OEBPS/1-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-122" href="OEBPS/1-12_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-121" href="OEBPS/1-12_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-132" href="OEBPS/1-13_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-131" href="OEBPS/1-13_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-14" href="OEBPS/1-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-152" href="OEBPS/1-15_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-151" href="OEBPS/1-15_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-16" href="OEBPS/1-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-17" href="OEBPS/1-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-18" href="OEBPS/1-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-19" href="OEBPS/1-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ArkaKapak.xhtml" href="OEBPS/ArkaKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="camdaki_kiz_arka.jpg" href="OEBPS/image/camdaki_kiz_arka.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="OEBPS/image/camdaki_kiz_on.jpg" media-type="image/jpeg"/>
+    <item id="DK_20.y_llogo.png" href="OEBPS/image/DK_20.y_llogo.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="OnKapak.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-72"/>
+    <itemref idref="x1-71"/>
+    <itemref idref="x1-82"/>
+    <itemref idref="x1-81"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+    <itemref idref="x1-122"/>
+    <itemref idref="x1-121"/>
+    <itemref idref="x1-132"/>
+    <itemref idref="x1-131"/>
+    <itemref idref="x1-14"/>
+    <itemref idref="x1-152"/>
+    <itemref idref="x1-151"/>
+    <itemref idref="x1-16"/>
+    <itemref idref="x1-17"/>
+    <itemref idref="x1-18"/>
+    <itemref idref="x1-19"/>
+    <itemref idref="ArkaKapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/OnKapak.xhtml" title="Cover"/>
+    <reference type="other.titlepage" href="OEBPS/OnKapak.xhtml" title="Title page"/>
+  </guide>
+</package>

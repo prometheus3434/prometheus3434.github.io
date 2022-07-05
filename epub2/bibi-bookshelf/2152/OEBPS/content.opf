@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Alfred Ile Emily</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lessing, Doris">Doris Lessing</dc:creator>
+    <dc:identifier id="uuid">{05AB313F-E6BD-4CC7-9549-617B1171F8C1}</dc:identifier>
+    <dc:date>2009-07-15T11:23:09+00:00</dc:date>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:description>&lt;p&gt;Nobel Edebiyat Ödüllü yazar Doris Lessing, Alfred ile Emily'de, Birinci Dünya Savaşı'nın gölgesinde annesiyle babasının izini sürüyor. Kitabın ilk yarısını "savaş olmasaydı nasıl bir yaşamları olurdu"dan hareketle kaleme alan yazar, kitabın ikinci yarısında savaşın yaşamlarında yol açtığı onarılmaz hasarı gözler önüne seriyor. Hayalinde yaşattıklarını ve gerçekte yaşananları etkileyici bir anlatımla kâğıda döküyor.
+Alfred ve Emily yazarın hayalinde umut ettikleri gibi mutlu bir yaşam sürerlerken, aslında Alfred savaşta sakat kalır, Emily hastanede hemşirelik yaparak askerlerin acılarını paylaşır.
+Annesiyle babasının savaşla bölünmüş yaşamları, Lessing'in üzerinde derin izler bırakmıştır. Yazar bu kitapla, onlara olan gönül borcunu ödüyor ve umuyor ki, "onlarla Büyük Savaş'ı hiç yaşamamışlar gibi karşılaşsaydı, her ikisi de onlar için hayal ettiği yaşamı onaylarlardı."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Çağdaş Edebiyat</dc:subject>
+    <dc:subject>Tarihi Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c5383a46-498c-45ac-9574-d99f02f97b0f</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">LfAItwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750710773</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750710773</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Alfred Ile Emily"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doris Lessing&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/01.jpg" id="id" media-type="image/jpeg"/>
+    <item href="Images/02.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/03.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/04.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="Images/05.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/06.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/07.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="Images/08.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Images/09.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="Images/10.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="Images/aie.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="titlepage"/>
+    <itemref idref="id15"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

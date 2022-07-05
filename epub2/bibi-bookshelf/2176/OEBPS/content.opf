@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Amber Kanı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7dd4a2fb-1a95-4ee9-ae1e-c55a6cc611e9</dc:identifier>
+    <dc:date opf:event="modification">2014-08-06</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="trl">Niran Elçi</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:description>&lt;p&gt;Amber Lordu Merlin kristal mağarada geçirdiği bir aydan sonra serbest kalmıştır. Halası Flora'ya sığınıp yaşamını karmaşıklaştıran gizemleri çözmeye çalışır: Kristal mağarayı oluşturan mavi taşların nasıl bir gücü vardır, bu gücü kim elinde tutmaktadır? Durup durup başından aşağı çiçekler yağdıran kimdir, amacı nedir? Onu korumak için beden değiştirerek takip eden varlık kimin tarafından gönderilmiştir? Merlin sorularına yanıt ararken bir yandan kendini, diğer yandan yeni yuvası Amber'i kimliğini bilmediği düşmanlarına karşı korumak için çareler aramaya başlar.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">97b935f4-08f5-4aeb-9e7e-de753ca12690</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">975-8725-50-05</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:7dd4a2fb-1a95-4ee9-ae1e-c55a6cc611e9</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="amberkani.png"/>
+    <meta name="calibre:title_sort" content="Amber Kanı"/>
+    <meta name="calibre:series" content="Amber Yıllıkları"/>
+    <meta name="calibre:series_index" content="7.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Cilt_ismi.html" id="Cilt_ismi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icbaslik.html" id="icbaslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani1.html" id="Amberkani1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani2.html" id="Amberkani2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani3.html" id="Amberkani3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani4.html" id="Amberkani4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani5.html" id="Amberkani5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani6.html" id="Amberkani6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani7.html" id="Amberkani7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani8.html" id="Amberkani8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani9.html" id="Amberkani9.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani10.html" id="Amberkani10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani11.html" id="Amberkani11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani12.html" id="Amberkani12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani12_0001.html" id="Amberkani12_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Amberkani13.xhtml" id="Amberkani13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.html" id="Yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar_Hakkinda.html" id="Yazar_Hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/amberkani.png" id="amberkani.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Cilt_ismi.html"/>
+    <itemref idref="icbaslik.html"/>
+    <itemref idref="Amberkani1.html"/>
+    <itemref idref="Amberkani2.html"/>
+    <itemref idref="Amberkani3.html"/>
+    <itemref idref="Amberkani4.html"/>
+    <itemref idref="Amberkani5.html"/>
+    <itemref idref="Amberkani6.html"/>
+    <itemref idref="Amberkani7.html"/>
+    <itemref idref="Amberkani8.html"/>
+    <itemref idref="Amberkani9.html"/>
+    <itemref idref="Amberkani10.html"/>
+    <itemref idref="Amberkani11.html"/>
+    <itemref idref="Amberkani12.html"/>
+    <itemref idref="Amberkani12_0001.html"/>
+    <itemref idref="Amberkani13.xhtml"/>
+    <itemref idref="Yayinevi.html"/>
+    <itemref idref="Yazar_Hakkinda.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

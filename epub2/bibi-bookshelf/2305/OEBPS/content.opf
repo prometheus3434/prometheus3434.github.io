@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Atlantis Bulundu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cussler, Clive">Clive Cussler</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4144a10b-2972-44eb-b9ac-267b2ebc382e</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Dünyanın farklı yerlerinde uzun aralarla meydana gelmiş gizemli olaylar, bazı kuvvetlerin harekete geçmesine neden olur. Son iki ay içinde hiçbir şekilde açıklanamayan kimi bilinmezler Dirk Pitt''in dikkatini çekmiş ve bu olaylar arasında bağlantı kurmuştur. Araştırmalara başlayan Pitt kendini çok eski zamanlardan günümüze dek uzanan esrarengiz bir olayın içinde bulur. Şimdi, bugüne dek aklına bile getirmediği şeytani bir düşmanla karşı karşıyadır ve kurtarması gereken yalnız kendi canı değil, tüm dünyadır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-03-01T22:00:00+00:00</dc:date>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Aksiyon</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1af55acb-8b0d-401a-b55d-a7a68515a20a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752101876</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:4144a10b-2972-44eb-b9ac-267b2ebc382e</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta content="Atlantis Bulundu" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="x468a6131-276c-40ed-affa-a10416dd55b6.jpg"/>
+    <meta name="calibre:series" content="Dirk Pitt"/>
+    <meta name="calibre:series_index" content="15.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/468a6131-276c-40ed-affa-a10416dd55b6.jpg" id="x468a6131-276c-40ed-affa-a10416dd55b6.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

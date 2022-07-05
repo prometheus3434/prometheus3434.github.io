@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ağaç ve doğanın doğası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Fowles, John &amp; Doğan, Kemal">John Fowles</dc:creator>
+    <dc:creator opf:role="aut">Kemal Doğan</dc:creator>
+    <dc:description>&lt;p&gt;Ağaç ve Doğanın Doğası olarak iki denemeden oluşan bu kitabın yazarı John Fowles, kendini bir doğa tarihçisi olarak nitelerken doğaya olan tutkusunu , doğaya dair bilgisi ve bilgisizliğiyle beraber sunuyor.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{792E6C0B-D087-4F93-9BAD-0B7460742F8D}</dc:identifier>
+    <dc:date>1996-06-15T11:37:58+00:00</dc:date>
+    <dc:publisher>Afa Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-12-28</dc:date>
+    <dc:subject>Yetişkin</dc:subject>
+    <dc:subject>Bilim</dc:subject>
+    <dc:subject>Makale</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Gerçek</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">efe53d0d-7279-45a7-babe-5e71643e9740</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754143287</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754143287</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">6DT0tgAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.2" name="Sigil version"/>
+    <meta content="Ağaç ve doğanın doğası" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;John Fowles&quot;: &quot;&quot;, &quot;Kemal Doğan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/d.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

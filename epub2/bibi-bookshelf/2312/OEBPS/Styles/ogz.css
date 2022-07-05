@@ -1,0 +1,32 @@
+
+/*gövde,paragraf*/
+
+body
+{
+	text-align: justify;
+	text-indent: 1.5em;
+	line-height: 1.2em;
+}
+
+p
+{
+	text-indent: 1em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	line-height: 1.2em;
+	orphans: 2;
+	widows: 2;
+}
+.blok {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 2em;
+    margin-left: 3em;
+    margin-right: 4em;
+    margin-top: 0.5em
+}
+/*bölüm numara, başlık*/
+
+
+/*Kitap adı, yazar, yayınevi*/
+/*logo, resim, harita*/

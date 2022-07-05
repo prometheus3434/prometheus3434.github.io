@@ -1,0 +1,158 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-family: Book Antiqua, serif
+    }
+.calibre4 {
+    font-size: 2em;
+    line-height: 62px
+    }
+.calibre5 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre6 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre7 {
+    font-family: "Book Antiqua", serif;
+    font-size: 2.2em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre8 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre9 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0.67em 0
+    }
+.calibre10 {
+    line-height: 1.2
+    }
+.calibre11 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: start;
+    margin: 1em 0
+    }
+.calibre12 {
+    font-style: italic
+    }
+.calibre13 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 1em 0
+    }
+.calibre14 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre15 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: justify;
+    margin: 1em 0
+    }
+.calibre16 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre17 {
+    font-weight: bold
+    }
+.calibre18 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: start
+    }
+.calibre19 {
+    display: block;
+    text-align: justify;
+    margin: 1em 0
+    }
+.calibre20 {
+    text-decoration: underline
+    }
+.calibre21 {
+    font-variant: small-caps
+    }
+.calibre22 {
+    font-style: italic;
+    font-weight: bold
+    }
+.p {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 0.83333em;
+    line-height: 18px;
+    orphans: 1;
+    text-align: center;
+    widows: 1;
+    margin: 0 0 0.6em
+    }
+.p1 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 0.83333em;
+    line-height: 18px;
+    orphans: 1;
+    text-align: center;
+    widows: 1;
+    margin: 0
+    }
+.p2 {
+    display: block;
+    orphans: 1;
+    text-align: center;
+    widows: 1;
+    margin: 0 0 0.6em
+    }
+.t {
+    font-family: "Book Antiqua", serif;
+    font-size: 2.2em;
+    line-height: 1.2
+    }
+.t1 {
+    font-family: "Book Antiqua", serif;
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.t2 {
+    font-family: "Book Antiqua", serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.t3 {
+    font-family: "Book Antiqua", serif;
+    font-size: 1.2em;
+    font-style: italic;
+    line-height: 20px
+    }

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ben, Strahd. Bir Vampirin Anıları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Elrod, P. N.">P. N. Elrod</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:04346424-8ce6-48bc-8029-022dc1522de0</dc:identifier>
+    <dc:date>2001-05-01T21:00:00+00:00</dc:date>
+    <dc:publisher>Ankira Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Parşömen yapraklardan bazıları krem rengiydi, kalın ve sağlamdılar. Pek çok yaşam süresi boyunca dayanacak şekilde yapılmışlardı. Diğerleri ince ve yıpranmışlardı. Geçen zamandan sararmışlardı ve çevirdikçe tedirgin edici bir şekilde çatırdıyorladı. Ne süslü çizimler ne de kenar çizgileri vardı. Sadece siyah mürekkeple yazılmış satırlar. Akıcı el yazısını okumak başta biraz güçtü; yazarın kullandığı kaligrafi tarzı üç yüz yıldır pek kullanılmıyordu. İçindekiler kısmı yoktu ama atılmış olan tarihlere bakılırsa bu bir tarihçeydi.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Vampir</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Aşk</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7faa35a5-2bf5-48da-bccb-1ee48b478cd0</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:04346424-8ce6-48bc-8029-022dc1522de0</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758387113</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Ben, Strahd. Bir Vampirin Anıları"/>
+    <meta name="calibre:series" content="Ravenloft"/>
+    <meta name="calibre:series_index" content="7.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;P. N. Elrod&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

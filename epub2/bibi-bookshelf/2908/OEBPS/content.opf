@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dinlerin Gizemi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Esinoğlu, Birant">Birant Esinoğlu</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3686200b-9ff4-437c-897f-0a87c5525d4f</dc:identifier>
+    <dc:date opf:event="modification">2015-01-31</dc:date>
+    <dc:date>1996-01-21T22:00:00+00:00</dc:date>
+    <dc:publisher>Ceylan Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Kitap, kurban efsanesi içinde maddi ve entelektüel süreci en başından itibaren özetliyor. Yaratılış efsanesinde, elde edilen bilgileri bir mitos çözümlemesinde dönüştürüyor. Tufan efsanesi içinde de kısmen aynı tezleri küçük örneklerle tekrarlayıp efsane çözümlemesini bitiriyor. 
+Kitapta, bunların ötesinde, "Din nedir? Tektanrılı dinlere nasıl varılmıştır? Bu yanıyla Tanrı kimdir-nedir? Kurban olayının kaynağında ve binlerce yıldır uygulanışının altında hangi nedenleri aramak gerekir? Tufan olmuş mudur? Sebepleri nelerdir? vb. yüzlerce sorunun yanıtları aranmaktadır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İnanç</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">38b782d2-95dc-47b1-8aac-ed652880aa54</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9758110101</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:3686200b-9ff4-437c-897f-0a87c5525d4f</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Dinlerin Gizemi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Birant Esinoğlu&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

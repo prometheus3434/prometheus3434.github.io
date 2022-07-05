@@ -1,0 +1,232 @@
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../Fonts/HelveticaNarrowTurk.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Palatino';
+  src: url('../Fonts/Palatino-Bold.ttf') format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Palatino';
+  src: url('../Fonts/Palatino-Turk.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Palatino';
+  src: url('../Fonts/PalatinoItalicOsF.ttf') format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+a{
+	text-decoration: none;
+	color:#7A7A7A
+}
+
+img{
+	width: 100%;
+}
+
+h1{
+	font-family: Palatino;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 1.3em;
+	line-height: 1.2em;
+	text-align: center;
+	margin: 5em 0 3em;
+}
+p{
+	font-family: Palatino;
+	font-weight: normal;
+	font-style: normal;
+	font-size: .95em;
+	line-height: 1.25em;
+	text-indent: 2em;
+	margin: 0;
+}
+
+.unindent{
+	text-indent: 0;
+}
+
+blockquote{
+	margin: 1.5em 0 1.5em 4em;
+} 
+
+blockquote p{
+	font-style: italic;
+}
+.paragraph-level{
+	margin-left: 2em;
+}
+
+.paragraph-level p{
+	text-indent: 0;
+}
+
+hr{
+	border: none;
+	margin: 3em 0 0 0;
+}
+
+.min-thematic-transition{
+	margin: 1em 0 0 0;
+}
+
+.pull-right{
+	text-align: right;
+	margin-top: 1em;
+}
+
+/*
+=================
+Toc
+=================
+*/
+
+#toc {
+	text-align: center;
+}
+
+#toc ol{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#toc h1{
+	font-style: normal;
+}
+
+
+/*
+=================
+Titlepage
+=================
+*/
+
+.titlepage{
+	text-align: center;
+}
+
+.titlepage .author{
+	font-family: "Palatino";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.8em;
+	line-height: 1.5em;
+	margin-top: 2em;
+	margin-bottom: 2.5em;
+}
+
+.titlepage .work{
+	font-family: "Palatino";
+	font-weight: bold;
+	font-style: normal;
+	font-size: 2em;
+}
+
+.titlepage .type{
+	font-size: "Palatino";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.2em;
+	margin-top: 3.5em;
+}
+
+.titlepage .logo{
+	width: 100px;
+	margin: 0 auto;
+	margin-top: 6em;
+}
+
+/*
+=================
+Biography
+=================
+*/
+
+.biography h1{
+	font-size: 1.1em;
+	font-style: normal;
+	margin: 3.5em 0 2em;
+}
+
+.biography p{
+	text-indent: 0;
+	font-size: .85em;
+	line-height: 1.3em;
+}
+
+
+/*
+=================
+Gallery
+=================
+*/
+
+figure{
+	max-width: 450px;
+	margin: 0 auto;
+	margin-top: 3em;
+	page-break-inside: avoid;
+	width: 99.5%;
+}
+
+figure:first-of-type{
+	margin-top: 0;
+}
+
+figcaption{
+	font-family: "Helvetica";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .8em;
+	line-height: 1.2em;
+}
+.big{
+	max-width: 350px;
+}
+/*
+=================
+Cover
+=================
+*/
+
+.cover-container{
+	max-width: 500px;
+	margin: 0 auto;
+}
+/*
+=================
+Part
+=================
+*/
+.part{
+	font-size: 1.5em;
+	font-style: normal;
+
+}
+.copyright-page section{
+	margin-top: 1em;
+	text-align: center;
+	font: normal normal .8em/1.2em "Palatino";
+}
+
+.copyright-page span {
+	display: block;
+	text-align: center;
+}
+
+.copyright-page a {
+	text-decoration: none;
+	color: #777;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Duygusal Eğitim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Flaubert, Gustave">Gustave Flaubert</dc:creator>
+    <dc:date>2010-06-15T12:35:32+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:identifier id="uuid">{BBECBE5A-4C55-4922-BA7C-0578FA222124}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>XIX. yüzyıl Fransız edebiyatının başyapıtlarından biri sayılan ve XX. yüzyıl romanını şekillendiren, hatta çağdaş romanın öncüsü olma niteliğini taşıyan Duygusal Eğitim, arka planında Flaubert’in en ince ayrıntısına kadar gözlemleyip analitik bir zekayla kusursuzca aktardığı Temmuz Monarşisi, 1848 Devrimi ve İkinci Cumhuriyet Dönemi’yle tarihçilerin de başvuru kitaplarından biri olmayı başarmış bir yapıttır.Paris’e eğitim almak üzere gelen on sekiz yaşında taşralı bir genç olan Frédéric Moreau’nun, sanatı, siyaseti, dostluğu, iktidar hırsını ve saf aşkı öğrenip deneyimlemesinin; monarşi, cumhuriyet ve imparatorluk arasında gelgitler yaşayan Fransız toplumunda kendine bir yer edinme arayışının, başka bir deyişle kayıp bir gencin hikâyesidir. Zengin bir sanat tüccarının eşi olan Madam Arnoux’ya duyduğu aşk ve içinde yaşadığı dünyayla kurduğu ilişkiler sonucunda, birer birer yanıp kül olan hayallerin ve yanılsamaların büyüttüğü Frédéric’in hikâyesi, aynı zamanda yürekleri hınçla dolu tüm gençlerin de hikayesidir.</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f4fc5e42-5697-4454-9f1b-104b82286135</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750505065</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">PonojwEACAAJ</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Duygusal Eğitim"/>
+    <meta name="calibre:author_link_map" content="{&quot;Gustave Flaubert&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-001.xhtml" href="Text/B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-002.xhtml" href="Text/B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B-003.xhtml" href="Text/B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="S-001.xhtml" href="Text/S-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="SM.css" href="Styles/SM.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="iletisim-291x300.jpg" href="Images/iletisim-291x300.jpg" media-type="image/jpeg"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="S-001.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Başkalarının acısına bakmak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sontag, Susan &amp; Akınhay, Osman">Susan Sontag</dc:creator>
+    <dc:creator opf:role="aut">Osman Akınhay</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a04572b7-cff7-4afe-aae2-8c296f9b4cf3</dc:identifier>
+    <dc:date>2004-06-15T10:04:50+00:00</dc:date>
+    <dc:publisher>Agora Kitaplığı</dc:publisher>
+    <dc:description>&lt;p&gt;"Savaş, iç deşer; savaş, bağırsakları boşaltır. Savaş, teni yakıp kavurur. Savaş, organları bedenden koparır. Savaş, yıkıp yok eder. Ve savaş, insan türünün doğasından gelir." Böyle diyor Susan Sontag, 'tefekkür nesneleri olarak' savaş ve dehşet fotoğraflarından hareketle kaleme aldığı bu sarsıcı kitabında. Daha sonra da, Goya'nın "Savaşın Felaketleri" serisinden Amerikan İç Savaşı, Birinci Dünya Savaşı ve Nazi ölüm kamplarının fotoğrafik belgelerine ve daha yakın tarihimizde Bosna, Sierra Leone, Ruanda, İsrail, Filistin ve 11 Eylül 2001 New York City trajedilerine, zaman içinde bir gezintiye çıkıp, asıl olarak şu soruyu yöneltiyor bizlere: "Savaşın ve dehşetin yüzünü sergileyen fotoğraflara bakmaya ne kadar dayanabilirsiniz?" Başkalarının Acısına Bakmak, kesintisiz görüntü bombardımanının tüm hayatımız kuşattığı bir çağda, Susan Sontag'ın savaş fotoğrafçılığının misyonu ve başkalarının acılarıyla ıstıraplarına duyarlı olmak üzere bir insanlık dersi verdiği son başyapıtı.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Savaş</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cf278616-d0e3-48d6-bc74-55d5abb49256</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758829224</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:a04572b7-cff7-4afe-aae2-8c296f9b4cf3</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">qAYwAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758829224</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x144655.jpg"/>
+    <meta name="calibre:title_sort" content="Başkalarının acısına bakmak"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Susan Sontag&quot;: &quot;&quot;, &quot;Osman Akınhay&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BASKALARININ_ACISINA_BAKMAK_split_000.html" id="BASKALARININ_ACISINA_BAKMAK_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/144655.jpg" id="x144655.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="BASKALARININ_ACISINA_BAKMAK_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0002.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

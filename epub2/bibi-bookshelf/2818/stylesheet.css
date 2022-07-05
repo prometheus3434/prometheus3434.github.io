@@ -1,0 +1,100 @@
+.bilgiler {
+    background-color: rgb(255, 255, 255);
+    color: rgb(51, 51, 51);
+    display: block;
+    font-family: arial;
+    font-size: 0.83333em;
+    line-height: 20px;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.boxTanimVideo {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 5px
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: list-item;
+    list-style-type: none;
+    text-align: center;
+    border: currentColor none medium
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    display: block;
+    text-align: center
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre7 {
+    text-align: start
+    }
+.calibre8 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre9 {
+    display: list-item
+    }
+.k-fs {
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.k-l-s {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: none
+    }
+.k-p {
+    background-color: rgb(255, 255, 255);
+    color: rgb(51, 51, 51);
+    display: block;
+    font-family: arial;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    padding: 0;
+    margin: 0 0 3px
+    }
+.tContTitle {
+    display: block;
+    text-align: left;
+    width: 580px;
+    padding: 0;
+    margin: 10px 0 0
+    }

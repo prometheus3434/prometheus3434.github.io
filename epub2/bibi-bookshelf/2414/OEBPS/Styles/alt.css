@@ -1,0 +1,25 @@
+/* Alternative with embedded font */
+
+
+h1.name {
+  font-family: "Carolus FG";
+  font-size: 300% !important; 
+  font-variant: normal !important;
+}
+h1.title {
+  font-family: "Carolus FG";
+  font-size: 250% !important;
+}
+
+
+span.drop {
+  font-family: "Royal";
+  font-size: 500% !important;
+  margin: 0.1em 0.1em -0.2em 0 !important;
+}
+span.afterA, span.afterL {
+  margin-left: -1.5em !important;
+}
+p.initial + p {
+  clear: none !important;
+}

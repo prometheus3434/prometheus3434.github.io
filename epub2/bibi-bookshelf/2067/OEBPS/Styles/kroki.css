@@ -1,0 +1,17 @@
+@charset utf-8;
+/* Styles for Adım Agop Memleketim Tokat */
+p {
+  font-size:0.65em;
+	margin-top:0.1em;
+  margin-bottom:0.1em;
+  text-indent:0em;
+  text-align:justify;
+}
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.baslik{font-weight:bold;font-size:1em;}

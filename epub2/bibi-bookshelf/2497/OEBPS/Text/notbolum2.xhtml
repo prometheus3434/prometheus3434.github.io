@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title></title>
+  <link href="../Styles/main.css" rel="stylesheet" type="text/css" />
+  <link href="../Styles/fonts.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <p><br /></p>
+
+  <p><br /></p>
+
+  <p><b>Açıklamalar</b></p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2Id" id="nba2I">[←I]</a> Gerçekte, Turing ilk tanımlamalarında bantın üzerinde karmaşık işaretlerin bulunduğunu varsaymıştır ama bu gerçekten fark etmez. Karmaşık işaretler, işaret/ara şeklinde daima kesik şekle dönüştürülebilir. Bundan öteye Turing’in özgün komutlarında bazı ufak tefek değişiklikler daha yapacağım.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2IId" id="nba2II">[←II]</a> Bu bölümde yapılan tanımlamalar çerçevesinde ‘atış şeması”, makineden çok dışsal çevrenin yani 'bantın’ bir parçası kabul edilir. Bant üzerinde temsil edilen A, B, A-B, vs. gerçek sayılardır. Ancak, makinenin doğrusal bir-boyutlu formunu da, gelecek bölümlerde tanımlamak isteyeceğiz. Daha sonra göreceğimiz gibi, evrensel Turing makinesi ile ilgili olarak, özel bir ‘cihazın’ ayrıntılı tanımı ile belirli bir cihazın olası ‘verileri’nin (veya ‘programı’) tanımı arasında çok yakın bir ilişki vardır. Bu nedenle, bunların her ikisini bir-boyutlu formda ele almak, kolay tanımlanmalarını sağlayacaktır.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2IIId" id="nba2III">[←III]</a> Doğal sayılar deyimiyle 0, 1, 2, 3, 4, 5, 6,... sayılarını kastettiğimizi hatırlayın. Fermat teoremindeki (xw + yw = zw) x, y, z &gt; 0, w &gt; 2) ifadesi yerine ‘x + 1’ ve ‘w +3’, vs. ifadelerinin kullanılmamasının sebebi, x, w, vs. için sıfırdan başlayarak tüm doğal sayıları dikkate almamızdır.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2IVd" id="nba2IV">[←IV]</a> 2, 3, 5, 7,11, 13, 17,... gibi asal sayıların yalnız kendilerine bölünebilir sayılar olduğunu hatırlayınız. Ne 0, ne de 1 asal sayı kabul edilmez.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2Vd" id="nba2V">[←V]</a> Burada reductio ad absurdum, (olmayana ergi) olarak tanınan bir matematik yöntemi kullanılmaktadır: Önce kanıtlanmak istenenin yanlış olduğu düşünülür ve bundan çıkan çelişki nedeniyle sonucun aslında doğru olduğu kanıtlanır.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2VId" id="nba2VI">[←VI]</a> Gerçekte, n’e uygulanan Turing makinesi Tn(n) olarak ifade etmemizi sağladığı için, işlemin en zor kısmı U evrensel Turing makinesinin inşasıyla gerçekleştirilmiştir.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nba2VIId" id="nba2VII">[←VII]</a> Daha alışık olduğumuz bir ifadeyle, örneğin a = b (c) olarak yazabilirdik ama parantezler gerçekten gerekli değildir; (fp) q ve ((fp)q) r yerine, sırasıyla, (f(p)) (q) ve ((f(p)) (q)) (r) gibi son derece zahmetli formüllerden kaçınmak için parantezlerden kurtulmaya alışmakta yarar var.</p>
+
+  <p><br /></p>
+
+  <p><br /></p>
+
+  <p><br /></p>
+  <hr />
+
+  <p><a href="../Text/bolum2.xhtml#nb21d" id="nb21">[←1]</a> Sıfırı, ‘doğal sayılar’ arasına alan modern terminolojiyi kullanıyorum.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb22d" id="nb22">[←2]</a> Matematikçilerin çok iyi bildiği gibi, konumuz açısından pek uygun olmasa da, ikili, üçlü, vb. sayı gruplarını tek bir sayı gibi kodlamanın çeşitli yollan vardır. Örneğin, 1/2 (a + b)² + 3 a + b) formülü a, b doğal sayı çiftini tek bir doğal sayıyla tam olarak belirler. Deneyin!</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb23d" id="nb23">[←3]</a> Sayı (veya komut, vs.) dizgelerine başlanacağını göstermek için herhangi bir işaret kullanmaya gerek duymadım. İlk 1 ile karşılaşıldığında işlem başlayacağı için girdi açısından bu gerekli değildir. Ancak, ilk 1’e ulaşıncaya kadar (en solda) önceden bir elemanın çıktı bantı üzerinde ne kadar uzağa gidebileceği tahmin edilemiyebileceği için, çıktı açısından böyle bir işaret gerekebilir. Sola doğru hareketlenen uzun bir O’lar dizisine rastlansa bile bu, daha 1’leride bir 1’e rastlanmayacağının garantisi olamaz. Bu konuda çeşitli görüşler benimsenebilir. Bunlardan birisi, çıktıyı tümüyle başlatmak için (örneğin, büzülüm yönteminde 6 ile kodlanmış) özel bir işaretin kullanılmasıdır. Fakat basitlik endişesiyle, tanımlamalarımda daha farklı bir yaklaşım uygulayacağım: bantın ne kadarının cihaz tarafından incelendiği daima ‘bilinir’ (yani bir tür ‘iz’ bıraktığım düşleyebiliriz); böylece, ilke olarak, çıktının tümünün incelenip incelenmediğini anlamak için sonsuz uzun bantın tümünü incelemek gerekmez.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb24d" id="nb24">[←4]</a> İki bantın üzerindeki bilgileri kodlamanın bir yolu, ikisi arasında bir ara bant bırakmaktır. Böylece, ara bant üzerindeki tek-sayılı işaretler birinci bant üzerindeki işaretleri gösterirken, çift-sayılar da ikinci bant üzerindeki işaretleri gösterecektir. Benzer bir sistem üç veya daha fazla banta uygulanabilir. Bu yöntemin ‘elverişsizliği’, okuma cihazının bant boyunca durmadan ileri/geri hareket ederek izini belli etmek için bantın çift ve tek taraflarında işaretler bırakmasıdır.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb25d" id="nb25">[←5]</a> Bu yöntem yalnız, işaretli bir bantın doğal bir sayı gibi yorumlandığı durama uygulanır. EUC veya XN + 1 gibi özel Turing makinelerimizin sayılarım değiştirmez.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb26d" id="nb26">[←6]</a> <span style="font-weight:bold;font-style:italic;">T<sub>n</sub></span> doğru şekilde tanımlanmadığı takdirde <span style="font-weight:bold;font-style:italic;">U,</span> n’in ikilik ifadesinde dörtten fazla 1’den oluşan ilk diziye ulaşılır ulaşılmaz <span style="font-weight:bold;font-style:italic;">n</span> sayısı sona ermiş gibi işleme devam edecektir. Dizinin geriye kalan kısmını <span style="font-weight:bold;font-style:italic;">m</span> ile ilgili bantın bir kısmı gibi okuyacak, böylece anlamsız işlem yapmayı sürdürecektir! İstenirse bu durum, n’in açılmış ikilik sistemde ifade edilmesini sağlamak suretiyle önlenebilir. Zavallı <span style="font-weight:bold;font-style:italic;">U</span> evrensel Turing makinesinin U'nun tanımım daha fazla karmaşıklaştırmamak için bunu yapmamayı tercih ettim!</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb27d" id="nb27">[←7]</a> u’nun ikilik sisteme dayalı tanımından onluk sisteme dayalı şeklini çıkardığı için David Deutsch’a minnettarım, u’un bu ikilik değerinin gerçekte bir evrensel Turing makinesi ürettiğim doğrulamak için yaptığı çalışma için de kendisine minnettarım. u’un ikilik sisteme göre değeri aşağıdaki gibidir:</p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-31.png" style="width:80%;" /></p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-32.png" style="width:80%;" /></p>
+
+  <p style="text-align: center;"><img alt="" src="../Images/main-33.png" style="width:82%;" /></p>
+
+  <p>Evinde yeterli kapasitede bilgisayarı olan ve yeni şeyleri denemekten hoşlanan girişimci okurlarım, metinde verilen tanımlamaları kullanarak, yukarıdaki kodu çeşitli ve basit Turing makinesi sayılarına uygulayarak, söz konusu kodun gerçekten bir evrensel Turing makinesi’nin uygulanmasını verdiğini kontrol edebilirler!</p>
+
+  <p>Bir Turing makinesi için farklı bir tanım uygulayarak u’nun değerini azaltmak mümkün olabilirdi. Örneğin, STOP komutunu kaldırır ve yerine, makinenin içinde bulunduğu bir içsel durumdan sonra 0 içsel durumuna her girişinde durmasını sağlayan bir kural konulabilir. Bu yöntemle pek başarılı sonuç alınamaz (belki hiç sonuç alınamaz). Amacımız için en iyi sonuç, bantları 0 veya 1 dışında işaretlerle işaretlemekle alınabilir. Görünüşte çok kısa kodlamalı evrensel Turing makineleri literatürde tanımlanmış olmakla birlikte bu kısalık yanıltıcıdır, çünkü genel olarak Turing makineleri son derece karmaşık kodlama sistemlerine bağımlıdırlar.</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb28d" id="nb28">[←8]</a> Bu ünlü sav ile ilgili teknik olmayan konular için, bkz. Devlin (1988).</p>
+
+  <p><a href="../Text/bolum2.xhtml#nb29d" id="nb29">[←9]</a> Yukarıdaki yöntemi tekrar tekrar uygulamak suretiyle bu geliştirilmiş algoritmayı da kuşkusuz alt edebilirdik. Elde edeceğimiz bilgiyi, algoritmamızı daha da geliştirmek için kullanabilirdik; fakat, yeniden geliştirilen bu algoritmanın da üstesinden gelebilirdik ve bu böylece sürüp giderdi. Bu tekrarlayıcı yöntemin bizi hangi noktaya götüreceği Gödel’in teoremi çerçevesinde ele alınacaktır. (Bölüm IV)</p>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Aşktan ve Gölgeden</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Allende, Isabel">Isabel Allende</dc:creator>
+    <dc:identifier id="uuid">{F4C7F656-4A20-4D9A-8871-572B80FF1889}</dc:identifier>
+    <dc:date>2020-08-02T12:52:50+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:description>Bu öykü, birbirlerini amansızca seven, böylece sıradan bir varoluştan kendilerini sakınan bir kadınla bir erkeğin öyküsüdür. Bu öyküyü zaman aşımına karşı koyarak belleğimde gizledim; şimdi artık bu yerin ıssız gecelerinde size anlatabilirim. Bunu, onlar ve ötekiler için yapacağım. Çünkü onlar bana yaşamlarını emanet ettiler ve şöyle dediler: “Al, yaz, yoksa rüzgâr onu silip yok edecek.” Yazarlık serüvenini, “gerçekliğin bütün boyutlarını görebilmek ve yazabilmek” olarak niteleyen Allende, bu kitapta, bir cinayetin perde arkasını araştıran iki gazeteciye odaklanıyor. Gene karanlığı dile getiriyor, ardından aydınlığı; umudu, peşi sıra umutsuzluğu; acımasızlığı, dayanışmayı... Her şeye rağmen karamsar değil. Hatta bir parça “mutlu son” bile var. “Keşke yalnızca mutlu sonları yazabilseydim, ne yazık ki yaşam hiç öyle değil,” dese de...#latinamerikaedebiyatı #darbe #aşk #gazetecilik #tutku #tehlike #macera #işkence</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b91a9a95-7046-43d2-b1db-fcc697062d08</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">qAdyEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750752988</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Aşktan ve Gölgeden"/>
+    <meta name="calibre:author_link_map" content="{&quot;Isabel Allende&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icKapak.xhtml" id="icKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye-1.xhtml" id="Kunye-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye-2.xhtml" id="Kunye-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.xhtml" id="Yayinevi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar.xhtml" id="Yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithafen.xhtml" id="ithafen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-001.xhtml" id="B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-002.xhtml" id="B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-003.xhtml" id="B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-004.xhtml" id="B-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-005.xhtml" id="B-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-006.xhtml" id="B-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-007.xhtml" id="B-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-008.xhtml" id="B-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-009.xhtml" id="B-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Dipnot.xhtml" id="Dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/eg0.3.css" id="eg0.3.css" media-type="text/css"/>
+    <item href="Images/CAN.jpg" id="CAN.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="icKapak.xhtml"/>
+    <itemref idref="Kunye-1.xhtml"/>
+    <itemref idref="Kunye-2.xhtml"/>
+    <itemref idref="Yayinevi.xhtml"/>
+    <itemref idref="Yazar.xhtml"/>
+    <itemref idref="ithafen.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="B-004.xhtml"/>
+    <itemref idref="B-005.xhtml"/>
+    <itemref idref="B-006.xhtml"/>
+    <itemref idref="B-007.xhtml"/>
+    <itemref idref="B-008.xhtml"/>
+    <itemref idref="B-009.xhtml"/>
+    <itemref idref="Dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Beton Bahçe</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="McEwan, Ian &amp; Bingül, Figen">Ian McEwan</dc:creator>
+    <dc:creator opf:role="aut">Figen Bingül</dc:creator>
+    <dc:publisher>Sel Yayıncılık</dc:publisher>
+    <dc:description>When their mother dies, four children living in an isolated house in London find themselves without guidance for the entire summer.</dc:description>
+    <dc:date>2010-06-15T11:15:59+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">532412e9-aca2-4b8e-b03d-669e5141810c</dc:identifier>
+    <dc:date opf:event="modification">2015-04-05</dc:date>
+    <dc:subject>Yetişkin</dc:subject>
+    <dc:subject>Çağdaş Edebiyat</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8d457f99-1e4b-4415-a372-d07d67e6db87</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">fvVYngEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">17667707</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755704388</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755704388</dc:identifier>
+    <meta content="Beton Bahçe" name="calibre:title_sort"/>
+    <meta content="2015-04-01T11:38:58.982000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Ian McEwan&quot;: &quot;&quot;, &quot;Figen Bingül&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/beton_01.htm" id="beton_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/beton_02.htm" id="beton_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/beton_03.htm" id="beton_03.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="beton_01.htm"/>
+    <itemref idref="beton_02.htm"/>
+    <itemref idref="beton_03.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

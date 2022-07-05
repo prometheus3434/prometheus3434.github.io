@@ -1,0 +1,145 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre6 {
+    display: list-item
+    }
+.calibre7 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre8 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre9 {
+    line-height: 1.2
+    }
+.calibre10 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre11 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre12 {
+    font-weight: bold;
+    text-decoration: underline
+    }
+.calibre13 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre14 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre15 {
+    display: block;
+    font-weight: bold;
+    margin: 1.33em 0
+    }
+.calibre16 {
+    font-variant: small-caps
+    }
+.calibre17 {
+    font-variant: small-caps;
+    font-weight: bold
+    }
+.calibre18 {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre19 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre20 {
+    font-style: italic;
+    text-decoration: underline
+    }
+.calibre21 {
+    display: block;
+    border-bottom: currentColor solid medium
+    }
+.calibre22 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre23 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre24 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre25 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: bottom;
+    padding: 1px
+    }
+.calibre26 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre27 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: middle;
+    padding: 1px
+    }
+.calibre28 {
+    text-decoration: underline
+    }
+.calibre29 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }

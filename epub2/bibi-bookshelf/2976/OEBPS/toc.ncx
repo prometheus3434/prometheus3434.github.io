@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{12499E0C-B8FC-4BE2-BF66-6AB84CD4A3EC}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dr. Moreau’ nun Adası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Dr. Moreau’nun Adası</text>
+      </navLabel>
+      <content src="Text/ic-kapak-2.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>BÖLÜM 0: Giriş</text>
+        </navLabel>
+        <content src="Text/bolum-00.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>BÖLÜM 1: 'Lady Vain'in Tahliye Sandalında</text>
+        </navLabel>
+        <content src="Text/bolum-01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>BÖLÜM 2: Hiçbir Yere Gitmeyen Adam</text>
+        </navLabel>
+        <content src="Text/bolum-02.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>BÖLÜM 3: Tuhaf Yüz</text>
+        </navLabel>
+        <content src="Text/bolum-03.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>BÖLÜM 4: Uskunanın Küpeştesinde</text>
+        </navLabel>
+        <content src="Text/bolum-04.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>BÖLÜM 5: Adaya İniş</text>
+        </navLabel>
+        <content src="Text/bolum-05.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>BÖLÜM 6: Uğursuz Görünümlü Sandalcılar</text>
+        </navLabel>
+        <content src="Text/bolum-06.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>BÖLÜM 7: Kilitli Kapı</text>
+        </navLabel>
+        <content src="Text/bolum-07.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>BÖLÜM 8: Pumanın Çığlıkları</text>
+        </navLabel>
+        <content src="Text/bolum-08.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>BÖLÜM 9: Ormandaki Şey</text>
+        </navLabel>
+        <content src="Text/bolum-09.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>BÖLÜM 10: Adamın Çığlıkları</text>
+        </navLabel>
+        <content src="Text/bolum-10.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>BÖLÜM 11: İnsan Avı</text>
+        </navLabel>
+        <content src="Text/bolum-11.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BÖLÜM 12: Kanun'u Söyleyenler</text>
+        </navLabel>
+        <content src="Text/bolum-12.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>BÖLÜM 13: Bir Tartışma</text>
+        </navLabel>
+        <content src="Text/bolum-13.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>BÖLÜM 14: Dr. Moreau Açıklıyor</text>
+        </navLabel>
+        <content src="Text/bolum-14.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>BÖLÜM 15: Hayvan Halkı Hakkında</text>
+        </navLabel>
+        <content src="Text/bolum-15.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>BÖLÜM 16: Hayvan Halkı Kan Tadını Nasıl Aldı?</text>
+        </navLabel>
+        <content src="Text/bolum-16.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>BÖLÜM 17: Felaket</text>
+        </navLabel>
+        <content src="Text/bolum-17.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>BÖLÜM 18: Dr. Moreau’nun Bulunuşu</text>
+        </navLabel>
+        <content src="Text/bolum-18.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>BÖLÜM 19: Montgomery'nin Tatil Günü</text>
+        </navLabel>
+        <content src="Text/bolum-19.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>BÖLÜM 20: Hayvan Halkıyla Tek Başına</text>
+        </navLabel>
+        <content src="Text/bolum-20.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>BÖLÜM 21: Hayvan Halkı'nın Eski Haline Dönüşü</text>
+        </navLabel>
+        <content src="Text/bolum-21.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>BÖLÜM 22: Yalnız Adam</text>
+        </navLabel>
+        <content src="Text/bolum-22.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

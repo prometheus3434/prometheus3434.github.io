@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dost Yaşamasız</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bener, Vüs'at O.">Vüs'at O. Bener</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e2734640-7aa5-4226-a5a4-cb32983904cd</dc:identifier>
+    <dc:description>&lt;p&gt;Modern Türk öyküclüğünde "altın kuşak" olarak tanımlanabilecek 1950 kuşağının önde gelen isimlerinden birisidir Vüs'at O. Bener. 1950'de New York Herald Tribune gazetesi ile Yeni İstanbul gazetesinin ortaklaşa düzenledikleri öykü yarışmasında "Dost" adlı öyküsüyle adını duyurdu. Yarım yüzyılda ortaya koyduğu az sayıdaki öykü, roman ve oyunlarla edebiyatımızda etkili ve saygın bir yer edindi. Şimdi bütün yapıtlarıyla YKY'de...
+Bener, konuşma dilini tüm doğallığıyla, ona yoğunluk kazandırarak kullanır. Behçet Necatigil, onun için "Gerçekleri aydınlıktan uzaklaştırıp soyutlamaları götürme çabaları ve anlatışındaki yeniliklerle çağdaşı hikayecilerden ayrı bir yol tuttu" der.&lt;/p&gt;</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>1952-12-24T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:date opf:event="modification">2014-04-05</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ffad439f-0b82-4cdf-bd30-19ba2485b23f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785933540</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:e2734640-7aa5-4226-a5a4-cb32983904cd</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dost Yaşamasız"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Vüs'at O. Bener&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/yky_fmt.jpeg" id="yky_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="x5.html"/>
+  </spine>
+</package>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:86973c11-a73d-4ad4-b578-8a4c3e458e36" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Margaret Atwood</text>
+      </navLabel>
+      <content src="Text/yazar.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Antilop ve Flurya</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/avef101.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Mango</text>
+        </navLabel>
+        <content src="Text/avef102.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Kıyıya vuranlar</text>
+        </navLabel>
+        <content src="Text/avef103.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Ses</text>
+        </navLabel>
+        <content src="Text/avef104.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/avef200.html"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Çayır ateşi</text>
+        </navLabel>
+        <content src="Text/avef201.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>OrganLtd çiftlikleri</text>
+        </navLabel>
+        <content src="Text/avef202.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Öğle yemeği</text>
+        </navLabel>
+        <content src="Text/avef203.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/avef300.html"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Öğlenciler</text>
+        </navLabel>
+        <content src="Text/avef301.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sağanak</text>
+        </navLabel>
+        <content src="Text/avef302.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/avef400.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Rakunk</text>
+        </navLabel>
+        <content src="Text/avef401.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Çekiç</text>
+        </navLabel>
+        <content src="Text/avef402.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Flurya</text>
+        </navLabel>
+        <content src="Text/avef403.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Brainfrizz</text>
+        </navLabel>
+        <content src="Text/avef404.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>HottTotts</text>
+        </navLabel>
+        <content src="Text/avef405.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/avef500.html"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Kızarmış ekmek</text>
+        </navLabel>
+        <content src="Text/avef501.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Balık</text>
+        </navLabel>
+        <content src="Text/avef502.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Şişe</text>
+        </navLabel>
+        <content src="Text/avef503.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/avef600.html"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Antilop</text>
+        </navLabel>
+        <content src="Text/avef601.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Kuş ötüşü</text>
+        </navLabel>
+        <content src="Text/avef602.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Güller</text>
+        </navLabel>
+        <content src="Text/avef603.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Pixieland cazı</text>
+        </navLabel>
+        <content src="Text/avef604.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/avef700.html"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Sveltana</text>
+        </navLabel>
+        <content src="Text/avef701.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Mırlamak</text>
+        </navLabel>
+        <content src="Text/avef702.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Mavi</text>
+        </navLabel>
+        <content src="Text/avef703.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/avef800.html"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>SoYummie</text>
+        </navLabel>
+        <content src="Text/avef801.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Happicuppa</text>
+        </navLabel>
+        <content src="Text/avef802.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Uygulamalı retorik</text>
+        </navLabel>
+        <content src="Text/avef803.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Asperger Sendromlular Okulu</text>
+        </navLabel>
+        <content src="Text/avef804.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Kurtekler</text>
+        </navLabel>
+        <content src="Text/avef805.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Varsayımsal</text>
+        </navLabel>
+        <content src="Text/avef806.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Extinctathon</text>
+        </navLabel>
+        <content src="Text/avef807.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/avef900.html"/>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Yürüyüş</text>
+        </navLabel>
+        <content src="Text/avef901.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>RejoovenEsense</text>
+        </navLabel>
+        <content src="Text/avef902.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Kasırga</text>
+        </navLabel>
+        <content src="Text/avef903.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/avef10.html"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Yırtıcılık</text>
+        </navLabel>
+        <content src="Text/avef11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>AnooYoo</text>
+        </navLabel>
+        <content src="Text/avef12.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Garaj</text>
+        </navLabel>
+        <content src="Text/avef13.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Boşlukta</text>
+        </navLabel>
+        <content src="Text/avef14.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="Text/avef0110.html"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Domuzonlar</text>
+        </navLabel>
+        <content src="Text/avef0111.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Telsiz</text>
+        </navLabel>
+        <content src="Text/avef0112.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Sur</text>
+        </navLabel>
+        <content src="Text/avef0113.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="Text/avef0120.html"/>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Halk Diyarı’na Gezi</text>
+        </navLabel>
+        <content src="Text/avef0121.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Blysspluss</text>
+        </navLabel>
+        <content src="Text/avef0122.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>DelliAddem</text>
+        </navLabel>
+        <content src="Text/avef0123.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>CennetZarı</text>
+        </navLabel>
+        <content src="Text/avef0124.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Aşık Flurya</text>
+        </navLabel>
+        <content src="Text/avef0125.html"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Hatır yemek</text>
+        </navLabel>
+        <content src="Text/avef0126.html"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Hava kilidi</text>
+        </navLabel>
+        <content src="Text/avef0127.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="Text/avef0130.html"/>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Kubbe</text>
+        </navLabel>
+        <content src="Text/avef0131.html"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Kargacık burgacık</text>
+        </navLabel>
+        <content src="Text/avef0132.html"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Kalıntı</text>
+        </navLabel>
+        <content src="Text/avef0133.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="Text/avef0140.html"/>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>İdol</text>
+        </navLabel>
+        <content src="Text/avef0141.html"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Vaaz</text>
+        </navLabel>
+        <content src="Text/avef0142.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="Text/avef0150.html"/>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Ayak izi</text>
+        </navLabel>
+        <content src="Text/avef0151.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Teşekkürler</text>
+      </navLabel>
+      <content src="Text/than.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

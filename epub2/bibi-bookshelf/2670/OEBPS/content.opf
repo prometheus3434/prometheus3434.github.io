@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Carmen (Dodo Press)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Merimee, Prosper">Prosper Merimee</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:35c6864f-2ba4-4af5-ba24-1a79f68ad6af</dc:identifier>
+    <dc:publisher>Dodo Press</dc:publisher>
+    <dc:date>2008-02-15T12:19:14+00:00</dc:date>
+    <dc:subject>Drama</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Prosper Mérimée (1803-1870) was a French dramatist, historian, archaeologist, and short story writer. He is perhaps best known for his novella Carmen, which became the basis of Bizet's opera Carmen. He studied law as well as Greek, Spanish, English, and Russian. He was the first interpreter of much Russian literature in France. Mérimée met and befriended the Countess of Montijo in Spain in 1830 whom he credited as being his source for the Carmen story. Together with the countess, he coached her daughter, Eugenie, during the courtship with Napoleon III (though his correspondence indicates he was opposed to their marriage). When the daughter became the Empress Eugénie of France in 1853 he was made a senator. His works include: Cromwell (1822), Le Théâtre de Clara Gazul (1825), La Guzla (1827), La Jacquerie (1828), Colomba (1840) and Lokis (1869).</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">cf98353c-6a8a-405a-96bd-f932f5bcfdee</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781406594164</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:35c6864f-2ba4-4af5-ba24-1a79f68ad6af</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">M8NZPQAACAAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2012-11-29T08:01:04.519000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Carmen (Dodo Press)"/>
+    <meta name="calibre:author_link_map" content="{&quot;Prosper Merimee&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/carmen_split_000.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/carmen_split_001.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/carmen_split_002.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/carmen_split_003.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/carmen_split_004.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

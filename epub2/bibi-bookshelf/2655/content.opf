@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<ns0:package xmlns:ns0="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <ns0:metadata>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bye Bye Türkce: Bir Nev-york Rüyasi</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="aut" ns0:file-as="Sinanoğlu, Oktay">Oktay Sinanoğlu</dc:creator>
+    <ns1:date xmlns:ns1="http://purl.org/dc/elements/1.1/">2012-06-15T12:05:54+00:00</ns1:date>
+    <ns1:contributor xmlns:ns1="http://purl.org/dc/elements/1.1/" ns0:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</ns1:contributor>
+    <ns1:identifier xmlns:ns1="http://purl.org/dc/elements/1.1/" id="uuid_id" ns0:scheme="uuid">1e3e1deb-173e-48a9-925e-73fe34b3cf13</ns1:identifier>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Bilim+Gönül</dc:publisher>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">tr</dc:language>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="calibre">da164197-a454-4349-aee7-ec0a9983df00</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="GOOGLE">_CMXtAEACAAJ</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="ISBN">9786058936980</dc:identifier>
+    <ns0:meta content="1" name="calibre:series_index"/>
+    <ns0:meta content="2010-12-08T02:54:05.734000+00:00" name="calibre:timestamp"/>
+    <ns0:meta name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" name="calibre:title_sort" content="Bye Bye Türkce: Bir Nev-york Rüyasi"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" name="calibre:author_link_map" content="{&quot;Oktay Sinanoğlu&quot;: &quot;&quot;}"/>
+  </ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/001_split_000.html" id="id0012" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/001_split_001.html" id="id0011" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/002_split_000.html" id="id0022" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/002_split_001.html" id="id0021" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/003_split_000.html" id="id0032" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/003_split_001.html" id="id0031" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/004_split_000.html" id="id0042" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/004_split_001.html" id="id0041" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/005_split_000.html" id="id0052" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/005_split_001.html" id="id0051" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <ns0:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <ns0:item href="stylesheet.css" id="css" media-type="text/css"/>
+    <ns0:item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="id4" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="id3" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Italic.ttf" id="id2" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Regular.ttf" id="id1" media-type="application/octet-stream"/>
+    <ns0:item href="Ops/fonts/ARIAL.TTF" id="idfont2" media-type="application/vnd-ms-opentype"/>
+    <ns0:item href="Ops/fonts/ARIALBD.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+  </ns0:manifest>
+  <ns0:spine toc="ncx">
+    <ns0:itemref idref="titlepage"/>
+    <ns0:itemref idref="id0012"/>
+    <ns0:itemref idref="id0011"/>
+    <ns0:itemref idref="id0022"/>
+    <ns0:itemref idref="id0021"/>
+    <ns0:itemref idref="id0032"/>
+    <ns0:itemref idref="id0031"/>
+    <ns0:itemref idref="id0042"/>
+    <ns0:itemref idref="id0041"/>
+    <ns0:itemref idref="id0052"/>
+    <ns0:itemref idref="id0051"/>
+    <ns0:itemref idref="id006"/>
+  </ns0:spine>
+  <ns0:guide>
+    <ns0:reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </ns0:guide>
+</ns0:package>

@@ -1,0 +1,3213 @@
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+th, td {
+  vertical-align: top;
+  text-align: left;
+}
+h1 {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+h2 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.17em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+h3 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+h4 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+h5 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+h6 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Normal {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Body_Text {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Body_Text_First_Indent {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.2em;
+}
+.P_Heading_1 {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Heading_2 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.17em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Heading_3 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Heading_4 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Heading_5 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Heading_6 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Comment {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Headers {
+  font-size: 1em;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Footers {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_HTML {
+  font-size: 0.83em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Preformatted {
+  font-size: 0.83em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Centre {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Right {
+  font-size: 1em;
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Heading {
+  font-weight: bold;
+  font-size: 1.33em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Entry_1 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 1.2em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Entry_2 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 2.4em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Entry_3 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 3.6em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Entry_4 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 4.8em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Entry_5 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 6em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_TOC_Entry_6 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 7.2em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Index_Heading {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Index_Group_Heading {
+  font-weight: bold;
+  font-size: 1.17em;
+  
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Index_Entry_1 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 1.2em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Index_Entry_2 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 2.4em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Index_Entry_3 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 3.6em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Endnotes_Heading {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Footnote {
+  font-size: 0.83em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Endnotes_Group {
+  font-size: 1.17em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Picture_Caption {
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Table_Caption {
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Bibliography_Heading {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Bibliography_Group {
+  font-size: 1.17em;
+  
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Bibliography_Entry {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 1.8em;
+  margin-right: 0;
+  text-indent: -1.8em;
+}
+.P_Only_Epub {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_Lulu_Epub {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_Epub_3 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_Mobipocket {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_OpenDocument {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_Smashwords_OpenDocument {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_Text {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_HTB {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_CHM {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_MP3 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Only_HTML {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_p {
+  font-size: 1em;
+  
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_h1 {
+  font-weight: bold;
+  font-size: 1.5em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_h2 {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_h3 {
+  font-weight: bold;
+  font-size: 1.17em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_h4 {
+  font-weight: bold;
+  font-size: 1em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_h5 {
+  font-weight: bold;
+  font-size: 0.83em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_h6 {
+  font-weight: bold;
+  font-size: 0.67em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_td {
+  font-size: 1em;
+  
+  margin-top: 0.7em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_th {
+  font-size: 1em;
+  
+  margin-top: 0.7em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_caption {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_center {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_blockquote {
+  font-size: 1em;
+  
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+  margin-left: 2em;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_css1 {
+  font-size: 1em;
+  
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  text-indent: 2em;
+}
+.P_css1__And__Centre_Alignment {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  text-indent: 2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Centre_Alignment__And__Spacing_After {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_css1__And__Right_Alignment {
+  font-size: 1em;
+  text-align: right;
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  text-indent: 2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Centre_Alignment__And__Spacing_After__And__All_Padding {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Centre_Alignment__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Bold__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__All_Padding {
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Centre_Alignment__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Right_Alignment__And__Spacing_After {
+  font-size: 1em;
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.68em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Spacing_After__And__All_Padding {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Spacing_After__And__All_Padding {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.04em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Bold__And__Spacing_After__And__Spacing_Before__And__All_Padding {
+  font-weight: bold;
+  font-size: 1.5em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Bold__And__Spacing_After__And__Spacing_Before__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-weight: bold;
+  font-size: 1.5em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.42em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.54em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.54em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Coloured_Background__And__Times_New_Roman__And__12pt__And__Spacing_After {
+  font-size: 1em;
+  background-color: #FEFEFE;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.62em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.62em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.54em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Bold__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After_1 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_4_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After_2 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR_ {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_6_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.04em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After__And__All_Padding {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__16pt__And__Bold__And__Spacing_After__And__Spacing_Before__And__All_Padding {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After__And__All_Padding_1 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__16pt__And__Bold__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__All_Padding {
+  font-weight: bold;
+  font-size: 1.33em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After__And__All_Padding_2 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__16pt__And__Bold__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-weight: bold;
+  font-size: 1.33em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__14pt__And__Bold__And__Spacing_After__And__Spacing_Before__And__All_Padding {
+  font-weight: bold;
+  font-size: 1.17em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_6_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_7_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_4_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.62em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.62em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.62em;
+}
+.P_Current__And__Coloured_Background__And__Times_New_Roman__And__12pt__And__Spacing_After_1 {
+  font-size: 1em;
+  background-color: #FBFBFB;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After_3 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_19 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__14pt__And__Bold__And__Spacing_After__And__Spacing_Before__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-weight: bold;
+  font-size: 1.17em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After__And__All_Padding_3 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__19 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_20 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__20 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_21 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__14pt__And__Bold__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__All_Padding {
+  font-weight: bold;
+  font-size: 1.17em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__21 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_4_CLOSEPAR__2 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_22 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__22 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_23 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__23 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__16pt__And__Bold__And__Spacing_After__And__Spacing_Before__And__All_Padding__OPENPAR_1_CLOSEPAR_ {
+  font-weight: bold;
+  font-size: 1.33em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__6 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_24 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__24 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__7 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_4_CLOSEPAR__3 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__14 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_25 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__25 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__19 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__15 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_26 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__26 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__20 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__9 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_27 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__27 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__21 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__10 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_4_CLOSEPAR__4 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_5_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.42em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_6_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.54em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__19 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.54em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_16 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_28 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__28 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__22 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__19 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.28em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After__And__All_Padding_4 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.12em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__11 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Right_Alignment__And__Spacing_After__And__All_Padding {
+  font-size: 1em;
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_29 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.18em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__20 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__29 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.4em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_3_CLOSEPAR__20 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_4_CLOSEPAR__17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After__And__All_Padding_5 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_5_CLOSEPAR__8 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_5_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Left_Indent__And__Spacing_After_4 {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_6_CLOSEPAR__1 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.48em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_17 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.2em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_1_CLOSEPAR__19 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_30 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__30 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_2_CLOSEPAR__23 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__21 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__12 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_4_CLOSEPAR__5 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.06em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After_18 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.62em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding_31 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_2_CLOSEPAR__22 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0.14em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__OPENPAR_3_CLOSEPAR__13 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__All_Padding__OPENPAR_1_CLOSEPAR__31 {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Centre_Alignment__And__Spacing_After__And__Page_Break {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__Page_Break {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.34em;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__Page_Break {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Spacing_After__And__Spacing_Before__And__Page_Break {
+  font-size: 1.5em;
+  
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__18pt__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__16pt__And__Centre_Alignment__And__Spacing_After__And__Spacing_Before__And__Page_Break {
+  font-size: 1.33em;
+  text-align: center;
+  margin-top: 0.56em;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Spacing_After__And__Page_Break {
+  font-size: 1em;
+  
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 0;
+}
+.P_Current__And__Times_New_Roman__And__12pt__And__Justification__And__Left_Indent__And__Spacing_After__And__Page_Break__OPENPAR_1_CLOSEPAR_ {
+  font-size: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0.56em;
+  margin-left: 0;
+  margin-right: 0;
+  text-indent: 1.26em;
+}
+.C_Comment_Text {
+  background-color: #FEFFBB;
+}
+.C_Comment_Content {
+  background-color: #D9DAFF;
+}
+.C_URL {
+  text-decoration: underline;
+  color: #00F;
+}
+.C_HTML_Text {
+  font-size: 10pt;
+  color: #808080;
+}
+.C_Drop_Caps {
+  line-height: 90%;
+  height: 0.75em;
+  font-size: 280%;
+  margin-right: 0.075em;
+  float: left;
+}
+.C_Small_Caps {
+  font-size: 8pt;
+}
+.C_Current__And__Italic {
+  font-style: italic;
+}
+.C_Current__And__18pt {
+  font-size: 18pt;
+}
+.C_Current__And__30pt__And__No_Bold {
+  font-weight: normal;
+  font-size: 30pt;
+}
+.C_Current__And__No_Bold {
+  font-weight: normal;
+}
+.C_Current__And__Coloured_Text__And__30pt__And__No_Bold {
+  font-weight: normal;
+  font-size: 30pt;
+  color: #5C00AD;
+}
+.C_Current__And__16pt__And__No_Bold {
+  font-weight: normal;
+  font-size: 16pt;
+}
+.C_Current__And__Bold__And__Italic {
+  font-weight: bold;
+  font-style: italic;
+}
+.C_Current__And__No_Bold__And__Underline {
+  font-weight: normal;
+  text-decoration: underline;
+}
+.C_Current__And__No_Bold__And__Italic {
+  font-weight: normal;
+  font-style: italic;
+}
+.C_Current__And__No_Bold__And__Superscript {
+  font-weight: normal;
+  font-size: 9pt;
+  vertical-align: super;
+}
+.C_Current__And__No_Bold__And__Strikethrough {
+  font-weight: normal;
+  text-decoration: line-through;
+}
+.C_Current__And__Black_Text__And__No_Bold {
+  font-weight: normal;
+  color: #000;
+}
+.C_Current__And__Blue_Text__And__No_Bold__And__Underline__And__Superscript {
+  font-weight: normal;
+  font-size: 9pt;
+  text-decoration: underline;
+  vertical-align: super;
+  color: #00F;
+}
+.C_Current__And__No_Bold__And__Italic__And__Underline {
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: underline;
+}
+.C_Current__And__No_Bold__And__No_Italic__And__Underline {
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: underline;
+}
+.C_Current__And__No_Bold__And__No_Italic {
+  font-weight: normal;
+  font-style: normal;
+}
+.C_Current__And__No_Bold__And__No_Italic__And__No_Underline {
+  font-weight: normal;
+  font-style: normal;
+}
+.C_Current__And__25pt__And__No_Bold {
+  font-weight: normal;
+  font-size: 25pt;
+}
+.C_Current__And__No_Bold__And__No_Underline {
+  font-weight: normal;
+}
+.C_Current__And__Coloured_Text__And__No_Bold {
+  font-weight: normal;
+  color: #CE0053;
+}
+.C_Current__And__Superscript {
+  font-size: 9pt;
+  vertical-align: super;
+}
+.B_Simple_Box {
+  padding-left: 1mm;
+  padding-top: 1mm;
+  padding-right: 1mm;
+  padding-bottom: 1mm;
+  border-left-width: 1pt;
+  border-top-width: 1pt;
+  border-right-width: 1pt;
+  border-bottom-width: 1pt;
+  border-left-color: #000;
+  border-top-color: #000;
+  border-right-color: #000;
+  border-bottom-color: #000;
+  border-left-style: solid;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+}

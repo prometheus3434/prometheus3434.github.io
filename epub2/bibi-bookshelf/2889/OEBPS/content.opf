@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Devrim</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Osho">Osho</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Butik Yayıncılık</dc:publisher>
+    <dc:date>2015-12-25T21:00:00+00:00</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">9b528a0c-7fae-4ae5-8af6-a5350ae27108</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Devrim"/>
+    <meta name="calibre:author_link_map" content="{&quot;Osho&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/3-1.html" id="x3-1" media-type="application/xhtml+xml"/>
+    <item href="Text/3-2.html" id="x3-2" media-type="application/xhtml+xml"/>
+    <item href="Text/3-3.html" id="x3-3" media-type="application/xhtml+xml"/>
+    <item href="Text/3-4.html" id="x3-4" media-type="application/xhtml+xml"/>
+    <item href="Text/3-5.html" id="x3-5" media-type="application/xhtml+xml"/>
+    <item href="Text/3-6.html" id="x3-6" media-type="application/xhtml+xml"/>
+    <item href="Text/3-7.html" id="x3-7" media-type="application/xhtml+xml"/>
+    <item href="Text/3-8.html" id="x3-8" media-type="application/xhtml+xml"/>
+    <item href="Text/3-9.html" id="x3-9" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/KAPAK_fmt.png" id="KAPAK_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x3-1"/>
+    <itemref idref="x3-2"/>
+    <itemref idref="x3-3"/>
+    <itemref idref="x3-4"/>
+    <itemref idref="x3-5"/>
+    <itemref idref="x3-6"/>
+    <itemref idref="x3-7"/>
+    <itemref idref="x3-8"/>
+    <itemref idref="x3-9"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

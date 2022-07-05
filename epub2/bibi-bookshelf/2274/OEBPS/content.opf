@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Atalarımız Hunlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tram-Semen, Sofi">Sofi Tram-Semen</dc:creator>
+    <dc:creator opf:role="edt">balci60</dc:creator>
+    <dc:identifier id="BookId">AWP-388CF2C6-6078-47C6-85AC-622996DBCC0C</dc:identifier>
+    <dc:publisher>Kaynak</dc:publisher>
+    <dc:date>2007-06-15T09:59:50+00:00</dc:date>
+    <dc:date opf:event="modification">2014-09-13</dc:date>
+    <dc:description>&lt;p&gt;Bu kitap 14. yüzyılda parçalanmış Deşt-i Kıpçak'ın kalıntılarından biri olan, Elbruz dağının eteklerinde oturan ve "Karaçaylı" olarak adlandırılan Nart boyu Hun Türklerinin şifahi kültüründen derlenmiş bilgilere ve dünya tarihinde bilinen Hunlar hakkındaki kaynaklara dayanarak yazılmıştır.
+
+Yeni nesil tarihçilerin bir kısmına göre "Alan", bazı komşu halklar tarafından da "farklı grupların oluşturduğu halk" olarak tanımlanmaya çalışılan Hun-Kara Çaylılar denilen halkın, her alanda göz çarpan, maddi manevi kültüründe ve millî kimliğinde izlenen Hun özelliklerini hatırlatmak amacı gütmektir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Türk Tarihi</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>araştırma</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fad7bd32-b249-4247-9555-4e5f08349a68</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753435079</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753435079</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">kJDFtgAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Atalarımız Hunlar"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sofi Tram-Semen&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/balci60.css" id="balci60.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+    <item href="Images/img3.png" id="img3" media-type="image/png"/>
+    <item href="Images/img4.jpg" id="img4" media-type="image/jpeg"/>
+    <item href="Fonts/CAMBRIA.TTF" id="CAMBRIA.TTF" media-type="application/x-font-truetype"/>
+    <item href="Fonts/CAMBRIAB.TTF" id="CAMBRIAB.TTF" media-type="application/x-font-truetype"/>
+    <item href="Fonts/CAMBRIAI.TTF" id="CAMBRIAI.TTF" media-type="application/x-font-truetype"/>
+    <item href="Fonts/CAMBRIAZ.TTF" id="CAMBRIAZ.TTF" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+  </spine>
+  <guide>
+    <reference href="Text/005.html" title="Table of Contents" type="toc"/>
+    <reference href="Text/005.html#a1" title="Beginning" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

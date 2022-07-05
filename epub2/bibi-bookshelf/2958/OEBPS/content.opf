@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dönüşüm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2016-11-01T10:29:13+00:00</dc:date>
+    <dc:publisher>Epsilon Yayincilik Ltd. Sti</dc:publisher>
+    <dc:date opf:event="modification">2014-02-04</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>İlk kez 1915 yılında yayınlanan ve sonrasında 20. yüzyılın en önemli eserleri arasına giren Dönüşüm, gezici bir kumaş pazarlamacısı olan Gregor Samsa’nın bir sabah tedirgin düşlerinden uyandığında kendini devasa bir böceğe dönüşmüş olarak bulmasıyla başlar. Bu dönüşümün hikmetini asla öğrenemeyiz. Neden artık kubbeli bir karnı, panzer sertliğinde bir sırtı vardır, neden çaresizce kımıldanan bir sürü cılız bacakla uyanmıştır, bilemeyiz.Kafka bunu bize hiçbir zaman açıklamaz. Ancak haşereye dönüşmesinin ailesine yaşattığı sıkıntılarla, bu yeni haline alışmasının zorluklarıyla cebelleşen eski insan, yeni böcek Bay Gregor Samsa, dünyanın tüm üniversitelerinde hâlâ üzerinde çalışılan, özellikle Batı sineması, edebiyatı üzerinde derin etkiler bırakan, böcekliği bir metafor olarak popüler kültüre mal eden bir hikâyenin kahramanı olur ve bize insanlık haline, yabancılaşmaya, diğerlerinden farklı olmaya dair hiç eskimeyecek gibi görünen içgörüler sunar.��Dönüşüm, absürtlüğü ve insanın tekinsiz ihtimaller karşısındaki korkularını en uç noktalara taşıyarak içimize büyüteçli bir ayna tutar.Samsa’nın böceğe dönüşmesinin sebebini bilemesek de, bu kısa romanın bunca sevilmesinin hikmeti belki de budur.</dc:description>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f059cd00-4950-4388-9792-56455f36296b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786058667907</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">pMGXDQAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054820412</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Dönüşüm" name="calibre:title_sort"/>
+    <meta content="{&quot;Franz Kafka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:timestamp" content="2016-05-27T20:57:43.827000+00:00"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="../fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="../fonts/Arial-Bold-Italic.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Arial-Bold.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Arial-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="../fonts/Arial.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Foreword" type="foreword"/>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

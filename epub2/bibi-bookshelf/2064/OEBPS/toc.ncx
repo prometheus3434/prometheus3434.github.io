@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="AWP-67F35E19-8967-4CF1-9BE0-C8A1CBDE992D" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.45.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ademden Önceki Yaşam</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>ADEMDEN ÖNCEKİ YAŞAM</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/004.html"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/016.html"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/028.html"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/042.html"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/054.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

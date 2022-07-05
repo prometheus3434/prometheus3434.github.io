@@ -1,0 +1,316 @@
+.block {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 64pt 0 0
+    }
+.block1 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 30pt 28.4pt 0
+    }
+.block11 {
+    background-color: transparent;
+    display: block;
+    font-size: 0.83333em;
+    text-align: right;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0 28.4pt
+    }
+.block12 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: left;
+    padding: 0;
+    margin: 48pt 28.4pt 0
+    }
+.block13 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: left;
+    padding: 0;
+    margin: 0 28.4pt
+    }
+.block14 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    font-style: italic;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: right;
+    padding: 0;
+    margin: 0 28.4pt
+    }
+.block15 {
+    display: block;
+    font-weight: bold;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 30pt 28.4pt 12pt
+    }
+.block16 {
+    background-color: transparent;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0 28.4pt
+    }
+.block17 {
+    background-color: transparent;
+    display: block;
+    text-align: right;
+    padding: 0;
+    margin: 24pt 28.4pt 0
+    }
+.block18 {
+    background-color: transparent;
+    display: block;
+    font-size: 0.83333em;
+    text-align: right;
+    padding: 0;
+    margin: 30pt 0 72pt
+    }
+.block19 {
+    background-color: transparent;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 96pt 0 0
+    }
+.block20 {
+    background-color: transparent;
+    display: block;
+    text-align: justify;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    background-color: transparent;
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block22 {
+    background-color: transparent;
+    display: block;
+    letter-spacing: 0;
+    text-align: justify;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    background-color: transparent;
+    display: block;
+    letter-spacing: 0;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    background-color: transparent;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block26 {
+    display: block;
+    text-align: justify;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 28.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block28 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 28.4pt
+    }
+.block3 {
+    background-color: transparent;
+    display: block;
+    font-size: 3em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 118pt 0 0
+    }
+.block4 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 48pt 0 0
+    }
+.block6 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 30pt 0 0
+    }
+.block7 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 72pt
+    }
+.block8 {
+    background-color: transparent;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    background-color: transparent;
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-style: italic
+    }
+.text {
+    font-weight: bold;
+    letter-spacing: 0pt;
+    line-height: 1.2
+    }
+.text1 {
+    font-weight: bold;
+    letter-spacing: 0pt;
+    line-height: 1.2
+    }
+.text2 {
+    font-style: italic;
+    letter-spacing: 0;
+    line-height: 1.2
+    }
+.text3 {
+    letter-spacing: 0;
+    line-height: 1.2
+    }
+.text4 {
+    font-size: 1.55em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.text5 {
+    font-size: 1.2em;
+    font-style: italic
+    }
+.text6 {
+    letter-spacing: 0
+    }
+.text7 {
+    font-size: 2.4em;
+    line-height: 1.2
+    }
+.text8 {
+    font-style: italic;
+    letter-spacing: 0
+    }

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="AWP-CED5D18C-9BA8-4317-A0AF-3AECDE251C1A" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Dune Corrin Savaşı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TEŞEKKÜR 1</text>
+      </navLabel>
+      <content src="Text/tesekkur.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>TEŞEKKÜR 2</text>
+      </navLabel>
+      <content src="Text/tesekkur1.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ALINTILAR</text>
+      </navLabel>
+      <content src="Text/alintiler.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>LÖ 69</text>
+      </navLabel>
+      <content src="Text/LO69.html" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>LÖ 88</text>
+      </navLabel>
+      <content src="Text/LO88.html" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Soyağacı 1</text>
+      </navLabel>
+      <content src="Text/soyagaci1.html" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Soyağacı 2</text>
+      </navLabel>
+      <content src="Text/soyagaci2.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Beş şehir</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tanpınar, Ahmet Hamdi &amp; Andı, M. Fâtih">Ahmet Hamdi Tanpınar</dc:creator>
+    <dc:creator opf:role="aut">M. Fâtih Andı</dc:creator>
+    <dc:date>2000-06-15T11:03:11+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">00a85cbd-af53-43f4-a49f-34f1485dc4e1</dc:identifier>
+    <dc:date opf:event="modification">2014-04-05</dc:date>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:description>&lt;p&gt;Beş Şehir'in asıl konusu hayatımızda kaybolan şeylerin ardından duyulan üzüntü ile yeniye karşı beslenen iştiyaktır. İlk bakışta birbiriyle çatışır görünen bu iki duyguyu sevgi kelimesinde birleştirebiliriz. Bu sevginin kendisine çerçeve olarak seçtiği şehirler, benim hayatımın tesadüfleridir. Bu itibarla onların arkasında kendi insanımızı ve hayatımızı, vatanın manevi çehresi olan kültürümüzü görmek daha da doğru olur. Bizden evvelki nesiller gibi bizim neslimiz de, bu değerlere, şimdi medeniyet değişmesi dediğimiz, bütün yaşama ümitlerimizin bağlı olduğu uzun ve sarsıcı tecrübenin bizi getirdiği sert dönemeçlerden baktı. Yüzelli senedir hep onun uçurumlarına sarktık. Onun dirseklerinden arkada bıraktığımız yolu ve uzakta zahmetimize gülen vaitli manzarayı seyrettik.&lt;/p&gt;</dc:description>
+    <dc:subject>Etimoloji</dc:subject>
+    <dc:subject>Coğrafya</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Dil</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cbbf8dbf-47de-4d77-a40a-e185e3b1c986</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750801761</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759952440</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">MK38QwAACAAJ</dc:identifier>
+    <meta content="Beş şehir" name="calibre:title_sort"/>
+    <meta content="2014-04-05T01:14:15.432000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Hamdi Tanpınar&quot;: &quot;&quot;, &quot;M. Fâtih Andı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_000.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_001.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_002.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_003.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_004.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_005.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

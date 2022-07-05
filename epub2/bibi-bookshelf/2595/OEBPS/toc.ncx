@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{700A8C16-12C3-4A75-A3A3-AD4CA2F9FA06}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Truman Capote</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Truman Capote</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I - BUKALEMUNLAR İÇİN MÜZİK</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Bukalemunlar İçin Müzik</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Bay Jones</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Penceredeki Lamba</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Mojave Çölü</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Konukseverlik</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Göz Kamaşması</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>II - EL OYMASI TABUTLAR</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml#sigil_toc_id_2"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Bir Amerikan Cinayetinin Gerçeğe Dayalı Öyküsü</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>III - SÖYLEŞİ PORTRELERİ</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml#sigil_toc_id_4"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bir Günlük İş</text>
+        </navLabel>
+        <content src="Text/main-5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Merhaba, Yabancı</text>
+        </navLabel>
+        <content src="Text/main-6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Gizli Bahçeler</text>
+        </navLabel>
+        <content src="Text/main-7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Gözüpeklik</text>
+        </navLabel>
+        <content src="Text/main-8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Sonra Her Şey Altüst Oldu</text>
+        </navLabel>
+        <content src="Text/main-9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Güzel Bir Çocuk</text>
+        </navLabel>
+        <content src="Text/main-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Gece Dönüşleri</text>
+        </navLabel>
+        <content src="Text/main-11.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Dipnot</text>
+      </navLabel>
+      <content src="Text/dipnot.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

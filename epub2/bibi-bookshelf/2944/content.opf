@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Don Kişot</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Saavedra, Miguel de Cervantes">Miguel de Cervantes Saavedra</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">077cf835-2a7d-448a-a226-40fa07c366cc</dc:identifier>
+    <dc:date>1991-06-15T11:58:23+00:00</dc:date>
+    <dc:publisher>Altın Kitaplar Yayınevi</dc:publisher>
+    <dc:subject>Fiction (World)</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">da94116c-a1dc-433e-8856-e65c5bc1e5f4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754052947</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">MXQVPwAACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-10-02T15:56:31+00:00"/>
+    <meta name="calibre:title_sort" content="Don Kişot"/>
+    <meta name="calibre:author_link_map" content="{&quot;Miguel de Cervantes Saavedra&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

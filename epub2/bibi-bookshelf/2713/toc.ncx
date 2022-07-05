@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="b54ca082-c2c5-4446-ba7a-0a3da3da02e5" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Collector</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover Image</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="welcome" playOrder="2">
+      <navLabel>
+        <text>Welcome</text>
+      </navLabel>
+      <content src="OEBPS/welcome.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="dedication" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="OEBPS/dedication.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter001" playOrder="4">
+      <navLabel>
+        <text>Chapter 1</text>
+      </navLabel>
+      <content src="OEBPS/chapter001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter002" playOrder="5">
+      <navLabel>
+        <text>Chapter 2</text>
+      </navLabel>
+      <content src="OEBPS/chapter002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter003" playOrder="6">
+      <navLabel>
+        <text>Chapter 3</text>
+      </navLabel>
+      <content src="OEBPS/chapter003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter004" playOrder="7">
+      <navLabel>
+        <text>Chapter 4</text>
+      </navLabel>
+      <content src="OEBPS/chapter004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="appendix001" playOrder="8">
+      <navLabel>
+        <text>About the author</text>
+      </navLabel>
+      <content src="OEBPS/appendix001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="appendix002" playOrder="9">
+      <navLabel>
+        <text>Reading Group Guide</text>
+      </navLabel>
+      <content src="OEBPS/appendix002.html"/>
+      <navPoint class="chapter" id="appendix003" playOrder="10">
+        <navLabel>
+          <text>A conversation with John Fowles</text>
+        </navLabel>
+        <content src="OEBPS/appendix003.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="appendix004" playOrder="11">
+        <navLabel>
+          <text>Questions and topics for discussion</text>
+        </navLabel>
+        <content src="OEBPS/appendix004.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="adcard" playOrder="12">
+      <navLabel>
+        <text>Books by John Fowles</text>
+      </navLabel>
+      <content src="OEBPS/ad-card.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="praise" playOrder="13">
+      <navLabel>
+        <text>Praise for John Fowles</text>
+      </navLabel>
+      <content src="OEBPS/praise.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="newsletterSignup" playOrder="14">
+      <navLabel>
+        <text>Newsletters</text>
+      </navLabel>
+      <content src="OEBPS/newsletterSignup.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="toc" playOrder="15">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="OEBPS/toc.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="copyright" playOrder="16">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="OEBPS/copyright.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

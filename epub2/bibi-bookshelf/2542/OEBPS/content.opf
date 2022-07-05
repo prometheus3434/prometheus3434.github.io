@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Biz Hayır Diyoruz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Galeano, Eduardo">Eduardo Galeano</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3e5cf78e-61ca-4fb4-9fcc-3f436ba5d5f2</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Uruguaylı yazar Eduardo Galeano Latin Amerika'da militan gazeteciliğin önde gelen isimlerindendir. Bu seçkide, gazeteciliğin edebiyatın bir alt kolu değil, aksine, en etkililerinden biri olduğunu savunan Galeano'nun yirmi altı yazısına yer veriyoruz: Che, Zidane, Salgado, Evo Morales, Latin Amerika edebiyatı, yazarın işlevi, televizyon, beden, işkence, sürgün, Şili, Küba, Bolivya, ABD, emekçiler, eşcinseller, beyazlar, siyahlar, yerliler, Latin Amerika... Sözün onuruna inancını hep koruyan bir yazardan, edebiyatın hakkıyla kullanıldığında gazeteciliği ne denli etkili kılacağını gösteren güçlü politik metinler.&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:date opf:event="modification">2015-04-25</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b067c592-33c1-4226-8be3-de97ca38ad35</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Biz Hayır Diyoruz" name="calibre:title_sort"/>
+    <meta content="2015-04-15T08:14:59.941000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Eduardo Galeano&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

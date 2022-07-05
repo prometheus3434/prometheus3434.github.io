@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Doris Lessing Three-Book Edition: The Golden Notebook, the Grass İs Singing, the Good Terrorist</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lessing, Doris">Doris Lessing</dc:creator>
+    <dc:publisher>HarperCollins UK</dc:publisher>
+    <dc:date>2013-12-19T12:21:14+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a9835b68-81c0-4963-8c89-3f48f4f608db</dc:identifier>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Anthologies (Multiple Authors)</dc:subject>
+    <dc:subject>Political</dc:subject>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Urban &amp; Street Lit</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Literary Collections</dc:subject>
+    <dc:description>This collection brings together three of Nobel Prize-winner Doris Lessing’s most acclaimed novels. Her first novel, The Grass is Singing, is the story of Mary, a new wife, lonely and trapped in the African bush, until she turns to Moses, the black cook, for kindness and understanding. A landmark of twentieth-century literature, The Golden Notebok is a powerful account of Anna Wulf, a woman searching for her personal and political identity, recording her emotional and creative lives in notebooks of different colours. And in The Good Terrorist, a group of naive revolutionaries sets out to change the world, only to find themselves involved in a protest movement of escalating violence.</dc:description>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">45ba1a9f-3a6e-412f-a513-e931631fa8e5</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">dihEAgAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9780007572632</dc:identifier>
+    <meta name="calibre:title_sort" content="Doris Lessing Three-Book Edition: The Golden Notebook, the Grass İs Singing, the Good Terrorist"/>
+    <meta name="calibre:timestamp" content="2013-05-24T18:14:52+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doris Lessing&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.xhtml" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bitik Adam: roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="BERNHARD, THOMAS">Thomas Bernhard</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">22485d2b-ba4a-4908-a101-045c0ff918a8</dc:identifier>
+    <dc:date>2000-06-15T11:43:23+00:00</dc:date>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:description>&lt;p&gt;"Onu çeken, insanların mutsuzlukları içindeki halleriydi, insanların kendileri değildi, mutsuzluklarıydı ve insanın olduğu her yerde buna rastlıyordu, diye düşündüm, insankolikti o, çünkü mutsuzluk özlemi çekiyordu. İnsan mutsuzluktur, dedi hep, diye düşündüm, yalnızca budala olan bunu aksini savunur. Doğmak mutsuzluktur, dedi, yaşadığımız sürece de bu mutsuzluğu sürdürürüz, bir tek ölüm kesip atar bunu. Bu, hep mutsusuz demek değildir, mutsuzluk yoluyla mutlu olabiliriz, dedi, diye düşündüm."
+
+Thomas Bernhard'ın son dönem romanlarından Bitik Adam, "dahi" Glenn Gould, Goldberg Varyasyonları, piyano başında gelen ölüm ve intihar ekseninde sürülen bir iz: "Bitik adam" Wertheimer"in mutsuzluk coğrafyasında, Bernhard anlatımı eşliğinde insanın koyu karanlıklarıyla yüzleşme çağrısı.
+
+Thomas Bernhard, zaman ilişkin gerçekliklerin ötesinde bir saydamlık.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Müzik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">907d74de-279b-48cb-89dd-177c68d7af5d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">wttYvgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753639934</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753639934</dc:identifier>
+    <meta content="Bitik Adam: roman" name="calibre:title_sort"/>
+    <meta content="2014-05-29T19:50:15.216000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Thomas Bernhard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b1.html" id="b1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/b2.html" id="b2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/b3.html" id="b3.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="b1.html"/>
+    <itemref idref="b2.html"/>
+    <itemref idref="b3.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

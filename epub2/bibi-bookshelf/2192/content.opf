@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Anamın Kitabı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Karaosmanoğlu, Yakup Kadri &amp; Özkırımlı, Atilla">Yakup Kadri Karaosmanoğlu</dc:creator>
+    <dc:creator opf:role="aut">Atilla Özkırımlı</dc:creator>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:date>2007-06-15T12:26:17+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1cfeaa7a-3b12-4059-ac80-77d7ca830085</dc:identifier>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8e2a222c-a103-4292-9afe-14b6e64f885d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754703511</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">PZWeMQEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2011-01-16T05:12:23.440745+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Anamın Kitabı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yakup Kadri Karaosmanoğlu&quot;: &quot;&quot;, &quot;Atilla Özkırımlı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

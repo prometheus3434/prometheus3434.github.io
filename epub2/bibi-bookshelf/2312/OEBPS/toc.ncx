@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:507b9a28-fcb1-4357-a3e6-7095dcc25aaa" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Avalon'un Tüfekleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>AMBER YILLIKLARI</text>
+      </navLabel>
+      <content src="Text/icbaslik.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>AVALONUN TÜFEKLERİ</text>
+      </navLabel>
+      <content src="Text/Cilt_ismi.html#sigil_toc_id_1"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri2.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri3.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri4.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri5.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri6.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri7.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri8.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri9.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="Text/AvalonunTufekleri10.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/Yayinevi.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/Yazar_Hakkinda.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

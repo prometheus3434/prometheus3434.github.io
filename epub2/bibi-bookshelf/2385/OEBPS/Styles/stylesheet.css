@@ -1,0 +1,285 @@
+.calibre {
+    background-color: white;
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    font-family: Consolas
+    }
+.calibre6 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.calibre7 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-family: Consolas;
+    font-size: 0.5em
+    }
+.calibre9 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 55pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre10 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 52pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre11 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 49pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre12 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre13 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 45pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre14 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 54pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre15 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 59pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre16 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 47pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre17 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 48pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre18 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 46pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre19 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre20 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 58pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre21 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 57pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre22 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 53pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre23 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 43pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre24 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 56pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre25 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 51pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre26 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 42pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre27 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 44pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre28 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 50pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre29 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 41pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre30 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 56pt;
+    margin: 0 0 0.0001pt 14.8pt
+    }
+.calibre31 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 35.4pt;
+    margin: 0 0 0.0001pt 35.4pt
+    }
+.calibre32 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 69pt;
+    margin: 0 0 0.0001pt
+    }
+.calibre33 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 35.4pt;
+    margin: 0 0 0.0001pt
+    }
+.font {
+    font-family: "Trebuchet MS", "sans-serif"
+    }
+.font1 {
+    font-family: "Times New Roman", "serif";
+    line-height: 1.2
+    }
+.font2 {
+    font-family: "Trebuchet MS", "sans-serif";
+    line-height: 1.2
+    }
+.font3 {
+    font-family: "Times New Roman", "serif"
+    }
+.font4 {
+    font-family: "Candara", "sans-serif"
+    }
+.font5 {
+    font-family: "Bookman Old Style", "serif"
+    }
+.MsoNormal {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-align: justify;
+    text-autospace: none;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal1 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    text-autospace: none;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    text-decoration: underline
+    }
