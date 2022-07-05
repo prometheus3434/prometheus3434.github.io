@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{2288F3DA-5AFE-4599-AFDE-FE501EC4C3C9}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Stephenie Meyer - 5 Geceyarısı Güneşi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1. İlk Bakış</text>
+      </navLabel>
+      <content src="Text/main.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2. Açık Kitap</text>
+      </navLabel>
+      <content src="Text/main-1.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3. Olağanüstü Olay</text>
+      </navLabel>
+      <content src="Text/main-1.html#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4. Çelecek Görüşleri</text>
+      </navLabel>
+      <content src="Text/main-2.html#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>S. Davetler</text>
+      </navLabel>
+      <content src="Text/main-2.html#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>7. Melodi</text>
+      </navLabel>
+      <content src="Text/main-3.html#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>8. Hayalet</text>
+      </navLabel>
+      <content src="Text/main-4.html" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>9. Port Angeles</text>
+      </navLabel>
+      <content src="Text/main-4.html#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>10. Itori</text>
+      </navLabel>
+      <content src="Text/main-5.html" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>11. Sorular</text>
+      </navLabel>
+      <content src="Text/main-5.html#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>12.</text>
+      </navLabel>
+      <content src="Text/main-6.html#sigil_toc_id_7" />
+    </navPoint>
+  </navMap>
+</ncx>

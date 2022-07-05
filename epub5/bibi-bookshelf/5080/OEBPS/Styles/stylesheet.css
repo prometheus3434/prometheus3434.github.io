@@ -1,0 +1,250 @@
+.block {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 7.2pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block1 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 7.2pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block2 {
+    display: block;
+    font-size: 0.6em;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block3 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block4 {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block5 {
+    display: block;
+    font-size: 0.7em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block6 {
+    display: block;
+    font-size: 0.9em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 12pt 0 3pt
+    }
+.block7 {
+    display: list-item;
+    line-height: 1.2;
+    margin-bottom: 3pt;
+    margin-left: 36pt;
+    margin-top: 12pt;
+    text-align: center
+    }
+.block8 {
+    display: list-item;
+    line-height: 1.2;
+    margin-bottom: 3pt;
+    margin-left: 36pt;
+    margin-top: 12pt;
+    text-align: left
+    }
+.block9 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 8.5pt;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 12pt 0 3pt 36pt
+    }
+.block10 {
+    display: list-item;
+    line-height: 1.2;
+    margin-bottom: 3pt;
+    margin-left: 40.8pt;
+    margin-top: 12pt;
+    text-align: center
+    }
+.block11 {
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.6em;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block12 {
+    display: block;
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.6em;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.25em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 0.875em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre2 {
+    text-decoration: none
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    font-size: 0.9em;
+    line-height: 1.2
+    }
+.calibre6 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre7 {
+    display: block;
+    line-height: 1.2;
+    margin-left: 40px
+    }
+.calibre8 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre9 {
+    display: block;
+    line-height: 1.2;
+    margin-left: 40px;
+    page-break-after: avoid
+    }
+.list {
+    display: block;
+    line-height: 1.2;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.noteref {
+    font-size: 0.85714em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.noteref1 {
+    font-size: 0.9em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.notes {
+    display: block;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.text {
+    font-size: 0.75em
+    }
+.text1 {
+    font-size: 0.875em;
+    line-height: 1.2
+    }
+.text2 {
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.text3 {
+    background-color: #FFF;
+    color: #000
+    }
+.text4 {
+    color: #000
+    }
+.text5 {
+    background-color: #FFF;
+    color: #000;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.text6 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.text7 {
+    text-transform: uppercase
+    }
+.text8 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase;
+    vertical-align: super
+    }
+.text9 {
+    color: #000;
+    font-style: italic
+    }

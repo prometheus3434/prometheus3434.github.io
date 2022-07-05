@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Stratejik Derinlik: Türkiye'nin Uluslararasi Konumu Ciltli</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Davutoğlu, Ahmet">Ahmet Davutoğlu</dc:creator>
+    <dc:publisher>Küre Yayinlari</dc:publisher>
+    <dc:date>2014-10-15T12:40:03+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2264b244-e521-4fd6-b583-86187563ca84</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a348a300-deca-4608-9a9e-b65fb402126b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756614686</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8bulMwEACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Stratejik Derinlik: Türkiye'nin Uluslararasi Konumu Ciltli"/>
+    <meta name="calibre:timestamp" content="2014-05-20T19:52:35.659000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Davutoğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-4_split_000.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-4_split_001.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-10.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-11.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-12.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-13.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-14.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id42"/>
+    <itemref idref="id41"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

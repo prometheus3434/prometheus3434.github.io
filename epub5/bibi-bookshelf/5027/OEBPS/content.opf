@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sustalı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bernheim, Emmanuèle">Emmanuèle Bernheim</dc:creator>
+    <dc:identifier id="uuid">{87F2E386-8421-4796-9265-AADE4AFF01BE}</dc:identifier>
+    <dc:date>1998-06-15T11:43:12+00:00</dc:date>
+    <dc:publisher>Can</dc:publisher>
+    <dc:description>&lt;p&gt;Çantasında her zaman bir sustalı taşıyan genç bir kadın bir akşam evine döndüğünde, çakısının ve elinin üzerinde kan lekeleri olduğunu fark ediyor. Ne olup bitti? İçinin derinliklerinde yatan o karanlık arzuya, bir erkeği bıçaklama arzusuna yenik mi düştü yoksa? Bu işi biraz önce, metrodaki o itiş kakış sırasında mı yaptı? Adamı öldürdü mü? Yoksa yalnızca yaraladı mı? Bütün bu sorulara yanıt arayan genç kadın olayın peşine düşüyor. Okur da romanın kahramanı gibi sürprizden sürprize sürükleniyor. Daha önce, 1993 yılında Medicis Ödülü alan romanı O'nun Karısı ile okurlara sunduğumuz EmmanuÜle Bernheim, ilk romanı olan Sustalı'da kendini bize, ele aldığı konuyla ve akıcı anlatımıyla hemen kabul ettiriyor. Kadınla erkek arasındaki savaşımı sert, acımasız, büyüleyici ve şaşırtıcı bir üslupla kaleme alan bir kadın yazarla karşı karşıya buluyoruz kendimizi.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3ffe4dbc-78bb-4c10-ada6-8054e23b22ba</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">18525995</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9755108289</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755108285</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">yv9guAAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sustalı"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Emmanuèle Bernheim&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-baslik.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-hakkinda.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="id4"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

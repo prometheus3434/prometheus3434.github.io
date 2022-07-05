@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Teşekkür ederim: anlatı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pennac, Daniel &amp; Basutçu, Mehmet">Daniel Pennac</dc:creator>
+    <dc:creator opf:role="aut">Mehmet Basutçu</dc:creator>
+    <dc:identifier id="uuid">{37A4F64E-5C02-4DFD-9445-56D96032EFBD}</dc:identifier>
+    <dc:date>2007-06-15T11:07:29+00:00</dc:date>
+    <dc:publisher>Can</dc:publisher>
+    <dc:description>&lt;p&gt;Ödüller, edebiyat dünyasının en çok tartışılan konularından biridir. Hemen her edebiyat ödülü bir tartışmaya yol açar. 
+Yazar ödülü hak etmiş midir? Seçici kurul yanlı mı davranmıştır? Son dönem Fransız edebiyatının parlak adlarından Daniel Pennac, Fransa’da büyük ilgi gören Teşekkür Ederim adlı kitabında, alışılmış, basmakalıp ödül töreni konuşmalarının çok ötesinde bir "konuşma" sunuyor okurlarına. Tüm yapıtları için ödüllendirilmiş bir yazar, anlaşmaya göre, törene katılanların karşısında kırk beş dakikalık bir konuşma yapmak zorunda. Yazarın konuşması giderek amansız bir ödül eleştirisine dönüşüyor. Teşekkür Ederim, yazarın hem kendi kendisiyle hesaplaştığı, hem de edebiyat dünyasına meydan okuduğu amansız bir deneme. Pennac, daha sonra sahneye uyarladığı bu metni Avignon ve Paris’te kendisi oynamakla kalmadı, bir turne gerçekleştirerek dünya sahnelerinde de sergiledi.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Dünya Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7b00c9c6-4224-4689-92ac-869b3935d4cd</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2s7cnQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750707551</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750707551</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Teşekkür ederim: anlatı"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Daniel Pennac&quot;: &quot;&quot;, &quot;Mehmet Basutçu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id2" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id1" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id2">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

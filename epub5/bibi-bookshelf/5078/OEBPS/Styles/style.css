@@ -1,0 +1,66 @@
+@font-face{font-family:"Bergamot Ornaments";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Cardinal Alternate";font-style:normal;font-weight:normal;}
+@font-face{font-family:"SLBookArts";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:bold;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:normal;}
+@font-face{font-family:"Soft Ornaments Five";font-style:normal;font-weight:normal;}
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+
+p{text-indent:1.8em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Trebuchet MS",sans-serif;font-size:100%}
+.p0{text-indent:1.8em;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:1.8em;text-align:center}
+.p2{text-indent:0;margin-left:0;text-align:center}
+.p4{text-indent:0;margin-left:0;text-align:center;margin-top:5.5em}
+.p5{text-indent:0;margin-left:0;text-align:center;margin-top:2.2em}
+.p6{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:2.7em;margin-bottom:0}
+.p7{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-bottom:0}
+.p8{text-indent:1.8em;margin-top:2.2em}
+.p9{text-indent:1.8em;line-height:100%;margin-top:.27em;margin-bottom:.27em}
+.p10{text-indent:0;margin-left:0;line-height:100%;text-align:center}
+.p11{text-indent:0;margin-left:0;text-align:center;margin-top:2.7em;margin-bottom:2.7em}
+.p12{text-indent:0}
+h1{text-indent:0;margin-left:2.6em;line-height:120%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:.82em;margin-bottom:1.1em;font-family:"Cardinal Alternate";font-size:200%;font-weight:normal}
+.h11{text-indent:0}
+.t2{font-size:.71em;line-height:120%}
+.t3{font-family:"Cardinal Alternate";font-size:1.6em;line-height:120%}
+.t4{font-family:"Cardinal Alternate";font-size:2.5em;line-height:120%}
+.t5{font-family:"Cardinal Alternate";font-size:1.1em;line-height:100%}
+.t6{font-family:SLBookArts;font-size:6.5em;line-height:120%}
+.t7{font-family:"Cardinal Alternate";font-size:1.5em;line-height:100%}
+.t8{font-size:.91em;line-height:120%;font-weight:bold;text-decoration:underline}
+.t9{font-size:1.2em;line-height:100%;font-weight:normal}
+.t10{font-family:"Soft Ornaments Five";font-size:2.6em;line-height:100%;font-weight:normal}
+.t11{font-weight:bold}
+.t12{font-family:"Bergamot Ornaments";font-size:1.8em;line-height:120%}
+.t13{font-family:"Celtic Patterns";font-size:2em;line-height:120%}
+.t14{font-weight:bold;font-style:italic}
+.t15{font-style:italic}
+.t16{font-family:"Cardinal Alternate";font-size:1.5em;line-height:120%}
+.t17{font-size:.65em;line-height:120%;vertical-align:super}
+.t18{font-family:"Cardinal Alternate";font-size:1.3em;line-height:120%}
+.t19{font-size:1.3em;line-height:120%}
+.t20{font-family:"Cardinal Alternate"}
+.t21{font-family:"Cardinal Alternate";font-size:2.4em;line-height:120%}
+
+td, th {
+	border-style:solid;
+	border-width:2px;
+}
+table {
+	border-collapse:collapse;
+}
+table.Temel-Tablo {
+	border-color:#000000;
+	border-style:solid;
+	border-width:2px;
+	margin-bottom:-4px;
+	margin-top:2em;
+    margin-left:3em;
+}
+table.table-style-override-1 {
+	border-width:2px;
+}

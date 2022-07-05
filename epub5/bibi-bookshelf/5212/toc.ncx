@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="41b1d276-1fb6-41ff-8dfe-d13bc66bb5d7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tezer Özlü ye Armağan</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{5910B2F4-F683-4043-AEF4-03DB1DD7A2AE}" playOrder="1">
+      <navLabel>
+        <text>Bir "İnsan"a Dönüş Öyküsünün Romanı</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C33D2AFA-7CC1-4694-BD4B-50392063C459}" playOrder="2">
+      <navLabel>
+        <text>Sınırları Zorlayan Kurtuluşun Eşiğinde Elli Yıl</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{0A7361FC-638A-43BB-9D6E-81CA4C294B9C}" playOrder="3">
+      <navLabel>
+        <text>. Marburg Edebiyat Ödülü Üzerine.</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

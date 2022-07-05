@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Şehir ve İnsan 2010</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="İTEF">İTEF</dc:creator>
+    <dc:identifier id="uuid">{442CA46D-1D42-43DB-8E09-3F043EDF29E1}</dc:identifier>
+    <dc:date>2010-08-09T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-01-10</dc:date>
+    <dc:publisher>İTEF</dc:publisher>
+    <dc:description>&lt;p&gt;2010 Festival Teması: 'Şehir ve İnsan'
+
+İTEF- İstanbul Tanpınar Edebiyat Festivali, 30 Ekim - 2 Kasım 2010 tarihleri arasında 30 farklı ülkeden 70 yazarı buluşturdu. İkinci yılında festivalin teması 'Şehir ve İnsan' olarak belirlendi.
+
+Yeraltı edebiyatının çağdaş yorumcusu, Rus edebiyatının en önemli isimlerinden Vladimir Makanin, 2009 yılında çok satanlar listesinden aylarca inmeyen Amerikalı yazar Adam Fawer, dünyanın en önemli feminist ve aktivist ismi olarak gösterilen Mısırlı yazar Nawal El Saadawi 2010 yılında festivale katılan önemli isimlerden yalnızca birkaçı.
+
+2010 Yılında Festivale Katılan Yazarlar:
+
+Adnan Binyazar, Ahmet Altan, Ahmet Tulgar, Ahmet Ümit, Alexandra Schwartzbrod, Anil Ramdas, Arnon Grunberg, Ayfer Tunç, Ayşegül Çelik, Baha Taher, Behiç Ak, Bejan Matur, Berrin Karakaş, Buket Uzuner, Caterina Bonvicini, Cem Selcen, Çiler İlhan, Dacia Maraini, Dubravka Ugresic, Dumitru Tsepenag, Dzevad Karahasan, Ece Erdoğuş, Ellah Allfrey, Eric-Emmanuel Schmitt, Etgar Keret, Evald Flisar, Fanny Joly, George Blecher, Georgi Gospodinov, Gündüz Vassaf, György Dragoman, Hakan Bıçakçı, Hakan Günday, Hamdi Koç, Hamid Ziarati, Hande Altaylı, Hassan Daoud, İpek Çalışlar, Jacek Dehnel, Josef Winkler, Leonard Durso, Luan Starova, Marco Ansaldo, Mari Strachan, Mario Levi, Mariolina Venezia, Mehmet Coral, Melida Tüzünoğlu, Mine G. Kırıkkanat, Mine Soysal, Murat Belge, Müge İplikçi, Oya Baydar, Ömer Özgüner, Özlem Kumrular, Pirjo Hassinen, Ramsey Nasr, Ronelda Kamfer, Ryo Kuroki, Sadık Yalsızuçanlar, Sevinç Çokum, Tuna Kiremitçi, Vincenzo Cerami, Vladimir Makanin,Yalvaç Ural, Yasemin Taşkın, Yekta Kopan, Youssef Ziedan, Zülfü Livaneli.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fc4579d5-751c-44ef-a2ff-4b069db9f646</dc:identifier>
+    <meta content="Şehir ve İnsan 2010" name="calibre:title_sort"/>
+    <meta content="{&quot;İTEF&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id6" media-type="text/css"/>
+    <item href="Images/Capture.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Capture2.jpg" id="id" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="main-5.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

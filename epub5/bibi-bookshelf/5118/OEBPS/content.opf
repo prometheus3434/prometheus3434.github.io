@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tanrı ve Felsefe</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gilson, Etienne">Etienne Gilson</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e6131b10-dc71-4583-860c-a76f3df5ffb6</dc:identifier>
+    <dc:publisher>Ondokuz eylül Üniversitesi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1999-06-15T10:37:45+00:00</dc:date>
+    <dc:description>&lt;p&gt;Tanrı ve felsefe metafiziğin en önemli konusu olan Tanrının varlığı
+problemini ele alır.Gilson'a göre akıl, Tanrının varlığı konusunda çok önemli
+ve ikna edici şeyler söyleyecek güçtedir.Felsefe Tarihi, bu hükmün doğru
+olduğunu göstermektedir.Dini konularda düşünmenin pek fazla yarar
+sağlamayacağının öne süren katı pozitivist ve maddeci görüşlerin, ilim ve
+fikir dünyasındaki çekiciliklerini yitirmiş olmaları, Tanrı ve felsefe ilişkisini
+yeniden ciddi bir felsefe problemi haline
+getirmiştir.&lt;/p&gt;</dc:description>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b31c54dd-aed7-40ca-bc29-661e64849dd6</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">NJN4tAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9758109332</dc:identifier>
+    <meta content="Tanrı ve Felsefe" name="calibre:title_sort"/>
+    <meta content="2012-09-14T14:04:11+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Etienne Gilson&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.html" id="part1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.html" id="part2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.html" id="part3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part4.html" id="part4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part5.html" id="part5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part6.html" id="part6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part7.html" id="part7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part8.html" id="part8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/part9.html" id="part9.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="part1.html"/>
+    <itemref idref="part2.html"/>
+    <itemref idref="part3.html"/>
+    <itemref idref="part4.html"/>
+    <itemref idref="part5.html"/>
+    <itemref idref="part6.html"/>
+    <itemref idref="part7.html"/>
+    <itemref idref="part8.html"/>
+    <itemref idref="part9.html"/>
+  </spine>
+  <guide/>
+</package>

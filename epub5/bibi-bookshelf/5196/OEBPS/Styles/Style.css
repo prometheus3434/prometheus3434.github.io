@@ -1,0 +1,28 @@
+body {
+   font-family: "Calibri";
+   text-indent: 20px;
+   text-align: justify;
+   margin-left: 10pt;
+   margin-right: 10pt;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+    margin-top: 2pt;
+    margin-bottom: 2pt;
+}
+
+blockquote.modern {
+  font-size: 100%;
+  font-style: normal;
+  text-indent: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  padding-left: 10px;
+  border-left: 3px solid #ccc;
+} 
+

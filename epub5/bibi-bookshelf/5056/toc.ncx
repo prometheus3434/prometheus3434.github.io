@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="7690eedf-841d-4936-a385-0d8dab14cfda" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Şampiyonların Kahvaltısı</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{2149B60A-25B0-4D83-8997-9CB063024FF9}" playOrder="1">
+      <navLabel>
+        <text>bölüm 6 ^7</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{9344B385-449D-40DE-8616-E33D923677BF}" playOrder="2">
+      <navLabel>
+        <text>lol muştu.</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{56A4C4CD-0A0D-474E-8D6A-60B5C6831903}" playOrder="3">
+      <navLabel>
+        <text>(ya.)</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,24 @@
+@page {
+  margin-bottom: 0;
+  margin-top: 0;
+  }
+@font-face {
+  src: url(../Fonts/Vollkorn.otf);
+  font-family: "Vollkorn";
+  }
+@font-face {
+  src: url(../Fonts/Vollkorn-Italic.otf);
+  font-family: "Vollkorn";
+  font-style: italic;
+  }
+@font-face {
+  src: url(../Fonts/Vollkorn-Bold.otf);
+  font-family: "Vollkorn";
+  font-weight: bold;
+  }
+@font-face {
+  src: url(../Fonts/Vollkorn-Bold-Italic.otf);
+  font-family: "Vollkorn";
+  font-weight: bold;
+  font-style: italic;
+  }

@@ -1,0 +1,739 @@
+.calibre {
+    display: block;
+    font-family: "amasis", serif;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    color: #c00000;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 100%;
+    font-weight: bold;
+    line-height: 130%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.2em;
+    text-indent: 1.3em
+    }
+.calibre2 {
+    color: inherit;
+    cursor: inherit;
+    text-decoration: inherit
+    }
+.calibre3 {
+    height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.calibre4 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre5 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.calibre6 {
+    display: block
+    }
+.calibre7 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 100%;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 0.014em;
+    line-height: 1em;
+    margin-bottom: 0.79em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.3em
+    }
+.h {
+    color: #c00000;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 100%;
+    font-weight: bold;
+    line-height: 130%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.2em;
+    text-indent: 0
+    }
+.p {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 1.4em
+    }
+.p1 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p10 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0.47em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p11 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p12 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p13 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.p14 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.p15 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.p16 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.2em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p17 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 0.8em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p18 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 0.95em;
+    margin-bottom: 0.9em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p19 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right;
+    text-indent: 1.4em
+    }
+.p2 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 1.4em
+    }
+.p20 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.58em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p21 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 0.95em;
+    margin-bottom: 2.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p22 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.6em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p23 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 0.95em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p24 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 0.8em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p25 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p26 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.94em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p27 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 1.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p28 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p29 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p3 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.4em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p30 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.p31 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p32 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 1.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p33 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.58em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p34 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.62em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p35 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 0.95em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p36 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.2em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p37 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p38 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 1.3em;
+    margin-bottom: 0.26em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p4 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p5 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p6 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p7 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 1.4em
+    }
+.p8 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.p9 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 91%;
+    letter-spacing: 0.015em;
+    line-height: 115%;
+    margin-bottom: 0.11em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1.4em
+    }
+.t {
+    letter-spacing: 0
+    }
+.t1 {
+    color: white;
+    font-size: 1.3em;
+    letter-spacing: 0.062em
+    }
+.t10 {
+    font-size: 0.85em;
+    letter-spacing: 0.0059em;
+    line-height: 115%
+    }
+.t11 {
+    font-style: italic;
+    letter-spacing: 0.02em
+    }
+.t12 {
+    font-size: 0.9em;
+    font-style: italic;
+    letter-spacing: -0.022em
+    }
+.t13 {
+    font-size: 0.9em;
+    font-style: italic;
+    letter-spacing: 0.0056em
+    }
+.t14 {
+    font-size: 0.9em
+    }
+.t15 {
+    font-size: 0.9em;
+    letter-spacing: 0.0056em
+    }
+.t16 {
+    font-size: 0.8em;
+    letter-spacing: 0.038em
+    }
+.t17 {
+    font-size: 0.8em;
+    font-style: italic
+    }
+.t18 {
+    text-decoration: underline
+    }
+.t19 {
+    font-size: 0.9em;
+    font-style: italic;
+    letter-spacing: 0.022em
+    }
+.t2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 130%
+    }
+.t20 {
+    font-style: italic
+    }
+.t21 {
+    letter-spacing: 0.02em
+    }
+.t22 {
+    font-size: 0.9em;
+    font-style: italic
+    }
+.t23 {
+    font-size: 0.8em;
+    letter-spacing: 0.05em
+    }
+.t24 {
+    font-size: 0.9em;
+    font-style: italic;
+    letter-spacing: 0.039em
+    }
+.t25 {
+    font-style: italic;
+    letter-spacing: 0
+    }
+.t26 {
+    font-size: 1.2em;
+    letter-spacing: 0;
+    line-height: 130%
+    }
+.t27 {
+    font-style: italic;
+    letter-spacing: 0.035em
+    }
+.t28 {
+    font-size: 0.8em;
+    font-style: italic;
+    letter-spacing: 0.031em
+    }
+.t29 {
+    font-size: 1.4em;
+    letter-spacing: 0.033em
+    }
+.t3 {
+    color: white;
+    font-size: 1.4em;
+    letter-spacing: 0.014em
+    }
+.t30 {
+    font-size: 1.1em;
+    letter-spacing: 0.041em
+    }
+.t31 {
+    font-size: 0.8em;
+    font-style: italic;
+    letter-spacing: 0.025em
+    }
+.t32 {
+    font-size: 0.9em;
+    font-style: italic;
+    letter-spacing: 0.028em
+    }
+.t33 {
+    font-style: italic;
+    letter-spacing: 0.025em
+    }
+.t34 {
+    font-size: 0.65em;
+    vertical-align: super
+    }
+.t35 {
+    letter-spacing: 0.02em;
+    text-decoration: underline
+    }
+.t4 {
+    font-size: 0.1em;
+    letter-spacing: 0;
+    line-height: 130%
+    }
+.t5 {
+    font-weight: bold;
+    letter-spacing: 0
+    }
+.t6 {
+    letter-spacing: 0.005em
+    }
+.t7 {
+    letter-spacing: -0.02em
+    }
+.t8 {
+    font-style: italic;
+    letter-spacing: -0.02em
+    }
+.t9 {
+    font-style: italic;
+    letter-spacing: 0.005em
+    }

@@ -1,0 +1,47 @@
+.yatikkalin {
+
+    font-style: italic;
+    font-weight: bold;
+
+    }
+
+
+.kalin {
+    font-weight: bold;
+ 
+    }
+
+
+
+.yatik {
+    font-style: italic
+    }
+.k32 {
+  
+    text-align: center;
+
+    }
+.k34 {
+
+    text-align: right;
+  
+    }
+body {
+
+margin-left:1em;
+margin-right:1em;
+
+}
+h1
+{
+margin-top:3em;
+margin-bottom:5em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}

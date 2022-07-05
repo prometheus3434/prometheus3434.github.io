@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tolstoy'un Gizli Raporlarında Osmanlı İmparatorluğu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolstoy, Pyotr Andreyeviç">Pyotr Andreyeviç Tolstoy</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a8a888af-c237-4dc8-a46b-ded62f342f53</dc:identifier>
+    <dc:publisher>Yeditepe Yayınevi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;II. Mustafa, bütün işlerini vezirine bırakmıştır, ne ordu, ne din, ne de saray işleri ile ilgileniyor. Ancak sarayın içinde, eğlencesinden geri kalmıyor ve çeşitli hanımlar bulundurarak onlarla eğleniyor. Avlanmayı çok seviyor, çeşitli av merasimlerine büyük harcamalar yapılıyor. Hazine bu harcamalardan zor duruma düşmüştür.&lt;/div&gt;&lt;div&gt;"Türk halkının durumu şu şekildedir: Onlar mağrur, gururlu, şöhreti seven bir halktır."&lt;/div&gt;&lt;div&gt;"Tüm Türk vezirler devlet idaresinden ziyade kendi zenginliklerini düşünüyorlar..."&lt;/div&gt;&lt;div&gt;"... Şu anda devlet halktan gelen gelirle giderleri karşılayamaz duruma gelmiş ve her sene hazinenin borcu bir önceki seneye nazaran daha da artmaktadır."&lt;/div&gt;&lt;div&gt;"Fransız elçi inanılmaz çabalar sarfetmektedir. Ancak İngiltere ve Hollanda elçileri boş durmamaktadırlar. Onların ne kadar para harcadıklarını ve hediyeler verdiklerini ise bir tek Allah bilmektedir."&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tolstoy, tuttuğu notlarda Sultan II. Mustafa döneminde Osmanlı İmparatorluğu'nun dâhili durumu hakkında ayrıntılı bir resim çizmekte, XVIII. yüzyılın başlarında ne Türk ne de Avrupa kaynaklarında bu kadar geniş bir şekilde anlatılmayan birçok önemli mesele hakkında değerli bilgiler vermektedir. Kayıtlar özellikle ağır vergi yükü, gayrimüslim halkla olan ilişkiler, devlet mekanizmasının yapısı, üst düzey bazı memurların kişisel özellikleri, saraydaki yolsuzluk, ordunun özellikle de donanmanın durumu, Türkiye'nin Avrupa ülkeleriyle ilişkileri, Rus-Türk ilişkilerini zorlaştırmaya çalışan Avrupa elçilerinin Türkiye'deki faaliyetleri konularını ihtiva etmekte&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2014-03-30T21:00:00+00:00</dc:date>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>18. Yüzyıl</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">74c57e60-282f-404e-a4b4-ebe46eb402ec</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785858072</dc:identifier>
+    <meta content="Tolstoy'un Gizli Raporlarında Osmanlı İmparatorluğu" name="calibre:title_sort"/>
+    <meta content="{&quot;Pyotr Andreyeviç Tolstoy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2014-03-31T16:55:23.831000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.html" id="onsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-1.html" id="html384" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum-2.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/yeditepe_logo.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="html384"/>
+    <itemref idref="id"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

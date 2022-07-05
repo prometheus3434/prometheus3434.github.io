@@ -1,0 +1,104 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Şermin</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Fikret, Tevfik">Tevfik Fikret</dc:creator>
+    <dc:publisher>Kırmızıkedi</dc:publisher>
+    <dc:date>2015-06-15T12:35:38+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:af205edc-033e-4e87-bb69-6be9e8fa3bdb</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">9dafe475-4d31-4650-b4a3-9396cc659401</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="GOOGLE">lCvKjwEACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786059799256</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Şermin"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tevfik Fikret&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="3-1.html" id="x3-1" media-type="application/xhtml+xml"/>
+    <item href="3-2.html" id="x3-2" media-type="application/xhtml+xml"/>
+    <item href="3-3.html" id="x3-3" media-type="application/xhtml+xml"/>
+    <item href="3-4.html" id="x3-4" media-type="application/xhtml+xml"/>
+    <item href="3-5.html" id="x3-5" media-type="application/xhtml+xml"/>
+    <item href="3-6.html" id="x3-6" media-type="application/xhtml+xml"/>
+    <item href="3-7.html" id="x3-7" media-type="application/xhtml+xml"/>
+    <item href="3-8.html" id="x3-8" media-type="application/xhtml+xml"/>
+    <item href="3-9.html" id="x3-9" media-type="application/xhtml+xml"/>
+    <item href="3-10.html" id="x3-10" media-type="application/xhtml+xml"/>
+    <item href="3-11.html" id="x3-11" media-type="application/xhtml+xml"/>
+    <item href="3-12.html" id="x3-12" media-type="application/xhtml+xml"/>
+    <item href="3-13.html" id="x3-13" media-type="application/xhtml+xml"/>
+    <item href="3-14.html" id="x3-14" media-type="application/xhtml+xml"/>
+    <item href="3-15.html" id="x3-15" media-type="application/xhtml+xml"/>
+    <item href="3-16.html" id="x3-16" media-type="application/xhtml+xml"/>
+    <item href="3-17.html" id="x3-17" media-type="application/xhtml+xml"/>
+    <item href="3-18.html" id="x3-18" media-type="application/xhtml+xml"/>
+    <item href="3-19.html" id="x3-19" media-type="application/xhtml+xml"/>
+    <item href="3-20.html" id="x3-20" media-type="application/xhtml+xml"/>
+    <item href="3-21.html" id="x3-21" media-type="application/xhtml+xml"/>
+    <item href="3-22.html" id="x3-22" media-type="application/xhtml+xml"/>
+    <item href="3-23.html" id="x3-23" media-type="application/xhtml+xml"/>
+    <item href="3-24.html" id="x3-24" media-type="application/xhtml+xml"/>
+    <item href="3-25.html" id="x3-25" media-type="application/xhtml+xml"/>
+    <item href="3-26.html" id="x3-26" media-type="application/xhtml+xml"/>
+    <item href="3-27.html" id="x3-27" media-type="application/xhtml+xml"/>
+    <item href="3-28.html" id="x3-28" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Screen Shot 2012-12-20 _fmt.png" id="Screen-20Shot-202012-12-20-20_fmt.png" media-type="image/png"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x3-1"/>
+    <itemref idref="x3-2"/>
+    <itemref idref="x3-3"/>
+    <itemref idref="x3-4"/>
+    <itemref idref="x3-5"/>
+    <itemref idref="x3-6"/>
+    <itemref idref="x3-7"/>
+    <itemref idref="x3-8"/>
+    <itemref idref="x3-9"/>
+    <itemref idref="x3-10"/>
+    <itemref idref="x3-11"/>
+    <itemref idref="x3-12"/>
+    <itemref idref="x3-13"/>
+    <itemref idref="x3-14"/>
+    <itemref idref="x3-15"/>
+    <itemref idref="x3-16"/>
+    <itemref idref="x3-17"/>
+    <itemref idref="x3-18"/>
+    <itemref idref="x3-19"/>
+    <itemref idref="x3-20"/>
+    <itemref idref="x3-21"/>
+    <itemref idref="x3-22"/>
+    <itemref idref="x3-23"/>
+    <itemref idref="x3-24"/>
+    <itemref idref="x3-25"/>
+    <itemref idref="x3-26"/>
+    <itemref idref="x3-27"/>
+    <itemref idref="x3-28"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

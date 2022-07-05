@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sultana Dokunmak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Yel, Hakan">Hakan Yel</dc:creator>
+    <dc:identifier id="uuid">{79C26D51-85DB-41E9-8CA5-69958B6444AF}</dc:identifier>
+    <dc:publisher>Altın Kitaplar Yayınevi ve Ticaret A.Ş.</dc:publisher>
+    <dc:date>2014-07-10T11:49:31+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Sultana Dokunmak, yeni baskısıyla ve kapağıyla Türkiye'den sonra yakında bulgar okuyucularıyla da buluşacak...Irak'ta bir silah tüccarıyla pazarlık yapan iki yaşlı adamın cesedi Gaziantep'te bir benzin istasyonunda bulunur. Kamuoyunu son dö-nemlerde meşgul eden öfke ve şiddet yüklü imam cinayetlerine bir yenisi daha eklenir. Zengin ve nüfuslu çevrelerden kimi kişilerin kaçırılıp öldürülmesi gazete ve televizyonların ana haberlerinde yayınlanmaktadır. Birbirleriyle ilgisiz gibi görünen bu olaylar, Orta-doğu'yu mercek altına almış MİT ve MOSSAD tarafından yakından takip edilmektedir. Çünkü bütün bu olayların ipuçları tek bir noktada birbirine bağlanmaktadır.Türkiye'de ve Avrupa'nın çeşitli ülkelerinde faaliyet gösteren bir tarikat olan Sadikiler, bu olayların düğümlendiği son noktadır. Sadikile-rin sıradan bir kökten dinci tarikat görüntüsünün gerisinde başka amaçları vardır: Ülkeye hilafeti getirip gücü ele geçirmek. Selim Tekin ise sıradan hayatına bir anda giren Helin kod adlı İsrail ajanıyla yaşadığı ilişki yüzünden tüm bu olayların içine tesadüfen girer.Helin'in tarikat adamları tarafından öldürülmesi, Selim'i sınırlarını kendinin bile tahmin edemediği bir intikam duygusuna iter. Selim' in içten içe hissettiği ama görmezden geldiği kimi güçleri, onun içinde şeytan kadar kötü, bir süper kahraman kadar hızlı, bir intikam meleği gibi baş edilemez bir kişilik yaratır.O, artık eski Selim değildir. İçindeki kavurucu şiddet, dokunduğu her şeyi yakar, ta ki sultana dokunana dek...</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">90d02087-591d-4022-b64e-0c77436a987d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752116115</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">IfD-AwAAQBAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Sultana Dokunmak"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hakan Yel&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="id1"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-8.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="main-9.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id14" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id13" media-type="text/css"/>
+    <item href="cover.jpg" id="id1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="id"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover"/>
+  </guide>
+</package>

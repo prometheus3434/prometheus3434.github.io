@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Stephenie Meyer - 5 Geceyarısı Güneşi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="www">www</dc:creator>
+    <dc:identifier id="uuid">{2288F3DA-5AFE-4599-AFDE-FE501EC4C3C9}</dc:identifier>
+    <dc:date>2015-01-03T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">048c2b8b-e0d3-4cbb-b436-2f05ea307cc8</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Stephenie Meyer - 5 Geceyarısı Güneşi"/>
+    <meta name="calibre:author_link_map" content="{&quot;www&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.html" id="cover" media-type="text/html"/>
+    <item href="Text/main.html" id="id0" media-type="text/html"/>
+    <item href="Text/main-1.html" id="id2" media-type="text/html"/>
+    <item href="Text/main-2.html" id="id3" media-type="text/html"/>
+    <item href="Text/main-3.html" id="id4" media-type="text/html"/>
+    <item href="Text/main-4.html" id="id5" media-type="text/html"/>
+    <item href="Text/main-5.html" id="id6" media-type="text/html"/>
+    <item href="Text/main-6.html" id="id7" media-type="text/html"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/cover.png" id="cover-image" media-type="image/png"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.html" type="cover"/>
+  </guide>
+</package>

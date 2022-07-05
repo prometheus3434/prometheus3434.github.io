@@ -1,0 +1,290 @@
+@font-face {
+  font-family: "Adobe Garamond Pro";
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/AGaramondPro-Regular.otf') format("opentype");
+}
+@font-face {
+  font-family: "Adobe Garamond Pro";
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/AGaramondPro-Bold.otf') format("opentype");
+}
+@font-face {
+  font-family: "Adobe Garamond Pro";
+  font-weight: normal;
+  font-style: italic;
+  src: url('../Fonts/AGaramondPro-Italic.otf') format("opentype");
+}
+@font-face {
+  font-family: "Avenir Book";
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/Avenir-Book.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Symbol TTF";
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/Symbol.ttf') format("truetype");
+}
+.cover-container {
+  max-width: 500px;
+  page-break-inside: avoid;
+  margin: auto;
+}
+.cover-container img {
+  width: 100%;
+}
+.works .container {
+  margin-top: 3em;
+}
+.works h1 {
+  text-align: center;
+  font: normal normal .92em / 1.3em "Adobe Garamond Pro";
+  margin: 0;
+}
+.works h1+ul {
+  margin-top: 2em;
+}
+.works ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.works li {
+  font: italic normal .92em / 1.3em "Adobe Garamond Pro";
+  text-align: center;
+  margin-top: .2em;
+}
+.titlepage-img {
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+}
+.titlepage-img img {
+  width: 100%;
+  margin: 0 auto;
+}
+.copyright-page .copy, .rights, .copy-top {
+  margin-top: .7em;
+  page-break-inside: avoid;
+}
+.copy-top span {
+  display: block;
+  font: normal normal .75em / 1.3em "Adobe Gramond Pro";
+}
+.rights span {
+  font-size: .7em;
+}
+.copyright-page .copy span {
+  display: block;
+  font: normal normal .75em / 1.3em "Adobe Gramond Pro" , Serif;
+}
+.rights span {
+  font: normal normal .7em / 1.1em "Adobe Gramond Pro" , Serif;
+}
+.copyright-page .logo {
+  margin: 0;
+  width: 5em;
+  margin-bottom: 1em;
+}
+.copyright-page img {
+  width: 100%;
+}
+.epigraph .container {
+  margin: 5em auto 0;
+  max-width: 18em;
+  text-align: center;
+}
+.epigraph .container>span {
+  font: italic normal 1em / 1.3em "Adobe Garamond Pro";
+}
+.epigraph .container>cite {
+  text-align: right;
+}
+.chapter .container {
+  margin-top: 2em;
+}
+.chapter h1, .acknowledgments h1, .biography h1, .notice h1 {
+  font: normal normal 1.42em / 1.3em "Avenir Book";
+  text-align: center;
+  page-break-inside: avoid;
+}
+.sub-header {
+  font-size: .82em;
+  display: block;
+  margin-top: .4em;
+  line-height: 1.2em;
+}
+.ch-num {
+  display: block;
+  margin-bottom: 1em;
+}
+.chapter h1+p, .acknowledgments h1+p, .notice h1+p {
+  margin-top: 4em;
+}
+p {
+  font: normal normal .92em / 1.2em "Adobe Garamond Pro";
+  text-indent: 1.3em;
+  margin: 0;
+}
+p+p {
+  margin-top: .1em;
+}
+hr {
+  border: none;
+  margin: 1.4em auto 1.2em;
+  text-align: center;
+  word-break: keep-all;
+  white-space: nowrap;
+}
+hr:after {
+  content: "***";
+  font: normal normal .92em / 1.2em "Adobe Garamond Pro";
+  letter-spacing: .2em;
+}
+.symbol {
+  font-family: "Symbol TTF";
+}
+blockquote, .poem {
+  margin: 1em .7em 1em 1.8em;
+}
+blockquote p {
+  font-size: .8em;
+  line-height: 1.3em;
+}
+blockquote p:first-child {
+  text-indent: 0;
+}
+blockquote .cite {
+  text-align: right;
+}
+blockquote.dialogue p {
+  text-indent: 0;
+}
+.poem p {
+  font: normal normal .83em / 1.45em "Adobe Garamond Pro";
+  display: block;
+  text-indent: 0;
+}
+.chapter .epigraph {
+  margin: 1em auto;
+  max-width: 20em;
+  width: 70%;
+}
+.chapter .epigraph>span, .chapter .epigraph cite {
+  display: block;
+  font: normal normal .8em / 1.2em "Adobe Garamond Pro";
+}
+.chapter .epigraph cite {
+  text-align: right;
+}
+h2+.epigraph {
+  margin-top: 2em;
+}
+.acknowledgments .container, .bibliography .container, .biography .container, .index .container, .notice .container {
+  margin-top: 3em;
+}
+.notice p {
+  font-size: .8em;
+  text-indent: 0;
+}
+.notice h1+h2 {
+  margin-top: 5em;
+}
+.notice h2 {
+  font: italic normal .92em / 1.3em "Adobe Garamond Pro";
+  text-align: center;
+  margin: 2em 0 1em;
+  padding-left: 1.1em;
+  text-indent: -1.1em;
+}
+.notice ol {
+  list-style: none;
+  margin: 0;
+  padding-left: .7em;
+}
+.notice li {
+  font: normal normal .92em / 1.3em "Adobe Garamond Pro";
+  padding-left: 2.5em;
+  text-indent: -2.5em;
+}
+.notice li p {
+  font-size: 1em;
+  text-indent: 0;
+}
+.notice li .num {
+  display: inline-block;
+  text-indent: 0;
+  width: 1.2em;
+  text-align: right;
+  padding-right: 1.1em;
+  font-family: "Adobe Garamond Pro";
+  word-break: keep-all;
+  white-space: nowrap;
+}
+.notice li a {
+  word-break: break-all;
+  white-space: normal;
+}
+h1, h2, h3, h4, h5, h6, .unbreak, .poem>span, .titlepage, .epigraph .container {
+  hyphens: none !important;
+}
+.block, .nobreak, .unbreak {
+  white-space: nowrap;
+  word-break: keep-all;
+}
+.si-noteref {
+  text-decoration: none;
+  color: rgb(26,149,211);
+  font-size: .85em;
+  vertical-align: super;
+  padding-left: .1em;
+  line-height: .7em;
+  font-weight: bold;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  font-family: sans- "Adobe Gramond Pro" , Serif;
+  text-decoration: none;
+  color: rgb(26,149,211);
+  font-size: 1.1em;
+}
+.si-footnote {
+  font-family: "Adobe Gramond Pro" , Serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: .8em;
+  margin-bottom: .25em;
+  line-height: 1.2em;
+}
+.si-footnote p {
+  text-indent: 0;
+  font-size: 1em;
+  font-family: "Adobe Gramond Pro" , Serif;
+  margin-top: .2em;
+}
+.lvl1 {
+  margin-top: 1em !important;
+}
+.lvl2 {
+  margin-top: 2em !important;
+}
+.lvl3 {
+  margin-top: 3em !important;
+}
+.clear {
+  clear: both;
+}
+.unindent {
+  text-indent: 0 !important;
+}
+a {
+  color: rgb(26,149,211);
+  white-space: nowrap;
+  text-decoration: none;
+}

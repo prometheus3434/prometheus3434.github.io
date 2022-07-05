@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Şazende Şunkin</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tanizaki, Cuniçiro">Cuniçiro Tanizaki</dc:creator>
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:date>2011-03-14T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;span style="widows: 1;"&gt;Daha önce Çılgın Bir İhtiyarın Güncesi adlı romanını yayımladığımız Cuniçiro Tanizaki, Japon edebiyatının büyük ustalarından biri. Öykü ve romanlarında Japon geleneklerinden esinlenen, ama bunları insanın evrensel sorunlarıyla bütünleştirerek edebiyat tarihini derinden etkileyen metinler çıkaran Tanizaki, okuru alışkanlıklarının dışına çıkmaya davet ediyor: Büyük bilge Konfüçyüs'ü alt eden zalim kraliçe, müşterilerine korkunç acılar yaşatan usta dövmeci, oyun sırasında arkadaşlarını yaralamaktan zevk alan küçük çocuk, kendisine eziyet eden sevgilisi uğruna kendi gözlerini kör eden romantik âşık... Tanizaki'nin anlatımı gerçekçi ve alabildiğine yalın, buna karşılık öykülerin hepsinde hafif bir gerçeküstü gerilim var. Doğu'nun sessiz dış görünüşüne karşılık kaynayan bir iç dünya. Hareketsiz bedenin karşısında çığlıklar atan bir ruh... İnanılmaz bir edebî zenginlik. Tanizaki'nin öyküleri, sıkı edebiyat okurlarının da, gençlerin de ilgisini çekebilecek nitelikte.&lt;/span&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Japon Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d1dc4737-f836-40d9-af6e-9ae5ec74f760</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750712760</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Şazende Şunkin"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cuniçiro Tanizaki&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverPage.html" id="CoverPage_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0007.html" id="section-0007_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0009.html" id="section-0009_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0010.html" id="section-0010_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0011.html" id="section-0011_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/1.jpg" id="id_1_jpg" media-type="image/jpeg"/>
+    <item href="Images/9789755107226.3_preview.jpg" id="id_9789755107226_3_preview_jpg" media-type="image/jpeg"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Ekran_Resmi_2015-03-03_20.27.15.jpg" id="Ekran_Resmi_2015-03-03_20_27_15_jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage_html"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+    <itemref idref="section-0007_html"/>
+    <itemref idref="section-0008_html"/>
+    <itemref idref="section-0009_html"/>
+    <itemref idref="section-0010_html"/>
+    <itemref idref="section-0011_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverPage.html" title="Cover Page" type="cover"/>
+  </guide>
+</package>

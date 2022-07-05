@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="e6131b10-dc71-4583-860c-a76f3df5ffb6" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tanrı ve Felsefe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Tanrı ve Felsefe - Etienne Gilson</text>
+      </navLabel>
+      <content src="Text/part1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ÇEVİRENİN ÖNSÖZÜ</text>
+      </navLabel>
+      <content src="Text/part2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>YAZARIN ÖNSÖZÜ</text>
+      </navLabel>
+      <content src="Text/part3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>TANRI VE YUNAN FELSEFESİ</text>
+      </navLabel>
+      <content src="Text/part4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>TANRI VE HIRİSTİYAN FELSEFESİ</text>
+      </navLabel>
+      <content src="Text/part5.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>TANRI VE MODERN FELSEFE</text>
+      </navLabel>
+      <content src="Text/part6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>TANRI VE ÇAĞDAŞ DÜŞÜNCE</text>
+      </navLabel>
+      <content src="Text/part7.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BİBLİYOGRAFYA*</text>
+      </navLabel>
+      <content src="Text/part8.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>İNDEKS</text>
+      </navLabel>
+      <content src="Text/part9.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

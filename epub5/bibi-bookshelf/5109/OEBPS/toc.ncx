@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:9ea58ec0-2ad7-4660-9be0-b17e736a3d1b" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tahrir Vazifeleri 5</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Telif Sayfası</text>
+      </navLabel>
+      <content src="Text/telif.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Uyarı</text>
+      </navLabel>
+      <content src="Text/Tahrir_Vazifeleri_5.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Tarihsizlik Talihsizlik</text>
+      </navLabel>
+      <content src="Text/Section0001.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Katılımsız Fedakarlık</text>
+      </navLabel>
+      <content src="Text/Section0002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Katılıma Ne Gerek Var?</text>
+      </navLabel>
+      <content src="Text/Section0003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yağmaya Katılmak Katılım Olmaz</text>
+      </navLabel>
+      <content src="Text/Section0004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>İyiler Ne Kadar İyi?</text>
+      </navLabel>
+      <content src="Text/Section0005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bütünleşmeyi Bulmak İçin</text>
+      </navLabel>
+      <content src="Text/Section0006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Seçkinlik Müslümanlığı Müslümanlar Seçkinleşmeyi İstedikleri Zaman</text>
+      </navLabel>
+      <content src="Text/Section0007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Seçkinliği De, Özgürlüğü De Başlatan Savaşçıdır</text>
+      </navLabel>
+      <content src="Text/Section0008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Mesafeyi Kapatmak İçin</text>
+      </navLabel>
+      <content src="Text/Section0009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Bütünleşmeyi İslam'da Aramanın İki Yolu</text>
+      </navLabel>
+      <content src="Text/Section0010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Savaş Neyi Onarır?</text>
+      </navLabel>
+      <content src="Text/Section0011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Furkan'ı Hatırlamadan Kur'an Okunabilir mi?</text>
+      </navLabel>
+      <content src="Text/Section0012.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

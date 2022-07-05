@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Taoculuktaki Anahtar Kavramlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="İzutsu, Toshihiko">Toshihiko İzutsu</dc:creator>
+    <dc:identifier id="uuid">{9A3A091E-4BDB-4CB9-9624-0A760010F61E}</dc:identifier>
+    <dc:date>2015-01-03T22:00:00+00:00</dc:date>
+    <dc:publisher>Kaknüs Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Merhum Prof. Dr. Toshihiko İzutsu`nun A Compareative Study of the Key Philosophical Concepts in Sufism annd Taoism/İbn `Arabi and Lao-Tzü, Chuang-Tzu (Tasavvuf`da ve Tao-culuk`daki Felsefi Anahtar-Kavramların Karşılaştırmalı Bir İncelemesi/İbn `Arabi ve Leo-Tzu, Çuang-Tzu) başlıklı 2 cildlik abidevi eserinin tercümesini takdim ettiğimiz bu 2. cildinde Lao-Tzu`nun Tao Te Çing ve Çuang-Tzu`nun da Kitab`ında ortaya koydukları Tao-culuğun anahtar-kavramları semantik bir incelemeye tabi` tutularak incelenmiş ve Lao-Tzu ile Çuang-Tzu`nun Dünya Görüşü`nün temelleri ve çerçevesi ortaya konulmuştur.
+
+Ortaya çıkan sonuç şaşırtıcıdır. Gerek İbn Arabi`nin gerekse Lao-Tzu ve Çuang-Tzu`nun aleme bakış açıları Vahdet-i Vücud`un temelde aynı, terminolojide farklı iki versiyonu gibidir.
+
+İbn Arabi`nin anladığı şekliyle Zat, Ama`, Adem, Kenz-i Mahfi, Gaby Alemi, Hakk, Kader, Rabb, Vahdet, Kesret, Rahman`ın Nefesi, Rahmet, Nefs, Ruh, İnsan-ı Kamil gibi anahtar-kavramların Tao-culuk`da yalnızca ontolojik muadilleri bulunmakla kalmamakta, fakat aynı zamanda bu kavramlar İbn Arabi`de nasıl bir yapı oluşturuyor ve biribirleriyle ne türlü ontolojik ilişkiler içinde bulunuyorlarsa bunların Tao-culuk`daki muadilleri de kendi aralarında bu yapıyı ve bu ilişkileri aynen muhafaza etmektedirler.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>İnanç</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fe6f9efd-4861-49ff-babd-773a0a64d32e</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9799756963776</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Taoculuktaki Anahtar Kavramlar"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Toshihiko İzutsu&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Text/navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id15" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="nav"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+  </spine>
+</package>

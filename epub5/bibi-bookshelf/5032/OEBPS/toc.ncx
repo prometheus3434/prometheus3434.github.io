@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:b5501e84-bda4-41a7-b6a7-bf810408ac0d" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sünger Avcısı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Açıklama</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Sünger Avcısı</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bakır</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Dostlukla Bir Tütüncü Dükkânı Arasında</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Ölümsüzlük</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Sotir</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

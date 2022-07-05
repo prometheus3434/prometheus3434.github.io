@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Şehzade Selim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Yavuz BAHADIROĞLU">Yavuz Bahadıroğlu</dc:creator>
+    <dc:date>2000-06-15T11:50:39+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">eab4ba7e-e232-4910-ab43-638dd6032b26</dc:identifier>
+    <dc:date opf:event="modification">2013-12-06</dc:date>
+    <dc:publisher>Nesil Basım Yayın</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9d4e2ca2-a57d-409e-b9d7-ce6c4b1d5208</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8KGHtAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754080742</dc:identifier>
+    <meta content="Şehzade Selim" name="calibre:title_sort"/>
+    <meta content="2011-07-30T17:40:28+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yavuz Bahadıroğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

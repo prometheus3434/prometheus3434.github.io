@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tezer Özlü'den Leyla Erbil'e Mektuplar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Özlü, Tezer &amp; Erbil, Leyla">Tezer Özlü</dc:creator>
+    <dc:creator opf:role="aut">Leyla Erbil</dc:creator>
+    <dc:publisher>Yapı Kredi</dc:publisher>
+    <dc:date>2001-06-15T10:40:42+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b90f842d-b605-48bf-8724-ae900769f514</dc:identifier>
+    <dc:date opf:event="modification">2014-03-14</dc:date>
+    <dc:description>&lt;p&gt;Duyguların, doyumların, düşüncelerin dolaysız, sade, birebir aktarımıdır mektuplar. Hele de "en yakın" arkadaşa, bir "can dostu"na yazılmışsa, yazılan Leylâ Erbil, yazan da Tezer Özlü'yse...Yazarının coşku dolu, yoğun bir sevgiyle, sevecenlikle yüklü, zaman zaman da "taşkın" duyarlılığını yansıtan bu mektuplar, okuru bir başka boyuta taşıyacak, Tezer Özlü'nün Bütün Eserleri'nin ufkunu genişletecek...&lt;/p&gt;</dc:description>
+    <dc:subject>Mektup</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">4dfb6e45-1147-42d7-9182-11a01659bc04</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753632591</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">IVDgngEACAAJ</dc:identifier>
+    <meta content="Edebiyat" name="calibre:series"/>
+    <meta content="Tezer Özlü'den Leyla Erbil'e Mektuplar" name="calibre:title_sort"/>
+    <meta content="2014-03-14T07:06:18.212000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tezer Özlü&quot;: &quot;&quot;, &quot;Leyla Erbil&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index.xhtml" id="index.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

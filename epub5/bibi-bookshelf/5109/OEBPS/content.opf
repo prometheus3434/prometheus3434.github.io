@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Tahrir Vazifeleri 5</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Özel, İsmet">İsmet Özel</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9ea58ec0-2ad7-4660-9be0-b17e736a3d1b</dc:identifier>
+    <dc:date>2014-03-24T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="dsr">Mahmut Kart</dc:contributor>
+    <dc:publisher>Çıdam Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;"Konuşurken (kimi zaman da yazarken) muhatabımızın söylediklerimizi anlamış olduğuna sevinebiliriz. Öyle ya, zaten o anlasın diye konuşmuyor muyuz? Yine de sonuç her zaman sevindirici olmayabilir. Karşımızdaki sözlerimizi anladığı için üzülmemiz de mümkün. Belki kötü bir haber verdik. Belki bir haberi kötü verdik. Muhatabımız söylediklerimizi anlamadı diye üzülebiliriz. Tersine, karşımızdakinin ne dediğimizi anlamamış olması sevinmemize yol açabilir. Anlasaydı her ikimiz için de iyi olmayacaktı, diye düşündüğümüz de olur. Bütün bu karmaşıklıklar içinde, sözlere karışan insanlar, insanlara karışan sözler arasında yaşayıp gideriz. Dilbilimciler olan biteni bir düzen çerçevesinde açıklamaya çabalarlar, dil felsefesiyle uğraşanlar meselenin mahiyetini çözümleme girişimindedirler. Ama aramızdaki melek veya melekler amellerimizle niyetlerimiz arasındaki boşluğu doldurur. Hatırlar mıyız hem sağımızda, hem solumuzda oturan; amellerimizi tespit eden iki de melek olduğunu? Çağdaş telaş cevaz verir mi buna? Oysa onlar ne kadar çok karışıyor konuşmalarımıza..."&lt;/p&gt;</dc:description>
+    <dc:subject>Deneme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5f0c84d0-8e2d-4102-9c2f-5717dc0c21e5</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:9ea58ec0-2ad7-4660-9be0-b17e736a3d1b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9757796581</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Tahrir Vazifeleri 5"/>
+    <meta name="calibre:series" content="Tahrir Vazifeleri"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;İsmet Özel&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.htm" id="cover.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.htm" id="telif.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.htm" id="titlepage.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Tahrir_Vazifeleri_5.htm" id="Tahrir_Vazifeleri_5.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.htm" id="Section0010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.htm" id="Section0011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.htm" id="Section0012.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Images/Tahrir_Vazifeleri_5_title.jpg" id="Tahrir_Vazifeleri_5_title.jpg" media-type="image/jpeg"/>
+    <item href="Images/Tahrir_Vazifeleri_5.jpg" id="Tahrir_Vazifeleri_5.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.htm"/>
+    <itemref idref="telif.htm"/>
+    <itemref idref="titlepage.htm"/>
+    <itemref idref="Tahrir_Vazifeleri_5.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="Section0010.htm"/>
+    <itemref idref="Section0011.htm"/>
+    <itemref idref="Section0012.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.htm" title="Kapak" type="cover"/>
+    <reference href="Text/telif.htm" title="Copyright Page" type="copyright-page"/>
+  </guide>
+</package>

@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Tarihte neler olmadı ki</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Bilgiç, A. Timur">A. Timur Bilgiç</dc:creator>
+    <dc:publisher>Toplumsal Dönüşüm Yayınları</dc:publisher>
+    <dc:date>2012-06-15T12:46:44+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:0a28f8e1-1a43-4dcc-9819-e317ab19d94b</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">7e8d02d2-57ac-4b97-b8cf-445c5563b113</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">SyA-nQEACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9786058757929</dc:identifier>
+    <meta content="Adobe InDesign 9.0" name="generator"/>
+    <meta name="cover" content="x186.jpg"/>
+    <meta name="calibre:title_sort" content="Tarihte neler olmadı ki"/>
+    <meta name="calibre:author_link_map" content="{&quot;A. Timur Bilgiç&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="7.xhtml" id="x7" media-type="application/xhtml+xml"/>
+    <item href="8.xhtml" id="x8" media-type="application/xhtml+xml"/>
+    <item href="9.xhtml" id="x9" media-type="application/xhtml+xml"/>
+    <item href="9-1.xhtml" id="x9-1" media-type="application/xhtml+xml"/>
+    <item href="9-2.xhtml" id="x9-2" media-type="application/xhtml+xml"/>
+    <item href="9-3.xhtml" id="x9-3" media-type="application/xhtml+xml"/>
+    <item href="9-4.xhtml" id="x9-4" media-type="application/xhtml+xml"/>
+    <item href="9-5.xhtml" id="x9-5" media-type="application/xhtml+xml"/>
+    <item href="10.xhtml" id="x10" media-type="application/xhtml+xml"/>
+    <item href="11.xhtml" id="x11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/r1_fmt.jpeg" id="r1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/r2_fmt.jpeg" id="r2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/r3_fmt.jpeg" id="r3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/toplumsaldonusunyayinlari_fmt.jpeg" id="toplumsaldonusunyayinlari_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x9"/>
+    <itemref idref="x9-1"/>
+    <itemref idref="x9-2"/>
+    <itemref idref="x9-3"/>
+    <itemref idref="x9-4"/>
+    <itemref idref="x9-5"/>
+    <itemref idref="x10"/>
+    <itemref idref="x11"/>
+  </spine>
+</package>

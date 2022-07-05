@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{0001724C-5B7E-BF0C-010B-4381355D146C}" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Suçlu Öyküler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>genelev çiçekçisi</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml" />
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Ahmet Ümit</text>
+        </navLabel>
+        <content src="Text/bolum1.xhtml#sigil_toc_id_1" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>sıfıra sıfır</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml" />
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Akın Sevinç</text>
+        </navLabel>
+        <content src="Text/bolum2.xhtml#sigil_toc_id_2" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>arkadaşım bodo</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml" />
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Akif Pirinçci</text>
+        </navLabel>
+        <content src="Text/bolum3.xhtml#sigil_toc_id_3" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>&quot;sobe!&quot;</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml" />
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Elif Şafak</text>
+        </navLabel>
+        <content src="Text/bolum4.xhtml#sigil_toc_id_4" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>yürüyen merdiven</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml" />
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Esmahan Aykol</text>
+        </navLabel>
+        <content src="Text/bolum5.xhtml#sigil_toc_id_5" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>bir sevgili için</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml" />
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Giovanni Scognamillo</text>
+        </navLabel>
+        <content src="Text/bolum6.xhtml#sigil_toc_id_6" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>suçul</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml" />
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Hüseyin Peker</text>
+        </navLabel>
+        <content src="Text/bolum7.xhtml#sigil_toc_id_7" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>gerçek suçlu benim</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml" />
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Mehmet Ünver</text>
+        </navLabel>
+        <content src="Text/bolum8.xhtml#sigil_toc_id_8" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ruku'nun terlikleri</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml" />
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Müge İplikçi</text>
+        </navLabel>
+        <content src="Text/bolum9.xhtml#sigil_toc_id_9" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>kostümlü hayalet</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml" />
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Nalan Barbarosoğlu</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_10" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>cinayet mahalli</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml" />
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Rıza Kıraç</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml#sigil_toc_id_11" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>her şey aramızda</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml" />
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Türkay Demir</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_12" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>lacivert elbise</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml" />
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Türker Erşen</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_13" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

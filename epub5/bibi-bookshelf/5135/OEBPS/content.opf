@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Tao Sessizdir</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Smullyan, Raymond M.">Raymond M. Smullyan</dc:creator>
+    <dc:publisher>Dharma</dc:publisher>
+    <dc:date>1994-06-15T10:04:56+00:00</dc:date>
+    <dc:identifier id="BookId">awp2012-02-25T20:32:30Z</dc:identifier>
+    <dc:date opf:event="modification">2014-03-30</dc:date>
+    <dc:description>&lt;p&gt;Tao Sessizdir, Raymond Smullyan Tarafında yazılmış, Batılılara Doğu felsefesinin anlamını ve değerini gösteren cezbedici ve espirili bir rehberdir. 'Benim için' der Smullyan, 'Taoculuk, yoğun bir estetik farkındaklıkla birleşmiş içsel bir huzur durumu anlamına gelmektedir. Bunlardan hiçbiri tek başına yeterli değildir. Tümüyle edilgen bir dinginlik sıkıcıdır ve bir tür duyarsızlıktır; endişeden doğan bir farkındalık ise pek cezbedici bir şey değildir.' Bu, yalnızca Çin felsefesi üzerine yazılmış bir kitap değildir. Çin felsefesinden esinlenen ve genel anlamda yaşam üzerine bir dizi düşünceden oluşmaktadır. Smullyan, Taocuları 'sahip olmadıkları bir şeyin peşinden koşmak yerine sahip oldukları şeylerin tadını çıkaran' insanlar olarak görmektedir. Espirili, incelikli ama aynı zamanda da son derece derin bir ruhsallığı olan yazardan bahçecilik sanatı, ahlak, köpekler, bencillik, yönetim sanatı, astroloji ve kendilerinin insan olduğunu düşünen bilgisayarlar hakkında yazdıklarını okurken derinden etkileyecek ve esinleneceğiz. Raymond M. Smullyan, dünya çapında tanınan ünlü bir matematik mantıçısı ve içlerinde Alice Bilmeceler Diyarında; Bu Kitabın İsme İhtiyacı Yok, M.Ö. Beşbin ve Diğer Felsefi Fanteziler adlı kitapların da bulunduğu pekçok kitabın yazarıdır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İnanç</dc:subject>
+    <dc:subject>Ruhsal</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Doğu Felsefesi</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">66f30312-2d1b-4f44-95a9-d86422e37531</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757800187</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">hWRhtgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757800187</dc:identifier>
+    <meta name="cover" content="img1"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Tao Sessizdir"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Raymond M. Smullyan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover image" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Şibumi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Trevanian">Trevanian</dc:creator>
+    <dc:identifier id="bookid" opf:scheme="uuid">f369da9c-3b83-4313-9873-9f00a19bb510</dc:identifier>
+    <dc:contributor opf:role="aut">Online Media Technologies Ltd.</dc:contributor>
+    <dc:date>2007-06-15T11:02:29+00:00</dc:date>
+    <dc:publisher>E Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;İnanılmaz ölçüde karışık ve özgün bir roman kahramanı Nicholai Hel. Yarı Rus, yarı Alman asıllı koyu bir Amerikan düşmanı. Şanghay'da doğmuş, bir Japon generali tarafından büyütülmüş; bir Japon bilgesinden de 'Go' oyunu öğrenmiş. Bask dili dahil yedi dili ana dili gibi konuşuyor. Plastik kartla ya da kurşun kalemle bir insanı rahatlıkla öldürebilecek ustalıkları da edinmiş. Üstün düzeydeki 'yakın algılama' yeteneği yüzünden fotoğrafı bile çekilemeyen bu profesyonel terörist avcısı, terörcü, korkusuz mağaracı, yenilmez savaşçı ve gerçek feylesof, günün birinde emekli olarak yaşadığı şatosundan çıkıyor; amansız ve acımasız bir dövüşe katılmak üzere...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Polisiye</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f129d622-c00b-4f26-87e9-be91161fbad9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753900799</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">DCymtgEACAAJ</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="image1.jpg"/>
+    <meta name="calibre:title_sort" content="Şibumi"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Trevanian&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/content_1.xhtml" id="content_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/content_2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/content_3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/content_4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/content_5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/content_6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/content_7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/content_8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/content_9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/image1.jpg" id="image1.jpg" media-type="image/jpeg"/>
+    <item href="Images/image2.jpg" id="image2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="content_1.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,376 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+	font-family:"Garamond";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Regular.otf");
+}
+
+@font-face {
+	font-family:"Garamond";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+
+@font-face {
+	font-family:"Garamond";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-Bold.otf");
+}
+
+@font-face {
+	font-family:"Garamond";
+	font-style:normal;
+	font-weight:lighter;
+	src : url("../Fonts/AGaramondPro-Semibold.otf");
+}
+
+@font-face {
+  font-family:"Arial";
+  font-style:normal;
+  font-weight:normal;
+  src: url("../Fonts/ARIALN.TTF");
+}
+@font-face {
+  font-family:"Arial";
+  font-style:italic;
+  font-weight:normal;
+  src: url("../Fonts/ARIALNI.TTF");
+}
+@font-face {
+  font-family:"Arial";
+  font-style:normal;
+  font-weight:bold;
+  src: url("../Fonts/ARIALNB.TTF");
+}
+
+
+@font-face {
+  font-family:"Times";
+  font-style:normal;
+  font-weight:normal;
+  src: url("../Fonts/times.ttf");
+}
+
+
+
+
+
+
+
+/*
+ *		CHAPTER
+ */
+
+p {
+  font-family: "Garamond";
+  text-indent: 1em;
+  font-size: 1em;
+  line-height: 1.3em;
+  margin: 0 0 0 0;
+}
+.first {
+  text-indent: 0;
+}
+.first-letter {
+  font-size: 1.666em;
+  font-weight: bold;
+}
+.title {
+  font: normal 1.166em "Garamond";
+  margin-bottom: 2.5em;
+}
+.margin {
+  margin-top: 1em;
+}
+.halfmargin {
+  margin-top: .5em;
+}
+.align-right {
+  text-align: right;
+}
+.note {
+  margin-top: 1em;
+  text-align: right;
+  font-size: .83em;
+  font-style: italic;
+}
+.letter .note {
+  margin-top: 1em;
+  text-align: left;
+  font-style: normal;
+}
+.date {
+  text-align: right;
+  margin-top: 1.5em;
+  margin-bottom: .75em;
+}
+
+
+
+.letter p, .littlefont p {
+  font-size: .916em;
+  line-height: 1.25em;
+}
+.littlefont .title {
+  font-size: 1.083em;
+  margin-bottom: 1em;
+}
+.littlefont .by {
+  font-size: .833em;
+}
+
+a {
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+
+hr {
+  height: 1em;
+  width: 1em;
+  margin: .5em auto .5em auto;
+  border: 0;
+}
+hr:after {
+  content: "*";
+  font-family: Times;
+  font-size: .833em;
+}
+
+
+.part {
+  font: normal normal 1.166em "Garamond";
+  text-align: right;
+}
+
+
+/* IMAGES */
+
+figure {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: .5em;
+  text-align: center;
+  page-break-inside: avoid;
+}
+img {
+  width: 100%;
+}
+figure + p {
+	margin-top: .5em;
+}
+.narrow {
+  max-width: 370px !important;
+}
+
+
+blockquote {
+  margin-left: 0;
+}
+blockquote+p, blockquote {
+  margin-top: 1em;
+}
+.poem-plain {
+  padding-left: 2em;
+}
+
+/*  FOOTNOTES  */
+
+.si_footnotes {
+  margin-top: 3em;
+}
+aside {
+  font-size: .68em;
+}
+.si-noteref {
+  font-size: .75em;
+  vertical-align: super;
+}
+
+
+
+
+/*
+ *  	COVER
+ */
+
+.cover-container {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+
+/*
+ *    NOTICE
+ */
+
+.sign-container {
+  width: 250px;
+  margin: 3em auto 1em auto;
+}
+.notice p {
+  text-align: center;
+  margin-top: .4em;
+  line-height: 1.2em;
+}
+.notice .margin {
+  margin-top: 2em;
+}
+.notice .halfmargin {
+  margin-top: 1em;
+}
+
+/*
+ *    COPYRIGHT-PAGE  
+ */
+
+.copyright {
+  font: normal .75em/1.4em "Garamond";
+  text-align: center;
+}
+.copyright section + section {
+  margin-top: 1.25em;
+}
+.copyright section span {
+  display: block;
+  margin-top: 1.5em;
+}
+.addresses {
+  margin-top: .25em !important;
+}
+.isbn {
+  margin-top: 3em !important;
+}
+
+/*
+ *    TITLEPAGE  
+ */
+
+.author {
+  font: normal bold 1.666em "Garamond";
+  margin-top: 3em;
+  text-align: center;
+}
+.work {
+  font: normal bold 1.5em "Garamond";
+  margin-top: 1.5em;
+  text-align: center;
+}
+.type {
+  font: normal bold 1.08em "Garamond";
+  margin-top: 1.5em;
+  text-align: center;
+}
+.comics {
+  font: normal normal 1.08em "Garamond";
+  margin-top: 4.5em;
+  text-align: center;
+}
+.copyright-container {
+  width: 80px;
+  margin: 4em auto 0 auto;
+  text-align: center;
+}
+
+
+/*
+ *   DEDICATION
+ */
+
+.img-container {
+  margin: 1em auto 0 auto;
+  width: 400px;
+}
+.dedication {
+  margin-top: 1em;
+  font-size: .916em;
+}
+.by {
+  text-align: right;
+  font-size: .9em;
+  margin-top: 1em;
+}
+.by+.by {
+  margin-top: 0;
+}
+
+/*
+ *   ACKNOWLEDGMENTS
+ */
+.acknowledgments p {
+  font: italic normal 1em/1.4em "Garamond";
+}
+
+
+/*
+ *   BIOGRAPHY
+ */
+
+#biography p {
+  font: normal .916em/1.4em "Garamond";
+  margin: 0;
+  text-indent: 1em;
+}
+#biography header {
+  font-family: "Garamond";
+}
+#biography header h1 {
+  font-size: 1.2em;
+  text-align: center;
+}
+#biography header .org {
+  display: block;
+  font-size: .71em;
+  text-align: center;
+}
+#biography header .note {
+  font-size: .75em;
+  margin: .5em 0 1.2em 0;
+  text-align: center;
+  display: block;
+}
+#biography header .dotte {
+  font-family: "Arial";
+  font-size: .666em;
+}
+#biography .auts-books h1 {
+  font: normal normal 1em "Garamond";
+  margin: 1em 0 .3em 0;
+}
+#biography .auts-books p {
+  text-indent: 0;
+  margin-top: .2em;
+}
+
+
+/*
+ *    GLOSSARY
+ */
+
+#yazim ol li{
+  font: .9em/1.4em Arial;
+  list-style: none;
+  float: left;
+  width: 6em;
+}
+
+#yazim h1{
+  font: normal bold .9em Arial;
+  text-align: center;
+}
+
+#yazim section{
+  margin-top: 10em;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{FE8FC7CE-8BDA-4D44-9F2A-A2F2053A13D1}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fehim Taştekin - Suriye Yıkıl Git, Diren Kal</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>SURİYE KRİZİNİN AKTÖRLERİ</text>
+      </navLabel>
+      <content src="Text/aktorler.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Sunuş</text>
+      </navLabel>
+      <content src="Text/Sunus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/1.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/2.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/3.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/4.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Beşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/5.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Altıncı Bölüm</text>
+      </navLabel>
+      <content src="Text/6.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Yedinci Bölüm</text>
+      </navLabel>
+      <content src="Text/7.Bolum.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Sekizinci Bölüm</text>
+      </navLabel>
+      <content src="Text/8.Bolum.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,71 @@
+@font-face {font-family:"Berling Antiqua";font-weight: normal;font-style: normal;src: url('../Fonts/Berling Antiqua-regular.ttf');}
+@font-face {font-family:"Berling Antiqua";font-weight: bold;font-style: normal;src: url('../Fonts/Berling Antiqua-bold.ttf');}
+@font-face {font-family:"Berling Antiqua";font-weight: bold;font-style: italic;src: url('../Fonts/Berling Antiqua-bold-italic.ttf');}
+@font-face {font-family:"Berling Antiqua";font-weight: normal;font-style: italic;src: url('../Fonts/Berling Antiqua-italic.ttf');}
+
+body {font-family:"Berling Antiqua";margin-left:.4em;margin-right:0.4em;}
+p {text-align:justify;margin: 0 0 0 0;font-size:.9em;text-indent:1.5em}
+
+.p1{text-indent:0em;}
+.p2{font-size:1.2em;text-indent:0em;text-align:center;margin-top:1em;margin-bottom:1em;font-weight:bold;}
+.p3{text-indent:0em;text-align:justify;margin-left:2em;margin-right:2em}
+.p4{font-size:1.6em;text-indent:0em;text-align:center;}
+
+
+div.girs{font-size:0.95em;text-indent:0em;margin-top:1em;margin-bottom:1em;text-align:justify;margin-left:5em;margin-right:5em;font-style:italic;}
+div.girs1{font-size:0.95em;text-indent:0em;margin-top:0em;margin-bottom:2em;text-align:justify;margin-left:5em;margin-right:5em;}
+
+h1{font-family:"Berling Antiqua";margin-top:1em;margin-bottom:1em;text-align:center;font-size:2.3em;font-weight:bold;}
+h2{font-family:"Berling Antiqua";margin-top:4em;text-align:center;}
+h3{font-family:"Berling Antiqua";margin-top:1em;margin-bottom:1em;font-weight:normal;text-align:center;font-size:normal;text-indent:0em;}
+
+.baslik{text-align:center;font-weight:bold;text-indent:0em;font-size:2em;margin-top:0.5em;margin-bottom:1.5em;}
+.baslik2{text-align:center;font-weight:bold;font-size:1.5em;text-indent:0em;margin-top:1em;margin-bottom:1em;}
+.baslik3{text-align:center;font-weight:bold;text-indent:0em;font-size:0.9em;margin-top:0.5em;margin-bottom:1em;}
+.baslik4{text-align:center;font-size:1em;text-indent:0em;margin-top:0em;margin-bottom:6em;}
+.baslik5{text-align:center;font-weight:bold;text-indent:0em;font-size:1.4em;margin-top:2em;margin-bottom:1.2em;}
+.baslik6{text-align:center;font-weight:bold;text-indent:0em;font-size:2.8em;margin-top:1em;margin-bottom:0.5em;}
+
+
+.kisim{text-align:center;font-weight:bold;text-indent:0em;font-size:2.7em;margin-top:0em;margin-bottom:0em;}
+.kisim1{text-align:center;font-weight:bold;text-indent:0em;font-size:2em;margin-top:0em;margin-bottom:2em;}
+.kisim2{text-align:center;font-weight:bold;text-indent:0em;font-size:2.1em;margin-bottom:1.5em;font-style:italic;}
+.kisim3{text-align:center;text-indent:0em;font-size:1.4em;}
+
+.onsoz{font-style: normal; text-align: right;text-indent:0em;margin-bottom:1em;margin-top:8em;}
+.arasoz{text-align:center;font-weight:bold;text-indent:0em;font-size:2.7em;margin-top:2em;margin-bottom:0.5em;}
+
+.kunye{font-size:0.85em;text-align:center;text-indent:0em;}
+.kunye1{font-size:0.85em;text-align:left;text-indent:0em;margin-left:15em}
+
+.ithaf{text-align:left;font-size:1.1em;margin-top:4em;text-indent:0em;margin-right:0em;margin-left:3em;}
+.ithaf1{text-align:left;font-size:1.1em;margin-top:0em;text-indent:0em;margin-right:0em;margin-left:7em;}
+
+p.bolum_arasi{text-align: center;text-indent:0;margin-top:1em;}
+p.bolum_arasi1{text-align: center;text-indent:0;margin-top:0em;margin-bottom:1em;line-height: 0.5em;}
+
+p.satir_arasi{font-size:1.4em;text-align: center;text-indent:0}
+p.satir_arasi1{font-size:1.4em;text-align: center;text-indent:0;margin-top:0em;margin-bottom:2em;}
+
+.bos1{margin-top:0.5em;}
+.bos2{margin-top:1.5em;}
+.bos3{margin-top:3em;}
+.bos4{margin-top:4em;}
+
+
+
+.ilkharf{font-size:3em;float:left;line-height: 0.8em;margin-left: 0.13em;text-indent:0em;}
+.ilkharf1{font-size:320%;float:left;font-weight:normal;margin-top:-0.3225em;margin-bottom:-0.3245em; }
+.firstletter{font-size:1.3em;}
+
+.logo{text-indent:0em;text-align:center;margin-top:4em;}
+
+.img{text-indent:0em;text-align:center}
+.img1{text-indent:0em;text-align:center;margin-top:1.2em;margin-bottom:1.2em;}
+
+.dipnot{font-size:1.1em;text-align:align-left;text-indent:2em;margin-top:0em;margin-bottom:1em;margin-left:1em;}
+
+ hr{width:50%;margin-left:25%;margin-bottom:0em;margin-top:0.5em}
+
+.uline{text-decoration: underline;}
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em; }

@@ -1,0 +1,35 @@
+.calibre_ {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre_1 {
+    display: block;
+    text-indent: 1em;
+    margin: 1em 0 0
+    }
+.calibre_2 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre4 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 10pt
+    }
+.calibre5 {
+    display: block
+    }
+.italic {
+    font-style: italic
+    }
+.mbp_pagebreak {
+    display: block;
+    margin: 0
+    }

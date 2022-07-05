@@ -1,0 +1,28 @@
+@font-face {
+	src: url(../Fonts/Calibri.ttf);
+	font-family: "Calibri"
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman.ttf);
+	font-family: "Times New Roman"
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman-Bold.ttf);
+	font-family: "Times New Roman";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman-Bold-Italic.ttf);
+	font-family: "Times New Roman";
+	font-weight: bold;
+	font-style: italic
+}
+
+@font-face {
+	src: url(../Fonts/Times-New-Roman-Italic.ttf);
+	font-family: "Times New Roman";
+	font-style: italic
+}

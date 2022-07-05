@@ -1,0 +1,41 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre_ {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre_1 {
+    display: block;
+    text-indent: 0;
+    margin: 12pt 0 0
+    }
+.calibre_2 {
+    display: block;
+    text-indent: 0;
+    margin: 14pt 0 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    font-size: 0.77419em
+    }
+.calibre3 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.mbp_pagebreak {
+    display: block;
+    margin: 0
+    }

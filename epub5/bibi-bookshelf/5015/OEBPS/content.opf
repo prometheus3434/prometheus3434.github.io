@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Suçlu Öyküler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Çeşitli">Çeşitli</dc:creator>
+    <dc:identifier id="uuid">{0001724C-5B7E-BF0C-010B-4381355D146C}</dc:identifier>
+    <dc:date>2015-12-07T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">89110dc6-5087-4584-8c39-48b9007ca226</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.8.3" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Suçlu Öyküler"/>
+    <meta name="calibre:author_link_map" content="{&quot;Çeşitli&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/on kapak.xhtml" id="on_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic kapak.xhtml" id="ic_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic kapak2.xhtml" id="ic_kapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum13.xhtml" id="bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arka kapak.xhtml" id="arka_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id18" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id17" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Images/main-4.jpg" id="id4" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id18">
+    <itemref idref="on_kapak.xhtml" linear="no"/>
+    <itemref idref="ic_kapak.xhtml"/>
+    <itemref idref="ic_kapak2.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+    <itemref idref="bolum8.xhtml"/>
+    <itemref idref="bolum9.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="arka_kapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/on kapak.xhtml" type="cover"/>
+  </guide>
+</package>

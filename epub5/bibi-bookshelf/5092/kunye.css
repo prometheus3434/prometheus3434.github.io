@@ -1,0 +1,23 @@
+p {
+  margin:0 auto 0 auto;  
+  font-size:0.9em;
+  text-indent:0em;
+  text-align:center;
+}
+
+.bos3{margin-top:3em;}
+.bos8{margin-top:8em;}
+.bos10{margin-top:10em;}
+
+.k1{margin-top:50%;margin-right:20%;}
+.k1 p{text-align:right;font-size:1em;font-weight:bold;margin-bottom:0.5em;}
+
+.k2{margin-top:40%;}
+.k2 p{text-align:justify;}
+
+.k4{text-align:center;margin-top:1em;margin-bottom:1em;}
+
+.k5{font-size:1.2em;font-weight:bold;}
+.k6{font-size:1.8em;font-weight:bold;}
+.k7{font-size:1em;}
+.k8{font-size:1.1em;font-weight:bold;margin-top:0.5em;}

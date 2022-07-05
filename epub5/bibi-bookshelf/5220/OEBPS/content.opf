@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>The Silmarillion</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolkien, J. R. R.">J. R. R. Tolkien</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3440064b-ede3-4730-8af3-74fe5db0072f</dc:identifier>
+    <dc:date>2001-06-15T11:02:47+00:00</dc:date>
+    <dc:publisher>Houghton Mifflin</dc:publisher>
+    <dc:description>Majestic! . . . Readers of The Hobbit and The Lord of the Rings will find in The Silmarillion a cosmology to call their own, medieval romances, fierce fairy tales, and fiercer wars that ring with heraldic fury . . . It overwhelms the reader. Time  The story of the creation of the world and of the First Age, this is the ancient drama to which the characters in The Lord of the Rings look back and in whose events some of them, such as Elrond and Galadriel, took part. The three Silmarils were jewels created by Feanor, most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. Thereafter, the unsullied Light of Valinor lived on only in the Silmarils, but they were seized by Morgoth and set in his crown, which was guarded in the impenetrable fortress of Angband in the north of Middle-earth. The Silmarillion is the history of the rebellion of Feanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy.  A creation of singular beauty . . . magnificent in its best moments.  Washington Post   Heart-lifting . . . a work of power, eloquence and noble vision . . . Superb! Wall Street Journal  J.R.R. TOLKIEN (1892 1973) is the creator of Middle-earth and the author of such classic and extraordinary works of fiction as The Hobbit, The Lord of the Rings, and Unfinished Tales. His books have been translated into more than fifty languages and have sold many millions of copies worldwide. CHRISTOPHER TOLKIEN is the third son of J.R.R. Tolkien. Appointed by Tolkien to be his literary executor, he has devoted himself to the editing and publication of unpublished writings. "</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Epic</dc:subject>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Fairy Tales; Folk Tales; Legends &amp; Mythology</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">2a97ef41-1f14-4fff-874f-9a03bf039eae</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3OfgnQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9758467298</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9780544338012</dc:identifier>
+    <meta content="2011-01-05T20:01:25.634370+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <opf:meta content="The Silmarillion" name="calibre:title_sort"/>
+    <opf:meta content="{}" name="calibre:user_categories"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/Harita-1.jpg" id="Harita-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Harita-2.jpg" id="Harita-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/Harita-3.jpg" id="Harita-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-2.jpg" id="resim-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-3.jpg" id="resim-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-4.jpg" id="resim-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim-5.png" id="resim-5.png" media-type="image/png"/>
+    <item href="Images/Silmarillion-Turkey-port.jpg" id="Silmarillion-Turkey-port.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitled-3.png" id="Untitled-3.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

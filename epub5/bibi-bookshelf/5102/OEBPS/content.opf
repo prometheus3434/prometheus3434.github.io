@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Şizofreni Yalnız Oynanmaz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vidinlioğlu, Rahmi">Rahmi Vidinlioğlu</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c1f107ba-f946-4c5d-a618-704c08a07aae</dc:identifier>
+    <dc:date opf:event="modification">2014-04-12</dc:date>
+    <dc:description>&lt;p class="description"&gt;Gittin! Seni benden, beni senden koparttılar! Kahpe bir intihara dönüş bileti gişedeki Azrail! Tımarhanelere kaldırdılar beni, kollarıma kocaman serum şişelerinde gözyaşları bağladılar! Başlamadan bitti aramızdaki her şey! Sen, "Bitti" bile diyemedin "Başlayan şeyler bit(t)er, ben seni sevmeye başlamadım ki…" derdim! Bitti! Her bitiş yeni bir başlangıcın fragmanıydı! Aramızdaki sıradağlar gibi duran aşılmaz engel "Biz arkadaşız…" diye başlayan o çocukça masal değil, gözü dönmüş psikiyatristlerin yazdıkları ufacık bir kâğıt parçasıydı: "Şizofrenik semptomlar…" diye başlayan ve "…gözlem altında tutulmalı!" emir kipiyle noktalanan! Ey Kâri! Şimdi dinleyeceğin her şey yalandır… Yalan.. Yalan. Yalan! Bir yalanın utana utana gerçeğe dönüşmesi, tüm gerçeklerin arsızca yalana dönmesi ve neyin gerçek neyin yalan olduğunun artık hiçbir öneminin kalmadığı bir kaosun hikâyesidir… Kocaman, hiçbir şeyle tanımlanamayacak kadar büyük bir acının hikâyesi…&lt;/p&gt;</dc:description>
+    <dc:format>Epub</dc:format>
+    <dc:date>2006-04-11T21:00:00+00:00</dc:date>
+    <dc:publisher>İlya</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Psikoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e2040244-73a6-44c8-b1c3-fc44b0eacc75</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756070208</dc:identifier>
+    <meta content="Şizofreni Yalnız Oynanmaz" name="calibre:title_sort"/>
+    <meta content="2014-04-12T16:44:06.350000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:series" content="Roman Dizisi"/>
+    <meta name="calibre:series_index" content="2.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Rahmi Vidinlioğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Tum_split_000.htm" id="Tum_split_000.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Tum_split_000.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

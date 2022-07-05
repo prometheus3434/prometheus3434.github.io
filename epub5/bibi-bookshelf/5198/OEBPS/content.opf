@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Teneke: roman, oyun</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Yaşar">Yaşar Kemal</dc:creator>
+    <dc:identifier id="uuid">{96933B3C-64C8-4994-9296-7A02E23DF7E0}</dc:identifier>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:description>Bir Anadolu kasabasında, çeltikçi ağaların yönetmeliklere karşı gelerek ektikleri çeltik sıtmaya neden olur. İdealist ve genç kaymakam tüm tecrübesizliğiyle, sıtmaya tutulan kasaba halkı adına ağalarla mücadeleye girişir. Ancak kaymakam kasabadan, ardından teneke çalınarak sürülür. Teneke idealizm ile baskın güç arasındaki mücadelenin romanıdır. "Teneke kuruluş halindeki milli edebiyatımızın nefis bir örneği."</dc:description>
+    <dc:date>2007-06-15T11:29:45+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Edebiyat</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5b61c302-d63f-4bad-b5f6-cef9027f3f58</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750807190</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">vFCazgEACAAJ</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Teneke: roman, oyun"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yaşar Kemal&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main2.xhtml" id="main2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main3.xhtml" id="main3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section9.xhtml" id="Section9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id7" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="main2.xhtml"/>
+    <itemref idref="main3.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+    <itemref idref="Section9.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

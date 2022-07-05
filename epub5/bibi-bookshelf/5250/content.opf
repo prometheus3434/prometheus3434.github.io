@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tristan ihaneti</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ludlum, Robert">Robert Ludlum</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">20416785-d722-4931-91ee-2abb2f7b4635</dc:identifier>
+    <dc:date>2005-06-15T12:20:11+00:00</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4300b04a-c5ae-4c79-874e-745d00df2829</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">7YLjQgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">00cd35bd-7cf8-4bae-971e-1ad51f373576</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752105959</dc:identifier>
+    <meta name="calibre:title_sort" content="Tristan ihaneti"/>
+    <meta name="calibre:timestamp" content="2018-02-16T05:44:59.782000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover1.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750717543"/>
+      <meta name="dtb:depth" content="2"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Tasmalı Güvercin</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>GÖRÜNMEYEN</text>
+         </navLabel>
+         <content src="chapter1.xhtml"/>
+         <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+               <text>Teferiç</text>
+            </navLabel>
+            <content src="chapter2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>Dut</text>
+            </navLabel>
+            <content src="chapter3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>Tasmalı Güvercin</text>
+            </navLabel>
+            <content src="chapter4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>Hangi Kedi</text>
+            </navLabel>
+            <content src="chapter5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>Madalyon</text>
+            </navLabel>
+            <content src="chapter6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Sıcak Üçlemesi</text>
+            </navLabel>
+            <content src="chapter7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>Eran Kaptan</text>
+            </navLabel>
+            <content src="chapter8.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>DEFTER</text>
+         </navLabel>
+         <content src="chapter9.xhtml"/>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>Dönüş ve Hastalık</text>
+            </navLabel>
+            <content src="chapter11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>Gölge İçindeki Orman</text>
+            </navLabel>
+            <content src="chapter13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>İş Konusu</text>
+            </navLabel>
+            <content src="chapter15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Sarıkız Olayı</text>
+            </navLabel>
+            <content src="chapter16.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

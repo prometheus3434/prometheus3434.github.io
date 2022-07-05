@@ -1,0 +1,250 @@
+.calibre {
+    display: block;
+    font-family: "Palatino Linotype", serif;
+    font-size: 1.125em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 1em;
+    margin: 0
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    display: block;
+    text-align: center
+    }
+.calibre5 {
+    height: auto;
+    width: auto
+    }
+.calibre6 {
+    line-height: 1.2
+    }
+.calibre7 {
+    height: auto;
+    line-height: 1.2;
+    max-width: 100%;
+    width: auto
+    }
+.calibre8 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre9 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre10 {
+    display: block;
+    text-align: right;
+    margin: 1em 0
+    }
+.calibre11 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre12 {
+    display: block;
+    text-align: right
+    }
+.calibre13 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre14 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.calibre15 {
+    font-family: "Times New Roman", serif
+    }
+.calibre16 {
+    font-family: Times New Roman, serif
+    }
+.calibre17 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre18 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre19 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre20 {
+    font-family: Palatino Linotype
+    }
+.calibre21 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre22 {
+    display: block;
+    text-align: justify;
+    margin: 1em 0
+    }
+.calibre23 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre24 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.calibre25 {
+    font-weight: normal
+    }
+.calibre26 {
+    font-family: Georgia, serif
+    }
+.calibre27 {
+    font-family: Georgia, serif;
+    line-height: 1.2
+    }
+.calibre28 {
+    display: block;
+    text-align: justify
+    }
+.font {
+    font-style: italic
+    }
+.font1 {
+    font-weight: bold
+    }
+.font2 {
+    font-style: italic;
+    font-weight: bold
+    }
+.font3 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.75em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font4 {
+    font-family: "Georgia", serif;
+    font-size: 0.83333em;
+    line-height: 1.2
+    }
+.font5 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.font6 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.font7 {
+    font-family: "Georgia", serif;
+    font-size: 1.11111em;
+    line-height: 1.2
+    }
+.font8 {
+    font-family: "Times New Roman", serif;
+    font-size: 1.11111em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font9 {
+    font-variant: small-caps;
+    font-weight: bold
+    }
+.font10 {
+    font-family: "Georgia", serif;
+    font-size: 0.81818em;
+    line-height: 1.2
+    }
+.font11 {
+    font-family: "Georgia", serif;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.font12 {
+    font-family: "Bookman Old Style", serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font13 {
+    font-family: "Georgia", serif;
+    font-size: 0.90909em;
+    line-height: 1.2
+    }
+.sigil_not_in_toc {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.33em 0
+    }
+.sigil_not_in_toc1 {
+    display: block;
+    font-size: 1.22222em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 3em 0 1em
+    }
+.sigil_not_in_toc2 {
+    display: block;
+    font-size: 1.33333em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.sigil_not_in_toc3 {
+    display: block;
+    font-size: 1.22222em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.sigil_not_in_toc4 {
+    display: block;
+    font-size: 1.11111em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 1em 0
+    }
+.sigil_not_in_toc5 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    margin: 1.33em 0
+    }

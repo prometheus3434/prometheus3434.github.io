@@ -1,0 +1,87 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Şeytanın müridi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Meade, Glenn">Glenn Meade</dc:creator>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2013-06-15T11:15:34+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">e22f2569-51fd-43d2-9668-73b969140bf5</dc:identifier>
+    <dc:description>&lt;div&gt;Kate Moran… bir FBI ajanı...&lt;br&gt;
+Ve Constantine Gamal… bir seri katil… Şeytanın havarisi…&lt;br&gt;
+Ritüeller… Kara büyü…&lt;br&gt;
+Her seferinde işlenen çifte cinayetler…&lt;br&gt;
+Bir kedi fare kovalamacası…&lt;br&gt;
+Gamal yakalanıp idam edildikten sonra da bu cinayetlerin arkası kesilmiyor…&lt;br&gt;
+Ritüel sonrası çifte cinayetler sürüyor…&lt;br&gt;
+Gamal’ı taklit eden biri veya birileri olabilir mi?&lt;br&gt;
+Yoksa… Yoksa Gamal hayatta mı?&lt;br&gt;
+ &lt;br&gt;
+“Meade’in korkutucu anlatımında özel olarak dikkat çeken şey üslubu ve karakterlerin ustalık ve beceriyle çizilmiş olmasıdır.” &lt;br&gt;
+Glasgow Herald&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+“Bu muhteşem dramatik aksiyon ve sürükleyicilik, bu heyecanı perçinleyen düşündürücü bir dönüm noktasıyla sonuçlanıyor. &lt;br&gt;
+The Sunday Times&lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2017-10-24</dc:date>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f20190a5-6bae-41da-bb7d-f0928329e542</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">yzWXoAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051111896</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">c2ba079d-7793-4dca-b5f3-341d3fd3ef56</dc:identifier>
+    <meta content="2017-04-22T14:05:05.135000+00:00" name="calibre:timestamp"/>
+    <meta content="Şeytanın müridi" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{&quot;Glenn Meade&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.9.8" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="calibre_jacket" href="Text/jacket.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id115" href="Text/index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id114" href="Text/index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id113" href="Text/index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id112" href="Text/index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id111" href="Text/index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id110" href="Text/index_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/index_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/index_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/index_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/index_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/index_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/index_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/index_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/index_split_013.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/index_split_014.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="SELCOEPUB_BARCOD_1.png" href="Images/SELCOEPUB BARCOD 1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kapak" href="Text/titlepage.xhtml"/>
+  </guide>
+</package>

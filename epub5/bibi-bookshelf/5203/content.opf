@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Terry Deary</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hırsızı, Ateş">Ateş Hırsızı</dc:creator>
+    <dc:date>2011-07-28T19:36:59+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4aafe129-bf5f-4565-ac79-ac9f5bee07f8</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">070272b2-e68b-4585-94e2-e6555b1ed586</dc:identifier>
+    <meta name="calibre:title_sort" content="Terry Deary"/>
+    <meta name="calibre:timestamp" content="2011-07-28T19:36:59+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ateş Hırsızı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="index-175_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="index-2_1.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="index-221_1.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="index-3_1.jpg" id="id6" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

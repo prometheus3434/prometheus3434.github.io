@@ -1,0 +1,171 @@
+body {margin-left:.4em;margin-right:0.4em;}
+p {text-align:justify;margin: 0 0 0 0;font-size:.9em;text-indent:1.5em}
+
+.p1{text-indent:0em;}
+
+.p2{
+font-size:0.75em;
+text-indent:0em;text-align:right;
+margin-bottom:1em;}
+
+.p3{
+font-size:0.8em;
+text-indent:0em;
+margin-top:1em;margin-bottom:1em;}
+
+.p4{
+text-indent:0em;text-align:justify;
+margin-left:2em;margin-right:2em;}
+
+div.girs{font-size:95%;text-indent:0em;margin-top:1em;margin-bottom:5em;text-align:justify;margin-left:2em;margin-right:2em;}
+
+div.girs1{font-size:90%;text-indent:0em;margin-top:1em;margin-bottom:1em;text-align:justify;margin-left:2em;margin-right:2em;}
+
+div.girs2{font-size:90%;text-indent:0em;margin-top:1em;margin-bottom:1em;text-align:justify;margin-left:2em;}
+
+div.girs3{text-indent:0em;margin-top:1em;margin-bottom:1em;text-align:justify;margin-left:0.5em;margin-right:0.5em;background-color: #C1CDCD;
+border-collapse:collapse;border:2px solid black;}
+
+h1{
+font-size:2em;
+font-weight:bold;
+text-indent:0em;
+text-align:center;
+margin-top:1em;
+margin-bottom:1em;}
+
+h2{
+
+font-size:1.5em;
+font-weight:bold;
+text-indent:0em;
+text-align:left;}
+
+h3{
+
+font-size:1.3em;
+font-weight:bold;
+text-indent:0em;
+text-align:center;
+margin-top:1em;
+margin-bottom:1em;}
+
+.baslik{
+font-size:150%;
+font-weight:bold;
+text-indent:0em;
+text-align:right;
+margin-bottom:4em;}
+
+.baslik2{font-size:110%;font-weight:bold;text-indent:0em;text-align:left;margin-top:6em;margin-bottom:1em;}
+
+.baslik3{font-size:105%;font-weight:bold;text-indent:0em;text-align:left;margin-top:1.5em;margin-bottom:0.5em;}
+
+.ickapak{
+font-size:150%;
+text-align:center;
+text-indent:0em;
+margin-top:1em;}
+
+.ickapak2{
+font-size:180%;
+font-weight:bold;
+text-align:center;
+text-indent:0em;
+margin-bottom:0.5em;}
+
+.ickapak3{
+font-size:300%;
+font-weight:bold;
+text-align:center;
+text-indent:0em;
+margin-bottom:4em;}
+
+
+.kunye{
+font-size:90%;
+text-align:left;
+text-indent:0em;
+margin-left:2em;}
+
+.onsoz{
+font-style: normal; 
+text-align: right;
+text-indent:0em;
+margin-bottom:1em;
+margin-top:8em;}
+
+.arasoz{
+font-size:110%;
+text-align:center;
+text-indent:0em;
+margin-top:2em;
+margin-bottom:0.5em;}
+
+.ithaf{
+font-size:110%;
+font-style:italic;
+font-weight:bold;
+text-indent:0em;
+text-align:right;
+margin-top:5em;}
+
+.kisim{
+font-size:270%;
+font-weight:bold;
+text-indent:0em;
+text-align:center;
+margin-top:0em;
+margin-bottom:0em;}
+
+.kisim1{
+font-size:270%;
+font-weight:bold;
+text-indent:0em;
+text-align:center;
+margin-top:0em;
+margin-bottom:0em;}
+
+
+p.bolum_arasi{text-align: center;text-indent:0;font-style:bold;margin-top:0.7em;margin-bottom:0.7em}
+p.bolum_arasi1{text-align: center;text-indent:0;margin-top:0em;margin-bottom:1em;line-height:0.5em;}
+
+
+.bos1{margin-top:0.5em;}
+.bos2{margin-top:1em;}
+.bos3{margin-top:1.5em;}
+.bos4{margin-top:2em;}
+
+
+
+.ilkharf{font-size:320%;float:left;line-height: 0.8em;margin-left: 0.13em;text-indent:0em;}
+
+.ilkharf1{font-size:320%;float:left;font-weight:normal;margin-top:-0.3225em;margin-bottom:-0.3245em; }
+
+.firstletter{font-size:130%;}
+
+.logo{text-indent:0em;text-align:center;margin-top:3.5em;}
+
+.img{text-indent:0em;text-align:center;margin-top:0.3em;}
+
+.img1{text-indent:0em;text-align:center;margin-top:1.2em;margin-bottom:1.2em;}
+
+.img2{text-indent:0em;text-align:right;margin-top:1em;margin-bottom:1em;}
+
+.dipnot{text-align:align-left;text-indent:1em;margin-top:0em;margin-bottom:1em;margin-left:1em;}
+
+table{
+border-collapse:collapse;
+border:2px solid black; 
+text-align:center;
+width:90%; height:50px;
+margin-left:1em;
+margin-right:1em;}
+
+ hr{width:100%;margin-left:0%;margin-bottom:0em;margin-top:0em;border:2px solid black;}
+
+.uline{text-decoration: underline;}
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em; }
+
+.right {text-align:right;float:right;}
+.left {text-align:left;float:left;}

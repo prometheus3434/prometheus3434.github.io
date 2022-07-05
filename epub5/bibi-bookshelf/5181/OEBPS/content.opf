@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Tehlikeli Diyardan Öyküler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolkien, John Ronald Reuel">John Ronald Reuel Tolkien</dc:creator>
+    <dc:identifier id="uuid">{B70A0A81-6CD9-44FB-BADD-992E20DD9EF1}</dc:identifier>
+    <dc:date>2008-04-15T12:02:07+00:00</dc:date>
+    <dc:publisher>Ithaki Publishing</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">cf78981f-509a-4c4b-96e7-78a65ab74af8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752734074</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2JQ68Kv_7qUC</dc:identifier>
+    <meta name="cover" content="Tehlikeli_Diyardan_Öyküler_.png__2_.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Tehlikeli Diyardan Öyküler"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Ronald Reuel Tolkien&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/Tehlikeli Diyardan Öyküler .png (2).png" id="Tehlikeli_Diyardan_Öyküler_.png__2_.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

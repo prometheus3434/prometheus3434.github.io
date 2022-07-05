@@ -1,0 +1,60 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Tatlı Gelir Yaşamayana Savaş</dc:title>
+    <dc:creator id="id-2">Desiderius Erasmus</dc:creator>
+    <dc:identifier>google:IaZxEAAAQBAJ</dc:identifier>
+    <dc:identifier>isbn:9789750746178</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2022-02-01T12:36:45+00:00</dc:date>
+    <dc:description>Hümanistlerin prensi Erasmus, barışçıl perspektifler uluslararası hukukun görüş alanına girmeden önce modern savaş eleştirisinin temellerini attı. Kuzey Avrupa Rönesans’ının bu büyük ustası, savaşı yalnızca dinsel nedenlerle değil aynı zamanda rasyonel karşısavlarla da belirgin şekilde kınadı. Modern düşünce tarihinde barış elçisi olarak anılabilecek biri varsa, bu şeref öncelikle Erasmus’a aittir.Tatlı Gelir Yaşamayana Savaş, modern Avrupa’nın savaş karşıtı ilk metnidir. 1515 tarihli bu deneme, savaşa aşina olmayanları ve bu uğurda her türlü riski almaya hazır olanları uyarır. Cicero’dan bu yana tartışılagelen adil savaş fikrini reddeden ve devletlerarası anlaşmazlıklarda tarafsız yargılayan bir merci bulmanın mümkün olmadığını belirten Erasmus, barışı her şeyden önce varoluşsal bir zorunluluk olarak ortaya koyar.#dünyaklasikleri #kısaklasikler #dünyabarışı #savaşeleştirisi #savaşakarşı #hümanizm #rönesans</dc:description>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Edebiyat</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:identifier>calibre:5365</dc:identifier>
+    <dc:identifier>uuid:f9c0cd5a-f72f-4a31-a62b-63c69367d6ad</dc:identifier>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Tatlı Gelir Yaşamayana Savaş</meta>
+    <meta name="cover" content="Tatli_Gelir_Yasamayana_Savas_kapakLR.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2022-02-06T13:16:29Z</meta>
+    <meta content="0.9.9" name="Sigil version"/>
+    <meta property="role" scheme="marc:relators" refines="#id-1">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-2" property="file-as">Erasmus, Desiderius</meta>
+    <meta property="calibre:author_link_map">{"Desiderius Erasmus": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tatli_Gelir_Yasamayana_Savas" href="Text/Tatli_Gelir_Yasamayana_Savas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tatli_Gelir_Yasamayana_Savas-1" href="Text/Tatli_Gelir_Yasamayana_Savas-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tatli_Gelir_Yasamayana_Savas-2" href="Text/Tatli_Gelir_Yasamayana_Savas-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tatli_Gelir_Yasamayana_Savas-3" href="Text/Tatli_Gelir_Yasamayana_Savas-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tatli_Gelir_Yasamayana_Savas-4" href="Text/Tatli_Gelir_Yasamayana_Savas-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="canlogosiyah.png" href="Images/canlogosiyah.png" media-type="image/png"/>
+    <item id="Tatli_Gelir_Yasamayana_Savas_kapakLR.jpg" href="Images/Tatli_Gelir_Yasamayana_Savas_kapakLR.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="BerlingLTStd-Italic.ttf" href="Fonts/BerlingLTStd-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerlingLTStd-Roman.ttf" href="Fonts/BerlingLTStd-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansStd-Italic.ttf" href="Fonts/GillSansStd-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="GillSansStd.ttf" href="Fonts/GillSansStd.ttf" media-type="application/x-font-ttf"/>
+    <item id="GoudyCatTReg.ttf" href="Fonts/GoudyCatTReg.ttf" media-type="application/x-font-ttf"/>
+    <item id="MinionPro-Regular.otf" href="Fonts/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="Tatli_Gelir_Yasamayana_Savas"/>
+    <itemref idref="Tatli_Gelir_Yasamayana_Savas-1"/>
+    <itemref idref="Tatli_Gelir_Yasamayana_Savas-2"/>
+    <itemref idref="Tatli_Gelir_Yasamayana_Savas-3"/>
+    <itemref idref="Tatli_Gelir_Yasamayana_Savas-4"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

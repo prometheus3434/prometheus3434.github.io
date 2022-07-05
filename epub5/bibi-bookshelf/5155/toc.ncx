@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="10b11e3f-469c-4b06-9734-bfbbb66ee6f9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tarihin Saklanan Yüzü</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{2D65C733-03DD-4060-B964-E7E42034AAE4}" playOrder="1">
+      <navLabel>
+        <text>Yerine oğlu IV. Mehmet geçti.</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{B12D9B29-A88C-4B5B-B20B-5C63FCC0904F}" playOrder="2">
+      <navLabel>
+        <text>1405’te kardeşi İsû Çclebi’yi hamamda yakalatıp bofcdur-tabildiği için...</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{998DA365-8174-4F69-9859-3A849D7809D2}" playOrder="3">
+      <navLabel>
+        <text>II. Mustafa...</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

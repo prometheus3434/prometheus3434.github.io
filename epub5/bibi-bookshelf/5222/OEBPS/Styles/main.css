@@ -1,0 +1,23 @@
+body {margin: 2em 1em;font-family:Book Antiqua, serif;}
+p {text-align:justify;text-indent:1.5em;margin:0;line-height:1.3em}
+
+/* ara cizgi uygulama <hr class="bosluk" /> */
+hr.bosluk { margin: 2em 25%;}
+
+h1,h2,h3,h4,h5,h6 {text-indent: 0px;text-align:center;margin-bottom:10px;margin-top:30px}
+
+h1 {margin-top:100px;}
+
+.il {float: left; margin: 3px;}
+.ir {float: right; margin: 3px;}
+
+blockquote {margin: 1em 2em 1em 3em; }
+blockquote p {font-size: .9em;text-indent: 0px;}
+
+.kunye p {text-align: center;text-indent:0;}
+.kunye2 p {text-indent:0;font-family:Verdana, sans-serif;font-size:.75em;}
+.baslik {margin: 0em 0em 3em 0em;color: #c1a13c;font-size:1.75em;}
+.yazar {font-size:1.5em;margin: 4em 0px}
+.ara {font-size:0.875em;margin: 40px 0px;}
+.detay {margin-top:10px;}
+.ithaf {text-align: right; font-style: italic; margin-top:5em;margin-right:3em}

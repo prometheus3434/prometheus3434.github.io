@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Suçluyorum</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Zola, Émile">Émile Zola</dc:creator>
+    <dc:identifier id="pub-id">urn:isbn:9789750723162</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2014-08-27T11:48:03+00:00</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">d3d984a1-b908-4204-a990-2a909de2afe5</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">j7URCgAAQBAJ</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9789750723162</dc:identifier>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Suçluyorum"/>
+    <meta name="calibre:author_link_map" content="{&quot;Émile Zola&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/works.xhtml" id="worksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/introduction.xhtml" id="introductionxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gap-image.xhtml" id="gap-imagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/image01.jpg" id="image__image01jpg" media-type="image/jpeg"/>
+    <item href="Images/image02.jpg" id="image__image02jpg" media-type="image/jpeg"/>
+    <item href="Images/image03.jpg" id="image__image03jpg" media-type="image/jpeg"/>
+    <item href="Images/image04.jpg" id="image__image04jpg" media-type="image/jpeg"/>
+    <item href="Images/image05.jpg" id="image__image05jpg" media-type="image/jpeg"/>
+    <item href="Images/image06.jpg" id="image__image06jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="worksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="gap-imagexhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

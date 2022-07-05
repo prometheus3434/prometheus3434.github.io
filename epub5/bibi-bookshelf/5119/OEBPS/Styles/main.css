@@ -1,0 +1,283 @@
+a {
+  text-decoration: none;
+}
+h1 {
+  font: normal normal 1.25em/1.2em "Interstate";
+  margin-bottom: 6em;
+  margin-top: 2em;
+  text-align: center;
+}
+h1.nonchapter {
+  font: normal normal 1.25em/1.2em "Interstate";
+  margin-bottom: 2em;
+  margin-top: 6em;
+  text-align: center;
+}
+h2, h3 {
+  font: normal normal 1em "Interstate";
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+/*YAZAR*/
+.aut {
+  margin: 2em;
+  text-align: justify;
+}
+.aut p {
+  font-size: 0.8em;
+  text-indent: 0;
+}
+.title {
+  text-align: center;
+}
+.author {
+  font: normal bold 1.6em "Berkeley";
+}
+.work {
+  font: normal bold 2em "Berkeley";
+  margin-top: 1em;
+}
+.work span {
+  font: normal bold 3em "Berkeley";
+}
+.trans {
+  font-family: "Berkeley";
+  font-size: 0.83em;
+  margin-top: 4em;
+}
+.trans span {
+  font-size: 1.2em;
+  line-height: 2.5em;
+  display: block;
+}
+.logo {
+  margin: 3em auto 0 auto;
+  font: normal normal 0.9em "Berkeley";
+}
+.logo span {
+  font-size: 0.7em;
+}
+/*Notlar*/
+.footnotes {
+  margin-top: 4em;
+  text-align: justify;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.footnote {
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  text-indent: 0;
+}
+.noteref {
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.center {
+  text-align: center;
+  text-indent: 0;
+}
+.nonindent {
+  margin-top: 1em;
+  text-indent: 0;
+}
+.extract {
+  margin-top: 1em;
+}
+.ithaf {
+  margin-top: 10em;
+  text-align: right;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 2em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  text-indent: 0;
+  margin-top: 1em;
+}
+/*KAYNAKLAR*/
+sub, sup {
+  /* Specified in % so that the sup/sup is the
+  right size relative to the surrounding text */font-size: 75%;
+  /* Zero out the line-height so that it doesn't
+  interfere with the positioning that follows */line-height: 0;
+  /* Where the magic happens: makes all browsers position
+  the sup/sup properly, relative to the surrounding text */position: relative;
+  /* Note that if you're using Eric Meyer's reset.css, this
+  is already set and you can remove this rule */vertical-align: baseline;
+}
+sup {
+  /* Move the superscripted text up */top: -0.5em;
+}
+sub {
+  /* Move the subscripted text down, but only
+  half as far down as the superscript moved up */bottom: -0.25em;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.picture {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  page-break-inside: avoid;
+}
+.picture img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.caption {
+  font: normal normal 0.75em/1.3em "Gill Sans Std";
+  padding-top: 0.2em;
+  text-align: justify;
+}
+.block {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+blockquote > p:first-child {
+  text-indent: 0;
+}
+blockquote p {
+  text-indent: 1.5em;
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3em;
+  text-align: justify;
+}
+.poem p {
+  text-indent: -2em;
+  font: normal normal 0.85em "Berkeley";
+}
+.page-area {
+  margin-top: 0.5em;
+  padding-left: 1em;
+}
+.notice {
+  margin-bottom: 1em;
+}
+.notice p {
+  text-indent: 0;
+  margin-left: 4.5em;
+}
+.notice p .name {
+  margin-left: -4em;
+  display: block;
+  width: 4em;
+  float: left;
+}
+/*EPIGRAPH*/
+.epigraf {
+  max-width: 24em;
+  float: right;
+  text-align: justify;
+}
+.epigraf span {
+  display: block;
+  font: normal normal 0.83em/1.3em "Berkeley";
+}
+.epigraf cite {
+  display: block;
+  text-align: right;
+  font: normal normal 0.83em/1.3em "Berkeley";
+  margin-top: 0.3em;
+  margin-bottom: 1em;
+}
+/* ---- Tables ---- */
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin-top: 0.5em;
+  font-family: "Berkeley";
+  font-weight: normal;
+  font-size: 0.75em;
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+tr.borderall td {
+  border-bottom: 1px solid black;
+}
+.td-right {
+  border-right: 1px solid black;
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Interstate";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Interstate-RegularCondensed.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd-Italic.ttf);
+  }
