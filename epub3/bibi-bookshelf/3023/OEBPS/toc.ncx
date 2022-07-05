@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="awp2016-02-06T08:14:16Z" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dünyanın Doğum Günü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ursula K. Le Guin</text>
+      </navLabel>
+      <content src="Text/LeGuin.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/Kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/ickapak.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>LE GUIN KOLEKSİYONU</text>
+      </navLabel>
+      <content src="Text/koleksiyon.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/icindekiler.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>DÜNYANIN DOĞUM GÜNÜ</text>
+      </navLabel>
+      <content src="Text/ddgunu.html"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>KARHİDE’DA ERGEN OLMAK</text>
+        </navLabel>
+        <content src="Text/karhide_ergen.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>SEGGRİ MESELESİ</text>
+        </navLabel>
+        <content src="Text/seggri_meselesi.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>SEÇİLMEMİŞ AŞK</text>
+        </navLabel>
+        <content src="Text/secilmemis_ask.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>DAĞ USULÜ</text>
+        </navLabel>
+        <content src="Text/dag_usulu.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>YALNIZLIK</text>
+        </navLabel>
+        <content src="Text/yalnizlik.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KADİM EZGİ VE KÖLE KADINLAR</text>
+        </navLabel>
+        <content src="Text/k_ezgi_kole_k.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DÜNYANIN DOĞUM GÜNÜ</text>
+        </navLabel>
+        <content src="Text/dunyad_gunu.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KAYBOLAN CENNETLER</text>
+        </navLabel>
+        <content src="Text/k_cennetler.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

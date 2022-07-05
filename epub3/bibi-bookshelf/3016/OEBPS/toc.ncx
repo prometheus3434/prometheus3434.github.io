@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="urn:uuid:6bc88593-ed78-4a4c-9d67-5ee5d2254782" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.81.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dünya Dışı Uygarlıklar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>KAPAK</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>BÖLÜM BİR Yeryüzü</text>
+      </navLabel>
+      <content src="Text/bolum01.xhtml"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>RUHLAR</text>
+        </navLabel>
+        <content src="Text/bolum01.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>HAYVANLAR</text>
+        </navLabel>
+        <content src="Text/bolum01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>PRİMATLAR</text>
+        </navLabel>
+        <content src="Text/bolum01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>BEYİN</text>
+        </navLabel>
+        <content src="Text/bolum01.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>ATEŞ</text>
+        </navLabel>
+        <content src="Text/bolum01.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>UYGARLIK</text>
+        </navLabel>
+        <content src="Text/bolum01.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>BÖLÜM İKİ Ay</text>
+      </navLabel>
+      <content src="Text/bolum02.xhtml"/>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>EVRELERİ</text>
+        </navLabel>
+        <content src="Text/bolum02.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>BİR BAŞKA DÜNYA</text>
+        </navLabel>
+        <content src="Text/bolum02.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>SUSUZLUK</text>
+        </navLabel>
+        <content src="Text/bolum02.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>AY ŞAKASI</text>
+        </navLabel>
+        <content src="Text/bolum02.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>HAVASIZLIK</text>
+        </navLabel>
+        <content src="Text/bolum02.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>BÖLÜM ÜÇ İç Güneş Sistemi</text>
+      </navLabel>
+      <content src="Text/bolum03.xhtml"/>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>YAKIN DÜNYALAR</text>
+        </navLabel>
+        <content src="Text/bolum03.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>VENÜS</text>
+        </navLabel>
+        <content src="Text/bolum03.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>MARS’TAKİ KANALLAR</text>
+        </navLabel>
+        <content src="Text/bolum03.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>MARS UZAY ARAÇLARI</text>
+        </navLabel>
+        <content src="Text/bolum03.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>BÖLÜM DÖRT Dış Güneş Sistemi</text>
+      </navLabel>
+      <content src="Text/bolum04.xhtml"/>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>GEZEGENLER KİMYASI</text>
+        </navLabel>
+        <content src="Text/bolum04.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>TİTAN</text>
+        </navLabel>
+        <content src="Text/bolum04.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>JÜPİTER</text>
+        </navLabel>
+        <content src="Text/bolum04.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>BÖLÜM BEŞ Yıldızlar</text>
+      </navLabel>
+      <content src="Text/bolum05.xhtml"/>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>ALT YILDIZLAR</text>
+        </navLabel>
+        <content src="Text/bolum05.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>SAMANYOLU</text>
+        </navLabel>
+        <content src="Text/bolum05.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>GALAKSİ</text>
+        </navLabel>
+        <content src="Text/bolum05.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>DİĞER GALAKSİLER</text>
+        </navLabel>
+        <content src="Text/bolum05.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>BÖLÜM ALTI Gezegen Sistemleri</text>
+      </navLabel>
+      <content src="Text/bolum06.xhtml"/>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>NEBULA HİPOTEZİ</text>
+        </navLabel>
+        <content src="Text/bolum06.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>YILDIZ ÇARPIŞMALARI</text>
+        </navLabel>
+        <content src="Text/bolum06.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>YENİDEN NEBULA HİPOTEZİ</text>
+        </navLabel>
+        <content src="Text/bolum06.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>DÖNEN YILDIZLAR</text>
+        </navLabel>
+        <content src="Text/bolum06.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>SALINIM YAPAN YILDIZLAR</text>
+        </navLabel>
+        <content src="Text/bolum06.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>BÖLÜM YEDİ Güneşimsi Yıldızlar</text>
+      </navLabel>
+      <content src="Text/bolum07.xhtml"/>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>DEV YILDIZLAR</text>
+        </navLabel>
+        <content src="Text/bolum07.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>CÜCE YILDIZLAR</text>
+        </navLabel>
+        <content src="Text/bolum07.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>ORTA YER</text>
+        </navLabel>
+        <content src="Text/bolum07.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>BÖLÜM SEKİZ Yerimsi Gezegenler</text>
+      </navLabel>
+      <content src="Text/bolum08.xhtml"/>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>İKİZ YILDIZLAR</text>
+        </navLabel>
+        <content src="Text/bolum08.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>YILDIZ TOPLULUKLARI</text>
+        </navLabel>
+        <content src="Text/bolum08.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>EKOSFER</text>
+        </navLabel>
+        <content src="Text/bolum08.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>YAŞANABİLİRLİK</text>
+        </navLabel>
+        <content src="Text/bolum08.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>BÖLÜM DOKUZ Yaşam</text>
+      </navLabel>
+      <content src="Text/bolum09.xhtml"/>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>KENDİLİĞİNDEN ÜREME</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>YAŞAMIN KÖKENİ</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>YERYÜZÜNÜN İLK ZAMANLARI</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>GÖKTAŞLARI</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>TOZ BULUTLARI</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>YAŞAMIN BAŞLADIĞI ZAMAN</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>ÇOKHÜCRELİ YAŞAM</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>KARASAL YAŞAM</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>ZEKÂ</text>
+        </navLabel>
+        <content src="Text/bolum09.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>BÖLÜM ON Başka Yerdeki Uygarlıklar</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>DEV UYDUMUZ</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>UYDUMUZ SONRADAN MI YAKALANDI?</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>ZEKÂ</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>NESLİN TÜKENMESİ</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>İŞBİRLİĞİ</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>KEŞİF</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>ZİYARETLER</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>BÖLÜM ON BİR Uzayın Keşfi</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>YAKIN HEDEFLER</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>UZAY YERLEŞİM BÖLGELERİ</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>UZAY GEMİCİLERİ</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>BASAMAK TAŞI</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>BÖLÜM ON İKİ Yıldızlararası Uçuş</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>IŞIK HIZI</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>IŞIK HIZININ ÖTESİ</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>ZAMAN GENLEŞMESİ</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>İVMESİZ HAREKET</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>BAĞIMSIZ DÜNYALAR</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>BÖLÜM ON ÜÇ Mesajlar</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>GÖNDERİLEN MESAJLAR</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>ALINAN MESAJLAR</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>FOTONLAR</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="num_77" playOrder="77">
+        <navLabel>
+          <text>MİKRO DALGALAR</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>NEREDE?</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>NİÇİN?</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>DİPNOTLAR</text>
+      </navLabel>
+      <content src="Text/endnotes.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

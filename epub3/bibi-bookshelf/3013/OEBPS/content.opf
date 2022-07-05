@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dünya Bir İnkılap Bekliyor: Yolumuz Halimiz Çaremiz Ruh Muvazenesi Her Cephesiyle Komünizm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kısakürek, Necip Fazıl">Necip Fazıl Kısakürek</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:6e91fb3e-d423-4370-913d-e7dafb855244</dc:identifier>
+    <dc:date>2014-04-08T12:23:34+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>Pikare Yazılım ve İnternet Hizmetleri</dc:rights>
+    <dc:date opf:event="modification">2015-03-02</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Büyük Doğu Yayınları Basım Yayın Prodüksiyon Ltd. Şti.</dc:publisher>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>«Evet, İslâm, 16. Asır sonlarına doğru temsil kadrosunda zaafa uğramıştır. Ama daha sözünü söylemiş değil. Son sözünü temsil kadrosunda ve yeni telakkiler önünde henüz söylememiştir. Bu son sözü söyletecek nesli yoğurmaya çalışıyoruz.» N.F.K.Her konferans, bu çabanın eseri halinde, konu başlığının işaret ettiği meselelerde sosyal bir şuur zemini oluşturma teşebbüsüdür.</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">cd1f365e-2e46-4c88-a0a8-1a19382f9672</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:6e91fb3e-d423-4370-913d-e7dafb855244</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054955114</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">1teDAwAAQBAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="DunyaBirInkilapBekliyorKapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dünya Bir İnkılap Bekliyor: Yolumuz Halimiz Çaremiz Ruh Muvazenesi Her Cephesiyle Komünizm"/>
+    <meta name="calibre:series" content="Türkçe Kitaplar"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Necip Fazıl Kısakürek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor.xhtml" id="x026-DunyaBirInkilapBekliyor" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-1.xhtml" id="x026-DunyaBirInkilapBekliyor-1" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-2.xhtml" id="x026-DunyaBirInkilapBekliyor-2" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-3.xhtml" id="x026-DunyaBirInkilapBekliyor-3" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-4.xhtml" id="x026-DunyaBirInkilapBekliyor-4" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-5.xhtml" id="x026-DunyaBirInkilapBekliyor-5" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-6.xhtml" id="x026-DunyaBirInkilapBekliyor-6" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-7.xhtml" id="x026-DunyaBirInkilapBekliyor-7" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-8.xhtml" id="x026-DunyaBirInkilapBekliyor-8" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-9.xhtml" id="x026-DunyaBirInkilapBekliyor-9" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-10.xhtml" id="x026-DunyaBirInkilapBekliyor-10" media-type="application/xhtml+xml"/>
+    <item href="Text/026-DunyaBirInkilapBekliyor-11.xhtml" id="x026-DunyaBirInkilapBekliyor-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/026-DunyaBirInkilapBekliyor.css" id="x026-DunyaBirInkilapBekliyor.css" media-type="text/css"/>
+    <item href="Images/DunyaBirInkilapBekliyorKapak.jpg" id="DunyaBirInkilapBekliyorKapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-1"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-2"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-3"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-4"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-5"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-6"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-7"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-8"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-9"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-10"/>
+    <itemref idref="x026-DunyaBirInkilapBekliyor-11"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

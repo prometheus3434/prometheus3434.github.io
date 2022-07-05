@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Dünyaların Savaşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Wells, Herbert George">Herbert George Wells</dc:creator>
+    <dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <dc:date>2001-06-15T09:56:35+00:00</dc:date>
+    <dc:publisher>Ithaki Publishing</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Mars'tan gelen uzay gemileri, huzur içindeki İngiltere'ye gökyüzünü yararak inerler. Isı ışınıyla silahlandırılmış, saldırıya kilitlenmiş devasa ölüm makineleri bir yok etme harekâtına girişir. Marslıların istilası korkunçtur.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Ölüm makineleri Londra'ya doğru ilerlerken önlerine çıkan her şeyi... Metal tuzaklara hapsettikleri az sayıda insan hariç. Bu, insanlık için kopkoyu çaresizliğin hüküm sürdüğü bir dünya olacaktır. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Artık bu gezegeni, insanlık için etrafı çitlerle çevrili ve korunaklı bir yuva olarak görmeye devam edemeyeceğimizi öğrenmiş durumdayız. Uzaydan birdenbire üstümüze gelebilecek, bizim için şu anda görünmez olan iyilik ya da kötülükleri asla tahmin edemeyiz. Marslıların istilasının insanlığa sonsuz derecede yarar sağladığını da düşünebiliriz; bizi dekadansın en verimli kaynağı olan, geleceğe dair o sükünet içindeki güvenimizden kurtarmıştır ve insanlığın hep birlikte yaşaması gerektiği düşüncesine büyük bir destek sağlamıştır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;(Arka Kapak)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-10-31</dc:date>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b843fc55-895f-40d2-9e82-64605db299aa</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758607044</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">0lSnmJEs9FwC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2880000040194</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Dünyaların Savaşı" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Herbert George Wells&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0007.html" id="section-0007_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Images/CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+    <itemref idref="section-0007_html"/>
+    <itemref idref="section-0008_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

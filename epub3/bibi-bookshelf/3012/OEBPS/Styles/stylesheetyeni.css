@@ -1,0 +1,68 @@
+h1
+	{
+	margin-top: 2em;
+	margin-bottom: 8em;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+        font-family: Georgia
+	}
+
+h2
+	{
+	margin-top:1em;
+	margin-bottom:2em;
+	text-align:center;
+	font-size: 1.5em;
+	font-weight:bold;
+        font-family: Georgia
+	}
+
+h3
+	{
+	margin-top:1.5em;
+	margin-bottom:1em;
+	font-weight:bold;
+	text-align:center;
+	font-size:normal;
+	text-indent:1.5em;
+        font-family: Arial
+	}
+
+p
+	{
+	text-align:justify;
+	text-indent:1.3em;
+	margin-top:0.2em;
+	margin-bottom:0.2em;
+	font-size: 1em;
+        font-family: Arial
+	}
+.kunye
+        {
+        text-align: align left;
+        margin-top: 0em;
+        margin-left: 0em;
+        font-size: 0.05em;
+        }
+
+.baslik
+        {
+         text-align: center;
+         font-weight: bold;
+         font-size: 2em;
+         margin-top: 3em;
+         margin bottom: 3em;
+         font-family: Georgia
+        }
+.dipnot
+        {
+         text-align: justify
+         font-weight: normal
+         margin-top: 0em
+         margin-bottom: 0em
+         font-size: 0.5em
+         font-family: Georgia
+         
+          
+        

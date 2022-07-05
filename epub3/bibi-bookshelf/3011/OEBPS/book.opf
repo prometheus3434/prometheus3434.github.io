@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dünü ve bugünü ile, zihniyet ve din: İslâm, tasavvuf ve çözülme devri iktisat ahlâkı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ülgener, Sabri F.">Sabri F. Ülgener</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">6e110e15-3a14-4a7b-8b2b-229ee81794e6</dc:identifier>
+    <dc:date>2006-06-15T11:02:14+00:00</dc:date>
+    <dc:publisher>Derin Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Elimizdeki kitap "İktisadi Çözümlemenin Ahlak ve Zihniyet Dünyası"nın devamı ve bir ölçüde tamamlanışıdır. Birincisinde genel tablosu çizilmiş olan zihniyet dünyamızın bu ikincisi ile dini manevi kök kaynaklarına inmeye çalışılmıştır. Kitap din sosyolojisi ve özellikle din ve zihniyet ilişkisi üzerinde Max Weber'in çığır açan görüşlerine toplu ve kritik bir bakışla yola çıkıyor. Kendi kültür çevremizde konunun sınırlarını çizerken, ağırlığın üst perdede monoton şer'î kurallardan sade ve samimi kıssaları ile tasavvufa kaydırıldığı gözden kaçmayacaktır. Sorular o açıdan bir hayli geniş ve yüklüdür: Her şeyden önce, dünkü ve bugünkü haliyle insanımızın çevre ve evrene bakış açısını şekillendirmede tasavvufa düşen pay nedir?&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Ekonomi</dc:subject>
+    <dc:subject>Kuram</dc:subject>
+    <dc:subject>Derleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6bd45512-195f-4111-8661-64fc5e473228</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756463659</dc:identifier>
+    <dc:identifier opf:scheme="UUID">6e110e15-3a14-4a7b-8b2b-229ee81794e6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756463659</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">PYhUPwAACAAJ</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="Dünü ve bugünü ile, zihniyet ve din: İslâm, tasavvuf ve çözülme devri iktisat ahlâkı"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sabri F. Ülgener&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="chapter.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="chapter6.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="chapter7.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="chapter8.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="chapter9.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="chapter10.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="book.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="images/image001.png" id="cover-image" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+  </spine>
+  <guide>
+    <reference href="chapter.xhtml" title="Cover" type="cover"/>
+    <reference href="chapter1.xhtml" title="Title page" type="title-page"/>
+    <reference href="chapter3.xhtml" title="Text" type="text"/>
+    <reference href="chapter2.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

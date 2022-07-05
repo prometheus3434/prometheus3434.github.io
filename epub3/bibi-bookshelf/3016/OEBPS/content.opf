@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Dünya dışı uygarlıklar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Asimov, Isaac">Isaac Asimov</dc:creator>
+    <dc:publisher>Cep Kitapları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;İnsanlığı her zaman harekete geçirmiş olan derin merakı ve evrende bizimkinden başka bir uygarlık bulunup bulunmadığı şeklinde sorulacak bir sorunun yanıtına hepimizin duyması gereken şiddetli ilgiyi bir yana bıraksak bile, bana öyle görünüyor ki, bu soruyu yanıtlandırmaktaki başarımız ne olursa olsun, sonuçta kârlı çıkacağız.&lt;/div&gt;&lt;div&gt;Öyleyse, hepimizin selameti açısından, gelin şu yararsız, sonu gelmez ve bizi intihara sürükleyen çekişmelerimizi terk edelim ve bizi bekleyen gerçek görevin arkasında birlik olalım; yeni bir bilgi düzeyine girmek, serpilmek, öğrenmek ve kurtulmak için.&lt;/div&gt;&lt;div&gt;Gelin bizi bekleyen evreni miras almak için çabalayalım; gerekiyorsa yalnız başımıza, yok eğer başkaları da varsa onlarla birlikte.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1983-06-15T12:51:31+00:00</dc:date>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:identifier id="BookId">urn:uuid:6bc88593-ed78-4a4c-9d67-5ee5d2254782</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">c8ce7219-eba4-404e-863c-10dca6fad82e</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">r4kgtAEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Dünya dışı uygarlıklar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Isaac Asimov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="asimovhakkinda.xhtml" href="Text/asimovhakkinda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="knye.xhtml" href="Text/knye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum04.xhtml" href="Text/bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum05.xhtml" href="Text/bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum06.xhtml" href="Text/bolum06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum07.xhtml" href="Text/bolum07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum08.xhtml" href="Text/bolum08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum09.xhtml" href="Text/bolum09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum10.xhtml" href="Text/bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum11.xhtml" href="Text/bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum12.xhtml" href="Text/bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum13.xhtml" href="Text/bolum13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="endnotes.xhtml" href="Text/endnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mandos.css" href="Styles/mandos.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="uH6w7hAXjGGifDmAd5CpwR5" href="Images/Isaac_Asimov_-_Dunya_Disi_Uygarliklar_Sayfa_096.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="asimovhakkinda.xhtml"/>
+    <itemref idref="knye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="bolum06.xhtml"/>
+    <itemref idref="bolum07.xhtml"/>
+    <itemref idref="bolum08.xhtml"/>
+    <itemref idref="bolum09.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="bolum13.xhtml"/>
+    <itemref idref="endnotes.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ncx version="2005-1" xml:lang="tr" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="6e110e15-3a14-4a7b-8b2b-229ee81794e6" name="dtb:uid" />
+    <meta content="1" name="dtb:depth" />
+    <meta content="0" name="dtb:totalPageCount" />
+    <meta content="0" name="dtb:maxPageNumber" />
+  </head>
+  <docTitle>
+    <text>Zihniyet ve Din</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="text1" playOrder="1">
+      <navLabel>
+        <text>BİR KAÇ SÖZ</text>
+      </navLabel>
+      <content src="chapter3.xhtml" />
+    </navPoint>
+    <navPoint id="text2" playOrder="2">
+      <navLabel>
+        <text> BAŞLARKEN</text>
+      </navLabel>
+      <content src="chapter4.xhtml" />
+    </navPoint>
+    <navPoint id="text3" playOrder="3">
+      <navLabel>
+        <text>DİN VE İKTİSAT AHLÂKI</text>
+      </navLabel>
+      <content src="chapter5.xhtml" />
+    </navPoint>
+    <navPoint id="text4" playOrder="4">
+      <navLabel>
+        <text>Genel Çizgiler</text>
+      </navLabel>
+      <content src="chapter6.xhtml" />
+    </navPoint>
+    <navPoint id="text5" playOrder="5">
+      <navLabel>
+        <text>İslâm, Tasavvuf ve İktisat Ahlâkı</text>
+      </navLabel>
+      <content src="chapter7.xhtml" />
+    </navPoint>
+    <navPoint id="text6" playOrder="6">
+      <navLabel>
+        <text>SONUÇ</text>
+      </navLabel>
+      <content src="chapter9.xhtml" />
+    </navPoint>
+    <navPoint id="text7" playOrder="7">
+      <navLabel>
+        <text> BİR NOT ve BİR EK</text>
+      </navLabel>
+      <content src="chapter10.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

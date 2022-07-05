@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dünyaya Orman Denir</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="LeGuin, Ursula K.">Ursula K. LeGuin</dc:creator>
+    <dc:date>2014-03-06T22:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-DC2EC516-E341-429A-B4C9-985729321877</dc:identifier>
+    <dc:date opf:event="modification">2014-10-23</dc:date>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Ağaçlarla kardeş gibi yaşayan ve düşleri en az bizim gündelik yaşamımız kadar gerçek olan bir ırk, kendini "gerçekçi" Arz'lılara karşı nasıl savunabilir? "Yazmak çoğunlukla zor ama keyifli bir iştir benim için; bu öyküyü yazması kolaydı ama pek keyifli değildi. Bana hiç çenek bırakmadı. Ülserli bir patronun sekreterine mektuph yazdırması gibi yazdırdı kendini bana. Ben orman ve düş üzerine yazmak istiyordum; yani belirli bir ekolojiyi içeriden bir bakışla betimlemek, biraz da Hadfield'in ve Dement'in uyku düşlerinin işlevleri ve düşün yararları üzerine görüşleriyle oynamak istiyordum. Ama patron ekolojik dengenin tahrif edilmesinden ve eduygusal dengenin reddedilmesinden bahsetmek istiyordu. Ahlâk dersi veren öyküleri pek sevmek, çoğunlukla iyilik duygusundan yoksun olurlar.Umarım bu öyküöyle değildir. Medem bir kere ahlâk dersi vermek zorunda kaldım, şunu söyleyebilirim bir tek. Don Davidson olmak Raj Lyubov olmaktan daha da acı vericidir."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5e191159-b879-44ff-8215-f54d01c1e00b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753421201</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dünyaya Orman Denir"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ursula K. LeGuin&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+  </guide>
+</package>

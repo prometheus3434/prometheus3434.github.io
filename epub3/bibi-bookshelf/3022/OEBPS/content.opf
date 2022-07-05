@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dünyanın bütün sabahları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Quignard, Pascal &amp; Akten, Sevim">Pascal Quignard</dc:creator>
+    <dc:creator opf:role="aut">Sevim Akten</dc:creator>
+    <dc:description>&lt;p&gt;17. yüzyıl Fransa´sı. Karısını yitirdikten sonra çiftliğinde inzivaya çekilmiş olan besteci ve viyola da gamba sanatçısı Sainte-Colombe, iki güzel kızıyla birlikte yaşamaktadır. Sainte-Colombe, sanatta ün değil, şiiri arayan bir müzik dehasıdır. Bir bahar günü, Marin Marais adında utangaç ama muhteris bir genç adam çiftliğe gelir ve Sainte-Colombe´a öğrencisi olmak için yalvarır...
+
+Günümüz Fransız edebiyatının en önemli yazarlarından Pascal Quignard´ın en popüler kitabı Dünyanın Bütün Sabahları, 17. yüzyılda yaşamış besteci ve viyola da gamba sanatçısı Sainte-Colombe ile en ünlü öğrencisi Marin Marais´nin gerçek yaşamlarından yola çıkan bir roman. Kralın sunduğu olanaklara ve üne sırt çeviren usta ile ün, para ve kolay yaşam peşinde koşan öğrencisinin öyküsü. Sanatın özüne ışık tutan müzik ve şiir dolu bir yapıt.
+&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{055A92E8-4E25-4BEF-A919-B9FE3872EFB7}</dc:identifier>
+    <dc:date>1993-06-15T10:11:22+00:00</dc:date>
+    <dc:publisher>Can</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Müzik</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cdc355eb-73d9-48af-854e-a86c120e1cf5</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">x4TIPgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755104515</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9755104518</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dünyanın bütün sabahları"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Pascal Quignard&quot;: &quot;&quot;, &quot;Sevim Akten&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id2" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id1" media-type="text/css"/>
+    <item href="Images/dbs.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id2">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

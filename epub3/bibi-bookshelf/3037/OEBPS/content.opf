@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Düzenbaz Prens Veya Kral'ın Kardeşi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Martin, George R. R.">George R. R. Martin</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e3e455d2-1bc2-4ebe-b896-30897fd18d38</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;"Düzenbaz Prens", Buz ve Ateşin Şarkısı serisinin ilk kitabı olan Taht Oyunları'ndan yaklaşık olarak 200 yıl öncesinde geçen ve Ejderhaların Dansı olarak bilinen Targaryen iç savaşının sebeplerini kısa, kısa olmasına rağmen açıkça ve keskin bir dille anlatan, ''Prenses ve Kraliçe'' hikayesinin karanlık yerlerine ışık tutan bir hikaye!
+
+Buz ve Ateş'in evreninde Westeros'un çalkantılı topraklarında geçen bu hikaye bizi; bütün dünyayı savaşa sürükleyebilecek bir hırsı olmasına rağmen tahta çıkmayı başaramayan, bir kralın torunu, başka bir kralın kardeşi, bir kraliçenin kocası, iki kralın babası, üç kralın dedesi, maceraperest ve gösterişli ''Düzenbaz Prens'', Daemon Targaryen'in hikayesine götürecek.
+
+''Prenses ve Kraliçe''den sonra George R. R. Martin'den yine epik bir şaheser.
+
+Eski Şehir, Hisar’dan Aliüstat Gyldayn tarafından yazıya geçirilen bu kaynak, Prens Daemon Targaryen’in gençlik yıllarının, maceralarının, suçlarının ve evliliklerinin hususlarını anlatır.
+
+İşte burada GEORGE R. R. MARTIN tarafından (tekrar) kayda alınmıştır.&lt;/p&gt;</dc:description>
+    <dc:publisher>GameofThronesTR</dc:publisher>
+    <dc:date>2014-06-03T21:00:00+00:00</dc:date>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b567de70-2ca5-4556-b1cc-35a122771de6</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:e3e455d2-1bc2-4ebe-b896-30897fd18d38</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;George R. R. Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-02-15T01:38:49.597000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Düzenbaz Prens Veya Kral'ın Kardeşi" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/duzenbaz_prens_000.xhtml" id="duzenbaz_prens_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/duzenbaz_prens_001.html" id="duzenbaz_prens_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/duzenbaz_prens_002.html" id="duzenbaz_prens_002.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/Aldine-401-BT.ttf" id="Aldine-401-BT.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Aldine-401-Italic-BT.ttf" id="Aldine-401-Italic-BT.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/TrajanPro-Bold.otf" id="TrajanPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/TrajanPro-Regular.ttf" id="TrajanPro-Regular.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="duzenbaz_prens_000.xhtml"/>
+    <itemref idref="duzenbaz_prens_001.html"/>
+    <itemref idref="duzenbaz_prens_002.html"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/duzenbaz_prens_000.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

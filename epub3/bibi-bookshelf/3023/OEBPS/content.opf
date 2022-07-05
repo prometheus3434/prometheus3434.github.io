@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dünyanın Doğum Günü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le">Ursula K. Le Guin</dc:creator>
+    <dc:identifier id="BookId">awp2016-02-06T08:14:16Z</dc:identifier>
+    <dc:date>2009-02-08T22:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;"Önce farklılığı kurmak –yabancılığı oturtmak– sonra da ateşli bir insani duygu kıvılcımının sıçrayıp bu farkı kapatmasını sağlamak: Hayal gücünün bu akrobasisi beni her şeyden çok büyüleyip tatmin ediyor."
+Ursula K. Le Guin, romanlarından bildiğimiz dünyalarda yeni yolculuklara çıkarıyor bizi. Ağırlıklı olarak cinsiyet meselelerinin, aşkın, cinselliğin, yabancılaşmanın işlendiği bu hikâyelerde Ekumen'e ait dünyalara, Gethen, Karhide, Seggri, O ve Werel gezegenlerine dönüyoruz. Son ve neredeyse bir roman kadar uzun "Kaybolan Cennetler" adlı hikâyesinde ise Le Guin, yeni bir gezegene ulaşmak için nesiller boyu süren bir yolculuğu anlatıyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Logolu</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">38e0a2e7-0218-4e6e-8354-a3cad2fb995f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753425377</dc:identifier>
+    <meta content="0.9.2" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Dünyanın Doğum Günü"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/LeGuin.html" id="LeGuin.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.html" id="Kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/koleksiyon.html" id="koleksiyon.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.html" id="onsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ddgunu.html" id="ddgunu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/karhide_ergen.html" id="karhide_ergen.html" media-type="application/xhtml+xml"/>
+    <item href="Text/seggri_meselesi.html" id="seggri_meselesi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/secilmemis_ask.html" id="secilmemis_ask.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dag_usulu.html" id="dag_usulu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yalnizlik.html" id="yalnizlik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k_ezgi_kole_k.html" id="k_ezgi_kole_k.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dunyad_gunu.html" id="dunyad_gunu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k_cennetler.html" id="k_cennetler.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/igormrdn.css" id="igormrdn.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Fonts/calibri.ttf" id="idfont5" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/pala.ttf" id="idfont2" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/palab.ttf" id="idfont1" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/palabi.ttf" id="idfont4" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/palai.ttf" id="idfont3" media-type="application/vnd-ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="LeGuin.html"/>
+    <itemref idref="Kunye.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="koleksiyon.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="ddgunu.html"/>
+    <itemref idref="karhide_ergen.html"/>
+    <itemref idref="seggri_meselesi.html"/>
+    <itemref idref="secilmemis_ask.html"/>
+    <itemref idref="dag_usulu.html"/>
+    <itemref idref="yalnizlik.html"/>
+    <itemref idref="k_ezgi_kole_k.html"/>
+    <itemref idref="dunyad_gunu.html"/>
+    <itemref idref="k_cennetler.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>
