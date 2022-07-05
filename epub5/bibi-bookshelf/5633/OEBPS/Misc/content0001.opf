@@ -1,0 +1,47 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">YeniBelge 2019-04-20 22.42.32</dc:title>
+    <dc:creator id="id-1">Android_CS5.9.5</dc:creator>
+    <dc:identifier>calibre:1016</dc:identifier>
+    <dc:identifier>uuid:6c180077-a8e2-4d6b-aa0b-93bcc2f4b55c</dc:identifier>
+    <dc:identifier id="uuid">Id_E837C538-9B4C-4022-8113-97791C56A05C_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:description>YeniBelge 2019-04-20 22.42.32</dc:description>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">YeniBelge 2019-04-20 22.42.32</opf:meta>
+    <meta property="dcterms:modified">2019-04-20T23:00:49Z</meta>
+    <meta name="Sigil version" content="0.9.13"/>
+    <opf:meta property="role" refines="#id-1" scheme="marc:relators">aut</opf:meta>
+    <opf:meta property="file-as" refines="#id-1">Android_CS5.9.5</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Android_CS5.9.5": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item id="nav" href="Text/navigation.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="id0" href="Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-1.xhtml" href="Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id16" href="Styles/main.css" media-type="text/css"/>
+    <item id="id9" href="Images/main-1.jpg" media-type="image/jpeg"/>
+    <item id="id10" href="Images/main-2.jpg" media-type="image/jpeg"/>
+    <item id="id11" href="Images/main-3.jpg" media-type="image/jpeg"/>
+    <item id="id12" href="Images/main-4.jpg" media-type="image/jpeg"/>
+    <item id="id13" href="Images/main-5.jpg" media-type="image/jpeg"/>
+    <item id="id4" href="Fonts/ArialMTh4_jb.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id8" href="Fonts/Calibriyqm%2Bc.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id6" href="Fonts/Cambriavskxp.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id7" href="Fonts/SegoeUIyqm%2Bc.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id5" href="Fonts/Tahomavskxp.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id2" href="Fonts/TimesNewRomanPS-BoldMT_Bold6-a75.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id3" href="Fonts/TimesNewRomanPS-ItalicMT_Italic6-a75.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id1" href="Fonts/TimesNewRomanPSMTas-5e.ttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+</package>

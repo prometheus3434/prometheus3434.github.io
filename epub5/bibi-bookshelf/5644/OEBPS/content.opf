@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Zamanımızın bir kahramanı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lermontov">Lermontov</dc:creator>
+    <dc:date>2014-06-15T11:23:35+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">22420f6a-c14c-4040-bbd1-65e9df5437ee</dc:identifier>
+    <dc:date opf:event="modification">2014-10-29</dc:date>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:description>&lt;p&gt;Peçorin, harcanmış yetenekleri ve kötümserliğiyle, iyi ya da kötü, can sıkıntısını yok etmek için her şeyle yüzleşmeye hazır bir 19. yüzyıl kahramanı, Byronvari bir karekter. Akıcı bir anlatım ve çarpıcı bir kurguyla Lermontov bize Peçorinin eşkıyalar, kaçakçılar, askerler, isyancılar ve aşıklarla dolu bir dünyada başından geçen serüvenleri anlatır.Döneminin toplumsal sancılarını tek bir karakter üzerinden yansıtan Zamanımızın Bir Kahramanı, 1830'ların Kafkasya'sında geçer. Rusya'da psikolojik romanın ilk örneği olan Zamanımızın Bir Kahramanı, Tolstoy, Dostoyevski, Çehov ve daha başka 19. yüzyıl ustaları üzerinde derin etkiler bırakmıştır. 20. yüzyıl romanındaki antikahramanın belirişi de bu romanda gizlidir.&lt;/p&gt;</dc:description>
+    <dc:subject>Rus Edebiyatı</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">669c2a8b-02e0-49a8-9059-164857f0beff</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750514364</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9757384321</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">qOqfDAEACAAJ</dc:identifier>
+    <meta content="Zamanımızın bir kahramanı" name="calibre:title_sort"/>
+    <meta content="2011-03-11T22:38:10.000003+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <opf:meta content="{}" name="calibre:user_categories"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Lermontov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.xhtml" id="index_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Yerdeniz öyküleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le &amp; İpek, Çiğdem Erkal">Ursula K. Le Guin</dc:creator>
+    <dc:creator opf:role="aut">Çiğdem Erkal İpek</dc:creator>
+    <dc:publisher>Metis Yayincilik</dc:publisher>
+    <dc:date>2021-06-15T10:36:17+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;font face="Segoe UI, sans-serif"&gt;Ursula Le Guin' in kılavuzluğunda, Yerdeniz Takımadaları'nda yeni bir geziye çıkıyoruz. Yerdeniz dizisinin son kitabı olan Tehanu'dan on iki yıl sonra yayımlanan bu beş öykü, takımadaların dört bir yanında dolaştırıyor bizi; Roke'taki Büyücülük Okulu'nun kurulmasından başlayıp, Ged'in gidişinden sonra Okul'da gerçekleşen değişimlere kadar geniş bir zaman yelpazesinde, Yerdeniz' in erkekleri, kadınları ve ejderhalarına dair, isimlere ve büyülere dair yepyeni masallar okuyoruz bu kitapta...&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="Segoe UI, sans-serif"&gt;(Arka Kapak)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">5fb4ba71-7852-4b27-b478-46b7beef2ee9</dc:identifier>
+    <dc:date opf:event="modification">2017-09-19</dc:date>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">66be762b-8d80-4b26-9767-1981d06074a9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753423274</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">XoHTAAAACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2017-09-16T21:38:11.896000+00:00"/>
+    <meta name="calibre:series" content="Yerdeniz Serisi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="cover" content="id29"/>
+    <meta name="calibre:title_sort" content="Yerdeniz öyküleri"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="Sigil version" content="0.9.8"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;, &quot;Çiğdem Erkal İpek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ic-kapak.html" href="Text/ic-kapak.html" media-type="application/xhtml+xml"/>
+    <item id="yazar-hakkinda.html" href="Text/yazar-hakkinda.html" media-type="application/xhtml+xml"/>
+    <item id="kitaplar.html" href="Text/kitaplar.html" media-type="application/xhtml+xml"/>
+    <item id="yayievinden.html" href="Text/yayievinden.html" media-type="application/xhtml+xml"/>
+    <item id="yayinevi-2.html" href="Text/yayinevi-2.html" media-type="application/xhtml+xml"/>
+    <item id="icindekiler.html" href="Text/icindekiler.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-01.html" href="Text/bolum-01.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-01-I.html" href="Text/bolum-01-I.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-01-II.html" href="Text/bolum-01-II.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-01-III.html" href="Text/bolum-01-III.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-01-IV.html" href="Text/bolum-01-IV.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-02.html" href="Text/bolum-02.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-03.html" href="Text/bolum-03.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-04.html" href="Text/bolum-04.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-05.html" href="Text/bolum-05.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-05-I.html" href="Text/bolum-05-I.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-05-II.html" href="Text/bolum-05-II.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-05-III.html" href="Text/bolum-05-III.html" media-type="application/xhtml+xml"/>
+    <item id="bolum-05-IV.html" href="Text/bolum-05-IV.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="id29" href="Images/00027.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="metis.jpg" href="Images/metis.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ic-kapak.html"/>
+    <itemref idref="yazar-hakkinda.html"/>
+    <itemref idref="kitaplar.html"/>
+    <itemref idref="yayievinden.html"/>
+    <itemref idref="yayinevi-2.html"/>
+    <itemref idref="icindekiler.html"/>
+    <itemref idref="bolum-01.html"/>
+    <itemref idref="bolum-01-I.html"/>
+    <itemref idref="bolum-01-II.html"/>
+    <itemref idref="bolum-01-III.html"/>
+    <itemref idref="bolum-01-IV.html"/>
+    <itemref idref="bolum-02.html"/>
+    <itemref idref="bolum-03.html"/>
+    <itemref idref="bolum-04.html"/>
+    <itemref idref="bolum-05.html"/>
+    <itemref idref="bolum-05-I.html"/>
+    <itemref idref="bolum-05-II.html"/>
+    <itemref idref="bolum-05-III.html"/>
+    <itemref idref="bolum-05-IV.html"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

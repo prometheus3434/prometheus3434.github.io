@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Zoya</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Steel, Danielle">Danielle Steel</dc:creator>
+    <dc:publisher>Debolsillo</dc:publisher>
+    <dc:date>2003-06-15T12:04:54+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bf857970-f3ba-42bd-b171-1346ee6c4417</dc:identifier>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Romance</dc:subject>
+    <dc:subject>Contemporary</dc:subject>
+    <dc:subject>Literary Collections</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Tras la devastación de la Revolución rusa y la Primera Guerra Mundial, Zoya, la joven prima del zar, vuela de San Petersburgo a París en busca de refugio. Su mundo ha cambiado para siempre, y tras pasar por terribles momentos, logra unirse al ballet ruso en París, con cuyo salario mantiene a su indómita abuela y a sí misma. El amor aparece de nuevo cuando conoce al capitán Clayton Andrews, quien, cautivado por la joven aristócrata, se la lleva a Manhattan como su prometida. Sin embargo, ninguno de los dos imagina las penurias que deberán soportar durante los años de depresión que asolan Norteamérica. A través de la historia de un siglo convulsionado y cambiante, Zoya representa una de esas mujeres singulares cuyo legado quedará por siempre entre nosotros.</dc:description>
+    <dc:language>es</dc:language>
+    <dc:identifier opf:scheme="calibre">a5020105-dcb7-4a79-bcab-bce672690f77</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9788497599764</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">de1431b2-be62-4e73-bf1f-7c85655b4b1a</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">sCSWPwAACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Zoya"/>
+    <meta name="calibre:timestamp" content="2014-02-12T17:09:18.443000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Danielle Steel&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Zoya_split_000.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Zoya_split_001.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Zoya_split_002.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Zoya_split_003.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

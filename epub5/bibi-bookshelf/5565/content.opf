@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Yes Yerine Orrayt Demek Caiz Midir Hocam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Uca, Metin">Metin Uca</dc:creator>
+    <dc:publisher>Epsilon Yayinevi</dc:publisher>
+    <dc:date>2006-02-15T11:59:50+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b73ce8f4-724c-483f-9075-f0ca02a347ed</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">493591ae-1512-4577-b5a4-7e3937801bb1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753318471</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">qJF4AAAACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Yes Yerine Orrayt Demek Caiz Midir Hocam"/>
+    <meta name="calibre:timestamp" content="2014-02-06T01:19:05.627000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Metin Uca&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

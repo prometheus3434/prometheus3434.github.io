@@ -1,0 +1,44 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">haluk tatar 82-101</dc:title>
+    <dc:creator id="id-1">Bilinmeyen yazar</dc:creator>
+    <dc:identifier>calibre:1013</dc:identifier>
+    <dc:identifier>uuid:31e4d236-e63a-48a3-a9b5-bdd272dd30dc</dc:identifier>
+    <dc:identifier id="uuid">Id_53C6C6B2-87F6-4150-887D-BFAA9979E0A8_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">haluk tatar 82-101</opf:meta>
+    <meta property="dcterms:modified">2019-04-20T21:09:33Z</meta>
+    <opf:meta property="role" refines="#id-1" scheme="marc:relators">aut</opf:meta>
+    <opf:meta property="file-as" refines="#id-1">yazar, Bilinmeyen</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Bilinmeyen yazar": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="main.css" id="id13" media-type="text/css"/>
+    <item href="ArialMTb=9ih.ttf" id="id5" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPS-BoldItalicMT_Bold_Italicb=9ih.ttf" id="id4" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPS-BoldMT_Bold8mjay.ttf" id="id3" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPS-ItalicMT_Italicgczhx.ttf" id="id1" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPSMT8mjay.ttf" id="id2" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+  </spine>
+</package>

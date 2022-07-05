@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720413" name="dtb:uid"/>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Babalar ve Oğullar</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Sunuş</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Dokuz Mektuplu Roman</text>
+         </navLabel>
+         <content src="Text/chapter1-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Bay Proharçin</text>
+         </navLabel>
+         <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Polzunkov</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Ev Sahibesi</text>
+         </navLabel>
+         <content src="Text/chapter4-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Yufka Yürek</text>
+         </navLabel>
+         <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Başkasının Karısı ve Yatağın Altındaki Koca (Sıradışı Bir Olay)</text>
+         </navLabel>
+         <content src="Text/chapter6-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Dürüst Hırsız (Bilinmeyen Birinin Notlarından)</text>
+         </navLabel>
+         <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>Çam Ağacı ve Düğün (Bilinmeyen Birinin Notlarından)</text>
+         </navLabel>
+         <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

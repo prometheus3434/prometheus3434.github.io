@@ -1,0 +1,170 @@
+
+
+/*
+ *chapter
+ */
+
+p {
+	font: normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 1.5em;
+}
+
+h1 {
+	font: normal normal 1em/1.3em "Berling";
+	text-align: center;
+	margin-top: 2em;
+}
+
+.preface {
+	font-size: .9em;
+}
+.subtitle {
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+.chapter-title {
+	font-size: 1.125em;
+	margin-top: 3em;
+}
+.subtitle-2 {
+	margin-top: 1em;
+	margin-bottom: 2em;
+	font-size: .75em;
+}
+.subtitle-bottom {
+	margin-top: 1em;
+}
+.chapter-num {
+	padding-top: 3em;
+}
+
+.sign {
+	margin-top: 1em;
+	text-align: right;
+}
+.by {
+	margin: 1em 0;
+	text-align: right;
+}
+.margin {
+	margin-top: 1em;
+}
+.margin-note {
+	margin-top: 1em;
+	text-indent: 0;
+}
+
+blockquote, .letter {
+	margin: 1em 0 0 0;
+}
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+.si-footnote {
+	font-family: GillSans;
+	font-size: .8em;
+	margin-bottom: .25em;
+}
+
+.books .books {
+	font: normal normal .75em/1.3em "GillSans";
+	text-indent: 0;
+}
+.books ul {
+	padding-left: 0;
+}
+
+.books ul li {
+	font: normal normal .75em/1.5em "GillSans";
+	list-style-type: none;
+}
+
+
+
+.bold {
+	font: normal bold .7em "Mobil";
+}
+.kunye .margin, .press{
+  margin: .8em 0 0 ;
+}
+.isbn {
+	margin-top: 1.2em;
+}
+.kunye .publisher{
+	margin-top: 2em;
+}
+.kunye span{
+  font-family: "GillSans";
+  font-size:0.667em;
+  display: block;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: "Goudy";
+  font-size: 1.875em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: "Goudy";
+  font-size: 2.8em;
+  margin-top: .3em;
+}
+.work span {
+	font-size: .44em;
+	display: block;
+}
+.seri{
+  font-family: "GillSans";
+  font-size: 1em;
+  margin-top: 3.5em
+}
+.trans{
+  font-family: "GillSans";
+  font-size: .9em;
+  margin-top: 1.5em;
+  line-height: 1.5em
+}
+.trans span{
+  font-size: 1.2em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  width: 60px; 
+}
+img{
+  width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 450px;
+}
+.biography p{
+  font-family: "GillSans";
+  font-size: .75em;
+  text-indent: 0;
+}
+.biography .translator {
+  margin-top: 2em;
+}

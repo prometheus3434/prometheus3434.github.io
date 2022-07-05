@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Zapatista Hikâyeleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Marcos, Subcomandante">Subcomandante Marcos</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">810366fc-3d2f-4cd0-82ac-a19dc414a890</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;Kendini kötülüklerle savaşıp, muhtaçlara yardım etmeye adamış ve her türlü erdemle donanmış, fakat gerçekte basit bir böcek olan Lacandona'lı Don Durito... Daha özgür bir dünya arayışıyla bir hikayeden öbürüne doludizgin koşan firari bir at, kendini güçlü bir beygir sanan bir kaplumbağa, Meksika dağlarında yaşayan yerlileri temsil ederken Marcos'a akıl hocalığı yapan Yaşlı Antonio... Çok kalabalık ve fakir olduklarından, güçleri bir koruyucu meleğe sahip olmaya yetmeyen, bu yüzden küçük bir şeytanın korumasıyla yetinmik zorunda kalan Zapatista çocukları... &lt;/div&gt;&lt;div&gt;Bu kitaptaki öyküler, 1984'ten beri Meksika hükümetine karşı mücadele yürüten Zapatistaların yüzü, adı ve geçmişi bilinmeyen önderlerinden Subcomandante Marcos'un usta kaleminden çıkmış, küresel saldırıya küresel direnişe cevap vermek gerektiğine inananlar için masalsı bir canlan(dır)ma kılavuzudur...&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Agora</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f77ad583-dcba-438f-b445-bb70ca4398e2</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-04-08T08:49:45.246000+00:00"/>
+    <meta name="calibre:title_sort" content="Zapatista Hikâyeleri"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Subcomandante Marcos&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

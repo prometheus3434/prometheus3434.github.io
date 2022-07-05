@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yüksek şatodaki adam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dick, Philip K. &amp; Körpe, Dost">Philip K. Dick</dc:creator>
+    <dc:creator opf:role="aut">Dost Körpe</dc:creator>
+    <dc:date>1999-06-15T10:44:12+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8656338b-4f1d-49ee-8fab-546e063f717a</dc:identifier>
+    <dc:date opf:event="modification">2013-04-06</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Eğer... İkinci Dünya Savaşını Almanlar ve Japonlar kazansaydı...Ve eğer Almanlar ve Japonlar, biri batıdan diğeri doğudan ABD'yi işgal etselerdi. Ortaya çıkan, Nazi vahşetinin ve muhafazakar Japon İmparatorluğu şiddetinin hüküm sürdüğü bir kabus mu olurdu, yoksa bugünküne çok benzeyen, içinde yaşayan, seven, para kazanmaya çalışan, acı çeken insanların yaşadığı bir dünya mı? Dick bize böyle bir dünyayı "işgalci"bir Japonun gözünden anlatıyor...&lt;/p&gt;</dc:description>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Distopya</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5e5f37f4-be04-4bd9-8b59-f5702e18ae1c</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">uunYAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753422420</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753422420</dc:identifier>
+    <meta content="2012-08-11T17:43:42+00:00" name="calibre:timestamp"/>
+    <meta content="Yüksek şatodaki adam" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:series" content="Bilimkurgu Dizisi"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Philip K. Dick&quot;: &quot;&quot;, &quot;Dost Körpe&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

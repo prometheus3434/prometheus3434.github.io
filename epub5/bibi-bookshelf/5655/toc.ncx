@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="2fb27fdf-65e1-49a0-b03b-f1e9c60790d9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Zehra nın Defteri (Bütün Öyküleri 2)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{3D69405E-FECF-4AE6-8C87-42D2129B2845}" playOrder="1">
+      <navLabel>
+        <text>[HAN]</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7F5B686C-C46F-47A8-86B9-1CC0B1078150}" playOrder="2">
+      <navLabel>
+        <text>AYNI ERKEGI SEVEN DÖRT KIZ KARDEŞ</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{CA50AC0A-8C23-4B08-B932-8F85BEE0146E}" playOrder="3">
+      <navLabel>
+        <text>GÜLEN AZAP HANI*</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

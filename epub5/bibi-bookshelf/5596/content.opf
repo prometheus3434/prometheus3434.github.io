@@ -1,0 +1,74 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Yolların sonu</dc:title>
+    <dc:creator id="id-2">Nihal Atsız</dc:creator>
+    <dc:identifier>google:4W6YPwAACAAJ</dc:identifier>
+    <dc:identifier>calibre:4413</dc:identifier>
+    <dc:identifier>uuid:295c7a83-0c42-49f5-bb5c-8d0a0b80ac93</dc:identifier>
+    <dc:identifier id="uuid">Id_144AC6D7-2149-4EFC-A846-4A31654C0F35_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1975-06-15T12:15:28+00:00</dc:date>
+    <dc:publisher>Ötüken Yayınevi</dc:publisher>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Yolların sonu</opf:meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2020-07-10T21:36:19Z</meta>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Nihal Atsız</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Nihal Atsız": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main.css" id="id40" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+    <item href="main-1.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="main-10.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="main-11.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="main-12.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="main-13.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="main-14.jpg" id="id18" media-type="image/jpeg"/>
+    <item href="main-15.jpg" id="id19" media-type="image/jpeg"/>
+    <item href="main-16.jpg" id="id20" media-type="image/jpeg"/>
+    <item href="main-17.jpg" id="id21" media-type="image/jpeg"/>
+    <item href="main-18.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="main-19.jpg" id="id23" media-type="image/jpeg"/>
+    <item href="main-2.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="main-20.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="main-21.jpg" id="id25" media-type="image/jpeg"/>
+    <item href="main-22.jpg" id="id26" media-type="image/jpeg"/>
+    <item href="main-23.jpg" id="id27" media-type="image/jpeg"/>
+    <item href="main-24.jpg" id="id28" media-type="image/jpeg"/>
+    <item href="main-25.jpg" id="id29" media-type="image/jpeg"/>
+    <item href="main-26.jpg" id="id30" media-type="image/jpeg"/>
+    <item href="main-27.jpg" id="id31" media-type="image/jpeg"/>
+    <item href="main-28.jpg" id="id32" media-type="image/jpeg"/>
+    <item href="main-29.jpg" id="id33" media-type="image/jpeg"/>
+    <item href="main-3.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="main-30.jpg" id="id34" media-type="image/jpeg"/>
+    <item href="main-31.jpg" id="id35" media-type="image/jpeg"/>
+    <item href="main-32.jpg" id="id36" media-type="image/jpeg"/>
+    <item href="main-33.jpg" id="id37" media-type="image/jpeg"/>
+    <item href="main-34.jpg" id="id38" media-type="image/jpeg"/>
+    <item href="main-4.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="main-5.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="main-6.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="main-7.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="main-8.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="main-9.jpg" id="id13" media-type="image/jpeg"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+</package>

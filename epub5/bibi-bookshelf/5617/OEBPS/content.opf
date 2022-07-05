@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Yürümek. Evet: Anlatı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bernhard, Thomas">Thomas Bernhard</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4da1e581-5322-44e8-884f-691b3c4783d7</dc:identifier>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;Bir insanı umutsuz bir durumda gözlemliyoruz, durumun umutsuz olduğunu biliyoruz ve umutsuz durum kavramını da biliyoruz, ama bu insanın umutsuz durumuna karşı hiçbir şey yapmıyoruz, çünkü bu insanın umutsuz durumuna karşı bir şey yapamayız, çünkü biz kelimenin tam anlamıyla böyle bir insanın umutsuz durumu karşında aciziz, oysa böyle bir insanın ve onun umutsuz durumu karşısında aciz olmamak zorunda olduğumuzu kabul etmeliyiz, diyor Oehler. &lt;br&gt; (Yürümek)&lt;br&gt;&lt;br&gt;Thomas Bernhard'dan iki çetin anlatı birarada: &lt;br&gt;Yürümek (1971), Evet (1978).&lt;br&gt;&lt;br&gt;Thomas Bernhard, Yürümek'te, "yürüme" ve "düşünme" kavramlarının birlikteliğini yazınsal bir birliktelikle, düşünmenin ve yürümenin içiçe geçen ritmiyle kurgularken, anlatının bütününde tekrarın sınırları zorlayan vurgusunu kullanarak, tekdüzeliğe sıkışmış, olağanüstülüğü ve dehayı boğan yaşam karşısındaki çaresizliği, bir insanın delirmesinin bütün kişisel temeline karşın kaçınılmaz bir sona işaret edişiyle kesiştiriyor.&lt;br&gt;&lt;br&gt;Evet anlatısında hem yazar hem okur yine "felaket"le yüzleşirken, ben-anlatıcının süreklilik halini alan bunalımdan kurtulma uğraşı bir insanın kendini feda etme hikâyesi ile kesişiyor. Varoluşun ele geçirilmesi girişiminin, yürümek-düşünmek, felsefe-müzik birliktelikleri ile akıl hastalığına dayanma sınırına varmaktan kurtulamadığı, rastlantıdan öte felaket bir dünyanın felaket doğurduğu gerçeği buz gibi yüzümüze vuruluyor!&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2009-06-15T11:43:19+00:00</dc:date>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0dd8b536-7785-42e6-b105-5bf44b733993</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">-NXPzgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750816109</dc:identifier>
+    <meta content="Yürümek. Evet: Anlatı" name="calibre:title_sort"/>
+    <meta content="2015-05-15T07:12:27.773000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Thomas Bernhard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/y_01.htm" id="y_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/y_03.htm" id="y_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/y_04.htm" id="y_04.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="y_01.htm"/>
+    <itemref idref="y_03.htm"/>
+    <itemref idref="y_04.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

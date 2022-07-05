@@ -1,0 +1,56 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">kitap</dc:title>
+    <dc:creator id="id-1">CamScanner</dc:creator>
+    <dc:identifier>calibre:1014</dc:identifier>
+    <dc:identifier>uuid:09e7226c-efee-40c5-b096-9775812e1626</dc:identifier>
+    <dc:identifier id="uuid">Id_1786AE11-68E4-488A-89B7-21542B850F37_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:description>kitap</dc:description>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">kitap</opf:meta>
+    <meta property="dcterms:modified">2019-04-20T20:40:56Z</meta>
+    <opf:meta property="role" refines="#id-1" scheme="marc:relators">aut</opf:meta>
+    <opf:meta property="file-as" refines="#id-1">CamScanner</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"CamScanner": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="main-8.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="main-9.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="main.css" id="id22" media-type="text/css"/>
+    <item href="main-1.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="main-2.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="main-3.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="main-4.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="main-5.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Arial-ItalicMT_Italicl1n=g.ttf" id="id7" media-type="application/vnd.ms-opentype"/>
+    <item href="ArialMTpl8s8.ttf" id="id5" media-type="application/vnd.ms-opentype"/>
+    <item href="Cambria-Italic_Italic4nc9_.ttf" id="id6" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPS-BoldItalicMT_Bold_Italic925sn.ttf" id="id4" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPS-BoldMT_Boldjjcnb.ttf" id="id3" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPS-ItalicMT_Italicx_a17.ttf" id="id1" media-type="application/vnd.ms-opentype"/>
+    <item href="TimesNewRomanPSMTjjcnb.ttf" id="id2" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+  </spine>
+</package>

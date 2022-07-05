@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="6c642825-807d-482a-bf43-103d10d8bae8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.10)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>YUZUNDE BIR YER</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="bd33a9ca-7aab-48c1-b5d7-eebb1b122971" playOrder="1">
+      <navLabel>
+        <text>tüh</text>
+      </navLabel>
+      <content src="yuzunde_split_002.html"/>
+    </navPoint>
+    <navPoint id="59618d65-6d19-4155-9ef7-9746ea999ad8" playOrder="2">
+      <navLabel>
+        <text>ah</text>
+      </navLabel>
+      <content src="yuzunde_split_024.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

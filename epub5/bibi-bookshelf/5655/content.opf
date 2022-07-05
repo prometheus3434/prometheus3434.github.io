@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Zehra'nın defteri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tahir, Kemal">Kemal Tahir</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;Selahaddin Hilav'ın belirlemesiyle 'bizim Joyce'umuz, Türk Edebiyatı'nın büyük ismi Kemal Tahir'in yıllardır arşivlerde bekleyen 'yayımlanmamış öyküleri' titiz ve özenli bir çalışmayla nihayet kitaplaştı.&lt;/div&gt;&lt;div&gt;Kemal Tahir'in en uzun öykülerinden biri sayılabilecek Zehra'nın Öyküsü'nden adını alan ikinci ciltte ağırlıklı olarak aşk öyküleri yer almakta. &lt;/div&gt;&lt;div&gt;Kemal Tahir'in üzerinde çalıştığı ancak tamamlayamadığı öyküler de 'Yarım Öyküler' başlığı ile bu kitaba dahil edilmiştir.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2005-06-15T12:03:20+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2fb27fdf-65e1-49a0-b03b-f1e9c60790d9</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Ithaki Publishing</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">69199ebc-2770-41e9-acab-a31feaec4de4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752731943</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">6tDs9G-a7qwC</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Zehra'nın defteri"/>
+    <meta name="calibre:timestamp" content="2015-11-11T16:09:10.637000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

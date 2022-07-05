@@ -1,0 +1,86 @@
+img {
+  max-width: 100%;
+}
+.font1 {
+  font-size: medium;
+  font-family: "Calibri", sans-serif;
+}
+.font2 {
+  font-size: xx-large;
+  font-family: "Cambria", serif;
+}
+.font3 {
+  font-size: medium;
+  font-family: "Segoe UI", sans-serif;
+}
+.font5 {
+  font-size: medium;
+  font-family: "Times New Roman", serif;
+}
+.font6 {
+  font-size: large;
+  font-family: "Times New Roman", serif;
+}
+.font7 {
+  font-size: medium;
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+}
+.font8 {
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+}
+.font9 {
+  font-size: medium;
+  font-style: italic;
+  font-family: "Times New Roman", serif;
+}
+@font-face {
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  src: url(../Fonts/TimesNewRomanPSMTas-5e.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  src: url(../Fonts/TimesNewRomanPS-BoldMT_Bold6-a75.ttf);
+}
+@font-face {
+  font-style: italic;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  src: url(../Fonts/TimesNewRomanPS-ItalicMT_Italic6-a75.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: normal;
+  src: url(../Fonts/ArialMTh4_jb.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Tahoma";
+  font-weight: normal;
+  src: url(../Fonts/Tahomavskxp.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Cambria";
+  font-weight: normal;
+  src: url(../Fonts/Cambriavskxp.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Segoe UI";
+  font-weight: normal;
+  src: url(../Fonts/SegoeUIyqm%2Bc.ttf);
+}
+@font-face {
+  font-style: normal;
+  font-family: "Calibri";
+  font-weight: normal;
+  src: url(../Fonts/Calibriyqm%2Bc.ttf);
+}

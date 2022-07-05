@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:1b8e18e0-8e73-49ef-8df1-27193ec5dec0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yolları Çatallanan Bahçe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Telif Sayfası</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yolları Çatallanan Bahçe</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>ZÂHİR</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>GİZLİ MUCİZE</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>KILICIN İZİ</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>YOLLARI ÇATALLANAN BAHÇE</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>ÖLÜMSÜZLER</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>DÜELLO</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ARAYA GİREN</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>RASTLAŞMA</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>LABİRENTİNDE ÖLEN KRAL İBNİ HAKAN EL-BUHÂRİ</text>
+        </navLabel>
+        <content src="Text/09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>İKİ KRAL VE İKİ LABİRENT</text>
+        </navLabel>
+        <content src="Text/10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>BEKLEYİŞ</text>
+        </navLabel>
+        <content src="Text/11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>DON QUIXOTE YAZARI PIERRE MENARD</text>
+        </navLabel>
+        <content src="Text/12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>HEPSİ VE HİÇBİRİ</text>
+        </navLabel>
+        <content src="Text/13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>BİR MESELE</text>
+        </navLabel>
+        <content src="Text/14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>RAGNARÖK</text>
+        </navLabel>
+        <content src="Text/15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>CEHENNEM 1, 32</text>
+        </navLabel>
+        <content src="Text/16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>CERVANTES VE DON QUIXOTE MESELİ</text>
+        </navLabel>
+        <content src="Text/17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>TLÖN, UQBAR, ORBIS TERTIUS</text>
+        </navLabel>
+        <content src="Text/18.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Andre Maurois’nın Sunusu</text>
+      </navLabel>
+      <content src="Text/sunus.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

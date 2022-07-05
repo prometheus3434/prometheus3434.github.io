@@ -1,0 +1,540 @@
+@font-face{
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: normal;
+  src:url("font/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: normal;
+  src:url("font/NotoSans-Italic.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: bold;
+  src:url("font/NotoSans-BoldItalic.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: bold;
+  src:url("font/NotoSans-Bold.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  src:url("font/NotoSerif-Regular.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-weight: normal;
+  src:url("font/NotoSerif-Italic.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-weight: bold;
+  src:url("font/NotoSerif-BoldItalic.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: bold;
+  src:url("font/NotoSerif-Bold.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "PFReminder Pro";
+  font-style: normal;
+  font-family: bold;
+  src:url("font/PFReminderPro-Medium.ttf") format("truetype");
+}
+
+/*TITLEPAGE*/
+
+.work{
+  font: normal normal 3.5em/1.3em "Noto Serif";
+  text-align: center;
+  margin-top: 2em;
+}
+
+.theme{
+  font: normal normal 1.15em/1.3em "Noto Serif";
+  text-align: center;
+}
+
+.author{
+  font: normal normal 1.15em/1.3em "Noto Serif";
+  text-align: center;
+  margin-top: 4em;
+}
+
+.translator{
+  font: normal normal 1.15em/1.3em "Noto Serif";
+  text-align: center;
+  margin: 3em auto 0;
+}
+
+.img-container{
+  width: 150px;
+  margin:5em auto 0;
+  page-break-inside: avoid;
+}
+
+.img-container img {
+  width: 100%;
+}
+
+/*
+CHAPTER
+*/
+
+.container {
+  margin-top: 5em;
+}
+
+.header {
+  text-align: center;
+}
+
+.header img{
+  width: 100px;
+}
+
+.header h1 {
+  font:normal normal 1.5em/1em "Noto Sans";
+  display: inline;
+}
+
+
+.header + p {
+  margin-top: 4em;
+  text-indent: 0;
+}
+
+.gap{
+text-align: center;
+}
+
+.alinti{
+  margin: 1em 2em;
+}
+
+.alinti + p{
+  text-indent: 0;
+  margin: 2em 0;
+}
+
+.italic{
+  margin: 1em 2em;
+}
+
+.gap img{
+  width: 90px;
+}
+
+.buyuk-harf{
+  text-transform: uppercase;
+}
+
+p {
+  font: normal normal .92em/1.3em "Noto Serif";
+  margin: 0;
+  text-indent: 1.7em
+}
+
+blockquote{
+  font: normal normal .85em/1.3em "Noto Serif";
+  margin: 2.2em 1.8em;
+  display: block;
+  text-indent: 0;
+}
+
+blockquote p:first-child {
+  text-indent: 0;
+}
+
+.dear {
+  text-indent: 0;
+}
+
+.dear + p {
+  text-indent: 0;
+  margin-top: 1em;
+}
+
+h2{
+  font: normal normal 1.25em/1.3em "Noto Sans";
+  text-align: center;
+  margin: 1em 0 .15em;
+}
+
+h2 + p{
+  text-indent: 0;
+}
+
+.header + h2{
+  margin-top: 3em;
+}
+
+.no-indent-bq{
+  text-indent: 0;
+}
+
+.gap{
+  margin-top: 1em;
+  text-indent: 1.7em;
+}
+
+.bfl {
+  text-transform: uppercase;
+  font-size: .8em;
+}
+
+.bfl .in-bfl {
+  font-size: 1.3em;
+}
+
+.poem{
+  font: normal normal .85em/1.3em "Noto Serif";
+  text-indent: 1.9em;
+  margin: 1em 0 1em;
+}
+
+.poem span{
+  display: block;
+}
+
+.grafik{
+  max-width: 500px;
+  margin: 1em auto;
+  page-break-inside: avoid;
+}
+
+.grafik img{
+  width: 100%;
+}
+
+ul {
+  margin: 1em 0;
+  padding-left: 1.1em;
+}
+
+li{
+  font: normal normal .92em/1.3em "Noto Serif";
+}
+
+ol {
+  margin: 0;
+  padding: 1.1em;
+}
+
+li p{
+  text-indent: 0;
+}
+
+
+.list-area {
+  margin: 2em auto;
+  width: 10em;
+}
+
+.list-area h1 {
+  font:normal normal .83em/1.3em "Noto Sans";
+  margin: 0;
+  text-align: left;
+}
+
+.list-area ol {
+  margin:0;
+  margin-left: 1.2em;
+  padding-left: 0;
+}
+
+.ortali{
+  text-align: center;
+}
+
+.und-line {
+  text-decoration: underline;
+}
+
+/*NOT AREAS*/
+
+.not-1, .not-2 {
+  margin: 1em 0;
+  border: 1px solid #000;
+  padding: .2em;
+}
+
+.not-1  p{
+  text-indent: 0;
+  font-size: .83em;
+}
+
+.not-2 p{
+  text-indent: 0;
+}
+
+.not-2 + p{
+  text-indent: 0;
+}
+
+.not-1 h1 {
+  text-align: center;
+  font:normal normal .83em/1.3em "Noto Sans";
+  margin: 0;
+}
+
+.margined-area p{
+  text-indent: 0;
+  margin-top: 1em;
+}
+
+.margined-list p{
+  text-indent: 0;
+}
+
+.chapter cite {
+  display: block;
+  margin-top: 1em;
+  font:italic normal .92em/1.3em "Noto Serif";
+}
+
+.margined li{
+  margin-top: 2em;
+}
+
+.low-margin li {
+  margin-top: .3em;
+}
+
+.sub-alp {
+  counter-reset: item;
+  list-style: none;
+  padding-left: 0;
+}
+
+.sub-alp li {
+  counter-increment: item;
+}
+
+.sub-alp li:before {
+  content: counter(item, lower-alpha) ") ";
+}
+
+/*
+APPENDIX
+*/
+
+.adress{
+  margin: 1em 0;
+}
+
+.appendix p {
+  text-indent: 0;
+}
+
+/*COPYRIGHT*/
+
+.copy{
+  font: normal normal .75em/1.3em "Noto Sans";
+  margin-top: 1em;
+  text-align: center;
+}
+
+.copyright{
+  font: normal normal .75em/1.3em "Noto Sans";
+  margin-top: 1em;
+}
+
+.yil{
+  font: normal normal .9em/1.3em "PF Reminder Pro";
+}
+
+/*DEDICATION*/
+
+.dedication p{
+  font: italic normal 1.16em/1.3em "Noto Serif";
+  text-align: center;
+  margin-top: 8em;
+}
+
+/*EPIGRAPH*/
+
+.epigraph .container{
+  margin-top: 5em;
+}
+
+.subcontainer{
+  margin-bottom: 2em;
+}
+
+.subcontainer span{
+  display: block;
+  text-align: center;
+}
+
+/*
+ *advertising
+ */
+#advertising .advertising-container p{
+  font-size: .8em;
+  margin: 0 0 .1em 0;
+  line-height: 1.4em;
+}
+
+#advertising .advertising-container ul li, #advertising .advertising-container ol li{
+  font-size: .9em;
+}
+
+#advertising .advertising-container{
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: normal;
+  position: relative;
+  padding: .7em;
+  margin-top: 4em;
+  border: 5px solid;
+  border-radius: 30px;
+  page-break-after: always !important;
+}
+
+#advertising .advertising-container:before{
+  content: 'WORKSHOP';
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: -1.7em;
+  left: 0;
+  overflow: hidden;
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding: auto;
+  font-family: 'Noto Sans';
+  font-weight: 800;
+  font-style: normal;
+  font-size: 1.7em;
+  letter-spacing: .3em;
+  text-align: center;
+  background-color: black;
+  color: #fff;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust:none;
+  -ms-text-size-adjust:none;
+  zoom: 1;
+}
+
+
+#advertising .advertising-container h1{
+  font-family: 'Noto Sans' !important;
+  font-weight: bold !important;
+  font-style: normal;
+  position: relative;
+  text-align: center;
+  font-size: 30pt;
+  margin-bottom: 1em;
+  
+}
+
+.img-container-tv{
+  width: 250px;  
+  margin: 2em auto 4em auto;
+}
+
+#advertising img{
+  width: 100%;
+}
+
+.info-tv{
+  font-family: "Noto Serif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1.3em;
+  text-align: center;
+  
+  margin: 3em 0 3em 0;
+  page-break-before: always;
+}
+
+.info-tv:last-child{
+  page-break-before: avoid;
+}
+
+
+.info-tv .normal{
+  text-align: left;
+  text-indent: 1.4em;
+}
+
+#advertising h1{
+  font-family: "Noto Serif";
+  font-weight: normal !important;
+  text-align: center !important;
+  font-size: 1.5em;
+  line-height: 1.2em;
+  margin-bottom: 2em;
+}
+
+#advertising p.detail {
+  font-family: "Noto Serif";
+  font-weight: bold;
+  text-align: right;
+  margin: 2.5em 1em 1em auto;
+  font-size: .9em;
+}
+
+#advertising a{
+  color: rgb(72, 131, 218);
+}
+
+#advertising .advertising{
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*COMMON*/
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+  line-height: 1em;
+}
+
+.si-footnotes{
+  margin-top:3em;
+}
+
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+
+.si-footnote {
+  font-family: "Noto Serif";
+  font-size: .8em;
+  margin-bottom: .25em;
+}

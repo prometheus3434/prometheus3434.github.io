@@ -1,0 +1,82 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.calibre3 {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre4 {
+    font-variant: small-caps;
+    font-weight: bold
+    }
+.calibre5 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre7 {
+    display: block
+    }
+.calibre8 {
+    height: 325pt;
+    width: 317pt
+    }
+.calibre9 {
+    font-weight: bold;
+    text-decoration: underline
+    }
+.calibre10 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre11 {
+    display: list-item
+    }
+.calibre12 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre13 {
+    display: block;
+    list-style-type: square;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre14 {
+    text-decoration: underline
+    }
+.calibre15 {
+    font-style: italic
+    }
+.calibre16 {
+    height: 310pt;
+    width: 250pt
+    }
+.calibre17 {
+    height: 225pt;
+    width: 328pt
+    }

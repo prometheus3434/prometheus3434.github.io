@@ -1,0 +1,219 @@
+body {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+p {
+  text-indent: 1.5em;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Book Antiqua", serif;
+  font-size: 100%;
+}
+.p0 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 24em;
+}
+.p1 {
+  text-indent: 0;
+  margin-left: 0;
+}
+.p2 {
+  text-indent: 0;
+  margin-left: 2.4em;
+  margin-top: 2.4em;
+}
+.p3 {
+  text-indent: 0;
+  margin-left: 2.4em;
+}
+.p4 {
+  text-indent: 0;
+  margin-left: 2.4em;
+  margin-top: 0.71em;
+}
+.p5 {
+  text-indent: 0;
+  margin-left: 2.4em;
+  margin-top: 1.4em;
+}
+.p6 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+}
+.p7 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 1.2em;
+}
+.p8 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 0.71em;
+}
+.p9 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4.7em;
+}
+.p10 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 12em;
+}
+.p11 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 1.2em;
+  margin-bottom: 2.4em;
+}
+.p12 {
+  text-indent: 1.2em;
+  margin-left: 0;
+}
+.p13 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 2.4em;
+}
+.p14 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4.7em;
+  margin-bottom: 0.71em;
+}
+.p15 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 3.5em;
+}
+.p17 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+}
+.p18 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 14em;
+}
+.p19 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 1.2em;
+}
+.p20 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+  margin-top: 1.2em;
+}
+.p21 {
+  margin-top: 1.2em;
+}
+.p22 {
+  text-indent: 0;
+  margin-left: 3.5em;
+  margin-top: 1.2em;
+}
+.p23 {
+  text-indent: 0;
+  margin-left: 3.5em;
+}
+.p24 {
+  text-indent: 0;
+  margin-left: 2.4em;
+  margin-right: 2.4em;
+}
+.p25 {
+  text-indent: 0;
+  margin-left: 2.4em;
+  margin-right: 2.4em;
+  margin-top: 1.2em;
+}
+.p26 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 3.5em;
+}
+.p27 {
+  text-indent: 0;
+  margin-left: 2.4em;
+  margin-right: 2.4em;
+  margin-top: 2.4em;
+}
+.p28 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-right: 2.4em;
+  text-align: right;
+}
+.p29 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 2.4em;
+}
+.baslik {
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.cizgi1 {
+  border-radius: 0 0 20px 20px;
+  background: transparent;
+  border: 2px solid black;
+  color: black;
+  display: block;
+  border-top: black solid 0;
+  margin-bottom: 1em;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1em;
+  padding-bottom: 0.2em;
+  padding-top: 1em;
+}
+.tabloyazisi {
+  display: table-cell;
+  font-size: 1em;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: center;
+  vertical-align: inherit;
+}
+.t1 {
+  font-size: 0.75em;
+}
+.t2 {
+  font-size: 1.3em;
+}
+.t3 {
+  font-size: 1.8em;
+  letter-spacing: 0.08em;
+}
+.t4 {
+  font-size: 1.2em;
+}
+.t5 {
+  font-size: 1.5em;
+}
+.t6 {
+  font-size: 0.83em;
+}

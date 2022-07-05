@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="5fb4ba71-7852-4b27-b478-46b7beef2ee9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yerdeniz Öyküleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BULUCU</text>
+      </navLabel>
+      <content src="Text/bolum-01.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I- KARANLIK ÇAĞDA</text>
+        </navLabel>
+        <content src="Text/bolum-01-I.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II- SUSAMURU</text>
+        </navLabel>
+        <content src="Text/bolum-01-II.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>IV. MEDRA</text>
+        </navLabel>
+        <content src="Text/bolum-01-IV.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>KARAGÜL İLE PIRLANTA</text>
+      </navLabel>
+      <content src="Text/bolum-02.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>YERİN KEMİKLERİ</text>
+      </navLabel>
+      <content src="Text/bolum-03.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>BATAKLIK YAYLA</text>
+      </navLabel>
+      <content src="Text/bolum-04.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>EJDERBÖCEĞİ</text>
+      </navLabel>
+      <content src="Text/bolum-05.html"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>I- İRİA</text>
+        </navLabel>
+        <content src="Text/bolum-05-I.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>II- FİLDİŞİ</text>
+        </navLabel>
+        <content src="Text/bolum-05-II.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>III. AZVER</text>
+        </navLabel>
+        <content src="Text/bolum-05-III.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>IV- İRİALI</text>
+        </navLabel>
+        <content src="Text/bolum-05-IV.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="810366fc-3d2f-4cd0-82ac-a19dc414a890" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Zapatista Hikâyeleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{04F87409-2EB9-40DA-9448-CD5F6BEEE203}" playOrder="1">
+      <navLabel>
+        <text>DURİTO VE PEGASUS</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C7759025-41C0-46D8-AACD-0152B95D91C8}" playOrder="2">
+      <navLabel>
+        <text>SİHİRLİ ÇİKOIATA TAVŞAN^LAR</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{F188B373-69C6-4AC0-B344-EC04A607C1BE}" playOrder="3">
+      <navLabel>
+        <text>GÜRÜLTÜNÜN VE SESSİZLİĞİN HİKAYESİ</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{52C8A9FC-4289-430F-90FD-80541FD9021C}" playOrder="4">
+      <navLabel>
+        <text>Kasım: EZLN ve San Cristobal de las Casas'ta bulun</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
