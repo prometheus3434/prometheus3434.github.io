@@ -1,0 +1,259 @@
+@font-face {
+  font-family: "Berling";
+  font-weight: normal;
+  font-style: normal;
+  src: url('font/BerlingLTStd-Roman.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Berling";
+  font-weight: normal;
+  font-style: italic;
+  src: url('font/BerlingLTStd-Italic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Berling";
+  font-weight: bold;
+  font-style: normal;
+  src: url('font/BerlingLTStd-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Gill Sans";
+  font-weight: normal;
+  font-style: normal;
+  src: url('font/GillSansStd.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Gill Sans";
+  font-weight: normal;
+  font-style: italic;
+  src: url('font/GillSansStd-Italic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Gill Sans Light";
+  font-weight: normal;
+  font-style: normal;
+  src: url('font/GillSansStd-Light.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Goudy Cat";
+  font-weight: normal;
+  font-style: normal;
+  src: url('font/GoudyCatTReg.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Minion Pro";
+  font-weight: normal;
+  font-style: normal;
+  src: url('font/MinionPro-Regular.otf') format("opentype");
+}
+.cover-container {
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+.cover-container img {
+  width: 100%;
+}
+.press {
+  margin-bottom: 1em;
+}
+.press .copy:first-child {
+  margin-top: 0 !important;
+}
+.copyright-page .copy {
+  margin-top: 1em;
+}
+.copyright-page .publisher {
+  margin-top: 2em;
+}
+.copyright-page span {
+  font-family: "Gill Sans";
+  font-size: 0.75em;
+  display: block;
+}
+.copyright-page .pull {
+  padding-left: .51em;
+}
+.copyright-page a {
+  color: #777;
+  text-decoration: none;
+}
+.press {
+  margin-bottom: 1em;
+}
+.copyright-page .copy {
+  margin-top: 1em;
+}
+.copyright-page .publisher {
+  margin-top: 2em;
+}
+.copyright-page span {
+  font-family: "Gill Sans";
+  font-size: 0.75em;
+  display: block;
+}
+.copyright-page .pull {
+  padding-left: .51em;
+}
+.copyright-page a {
+  color: #777;
+  text-decoration: none;
+}
+.title {
+  text-align: center;
+}
+.aut {
+  margin-top: .5em;
+  font: normal normal 2.56em / 1.2em "Goudy Cat";
+  text-align: center;
+}
+.bfl {
+  font-size: 1.2em;
+}
+.work {
+  font: normal normal 2.18em / 1.1em "Goudy Cat";
+  margin-top: .5em;
+}
+.seri {
+  font-family: "Gill Sans";
+  font-size: .92em;
+  margin-top: 3em;
+}
+.reward {
+  font-family: "Gill Sans";
+  font-size: 1.04em;
+  margin-top: 2em;
+}
+.trans {
+  font-family: "Gill Sans";
+  font-size: .83em;
+  margin-top: 2em;
+}
+.trans span {
+  font-size: 1.2em;
+  display: block;
+  margin-top: .5em;
+}
+.logo {
+  margin: 3em auto 0 auto;
+}
+.biography p {
+  font-family: "Gill Sans";
+  font-size: .75em;
+  line-height: 1.4em;
+  text-indent: 0;
+}
+.biography p:last-child {
+  margin-top: 2em;
+}
+.dedication .container {
+  margin-top: 5em;
+  text-align: right;
+  font: normal normal .83em / 1.3em "Berling";
+}
+.preface .container {
+  margin-top: 5em;
+}
+.preface h1 {
+  font: normal normal 1.16em / 1.3em "Berling";
+  text-align: center;
+  margin: 0;
+}
+.preface h1+p {
+  margin-top: 1.5em;
+}
+.preface p {
+  font-size: .8em;
+}
+.preface .date {
+  text-align: right;
+  margin-top: 1em;
+}
+.chapter .container {
+  margin-top: 5em;
+}
+.chapter h1 {
+  font: normal normal 1.25em / 1.3em "Berling";
+  text-align: center;
+  margin: 0;
+}
+h1+.subchapter h2:first-child {
+  margin: .7em 0 0;
+}
+h2+p {
+  margin-top: 1.5em;
+}
+h2 {
+  font: normal normal 1.25em / 1.3em "Berling";
+  text-align: center;
+  margin-top: 2.2em;
+}
+p {
+  font: normal normal .875em / 1.3em "Berling";
+  margin: 0;
+  text-indent: 2em;
+}
+.poem2 {
+  margin: 1em 0 0 1.7em;
+}
+.poem2 span {
+  display: block;
+  font: normal normal .875em / 1.3em "Berling";
+}
+.epigraph {
+  margin: 1em auto;
+}
+.epigraph span {
+  display: block;
+  font: normal normal .875em / 1.3em "Berling";
+  text-align: center;
+}
+.poem {
+  margin: 1em 0 1em 2.3em;
+}
+.poem span {
+  display: block;
+  font: normal normal .875em / 1.3em "Gill Sans Light";
+}
+.assertion {
+  margin: 1em 0 1em 1em;
+}
+.assertion span {
+  display: block;
+  font: normal normal .875em / 1.3em "Gill Sans Light";
+  text-indent: 1.2em;
+}
+.footnotes {
+  margin: 3em 0 1em;
+}
+.si-noteref {
+  text-decoration: none;
+  color: #7a7a7a;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+  line-height: 1em;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.si-footnote {
+  font-family: "Gill Sans";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .75em;
+  margin-bottom: .25em;
+}
+.clear {
+  clear: both;
+}
+.sp-char {
+  font-family: "Minion Pro";
+}

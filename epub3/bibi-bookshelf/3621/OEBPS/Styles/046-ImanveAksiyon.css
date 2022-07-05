@@ -1,0 +1,241 @@
+@font-face {
+	font-family:Times;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/Times.ttf");
+}
+@font-face {
+	font-family:Times;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/Times-Bold.ttf");
+}
+@font-face {
+	font-family:Times;
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/Times-Italic.ttf");
+}
+@font-face {
+	font-family:Times;
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/Times-Italic.ttf");
+}
+@font-face {
+	font-family:"ITC Zapf Dingbats Std";
+	font-style:normal;
+	font-weight:500;
+	src : url("../Fonts/ZapfDingbatsStd.otf");
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Normal {
+	-epub-ruby-position:over;
+	font-family:Helvetica, sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.TocStyle {
+	-epub-ruby-position:over;
+	font-family:Times, serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.019;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.Normal {
+	font-family:Helvetica, sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+span.TOC {
+	font-family:Times, serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+}
+p.para-style-override-1 {
+	text-align:center;
+}
+p.para-style-override-2 {
+	text-align:justify;
+}
+p.para-style-override-3 {
+	text-align:justify;
+	text-indent:20px;
+}
+p.para-style-override-4 {
+	text-indent:43px;
+}
+p.para-style-override-5 {
+	text-indent:20px;
+}
+p.para-style-override-6 {
+	text-indent:57px;
+}
+span.char-style-override-1 {
+	font-size:1em;
+}
+span.char-style-override-2 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-3 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-4 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-5 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-6 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-7 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-8 {
+	font-family:"ITC Zapf Dingbats Std", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}
+span.char-style-override-9 {
+	font-family:"ITC Zapf Dingbats Std", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}
+span.char-style-override-10 {
+	font-family:Times, serif;
+	font-size:1.5em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-11 {
+	font-family:Times, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-12 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-13 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+	vertical-align:super;
+}
+span.char-style-override-14 {
+	font-family:Times, serif;
+	font-size:1.833em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-15 {
+	font-family:Times, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-16 {
+	font-family:Times, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-17 {
+	font-family:Times, serif;
+	font-size:0.979em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-18 {
+	font-family:Times, serif;
+	font-size:1.833em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.char-style-override-19 {
+	font-family:Times, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-20 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-21 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-22 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-23 {
+	font-family:Times, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-24 {
+	font-family:"ITC Zapf Dingbats Std", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}

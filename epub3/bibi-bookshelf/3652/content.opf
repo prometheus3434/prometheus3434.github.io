@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>İnsancıklar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dostoyevski, F. M.">F. M. Dostoyevski</dc:creator>
+    <dc:publisher>Hece Yayınları ve Dergileri</dc:publisher>
+    <dc:date>2020-04-15T12:39:08+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">50302d24-2356-4487-b189-e888cddd8b03</dc:identifier>
+    <dc:subject>Social Science</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:subject>Sociology</dc:subject>
+    <dc:subject>Literary Collections</dc:subject>
+    <dc:subject>Ancient &amp; Classical</dc:subject>
+    <dc:subject>Research</dc:subject>
+    <dc:description>Fyodor Mihayloviç Dostoyevski (1821-1881), bugün de dünya edebiyatının en iyi roman yazarlarından birisi olarak kabul edilmektedir. Eserleri yalnızca edebiyat bilimlerinin değil, felsefe, psikoloji, teoloji, kriminoloji gibi çok farklı disiplinlerin araştırma konusudur. Buna ilave olarak edebiyat bilimi ve edebiyat tarihinin bir alt dalı olarak faaliyet gösteren ve Rusçada Dostoyevistika (Dostoyevski araştırmaları) şeklinde adlandırılan alanda Dostoyevski uzmanları yazarın biyografisini, sanatını ve yaratıcılık süreçlerini araştırmaktadır.İnsancıklar Dostoyevski’nin sanatı incelenirken gözden kaçırılmaması gereken bir eserdir. Bu eserde gündeme gelen sorunlar, sanatsal uygulamalar, yaratılan imgeler, işlenen motifler, resmedilen karakterler ve diğer her şey, yazarın daha sonra kaleme aldığı istisnasız her eserinde farklı bir yaklaşım ve uygulamayla okurun beğenisine sunulmuştur.İnsancıklar, mektup formunda yazılmış bir eserdir. Eserin ana motifi aşktır. Bu aşk iki boyutludur: Bir boyutunda Makar Alekseyeviç Devuşkin’in, diğer boyutunda Varvara Alekseyevna Dobroselova’nın aşkı vardır.Sizi, insanları eğlendirmek ve doğayı süslemek için yaratılmış cennet kuşuyla kıyasladım. Varenka, o an düşündüm ki, kaygı ve endişe içinde yaşayan biz insanlar, cennet kuşlarının kaygısız ve saf mutluluklarını da kıskanıyor olmalıyız...</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fc3cb88a-fe3c-43db-868a-c540db5012ad</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">E5wqEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786057547590</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-11-01T17:24:55.496530+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="İnsancıklar"/>
+    <meta name="calibre:author_link_map" content="{&quot;F. M. Dostoyevski&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:isbn:9789752752092" name="dtb:uid"/>
+  </head>
+  <docTitle>
+    <text>İletişimde Ustalaşmak</text>
+  </docTitle>
+  <docAuthor>
+    <text>Saim Koç</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="giris" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/introduction.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter1" playOrder="2">
+      <navLabel>
+        <text>İLETİŞİM VE ÖZGÜVEN</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter2" playOrder="3">
+      <navLabel>
+        <text>ÖĞRENME SÜRECİ</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter3" playOrder="4">
+      <navLabel>
+        <text>DÜŞÜNCE, DUYGU VE DAVRANIŞ TUTARLILIĞI</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter4" playOrder="5">
+      <navLabel>
+        <text>ETKİSEL İNSAN, TEPKİSEL İNSAN</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter5" playOrder="6">
+      <navLabel>
+        <text>SEMPATİ VE EMPATİ</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter6" playOrder="7">
+      <navLabel>
+        <text>BİZE NASIL DAVRANACAKLARINI BAŞKALARINA BİZ ÖĞRETİRİZ</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter7" playOrder="8">
+      <navLabel>
+        <text>İLETİŞİM MANİPÜLASYONU</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter8" playOrder="9">
+      <navLabel>
+        <text>İÇİMİZDEKİ EBEVEYN, YETİŞKİN VE ÇOCUK</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

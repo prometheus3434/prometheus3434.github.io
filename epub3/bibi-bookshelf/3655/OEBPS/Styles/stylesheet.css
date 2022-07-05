@@ -1,0 +1,134 @@
+.calibre {
+    display: block;
+    font-size: 1.25em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    color: windowtext;
+    font-family: "Cambria", "serif"
+    }
+.calibre3 {
+    color: windowtext;
+    font-family: "Cambria", "serif";
+    font-size: 0.875em
+    }
+.calibre4 {
+    color: #0070C0;
+    font-family: "Cambria", "serif";
+    font-size: 0.875em
+    }
+.calibre5 {
+    color: #0070C0;
+    font-family: "Cambria", "serif";
+    font-size: 1em
+    }
+.calibre6 {
+    font-family: "Cambria", "serif";
+    font-size: 0.8em
+    }
+.calibre7 {
+    display: block
+    }
+.calibre8 {
+    color: #0070C0;
+    font-family: "Cambria", "serif"
+    }
+.calibre9 {
+    font-weight: bold
+    }
+.calibre10 {
+    font-style: normal
+    }
+.calibre11 {
+    display: block;
+    page-break-before: auto
+    }
+.calibre12 {
+    display: block
+    }
+.calibre13 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px;
+    margin: 0.5em auto
+    }
+.calibre14 {
+    font-family: "Cambria", "serif"
+    }
+.calibre15 {
+    color: black;
+    font-family: "Cambria", "serif";
+    font-size: 1em
+    }
+.MsoFootnoteReference {
+    vertical-align: super
+    }
+.MsoFootnoteText {
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.7em;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal {
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.8em;
+    text-align: right;
+    text-indent: 1cm;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal1 {
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.8em;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal2 {
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 1cm;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal3 {
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.8em;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }
+.WordSection1 {
+    display: block;
+    page: WordSection2
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: #06C;
+    text-decoration: underline
+    }

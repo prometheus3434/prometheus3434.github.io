@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İskelet sahili</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cussler, Clive &amp; Brul, Jack B. Du">Clive Cussler</dc:creator>
+    <dc:creator opf:role="aut">Jack B. Du Brul</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b3339527-36b8-45b9-ad19-75a663235044</dc:identifier>
+    <dc:date>2007-06-15T11:40:19+00:00</dc:date>
+    <dc:publisher>Akdeniz Yayıncılık</dc:publisher>
+    <dc:description>Juan Cabrillo og hans skib Oregon redder en båd, der er under beskydning ved Afrikas kyst. Den søgte efter et sunkent skib med en diamantskat. Hvem vil forhindre eftersøgningen og hvorfor blev en fisker angrebet af kæmpemæssige metalslanger?</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Macera</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6b7202bb-fde4-42d2-b00d-0b01727a5d32</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:b3339527-36b8-45b9-ad19-75a663235044</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752108936</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">mB_lnQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752108936</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="cover" content="İskelet_Sahili.jpg"/>
+    <meta name="calibre:title_sort" content="İskelet sahili"/>
+    <meta name="calibre:series" content="Oregon Dosyaları"/>
+    <meta name="calibre:series_index" content="4.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Clive Cussler&quot;: &quot;&quot;, &quot;Jack B. Du Brul&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/İskelet Sahili.htm" id="İskelet_Sahili.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/İskelet Sahili.jpg" id="İskelet_Sahili.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="İskelet_Sahili.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,98 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookID">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Isaya Göre Incil</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Saramago, Jose">Jose Saramago</dc:creator>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:date>2012-06-15T12:08:13+00:00</dc:date>
+    <dc:source>O Evangelho segundo Jesus Cristo</dc:source>
+    <dc:date opf:event="modification">2017-03-29</dc:date>
+    <dc:identifier opf:scheme="UUID" id="BookID">2B3970E3-6426-43AC-B130-32E708E3C4B0</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">46f5dcb2-544c-4eed-8162-78c336a1e620</dc:identifier>
+    <dc:identifier opf:scheme="UUID">2B3970E3-6426-43AC-B130-32E708E3C4B0</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">QyIqnwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055340346</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="cover" content="x0000000394847-1.jpg"/>
+    <meta name="calibre:title_sort" content="Isaya Göre Incil"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jose Saramago&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a1.xhtml" href="Text/a1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2.xhtml" href="Text/a2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21.xhtml" href="Text/21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22.xhtml" href="Text/22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23.xhtml" href="Text/23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24.xhtml" href="Text/24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25.xhtml" href="Text/25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26.xhtml" href="Text/26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="eldv0.2.css" href="Styles/eldv0.2.css" media-type="text/css"/>
+    <item id="x0000000394847-1.jpg" href="Images/0000000394847-1.jpg" media-type="image/jpeg"/>
+    <item id="kırmızıkedi.png" href="Images/kırmızıkedi.png" media-type="image/png"/>
+    <item id="x35e39f91-7e8f-475d-8bc1-899187ec0beb" href="Images/kırmızıkedi.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="a1.xhtml"/>
+    <itemref idref="a2.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+    <itemref idref="x23.xhtml"/>
+    <itemref idref="x24.xhtml"/>
+    <itemref idref="x25.xhtml"/>
+    <itemref idref="x26.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover Page" href="Text/cover.xhtml"/>
+  </guide>
+</package>

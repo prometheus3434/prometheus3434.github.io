@@ -1,0 +1,13 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ p {text-indent: .3in;
+    margin-left:0;
+    margin-right:0;
+    margin-top:10;
+    margin-bottom:10;
+    text-align: justify;
+    font-family:"Times New Roman";}

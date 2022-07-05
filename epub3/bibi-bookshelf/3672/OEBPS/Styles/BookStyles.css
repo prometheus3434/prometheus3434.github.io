@@ -1,0 +1,339 @@
+/* FONTS USED */
+
+@font-face {
+  	font-family:AGaramond;
+  	font-style:normal;
+  	font-weight:normal;
+  	src:url(../Fonts/AGaramondPro-Regular.otf); 
+}
+
+@font-face {
+  	font-family:AGaramond;
+  	font-style:italic;
+  	font-weight:normal;
+  	src:url(../Fonts/AGaramondPro-Italic.otf); 
+}
+
+@font-face {
+  	font-family:AGaramond;
+  	font-style:normal;
+  	font-weight:bold;
+  	src:url(../Fonts/AGaramondPro-Bold.otf); 
+}
+
+
+
+/* GENERAL DEFINITIONS */
+
+body {
+	display:block;
+	margin:30px;
+	text-align:justify;
+	orphans:1;
+	widows:1;
+}
+
+h1 {
+	display:block;
+	color:#000000;
+	font-family: AGaramond,serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:22px;
+	line-height:auto;
+	margin:50px 0px 0px 0px;
+	text-align:center;
+    letter-spacing:1px;
+}
+
+h2 {
+	display:block;
+	color:#000000;
+	font-family: AGaramond,serif;
+	font-style:normal;
+	font-weight:bold;
+	font-size:22px;
+	line-height:auto;
+	margin:20px 10px 0px 10px;
+	text-align:center;
+}
+
+h3 {
+	display:block;
+	color:#000000;
+	font-family: AGaramond,serif;
+	font-style:normal;
+	font-weight:bold;
+	font-size:22px;
+	line-height:auto;
+	margin:0px 10px 20px 10px;
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+}
+
+sup{
+	line-height:5px;
+}
+
+table {
+	width:90%;
+	vertical-align:center;
+	margin:auto;
+}
+
+td {
+	vertical-align:top;
+	text-align:left;
+	width:50%;
+	border:0px;
+}
+
+
+/* PARAGRAPH DEFINITIONS */
+
+p {
+	display:block;
+	font-family:AGaramond,serif;
+	display:block;
+	color:#000000;
+	margin:0px 10px;
+	text-indent:20px;
+	text-align:justify;
+	line-height:auto;
+	font-style:normal;
+	font-weight:normal;
+	font-size:14px;
+}
+
+.noSpace {
+	margin:0px;
+}
+
+.wwsP1{
+	text-indent:0px;
+}
+
+.wwsP2{
+	text-align:right;
+    text-indent:0px;
+	font-weight:normal;
+	#margin-bottom:15px;
+}
+
+.tgP1 {
+	font-size:11px;
+	text-indent:0px;
+	line-height:auto;
+	text-align:center;
+	margin-bottom:10px
+}
+
+.tgP2 {
+	font-size:11px;
+	text-indent:0px;
+	line-height:auto;
+	text-align:left;
+	margin-bottom:10px
+}
+
+.iCov1 {
+	font-size:36px;
+	line-height:22px;
+	text-align:center;
+	text-indent:0px;
+	letter-spacing:2px;
+	margin-top:32px
+}
+
+.iCov2 {
+	font-size:42px;
+	font-weight:normal;
+	text-align:center;
+	text-indent:0px;
+	margin-top:48px;
+}
+
+.iCov3 {
+	font-size:20px;
+	text-align:center;
+	text-indent:0px;
+    font-weight:bold;
+	margin:100px auto 0px auto;
+}
+
+.iCov4 {
+	font-size:22px;
+	text-align:center;
+	text-indent:0px;
+	margin:50px auto 000px auto;
+}
+
+.centr {
+	text-align:center;
+	#text-indent:0px
+}
+
+.hrst{
+	margin:10px 48% 20px 48%;
+}
+
+.hrstt{
+	margin:10px 48% 100px 48%;
+}
+
+.fnhr {
+	margin:100px auto 20px 0px;
+	width:40%;
+}
+
+.wiwT {
+	text-indent:0px;
+	text-align:center;
+	margin:50px 10px 15px 10px;
+	font-size:16px;
+}
+
+.wiwP {
+	text-indent:0px;
+	margin:0px 20px;
+}
+
+.rgP{
+	font-family:AGaramond,serif;
+	font-size:14px;
+	text-indent:0px;
+	float:right;
+	margin-right:50px;
+	margin-top:20px;
+}
+
+.inP{
+	text-indent:0px;
+	margin:20px auto 20px 30px;
+}
+
+.fPrg1{
+	text-indent:0px;
+}
+
+.aPP{
+	margin-bottom:20px;
+}
+
+.bPP {
+	text-indent:0px;
+	margin-top:20px;
+}
+
+.pBT {
+	text-indent:0px;
+	font-size:12px;
+	text-align:center;
+}
+
+.fPrg2 {
+	margin-top:20px;
+}
+
+.parT {
+	font-size:22px;
+	line-height:auto;
+	margin:20px auto 20px auto;
+	text-align:center;
+	text-indent:0px;
+	letter-spacing:1px;
+}
+
+.nmbrT{
+	text-indent:-20px;
+	margin-left:50px;
+}
+
+.iPrg{
+	text-indent:0px;
+	margin:20px 10px 20px 40px;
+	font-size:13px;
+}
+
+.iPrgT {
+	text-indent:20px;
+	margin:-20px 10px 20px 30px;
+	font-size:13px;
+}
+
+.fnP {
+	text-indent:0px;
+	margin:0px auto 10px 0px;
+
+}
+
+.fitp img {
+	display:block;
+	max-width:95%;
+	height:auto;
+	margin:10px auto;
+}
+
+.fitpP img {
+	display:block;
+	max-height:500px;
+	width:auto;
+	margin:10px auto;
+}
+
+.nBlock {
+  	font-family:AGaramond,serif;
+  	font-size:14px;
+  	margin:0px 10px 0px 30px;
+  	text-align:justify;
+  	text-indent:0;
+}
+
+.nNum {
+	padding-right:0px;
+  	width:5px;
+  	float:left;
+}
+
+.nArt {
+	padding-left:20px;
+	margin-bottom:0px;
+}
+
+.leftP img {
+	display:block;
+	float:left;
+	width:40%;
+	margin-left:10px
+}
+
+.rghtP img {
+	display:block;
+	float:right;
+	width:40%;
+	margin-right:10px;
+}
+
+/* FOOTNOTE */
+
+.FBlock {
+  	font-family:AGaramond,serif;
+  	font-size:14px;
+  	margin:0px 10px 0px 10px;
+  	text-align:justify;
+  	text-indent:0;
+}
+
+.FNum {
+  	width:1.5em;
+  	float:left;
+}
+
+.FArt {
+	padding-left:2em;
+	margin-bottom:20px;
+}

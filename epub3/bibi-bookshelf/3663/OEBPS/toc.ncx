@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{000191E1-CB4F-EC55-BB03-99B229837CAE}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İnsanın Hikayesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Okuyucuya</text>
+      </navLabel>
+      <content src="Text/okuyucuya.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Yeryüzünü Dolduruyoruz</text>
+        </navLabel>
+        <content src="Text/bolum1.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>2. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Irmak Boylarında Toplanıyoruz</text>
+        </navLabel>
+        <content src="Text/bolum2.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>3. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Göçerler Yerleşiyor</text>
+        </navLabel>
+        <content src="Text/bolum3.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>4. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Eskiçağın İki Kenti Farklı Yollar İzliyor</text>
+        </navLabel>
+        <content src="Text/bolum4.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>5. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Çin’in Binlerce Yıllık Serüveni Başlıyor</text>
+        </navLabel>
+        <content src="Text/bolum5.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>6. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Kimilerimiz Cihana Hükmetmeye Girişiyor</text>
+        </navLabel>
+        <content src="Text/bolum6.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>7. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Tüm Dünyayı Saran İnançlar Edindik</text>
+        </navLabel>
+        <content src="Text/bolum7.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>8. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Avrupa Büyük Rolüne Hazırlanıyor</text>
+        </navLabel>
+        <content src="Text/bolum8.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>9. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Birbirimizi Buluyoruz</text>
+        </navLabel>
+        <content src="Text/bolum9.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>10. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Eski Dünya Yeni Dünya’yı Ele Geçiriyor</text>
+        </navLabel>
+        <content src="Text/bolum10.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>11. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Açlıktan, Savaşlardan ve Vebadan Kırılıyoruz</text>
+        </navLabel>
+        <content src="Text/bolum11.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>12. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Kim Olduğumuzu ve Nerede Yaşadığımızı Keşfediyoruz</text>
+        </navLabel>
+        <content src="Text/bolum12.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>13. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Her Yerde Egemenlik Halkın</text>
+        </navLabel>
+        <content src="Text/bolum13.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>14. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum14.xhtml"/>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Daha Fazla Üretiyoruz ve Daha İyi Yaşıyoruz</text>
+        </navLabel>
+        <content src="Text/bolum14.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>15. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum15.xhtml"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Zenginler Yoksulları Avuçlarının İçine Alıyor</text>
+        </navLabel>
+        <content src="Text/bolum15.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>16. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum16.xhtml"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Çoğalıyor ve Dünyayı Küçültüyoruz</text>
+        </navLabel>
+        <content src="Text/bolum16.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>17. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum17.xhtml"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Savaşı Bitirmek İçin Savaşıyoruz</text>
+        </navLabel>
+        <content src="Text/bolum17.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>18. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum18.xhtml"/>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Mükemmel Toplum Düşü Karabasana Dönüşüyor</text>
+        </navLabel>
+        <content src="Text/bolum18.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>19. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum19.xhtml"/>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Führer Üstün Bir Irk Yaratmaya Çalışıyor</text>
+        </navLabel>
+        <content src="Text/bolum19.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>20. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum20.xhtml"/>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Daha Büyük, Daha Acımasız Bir Savaş Başlatıyoruz</text>
+        </navLabel>
+        <content src="Text/bolum20.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>21. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum21.xhtml"/>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Asya’nın Devleri Yoksullarını Doyurmaya Çalışıyor</text>
+        </navLabel>
+        <content src="Text/bolum21.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>22. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum22.xhtml"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bazılarımız Zengin Oluyor</text>
+        </navLabel>
+        <content src="Text/bolum22.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>23. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum23.xhtml"/>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Uçurumun Kıyısında Yürüyoruz</text>
+        </navLabel>
+        <content src="Text/bolum23.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>24. Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum24.xhtml"/>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>İnanılmaz Şeyler Yapıyoruz</text>
+        </navLabel>
+        <content src="Text/bolum24.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Sondeyiş</text>
+      </navLabel>
+      <content src="Text/sondeyis.xhtml"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Yola Devam</text>
+        </navLabel>
+        <content src="Text/sondeyis.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>İzinler</text>
+      </navLabel>
+      <content src="Text/izinler.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

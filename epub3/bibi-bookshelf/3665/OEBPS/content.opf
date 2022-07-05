@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İnsanlar arasındaki eşitsizliğin kökeni</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rousseau, Jean-Jacques">Jean-Jacques Rousseau</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:41c81bff-0126-4e09-935b-ba2d5ade98a4</dc:identifier>
+    <dc:publisher>İdea</dc:publisher>
+    <dc:date>2003-06-15T12:09:25+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">7dbed4dc-0c8e-4cc3-a420-0fda76a4ac27</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">twnarQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756386279</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:41c81bff-0126-4e09-935b-ba2d5ade98a4</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign 9.0" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="x186.jpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="İnsanlar arasındaki eşitsizliğin kökeni"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean-Jacques Rousseau&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="x8" media-type="application/xhtml+xml"/>
+    <item href="Text/8-1.xhtml" id="x8-1" media-type="application/xhtml+xml"/>
+    <item href="Text/8-2.xhtml" id="x8-2" media-type="application/xhtml+xml"/>
+    <item href="Text/8-3.xhtml" id="x8-3" media-type="application/xhtml+xml"/>
+    <item href="Text/9.xhtml" id="x9" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/idea_fmt.jpeg" id="idea_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapakk_fmt.jpeg" id="kapakk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/r4_fmt.jpeg" id="r4_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x8-1"/>
+    <itemref idref="x8-2"/>
+    <itemref idref="x8-3"/>
+    <itemref idref="x9"/>
+    <itemref idref="x10"/>
+    <itemref idref="x11"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

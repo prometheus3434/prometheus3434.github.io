@@ -1,0 +1,70 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">İri Memeler ve Geniş Kalçalar</dc:title>
+    <dc:creator id="id-2">Mo Yan</dc:creator>
+    <dc:identifier>isbn:9789750725807</dc:identifier>
+    <dc:identifier>google:Z14yCgAAQBAJ</dc:identifier>
+    <dc:identifier>calibre:3044</dc:identifier>
+    <dc:identifier>uuid:02858559-115e-44eb-b38f-4f0d5aa70f07</dc:identifier>
+    <dc:identifier id="pub-id">urn:isbn:9789750725807</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2015-05-15T00:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">İri Memeler ve Geniş Kalçalar</opf:meta>
+    <meta property="dcterms:modified">2015-05-15T12:00:00Z</meta>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Yan, Mo</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Mo Yan": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="appendix.xhtml" id="appendixxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="font/BerlingLTStd-Bold.ttf" id="font__BerlingLTStd-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/MinionPro-Regular.otf" id="font__MinionPro-Regularotf" media-type="application/vnd.ms-opentype"/>
+    <item href="_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_" toc="tocncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="appendixxhtml"/>
+  </spine>
+</package>

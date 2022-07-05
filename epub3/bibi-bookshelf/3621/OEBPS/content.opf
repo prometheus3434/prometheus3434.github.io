@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İmân ve Aksiyon: İmân ve Aksiyon Özlediğimiz Nesil</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kısakürek, Necip Fazıl">Necip Fazıl Kısakürek</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3ba3f053-0ceb-4f8c-b60c-19b2ae875f23</dc:identifier>
+    <dc:date>2014-04-09T12:23:30+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>Pikare Yazılım ve İnternet Hizmetleri</dc:rights>
+    <dc:date opf:event="modification">2015-03-02</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Büyük Doğu Yayınları Basım Yayın Prodüksiyon Ltd. Şti.</dc:publisher>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Necip Fazıl Kısakürek’in iki ayrı konferansı... İman ve Aksiyon - Özlediğimiz Neslin Vasıfları...Her konferans, farklı tarih ve şehirlerde çeşitli defalar binlerce dinleyiciye hitaben verilmiş olup büyük ilgi doğurmuştur. 1949’da Büyük Doğu Cemiyetinin kuruluşundan itibaren Anadolu’yu bir uçtan öbür uca sarsan Necip Fazıl için, mevzuu ne olursa olsun verdiği her konferans, «Tanzimattan beri gelen sahte inkılapların çürüttüğü ruh kökümüzü kurtarma, kainat çapında hesaba vurma, Türkün ruh ve madde dünyasını Batının da hayran olacağı ve içinde her derde deva bulacağı bir ideolocya planında kurma ideali»ne bağlıdır.</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">4bfeace8-4137-4aeb-9a6d-f04e2dcf412d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054955220</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">atiDAwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:3ba3f053-0ceb-4f8c-b60c-19b2ae875f23</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="İmân ve Aksiyon: İmân ve Aksiyon Özlediğimiz Nesil"/>
+    <meta name="calibre:series" content="Türkçe Kitaplar"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Necip Fazıl Kısakürek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon.xhtml" id="x046-ImanveAksiyon" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-1.xhtml" id="x046-ImanveAksiyon-1" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-2.xhtml" id="x046-ImanveAksiyon-2" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-3.xhtml" id="x046-ImanveAksiyon-3" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-4.xhtml" id="x046-ImanveAksiyon-4" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-5.xhtml" id="x046-ImanveAksiyon-5" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-6.xhtml" id="x046-ImanveAksiyon-6" media-type="application/xhtml+xml"/>
+    <item href="Text/046-ImanveAksiyon-7.xhtml" id="x046-ImanveAksiyon-7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/046-ImanveAksiyon.css" id="x046-ImanveAksiyon.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x046-ImanveAksiyon"/>
+    <itemref idref="x046-ImanveAksiyon-1"/>
+    <itemref idref="x046-ImanveAksiyon-2"/>
+    <itemref idref="x046-ImanveAksiyon-3"/>
+    <itemref idref="x046-ImanveAksiyon-4"/>
+    <itemref idref="x046-ImanveAksiyon-5"/>
+    <itemref idref="x046-ImanveAksiyon-6"/>
+    <itemref idref="x046-ImanveAksiyon-7"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,400 @@
+@font-face {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/Times-BB.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/Times-Bold-BB.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Times";
+  font-style: italic;
+  font-weight: bold;
+  src: url('../Fonts/Times-Bold-Italic-BB.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Times";
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Fonts/Times-Italic-BB.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Goudy";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/Goudy-Medium.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Goudy";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/Goudy-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Goudy";
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Fonts/Goudy-MediumItalic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Flornt";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/Flornt.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Optima";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/Optima.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Optima";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/Optima-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/Univers-Light-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: 100;
+  src: url('../Fonts/Univers-Light.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Garamond";
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Fonts/GaramondBookItaTr.otf') format("opentype");
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+a {
+  color: #7a7a7a;
+  text-decoration: none;
+}
+.chapter>div>h1 {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 1.5em;
+  position: relative;
+  margin-top: 3em;
+  margin-bottom: 4em;
+  padding-bottom: .2em;
+  line-height: 1.3em;
+  border-bottom: 1px solid #000;
+}
+.chapter>div>h1 span {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: 100;
+  font-size: .7em;
+  display: inline-block;
+  float: right;
+}
+.introduction>div>h1 {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 1.2em;
+  position: relative;
+  margin-top: 3em;
+  margin-bottom: 4em;
+  padding-bottom: .2em;
+  line-height: 1.5em;
+  border-bottom: 1px solid #000;
+}
+.chapter>div>h1:after, .introduction>div>h1:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.introduction>div>h1 span {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: 100;
+  font-size: .9em;
+  display: inline-block;
+  text-align: right;
+  float: right;
+}
+.chapter>div>div>h1 {
+  font-family: "Goudy";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1em;
+  border: none;
+  text-align: center;
+  margin-top: 1.3em;
+  margin-bottom: .5em;
+}
+.chapter>div>div>div h1 {
+  font-family: "Goudy";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1em;
+  border: none;
+  text-align: left;
+  margin-top: 2em;
+  margin-bottom: .3em;
+  padding-left: 1.7em;
+}
+.chapter p, .introduction p {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: normal;
+  font-size: .9em;
+  margin: .3em auto;
+  text-indent: 1.7em;
+  line-height: 1.3em;
+}
+.margined {
+  margin-top: 1.5em !important;
+}
+ol {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: normal;
+  font-size: .9em;
+  padding-left: 3em;
+  margin: 1.8em auto;
+}
+ul {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: normal;
+  font-size: .9em;
+}
+ol li {
+  margin-bottom: .3em;
+}
+.formula {
+  margin: 1.5em auto !important;
+}
+.top-margined-bottom {
+  margin-top: 1.5em !important;
+  margin-bottom: 1.5em !important;
+}
+blockquote {
+  margin: 2em 0;
+}
+.sub-head {
+  text-align: left !important;
+  padding-left: 1.6em;
+  margin: 1.5em 0 !important;
+}
+ul {
+  font-size: .9em;
+  margin-top: .5em;
+  padding-left: 2.7em;
+}
+ol {
+  font-size: .9em;
+  padding-left: 0;
+  list-style-position: inside;
+  text-indent: 1.7em;
+}
+.img-container {
+  margin: 2em auto;
+  max-width: 400px;
+  page-break-inside: avoid;
+  text-align: center;
+}
+img {
+  width: 100%;
+}
+.fig-text {
+  font-weight: bold;
+  text-align: center;
+  font-size: .75em;
+  margin-top: 2em;
+}
+.cover div {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+}
+.cover img {
+  width: 100%;
+}
+.copyright-page a.pad {
+  margin-right: 1em;
+}
+.copyright-page div {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: normal;
+  font-size: .9em;
+  margin-top: 1.4em;
+  line-height: 1.4em;
+}
+.copyright-page div.copyright-container {
+  margin-top: 1.4em;
+}
+.work-name {
+  font-style: italic;
+  font-weight: bold;
+}
+.titlepage div.work {
+  font-family: "Optima";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 3.2em;
+  text-align: center;
+  margin-top: 0em;
+}
+.titlepage div.alt {
+  font-family: "Univers";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 2em;
+}
+.titlepage div.author {
+  font-family: "Optima";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: 1.5em;
+}
+.titlepage .img-container {
+  width: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3em;
+}
+.titlepage img {
+  width: 100%;
+}
+#advertising .advertising-container p {
+  font-size: .8em;
+  margin: 0 0 .1em 0;
+  line-height: 1.4em;
+}
+#advertising .advertising-container ul li, #advertising .advertising-container ol li {
+  font-size: .9em;
+}
+#advertising .advertising-container {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: normal;
+  position: relative;
+  padding: .7em;
+  margin-top: 4em;
+  border: 5px solid;
+  border-radius: 30px;
+  page-break-after: always !important;
+}
+#advertising .advertising-container:before {
+  content: 'WORKSHOP';
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: -1.7em;
+  left: 0;
+  overflow: hidden;
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding: auto;
+  font-family: 'Helvetica';
+  font-weight: 800;
+  font-style: normal;
+  font-size: 1.7em;
+  letter-spacing: .3em;
+  text-align: center;
+  background-color: black;
+  color: #fff;
+  zoom: 1;
+}
+#advertising .advertising-container h1 {
+  font-family: 'Helvetica' !important;
+  font-weight: bold !important;
+  font-style: normal;
+  position: relative;
+  text-align: center;
+  font-size: 30pt;
+  margin-bottom: 1em;
+}
+.img-container-tv {
+  width: 250px;
+  margin: 2em auto 4em auto;
+}
+#advertising img {
+  width: 100%;
+}
+.info-tv {
+  font-family: "Times";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1.3em;
+  text-align: center;
+  margin: 3em 0 3em 0;
+  page-break-before: always;
+}
+.info-tv:last-child {
+  page-break-before: avoid;
+}
+.info-tv .normal {
+  text-align: left;
+  text-indent: 1.4em;
+}
+#advertising h1 {
+  font-family: "Times";
+  font-weight: normal !important;
+  text-align: center !important;
+  font-size: 1.5em;
+  line-height: 1.2em;
+  margin-bottom: 2em;
+}
+#advertising p.detail {
+  font-family: "Times";
+  font-weight: bold;
+  text-align: right;
+  margin: 2.5em 1em 1em auto;
+  font-size: .9em;
+}
+#advertising a {
+  color: #4883da;
+}
+#advertising .advertising {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.acknowledgments div {
+  margin: 5em auto 0 auto;
+}
+.acknowledgments p {
+  font-family: "Garamond";
+  font-style: italic;
+  font-weight: normal;
+  font-size: .8em;
+  line-height: 1.3em;
+  text-indent: 1.7em;
+  margin: .2em auto;
+}
+.img-container+ol {
+  font-size: .8em;
+}

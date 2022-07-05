@@ -1,0 +1,86 @@
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.7em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.5em;margin-bottom:.5em;font-family:"Palatino Linotype",serif;font-size:109%}
+.p0{text-indent:1.7em;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:0;margin-left:0;text-align:center;margin-top:18em;margin-bottom:0}
+.p2{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p3{text-indent:0;margin-left:2.4em;line-height:110%;margin-top:0;margin-bottom:0}
+.p5{text-indent:0;margin-left:0;text-align:center}
+.p6{text-indent:0;margin-left:0;text-align:center;margin-top:5.2em}
+.p7{text-indent:0;margin-left:0;text-align:center;margin-top:6.8em}
+.p8{text-indent:0;margin-left:0;text-align:left}
+.p9{text-indent:0;margin-left:3.5em;margin-right:3.5em;margin-top:13em}
+.p10{text-indent:0;margin-left:3.5em;margin-right:3.5em}
+.p11{text-indent:1.7em;text-align:center}
+.p12{text-indent:0;margin-left:0;line-height:100%;text-align:left;margin-bottom:0}
+.p13{text-indent:0;margin-left:0}
+.p14{text-indent:0;margin-left:0;text-align:center;page-break-after:avoid}
+.p15{text-indent:0;margin-left:4.7em;line-height:100%;margin-right:7.1em;margin-top:0;margin-bottom:0}
+.p16{text-indent:1.7em;line-height:110%;text-align:center}
+.p17{text-indent:1.7em;text-align:center;page-break-after:avoid}
+.p18{text-indent:0;margin-left:0;text-align:center;margin-top:2em;margin-bottom:1.5em}
+.p19{text-indent:0;margin-left:4.7em;line-height:100%;margin-right:4.7em;text-align:left;margin-top:0;margin-bottom:0}
+.p20{text-indent:0;margin-left:3.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p21{text-indent:1.7em;text-align:left}
+.p22{text-indent:0;margin-left:2.4em;line-height:110%}
+.p23{text-indent:0;margin-left:0;line-height:100%;text-align:left;margin-top:0;margin-bottom:0}
+.p24{text-indent:1.7em;margin-top:0;margin-bottom:0}
+.p25{text-indent:0;margin-left:0;line-height:1.4em;text-align:center;margin-top:0;margin-bottom:0}
+.p26{text-indent:1.7em;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p27{text-indent:0;margin-left:5.9em;line-height:100%;text-align:left;margin-top:0;margin-bottom:0}
+.p28{text-indent:0;margin-left:0;line-height:1.4em;margin-top:0;margin-bottom:0}
+.p29{text-indent:0;margin-left:3.5em;line-height:100%;margin-right:3.5em;margin-top:0;margin-bottom:0}
+.p30{text-indent:0;margin-left:5.9em;line-height:100%;margin-top:0;margin-bottom:0}
+.p31{text-indent:0;margin-left:0;line-height:100%;margin-top:0;margin-bottom:0}
+.p32{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p33{text-indent:0;margin-left:0;line-height:1.7em;margin-top:.18em;margin-bottom:0}
+.p34{text-indent:2.6em;margin-left:0;line-height:1.7em;margin-top:0;margin-bottom:0}
+.p35{text-indent:2.5em;margin-left:0;line-height:1.7em;margin-top:0;margin-bottom:0}
+.p36{text-indent:0}
+h1{text-indent:0;margin-left:0;margin-right:0;text-align:center;page-break-after:avoid;margin-top:0;margin-bottom:1.3em;font-family:Tahoma,sans-serif;font-size:218%;font-weight:bold}
+.h11{text-indent:0}
+.t2{font-family:Tahoma,sans-serif;font-size:1.2em;line-height:120%}
+.t3{font-family:Tahoma,sans-serif;font-size:.67em;line-height:110%;font-weight:bold}
+.t4{font-family:Tahoma,sans-serif;font-size:.67em;line-height:110%}
+.t5{font-size:.67em;line-height:110%}
+.t6{font-family:Tahoma,sans-serif;font-size:.67em;line-height:120%;font-weight:bold}
+.t7{font-family:Tahoma,sans-serif;font-size:2.4em;line-height:120%;font-weight:bold;vertical-align:.034em}
+.t8{font-family:Tahoma,sans-serif;font-size:1.3em;line-height:120%}
+.t9{font-family:Tahoma,sans-serif;font-size:1.5em;line-height:120%}
+.t10{font-family:Tahoma,sans-serif;font-size:.75em;line-height:90%;font-weight:bold;font-style:italic}
+.t11{font-family:Tahoma,sans-serif;font-size:.83em;line-height:120%;font-weight:bold}
+.t12{font-family:Tahoma,sans-serif;font-size:.83em;line-height:120%}
+.t13{font-family:Tahoma,sans-serif;font-size:1.1em;line-height:100%;font-weight:bold;font-style:italic}
+.t14{font-family:Tahoma,sans-serif;font-size:1.1em;line-height:100%;font-style:italic}
+.t15{font-family:Tahoma,sans-serif;font-size:1.1em;line-height:100%;font-weight:bold;font-style:italic;vertical-align:-.31em}
+.t16{font-family:Palatino Linotype,sans-serif;font-size:1.2em;line-height:100%;font-style:italic}
+.t17{font-size:1.2em;line-height:120%}
+.t18{font-style:italic}
+.t19{font-size:1.1em;line-height:120%;font-weight:bold;font-style:italic}
+.t20{font-weight:bold}
+.t21{font-family:Tahoma,sans-serif}
+.t22{font-family:"Tahoma",serif}
+.t23{font-size:.83em;line-height:100%;font-style:italic}
+.t24{font-size:.83em;line-height:100%;font-style:italic;color:#4f81bd}
+.t25{font-size:1.1em;line-height:100%;font-weight:bold;font-style:italic}
+.t27{font-size:1.1em;line-height:110%;font-weight:bold;font-style:italic}
+.t28{font-size:1.1em;line-height:110%}
+.t30{font-size:1.2em;line-height:100%}
+.t31{font-size:.92em;line-height:100%}
+.t32{font-size:.92em;line-height:110%}
+.t33{font-size:.83em;line-height:120%;font-weight:bold;font-style:italic}
+.t34{font-family:"Segoe UI",sans-serif;font-size:.83em;line-height:120%;font-weight:bold;font-style:italic}
+.t35{font-family:"Segoe UI",sans-serif}
+.t36{font-family:"Segoe UI",sans-serif;font-size:1.1em;line-height:120%;font-weight:bold;font-style:italic}
+.t37{font-size:1.2em;line-height:120%;font-weight:bold}
+.t38{font-size:.92em;line-height:110%;font-style:italic}
+.t39{font-size:.92em;font-style:italic}
+.t40{font-size:.92em}
+.t41{font-family:"Segoe UI",sans-serif;font-size:1.1em;font-weight:bold;font-style:italic}
+.t42{font-size:.92em;line-height:100%;font-style:italic}
+.t43{font-family:"Segoe UI",sans-serif;font-size:1.1em;line-height:100%;font-weight:bold;font-style:italic}
+.t44{font-family:"Segoe UI",sans-serif;font-size:.92em;line-height:120%}
+.t46{font-style:italic}
+.t47{font-size:1.1em;font-weight:bold;font-style:italic}
+.th12{font-family:"Palatino Linotype",serif;font-size:.5em;line-height:100%}
+.th13{vertical-align:-.17em}

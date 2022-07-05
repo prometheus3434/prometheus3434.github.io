@@ -1,0 +1,159 @@
+.baslik {
+  text-align: center;
+  margin: 5em auto 0.5em auto;
+}
+.r-baslik {
+  text-align: right;
+  margin: 2em auto 1.5em auto !important;
+}
+.chapter p {
+  text-indent: 1.5em;
+  margin: 0;
+  line-height: 1.3em;
+}
+.no-indent {
+  text-indent: 0 !important;
+}
+.p-right2 {
+  text-align: right;
+  margin: 1em auto !important;
+}
+.p-right {
+  text-align: right;
+  margin: 0 auto 1em auto !important;
+}
+.alinti2 {
+  margin: 1em auto 1em 1em;
+}
+.alinti2 p {
+  text-indent: 1.5em;
+  margin: 0;
+  line-height: 1.3em;
+}
+.alt-baslik {
+  margin: 3em auto 1.5em auto;
+  text-align: center;
+}
+.si-noteref {
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote {
+  font-size: 0.8em;
+  margin-bottom: 0.25em;
+}
+.h-margin {
+  margin: 2em auto;
+  border: none;
+}
+/*Introduction*/
+.introduction h1 {
+  text-align: center;
+  margin: 5em auto 1.5em auto;
+}
+.introduction p {
+  text-indent: 1.5em;
+  margin: 0;
+  line-height: 1.3em;
+}
+.alinti {
+  margin: 1em auto 1em auto;
+}
+.alinti p, .alinti2 p {
+  text-indent: 1.5em;
+  margin: 0;
+  line-height: 1.3em;
+}
+.yazar {
+  text-align: right;
+  margin: 1em auto !important;
+}
+.part {
+  margin: 5em auto 0 auto;
+}
+.part-baslik {
+  text-align: left;
+  margin: 2em auto;
+}
+.part p {
+  text-align: left;
+  margin: 0.5em auto;
+  text-indent: 0 !important;
+}
+.epigraph1 {
+  text-align: right;
+  margin-bottom: 2em !important;
+  font-size: 0.75em !important;
+}
+/*Biography*/
+.biography p, .books p {
+  margin: 0;
+  line-height: 1.5em;
+}
+.s-margin {
+  margin-top: 5em;
+}
+/*Copyright*/
+.copyright-page p {
+  margin: 0;
+  line-height: 1.5em;
+}
+.c1-margin {
+  margin: 1em auto;
+}
+.c-margin {
+  margin-top: 3em;
+}
+.copyright-page a {
+  vertical-align: baseline;
+  font-size: 1em;
+  color: #7A7A7A;
+  text-decoration: none;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: center;
+}
+.t-1 {
+  margin: 0 auto 1em auto;
+}
+.t-2 {
+  margin: 0 auto 3em auto;
+}
+.t-3 {
+  margin: 0 auto 2em auto;
+}
+.t-4 {
+  margin: 0;
+}
+.t-5 {
+  margin: 0.5em auto;
+}
+.first {
+  font-size: 1.1em;
+}
+.logo {
+  margin: 3em auto 0 auto;
+}
+/*Cover*/
+/*Epigraph*/
+.epig p {
+  padding-left: 5em;
+  margin: 0;
+  line-height: 1.3em;
+  text-align: right;
+}
+.epig {
+  margin: 5em auto 0 auto;
+}
