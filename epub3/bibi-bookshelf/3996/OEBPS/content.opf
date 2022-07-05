@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kızıl gezegen</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Heinlein, Robert Anson &amp; Ertürk, Ferhan">Robert Anson Heinlein</dc:creator>
+    <dc:creator opf:role="aut">Ferhan Ertürk</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">5d9f555e-b7a5-478e-bdd7-f2c7a332d545</dc:identifier>
+    <dc:date>1996-06-15T10:34:37+00:00</dc:date>
+    <dc:date opf:event="modification">2016-01-09</dc:date>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>&lt;p&gt;Mars'ın sahibi kimdir? Yatırım yapan şirket mi, yoksa orada yeni bir dünya kurmaya çalışanlar mı? Yoksa Mars'ın yerlileri mi?
+"Soru kutup kışında sağ kalıp kalmamak değildir: Eskimolar her kış beceriyorlar bunu. Bu bir sözleşme meselesidir; özgür insanlar mıyız yoksa başka bir gezegende Mars'a hiç adım atmamış insanların bizim adımıza karar vermesine izin verecek miyiz: mesele budur.
+
+"Bir dakika - bırakın bitireyim! Biz ilk öncüleriz. Atmosfer projesi bittiğinde, milyonlarcası bizi takip edecek! Onlar Dünya'da, başka bir gezegende oturan mal sahiplerinin idare meclisi tarafından mı yönetilecekler? Mars Dünya'nın bir sömürgesi oalrak mı kalacak? Şimdi bunların kararının verilmesinin zamanı." &lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f283f292-9e76-4b4e-a837-5be114a9110b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753421096</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ibLvtgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">5d9f555e-b7a5-478e-bdd7-f2c7a332d545</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753421096</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kizil.gezegen.jpg"/>
+    <meta name="calibre:title_sort" content="Kızıl gezegen"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Anson Heinlein&quot;: &quot;&quot;, &quot;Ferhan Ertürk&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic.kapak.xhtml" id="ic.kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bio.xhtml" id="bio.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter1.xhtml" id="Chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter2.xhtml" id="Chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter3.xhtml" id="Chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter4.xhtml" id="Chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter5.xhtml" id="Chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter6.xhtml" id="Chapter6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter7.xhtml" id="Chapter7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter8.xhtml" id="Chapter8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter9.xhtml" id="Chapter9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter10.xhtml" id="Chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter11.xhtml" id="Chapter11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter12.xhtml" id="Chapter12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter13.xhtml" id="Chapter13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter14.xhtml" id="Chapter14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource2" media-type="text/css"/>
+    <item href="Images/image001.png" id="resource1" media-type="image/png"/>
+    <item href="Images/kizil.gezegen.jpg" id="kizil.gezegen.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ic.kapak.xhtml"/>
+    <itemref idref="bio.xhtml"/>
+    <itemref idref="Chapter1.xhtml"/>
+    <itemref idref="Chapter2.xhtml"/>
+    <itemref idref="Chapter3.xhtml"/>
+    <itemref idref="Chapter4.xhtml"/>
+    <itemref idref="Chapter5.xhtml"/>
+    <itemref idref="Chapter6.xhtml"/>
+    <itemref idref="Chapter7.xhtml"/>
+    <itemref idref="Chapter8.xhtml"/>
+    <itemref idref="Chapter9.xhtml"/>
+    <itemref idref="Chapter10.xhtml"/>
+    <itemref idref="Chapter11.xhtml"/>
+    <itemref idref="Chapter12.xhtml"/>
+    <itemref idref="Chapter13.xhtml"/>
+    <itemref idref="Chapter14.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kunye.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/Chapter1.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

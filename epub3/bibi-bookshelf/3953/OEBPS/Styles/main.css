@@ -1,0 +1,100 @@
+body {
+  font-family: serif;
+}
+p {
+  font-size: 1em;
+}
+i, em {
+  font-style: italic;
+}
+b, strong {
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+img.sol {
+  float: left;
+  padding: 1em;
+}
+.baslik_0 {
+  font-size: 2.5em;
+}
+.baslik_1 {
+  font-size: 2em;
+}
+.baslik_3 {
+  font-size: 1.5em;
+}
+.baslik_4 {
+  font-size: 1.2em;
+}
+.baslik_5 {
+  font-size: 1.1em;
+}
+.baslik_0, .baslik_1, .baslik_2, .baslik_3, .baslik_4, .baslik_5 {
+  text-align: center;
+  text-indent: 0 !important;
+}
+.bosluk_alt_1 {
+  margin-bottom: 1em;
+}
+.bosluk_alt_2 {
+  margin-bottom: 2em;
+}
+.bosluk_ust_1 {
+  margin-top: 1em;
+}
+.kitap_adi, .yazar_adi, .cevirmen_adi, .yayinevi_adi, .no {
+  font-weight: normal;
+  text-align: center;
+}
+.kitap_adi, .yazar_adi, .cevirmen_adi, .yayinevi_adi {
+  margin: 0;
+}
+.bolum {
+  margin: 4em 0 2em;
+}
+.kitap_adi {
+  font-size: 2em;
+}
+.yazar_adi {
+  font-size: 1.5em;
+}
+.kunye_orta {
+  text-align: center;
+}
+.kunye p, .kunye_orta p {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+.yazar p, .bolum p {
+  text-indent: 1.5em;
+  margin: 0;
+}
+p.iceri_1 {
+  margin-left: 1em;
+}
+p.orta, p.sag {
+  text-indent: 0;
+}
+p.orta {
+  text-align: center;
+}
+p.sag {
+  text-align: right;
+}
+.altta {
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  padding: 5px;
+  bottom: 0;
+}
+.kutu {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+.sayfa_orta {
+  margin-top: 48%;
+}

@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "Georgia";
+	src: url(../Fonts/Georgia.ttf)
+}
+
+@font-face {
+	font-family: "Georgia";
+	src: url(../Fonts/Georgia-Bold.ttf);
+	font-weight: bold
+}
+
+@font-face {
+	font-family: "Georgia";
+	src: url(../Fonts/Georgia-Italic.ttf);
+	font-style: italic
+}

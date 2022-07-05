@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Önsöz</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Giriş</text>
+			</navLabel>
+			<content src="Text/6-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>KISIM I</text>
+			</navLabel>
+			<content src="Text/6-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>KISIM II</text>
+			</navLabel>
+			<content src="Text/6-6.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Notlar</text>
+			</navLabel>
+			<content src="Text/6-11.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Kaynakça</text>
+			</navLabel>
+			<content src="Text/6-12.html#toc_marker-6"/>
+		</navPoint>
+	</navMap>
+</ncx>

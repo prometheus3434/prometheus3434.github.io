@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Kıskançlık</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Oleşa, Yuri">Yuri Oleşa</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Yirminci yüzyıl Rus edebiyatının en önemli eserlerinden biri sayılan Kıskançlık'ta, dönemin Sovyet düzeninin metaforu yaratılmış, Sovyet Rusya'nın ilk yıllarındaki çarpışan değerlerinin ileriye dönük bir portresi çizilmiştir. Oleşa'nın dışavurumcu üslupla yazdığı ve toplumsal gerçekçilik ekolünden oldukça farklı duran bu romanı Nabokov ve Bulgakov'un yapıtlarıyla karşılaştırılmıştır. Sıradan insanın içini kemiren kıskançlık duygusunu somutlaştıran Kavalyerov, sistemin çarkları arasında kendi yaratıcılığına özgürlük tanınmadığını düşünen İvan Babiçev, sistemin ta kendisini temsil eden Andrey Babiçev gibi unutulmaz karakterleriyle, Kıskançlık, usta işi bir üslupla işlenmiş, müthiş bir ironiyle bezenmiş, insan psikolojisinin derinlerine inerken toplumsal taşlamaya da yer veren bir eser.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Üstün ve zamanı aşan, neredeyse bir film kadar görsel bir şölen."&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;-The New York Times-&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Modernizm deneyi ve Dostoyevski'yi andıran bir mazoşizmin birleşimi..."&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;-Times Literary Supplement-&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1aab5a2f-3f36-4071-aedb-1adfdb572528</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3af5e814-13f9-48ef-88a1-d8cfa35f3079</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-02-21T11:42:10.354000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kıskançlık"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yuri Oleşa&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

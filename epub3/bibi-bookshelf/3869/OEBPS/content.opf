@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Kâtip Bartleby</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Melville, Herman">Herman Melville</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2022-03-15T12:19:18+00:00</dc:date>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:description>Çok kısıtlı bir çevrenin tanıdığı adsız sansız bir yazar olarak öldüğünde, Melville ardında bugün klasik romanın başyapıtlarından biri kabul edilen Moby Dick’i ve kült kısa öyküsü Kâtip Bartleby’yi bırakmıştı. 19. yüzyıl New York’unda Wall Street’te, bir avukatın yazıhanesinde kâtip olan genç Bartleby zamanla “yapmamayı tercih etmesi” ve kayıtsızlığıyla patronun nasıl başa çıkacağını bilemediği bir soruna dönüşmüştü.Konu olduğu metinden bağımsızlaşıp adeta kendi yaşamını sürmeye başlayan, başka edebi eserlere ilham veren, canlı kanlı bir insana dönüşen Bartleby, 20. yüzyıl edebiyatının simge karakterlerinden biri haline geldi. Deleuze’den Derrida’ya Blanchot’dan Negri’ye birçok düşünürün üzerine kalem oynattığı bu çetrefil karakter, çarkın uyumsuz dişlisi yeni okumalara, çözümlemelere konu olmaya devam ediyor.“Bartleby, ustalığın ya da düşsel imgelemenin uçarılığının ötesindedir; her şeyden önce evrenin gündelik ironilerinden biri olan gerçek faydasızlığı gösteren üzücü ve gerçek bir kitaptır.”Jorge Luis Borges#dünyaklasikleri #kısaklasikler #kült #yapmamayıtercihederim #katip #aykırı #özgürirade</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">a84abc17-19dd-4ad2-bb35-de4b8e69b162</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">hI1sEAAAQBAJ</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9789750757389</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="kapak_fmt.jpeg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kâtip Bartleby"/>
+    <meta name="calibre:author_link_map" content="{&quot;Herman Melville&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kent</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Simak, Clifford D.">Clifford D. Simak</dc:creator>
+    <dc:identifier id="BookId">secrettime</dc:identifier>
+    <dc:description>&lt;p class="description"&gt;Ateşler gürleyip rüzgar kuzeyden estiğinde Köpekler'in anlattığı öykülerdir bunlar. Böyle zamanlarda her aile ocağın başında toplanır, enikler sessizce oturur, dinler ve öykü bittiğinde birçok soru sorarlar. "İnsan nedir?" derler. Ya da "Kent nedir?" Belki de "Savaş nedir?" diye sorarlar. Çok, çok uzak bir gelecekte, insanlık artık yalnızca bir söylenceden ibarettir ve Köpekler arasında bir gerçekten çok efsaneye benzeyen sekiz öykü halinde, babadan eniğe anlatılır... ya da en azından Köpeklerin düşündüğü budur.&lt;/p&gt;</dc:description>
+    <dc:publisher>Ithaki Yayinlari</dc:publisher>
+    <dc:date>2020-07-15T10:05:15+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c5420ce4-06b7-4e77-8c22-8b57c6a8ab26</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8MbRzgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758725137</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786257913454</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kent"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Clifford D. Simak&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.html" id="arkakapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.html" id="yazar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.html" id="onsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.html" id="notlar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="arkakapak.html"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="notlar.html"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

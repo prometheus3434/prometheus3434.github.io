@@ -1,0 +1,96 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookID">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kıyamet Gösterisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gaiman, Neil. Pratchett, Terry">Neil Gaiman. Terry Pratchett</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">7C023768-16BB-4166-BBD7-87AC6B4E337F</dc:identifier>
+    <dc:date>2012-05-13T21:00:00+00:00</dc:date>
+    <dc:description>1655 yılında yazılmış ve şimdiye kadarki en doğru kehanet kitabı olan Cadı Agnes Çatlak'ın Dakîk ve Kat'î Kehanetleri'ne göre, cumartesi günü dünyanın sonu. Önümüzdeki Cumartesi. Akşam yemeğinden hemen önce.</dc:description>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:source>Good Omens</dc:source>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:contributor opf:role="trl">Niran Elçi</dc:contributor>
+    <dc:date opf:event="modification">2018-02-11</dc:date>
+    <dc:subject>Komedi</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>İngiliz Edebiyatı</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">546089a5-e405-40f1-9f0e-2a3a81bd7758</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053751830</dc:identifier>
+    <dc:identifier opf:scheme="UUID">7C023768-16BB-4166-BBD7-87AC6B4E337F</dc:identifier>
+    <meta content="1.1.28" name="writer2epub"/>
+    <meta content="0.9.9" name="Sigil version"/>
+    <meta name="cover" content="x6515e599-8971-4494-810f-3227eae20a0c"/>
+    <meta name="calibre:title_sort" content="Kıyamet Gösterisi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman. Terry Pratchett&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="atif.xhtml" href="Text/atif.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim01.xhtml" href="Text/kisim01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k01_01.xhtml" href="Text/k01_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k01_02.xhtml" href="Text/k01_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim02.xhtml" href="Text/kisim02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k02_01.xhtml" href="Text/k02_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim03.xhtml" href="Text/kisim03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k03_01.xhtml" href="Text/k03_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim04.xhtml" href="Text/kisim04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k04_01.xhtml" href="Text/k04_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim05.xhtml" href="Text/kisim05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k05_01.xhtml" href="Text/k05_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim06.xhtml" href="Text/kisim06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k06_01.xhtml" href="Text/k06_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kisim07.xhtml" href="Text/kisim07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="k07_01.xhtml" href="Text/k07_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="roportaj.xhtml" href="Text/roportaj.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hakkinda1.xhtml" href="Text/hakkinda1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hakkinda2.xhtml" href="Text/hakkinda2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="footnotes.xhtml" href="Text/footnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="eldv0.6.css" href="Styles/eldv0.6.css" media-type="text/css"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="x6515e599-8971-4494-810f-3227eae20a0c" href="Images/cover.png" media-type="image/png"/>
+    <item id="divider.svg" href="Images/divider.svg" media-type="image/svg+xml"/>
+    <item id="insidecover.png" href="Images/insidecover.png" media-type="image/png"/>
+    <item id="x28638609-8f00-4dbb-a01b-d3a1e888de82" href="Images/insidecover.png" media-type="image/png"/>
+    <item id="libra.svg" href="Images/libra.svg" media-type="image/svg+xml"/>
+    <item id="giris.TTF" href="Fonts/giris.TTF" media-type="application/x-font-ttf"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="atif.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="kisim01.xhtml"/>
+    <itemref idref="k01_01.xhtml"/>
+    <itemref idref="k01_02.xhtml"/>
+    <itemref idref="kisim02.xhtml"/>
+    <itemref idref="k02_01.xhtml"/>
+    <itemref idref="kisim03.xhtml"/>
+    <itemref idref="k03_01.xhtml"/>
+    <itemref idref="kisim04.xhtml"/>
+    <itemref idref="k04_01.xhtml"/>
+    <itemref idref="kisim05.xhtml"/>
+    <itemref idref="k05_01.xhtml"/>
+    <itemref idref="kisim06.xhtml"/>
+    <itemref idref="k06_01.xhtml"/>
+    <itemref idref="kisim07.xhtml"/>
+    <itemref idref="k07_01.xhtml"/>
+    <itemref idref="roportaj.xhtml"/>
+    <itemref idref="hakkinda1.xhtml"/>
+    <itemref idref="hakkinda2.xhtml"/>
+    <itemref idref="footnotes.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

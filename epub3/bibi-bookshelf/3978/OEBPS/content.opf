@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kitaplardan Kurtulabileceğinizi Sanmayın</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jean-Claude Carriere, Umberto Eco">Jean-Claude Carriere, Umberto Eco</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">be199d95-41b5-45ab-bd9a-648e4114de1d</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Papirüsten elektronik dosyalara, kitabın beş bin yıllık tarihinde bir yolculuğa çıkıyoruz. İki kitap âşığının, semiyolog, düşünür ve yazar Umberto Eco ile sinemacı ve dramaturg Jean-Claude Carrière'in sohbeti çarpıcı anekdotlarla, hiç duymadığınız ayrıntılarla dolu. Zamanda ve mekânda gezinirken, gerçek kişiler roman kahramanlarına karışıyor, budalalık kutsanıyor; koleksiyoncuların takıntıları, neden bazı dönemlerin çok sayıda şaheser doğurduğu, hafızamızın nasıl çalıştığı, kütüphanelerin nasıl düzenlenmesi gerektiği anlatılıyor. Hatta "tavukların karşıdan karşıya geçmeyi neden bir asırda öğrendiğini" ya da kitabın neden tekerleğe benzediğini böylece öğreniyoruz. Kısacası bu iki çılgın edebiyat tutkunu, her adımda hem şaşırtan hem de bilgilendiren neşeli sohbetlerine bizi de ortak ediyorlar. 
+Nietzsche'nin deyimiyle "neşeli bilgi" var bu kitapta!
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-09-28T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-09-29</dc:date>
+    <dc:subject>Deneme</dc:subject>
+    <dc:subject>İnceleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">87742267-42e7-4209-a1d7-9347a5dcbade</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750711848</dc:identifier>
+    <meta content="Kitaplardan Kurtulabileceğinizi Sanmayın" name="calibre:title_sort"/>
+    <meta content="2014-09-28T19:39:20.345000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="kapak.jpeg"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Jean-Claude Carriere, Umberto Eco&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="x001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="x004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="x005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="x006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="x007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="x008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="x009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="x010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="x011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="x012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="x013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="x014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="x015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.html" id="notlar.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/CAN_LOGO.png" id="CAN_LOGO.png" media-type="image/png"/>
+    <item href="Images/kapak.jpeg" id="kapak.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="x001.html"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="x004.html"/>
+    <itemref idref="x005.html"/>
+    <itemref idref="x006.html"/>
+    <itemref idref="x007.html"/>
+    <itemref idref="x008.html"/>
+    <itemref idref="x009.html"/>
+    <itemref idref="x010.html"/>
+    <itemref idref="x011.html"/>
+    <itemref idref="x012.html"/>
+    <itemref idref="x013.html"/>
+    <itemref idref="x014.html"/>
+    <itemref idref="x015.html"/>
+    <itemref idref="notlar.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

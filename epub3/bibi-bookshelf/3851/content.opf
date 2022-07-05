@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Karılar koğuşu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tahir, Kemal">Kemal Tahir</dc:creator>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Karılar Koğuşu" Kemal Tahir'in ölümünden sonra yayımlanmış romanlarından biri. Kemal Tahir'in hapishanede yazdığı bu roman Anadolu kadınının hapishanede sürdürdüğü acımasız yaşamı anlatıyor. Karılar Koğuşu, romancının hapishanede yakından tanığı olduğu olayların ve gerçek kişilerin dramı...&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8f0f278f-3132-4792-8725-baa3a52c9acd</dc:identifier>
+    <dc:date>2008-06-15T12:02:55+00:00</dc:date>
+    <dc:publisher>Ithaki Publishing</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b14f8011-3840-43c4-ad13-0790971c04b8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752731301</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Mn1wHn10p5kC</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Karılar koğuşu"/>
+    <meta name="calibre:timestamp" content="2015-09-10T11:49:37.933000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

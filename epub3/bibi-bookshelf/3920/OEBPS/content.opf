@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kesin inançlılar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hoffer, Eric &amp; Günur, Erkıl">Eric Hoffer</dc:creator>
+    <dc:creator opf:role="aut">Erkıl Günur</dc:creator>
+    <dc:publisher>Plato Film Yayınları</dc:publisher>
+    <dc:date>2010-06-15T11:33:03+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">84eab5bc-2bfe-42e3-bc73-9f5832645f54</dc:identifier>
+    <dc:date opf:event="modification">2014-10-07</dc:date>
+    <dc:description>İÇİNDEKİLER YAZAR HAKKINDA ... 1 ÖNSÖZ ... 7 1. KİTLE HAREKETLERİNİN ÇEKİCİ YÖNLERİ ... 11 2. İNANÇ DEĞİŞTİRMEYE HAZIR KİŞtLER ... 32 3. BİRLİKTE HAREKET VE NEFSİNDEN FEDAKÂRLIK ... 68 4. BAŞLANGIÇ VE SONUÇ ... : ... 145 5. KAYNAKÇA ... 182.</dc:description>
+    <dc:subject>Piskoloji</dc:subject>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Gerçek</dc:subject>
+    <dc:subject>Politik</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">efd7a2d6-b39e-4f7f-bca8-826c3fe8887d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756381182</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">MChUywAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756381182</dc:identifier>
+    <meta content="2014-10-06T06:21:36.574000+00:00" name="calibre:timestamp"/>
+    <meta content="Kesin inançlılar" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{&quot;Eric Hoffer&quot;: &quot;&quot;, &quot;Erkıl Günur&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/Georgia-Bold.ttf" id="font1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Georgia-Italic.ttf" id="font2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Georgia.ttf" id="font" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

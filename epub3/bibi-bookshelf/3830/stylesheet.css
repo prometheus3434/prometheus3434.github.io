@@ -1,0 +1,19 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    text-decoration: underline
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }

@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kapitalizm ve Özgürlük</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Friedman, Milton">Milton Friedman</dc:creator>
+    <dc:publisher>Serbest Kitaplar</dc:publisher>
+    <dc:identifier id="BookId" opf:scheme="UUID">30aaadeb-c19b-475e-a2bf-b790dbcb3e31</dc:identifier>
+    <dc:date>2021-03-15T11:37:27+00:00</dc:date>
+    <dc:date opf:event="modification">2015-01-16</dc:date>
+    <dc:description>&lt;p&gt;Devlet bir taraftan bireysel özgürlüklerimize bir tehdit gibi görünürken, onun vaat ettiklerinden nasıl bir fayda sağlayabiliriz? Milton Friedman bu klasikleşmiş kitabında, rekabetçi kapitalizmin, hem ekonomik özgürlük kazanma adına hem de siyasi özgürlük için gerekli bir şart olduğu biçiminde özetlenebilecek son derece etkin ekonomi felsefesinin kesin ifadelerini sunuyor. Sonuç olarak ortaya İngilizce'de yarım milyondan fazla satılmış, on sekiz farklı dile çevrilmiş ve her geçen gün önemi artmakta olan bir metin çıkmış. “Yüzyılın ekonomisti.” – Fortune
+
+“Milton Friedman dikkate değer analitik yetenekleri ve teknik hünerleri ile ülkenin önde gelen ekonomistlerinden biridir. Friedman toplum için sönmek nedir bilmeyen bir aydınlatıcı, bir bağımsız, bir cesaret sembolü, bir dahi ve hepsinden öte bir teşvik unsurudur.” Henry Hazlitt, Newsweek
+
+“Milton Friedman son on ya da on beş yıldır olması gerektiği biçimde tanınıyor – 2. Dünya Savaşı'ndan günümüze hali hazırda hayatta olan en etkili ekonomist.” Robert J. Samuelson, The Washington Post
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Chicago Okulu</dc:subject>
+    <dc:subject>Liberalizm</dc:subject>
+    <dc:subject>İktisat</dc:subject>
+    <dc:subject>Düşünce</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7d3e213d-752f-40b3-ac84-1165cf3072a2</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786057494542</dc:identifier>
+    <dc:identifier opf:scheme="UUID">30aaadeb-c19b-475e-a2bf-b790dbcb3e31</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756381076</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">j2EtzwEACAAJ</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kapitalizm ve Özgürlük"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Milton Friedman&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="text13" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="text14" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="text15" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="text16" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="text17" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="text18" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="text19" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter20.xhtml" id="text20" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="Images/image001.png" id="cover-image" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text13"/>
+    <itemref idref="text14"/>
+    <itemref idref="text15"/>
+    <itemref idref="text16"/>
+    <itemref idref="text17"/>
+    <itemref idref="text18"/>
+    <itemref idref="text19"/>
+    <itemref idref="text20"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/chapter1.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/chapter3.xhtml" title="Text" type="text"/>
+    <reference href="Text/chapter2.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

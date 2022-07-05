@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>KaraKaz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-12-01T11:30:03+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">69697a63-249e-42fe-a8d6-53a1aa1667db</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7fc35d72-c171-4857-97a8-a1979ddddd33</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-12-02T10:50:23.462146+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="KaraKaz"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uscxGzsLEzTRgRkwDRy3QXE" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KaraKaz_08_2bs3" href="OEBPS/KaraKaz_08_2bs_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KaraKaz_08_2bs2" href="OEBPS/KaraKaz_08_2bs_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KaraKaz_08_2bs1" href="OEBPS/KaraKaz_08_2bs_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Balik.png" href="OEBPS/image/Balik.png" media-type="image/png"/>
+    <item id="karakaz_ara.png" href="OEBPS/image/karakaz_ara.png" media-type="image/png"/>
+    <item id="karakaz_icK.png" href="OEBPS/image/karakaz_icK.png" media-type="image/png"/>
+    <item id="cover" href="OEBPS/image/KaraKaz.jpg" media-type="image/jpeg"/>
+    <item id="karakaz.png" href="OEBPS/image/karakaz.png" media-type="image/png"/>
+    <item id="karakaz1.png" href="OEBPS/image/karakaz1.png" media-type="image/png"/>
+    <item id="karakaz10.png" href="OEBPS/image/karakaz10.png" media-type="image/png"/>
+    <item id="karakaz11.jpg" href="OEBPS/image/karakaz11.jpg" media-type="image/jpeg"/>
+    <item id="karakaz12.png" href="OEBPS/image/karakaz12.png" media-type="image/png"/>
+    <item id="karakaz13.jpg" href="OEBPS/image/karakaz13.jpg" media-type="image/jpeg"/>
+    <item id="karakaz14.jpg" href="OEBPS/image/karakaz14.jpg" media-type="image/jpeg"/>
+    <item id="karakaz15.png" href="OEBPS/image/karakaz15.png" media-type="image/png"/>
+    <item id="karakaz16.png" href="OEBPS/image/karakaz16.png" media-type="image/png"/>
+    <item id="karakaz17.png" href="OEBPS/image/karakaz17.png" media-type="image/png"/>
+    <item id="karakaz18.png" href="OEBPS/image/karakaz18.png" media-type="image/png"/>
+    <item id="karakaz19.png" href="OEBPS/image/karakaz19.png" media-type="image/png"/>
+    <item id="karakaz2.png" href="OEBPS/image/karakaz2.png" media-type="image/png"/>
+    <item id="karakaz20.jpg" href="OEBPS/image/karakaz20.jpg" media-type="image/jpeg"/>
+    <item id="karakaz21.jpg" href="OEBPS/image/karakaz21.jpg" media-type="image/jpeg"/>
+    <item id="karakaz21.png" href="OEBPS/image/karakaz21.png" media-type="image/png"/>
+    <item id="karakaz22.jpg" href="OEBPS/image/karakaz22.jpg" media-type="image/jpeg"/>
+    <item id="karakaz23.jpg" href="OEBPS/image/karakaz23.jpg" media-type="image/jpeg"/>
+    <item id="karakaz3.png" href="OEBPS/image/karakaz3.png" media-type="image/png"/>
+    <item id="karakaz4.png" href="OEBPS/image/karakaz4.png" media-type="image/png"/>
+    <item id="karakaz5.png" href="OEBPS/image/karakaz5.png" media-type="image/png"/>
+    <item id="karakaz6.png" href="OEBPS/image/karakaz6.png" media-type="image/png"/>
+    <item id="karakaz7.jpg" href="OEBPS/image/karakaz7.jpg" media-type="image/jpeg"/>
+    <item id="karakaz7.png" href="OEBPS/image/karakaz7.png" media-type="image/png"/>
+    <item id="karakaz8.png" href="OEBPS/image/karakaz8.png" media-type="image/png"/>
+    <item id="karakaz9.jpg" href="OEBPS/image/karakaz9.jpg" media-type="image/jpeg"/>
+    <item id="Kaz.png" href="OEBPS/image/Kaz.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uscxGzsLEzTRgRkwDRy3QXE"/>
+    <itemref idref="KaraKaz_08_2bs3"/>
+    <itemref idref="KaraKaz_08_2bs2"/>
+    <itemref idref="KaraKaz_08_2bs1"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

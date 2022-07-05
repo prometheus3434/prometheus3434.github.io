@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<ns0:package xmlns:ns0="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <ns0:metadata>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Kelile ve Dimne'den Seçme Hikayeler</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="aut" ns0:file-as="Beydeba">Beydeba</dc:creator>
+    <ns1:date xmlns:ns1="http://purl.org/dc/elements/1.1/">2013-09-01T12:46:55+00:00</ns1:date>
+    <ns1:contributor xmlns:ns1="http://purl.org/dc/elements/1.1/" ns0:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</ns1:contributor>
+    <ns1:identifier xmlns:ns1="http://purl.org/dc/elements/1.1/" id="uuid_id" ns0:scheme="uuid">54756796-a80b-4e71-a8b7-5fc50405b88a</ns1:identifier>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Nesil Basım Yayın Gıda Ticaret ve Sanayi A.Ş</dc:publisher>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Literary Collections</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Middle Eastern</dc:subject>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Doğu’nun klasik edebiyatı içinde pek çok yıldız mevcuttur. Bu yıldızlardan biridir Kelile ve Dimne... Debşelim adındaki bir Hint hükümdarına ithafen yazılmıştır. Beydeba adlı bir filozofun anlatımıyla renk bulmuştur. Aslı Sanskritçedir. Eser, ismini, Düşündürücü Beş Öğüt adlı hikâyedeki iki çakaldan alır. Oluşturduğu tarzla La Fontaine’den Mevlana’ya kadar uzanmıştır etkileri.Bu eser, öncelikle öğrencilerimize, daha sonra konuyla ilgilenen herkese faydalar sağlayacaktır. Kültürümüzün sonraki nesillere taşınması adına bir katkı olması dileğimizle... [Etkileşim Yayınları]</dc:description>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">tr</dc:language>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="calibre">7f10b04f-9cbf-4742-bddf-9a9ea7da5245</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="ISBN">9786051316192</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="GOOGLE">-5slAwAAQBAJ</dc:identifier>
+    <ns0:meta content="1" name="calibre:series_index"/>
+    <ns0:meta content="2010-12-01T05:44:36.890000+00:00" name="calibre:timestamp"/>
+    <ns0:meta name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" name="calibre:title_sort" content="Kelile ve Dimne'den Seçme Hikayeler"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" name="calibre:author_link_map" content="{&quot;Beydeba&quot;: &quot;&quot;}"/>
+  </ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/001_split_000.html" id="id0012" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/001_split_001.html" id="id0011" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <ns0:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <ns0:item href="stylesheet.css" id="css" media-type="text/css"/>
+    <ns0:item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="id4" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="id3" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Italic.ttf" id="id2" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Regular.ttf" id="id1" media-type="application/octet-stream"/>
+    <ns0:item href="Ops/fonts/ARIAL.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+    <ns0:item href="Ops/fonts/ARIALBD.TTF" id="idfont2" media-type="application/vnd-ms-opentype"/>
+  </ns0:manifest>
+  <ns0:spine toc="ncx">
+    <ns0:itemref idref="titlepage"/>
+    <ns0:itemref idref="id0012"/>
+    <ns0:itemref idref="id0011"/>
+    <ns0:itemref idref="id002"/>
+  </ns0:spine>
+  <ns0:guide>
+    <ns0:reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </ns0:guide>
+</ns0:package>

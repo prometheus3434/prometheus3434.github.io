@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:779d58e3-ce62-4b36-b174-a32bc57e3e5e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ayraç</text>
+      </navLabel>
+      <content src="Text/Ayrac.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Dost Kitabevi</text>
+      </navLabel>
+      <content src="Text/Dost_Kitabevi_.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Babil Kitaplığı</text>
+      </navLabel>
+      <content src="Text/Babil_Kitapligi.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Ic_Kapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Kardinal Napellus ve Diğer Öyküler</text>
+      </navLabel>
+      <content src="Text/Kardinal_Napellus_ve_Diger_Oykuler.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>J. H. Obereit’ın Zaman Sülüklerini Ziyareti</text>
+        </navLabel>
+        <content src="Text/J.H.Obereitin_Zaman_Suluklerini_Ziyareti.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Kardinal Napellus</text>
+        </navLabel>
+        <content src="Text/Kardinal_Napellus.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Dört Ay Kardeşi Bir Belge</text>
+        </navLabel>
+        <content src="Text/Dort_Ay_Kardesi_Bir_Belge.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

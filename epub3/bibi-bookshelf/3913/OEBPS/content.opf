@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Kendine Ait Bir Oda</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Wolf, Virginia">Virginia Wolf</dc:creator>
+    <dc:description>&lt;p&gt;"Bütün bu yüzyıllar boyunca kadınlar, erkeği olduğundan iki kat büyük gösteren bir ayna görevi gördüler, büyülü bir aynaydı bu ve müthiş bir yansıtma gücü vardı. Böyle bir güç olmasaydı dünya hâlâ bataklık ve balta girmemiş ormanlardan ibaret olurdu. Savaşlarda zafer kazanıldığı duyulmazdı... Çar ve Kayzer ne taç giyerler, ne de tahttan inerlerdi. Uygar toplumlarda hangi işe yararlarsa yarasınlar, bütün şiddet ya da kahramanlık eylemlerinde aynalar gereklidir. İşte bu yüzden Napoléon da Mussolini de kadınların erkeklerden aşağı olduğunda bu kadar ısrarcıdırlar, eğer onlar aşağıda olmasalardı kendileri büyüyemezlerdi."
+Kendine Ait Bir Oda, Virginia Woolf'un 1928 yılında kapılarını kadınlara yeni yeni açmakta olan Cambridge Üniversitesi'ndeki kız öğrencilere hitaben yaptığı bir konuşması üzerine şekillenmiştir. İngiltere'de kadınların seçme ve seçilme hakkını elde etmelerinden bir yıl sonra yayımlanan kitap o tarihten günümüze feminizm tartışmalarının locus classicus'u olageldi. Jane Austen ve Charlotte Brontë'den, kadınların niçin bir Savaş ve Barış yazamadıklarına; Shakespeare'in hayali kız kardeşinden bugün de tartışılmaya devam eden kadının yoksulluğu ve namusu başlıklarına, hatta yaratıcılığın doğasına kadar uzanan geniş bir yelpazede kalemini özgürce oynatan Woolf, kadınlara edebiyat alanında bir çıkış yolu gösteriyor.
+
+"Bir kadın eğer kurmaca yazacaksa, parası ve kendine ait bir odası olmalıdır," diyen Virginia Woolf'un sesi, aradan geçen sekseni aşkın yıla rağmen gücünü ve etkinliğini koruyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Kırmızı Kedi Yayınevi</dc:publisher>
+    <dc:date>2012-06-18T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:7DCEAD21-010E-411C-81E1-416834D97C48</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Gerçek</dc:subject>
+    <dc:subject>Feminizm</dc:subject>
+    <dc:subject>Makale</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">da03845e-ab81-4e4b-a7d3-66dceeb68246</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">2789785884859</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="calibre:title_sort" content="Kendine Ait Bir Oda"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Virginia Wolf&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/B9789750500848.gif" id="cover" media-type="image/gif"/>
+    <item href="images/KedigriLogo-1_fmt.jpeg" id="KedigriLogo-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/KedigriLogo-1_fmt1.jpeg" id="KedigriLogo-1_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

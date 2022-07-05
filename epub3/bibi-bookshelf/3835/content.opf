@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Karanlığın Yolları - Kılıçlar Denizi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R.A.">R.A. Salvatore</dc:creator>
+    <dc:date>2012-06-22T15:45:41+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d8338420-4246-4c38-ace1-ad8a0d055499</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fed06156-dbf5-4171-a095-e0f286df90fe</dc:identifier>
+    <meta name="calibre:series" content="Karanlığın Yolları"/>
+    <meta name="calibre:title_sort" content="Karanlığın Yolları - Kılıçlar Denizi"/>
+    <meta name="calibre:timestamp" content="2012-06-22T15:45:41+00:00"/>
+    <meta name="calibre:series_index" content="4.0"/>
+    <meta name="calibre:user_categories" content="{&quot;TARİH&quot;: [], &quot;FANTASTİK&quot;: []}"/>
+    <meta name="calibre:author_link_map" content="{&quot;R.A. Salvatore&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="jacket.xhtml" id="calibre_jacket" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Kılıçlar Denizi.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Title Page"/>
+  </guide>
+</package>

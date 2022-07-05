@@ -1,0 +1,200 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block1 {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block2 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block3 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: center;
+    padding: 0
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    padding: 0
+    }
+.block5 {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    padding: 0
+    }
+.block6 {
+    display: block;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    padding: 0
+    }
+.block7 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block8 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block9 {
+    display: block;
+    line-height: 13pt;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: right;
+    padding: 0
+    }
+.block10 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block11 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block12 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block13 {
+    color: black;
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    color: black;
+    display: block;
+    font-family: serif;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre2 {
+    text-decoration: none
+    }
+.calibre3 {
+    white-space: pre-wrap
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2
+    }
+.calibre5 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre6 {
+    display: block;
+    margin-left: 40px
+    }
+.calibre7 {
+    display: block;
+    margin-left: 40px;
+    page-break-after: avoid
+    }
+.noteref {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.notes {
+    display: block;
+    margin: 1em 0
+    }
+.text {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.text1 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.text2 {
+    background-color: yellow
+    }

@@ -1,0 +1,421 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: -1pt;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1.29167em;
+    letter-spacing: -0.05pt;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: #262626;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.625em;
+    padding: 0;
+    margin: 0 0 0 49.7pt
+    }
+.block7 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    color: black;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block11 {
+    color: #4A442A;
+    display: block;
+    font-family: "Vladimir Script", cursive;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 24pt 0 0
+    }
+.block12 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block14 {
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block15 {
+    color: #4A442A;
+    display: block;
+    font-family: "Vladimir Script", cursive;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block17 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block18 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block19 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 0 216pt
+    }
+.block20 {
+    display: block;
+    font-family: "Garamond", serif;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block22 {
+    display: block;
+    font-family: "Garamond", serif;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block24 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block25 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    text-align: right;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block26 {
+    display: block;
+    font-family: "Garamond", serif;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block27 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    padding: 0;
+    margin: 0
+    }
+.block28 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block29 {
+    color: black;
+    display: block;
+    font-size: 0.625em;
+    text-align: justify;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block30 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block31 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: right;
+    text-indent: 14.2pt;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block32 {
+    display: block;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0
+    }
+.block33 {
+    color: #4A442A;
+    display: block;
+    font-family: "Vladimir Script", cursive;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 24pt 0 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Souvenir", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    height: 88.1pt;
+    width: 88.1pt
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.text2 {
+    color: #000;
+    font-family: "Arial Black", sans-serif;
+    font-size: 2.4em;
+    letter-spacing: -1pt;
+    line-height: 1.2
+    }
+.text7 {
+    font-family: "Calibri", sans-serif;
+    font-size: 1.2em
+    }
+.text8 {
+    color: #606;
+    font-family: "Kunstler Script", cursive;
+    font-size: 2.4em;
+    line-height: 1.2
+    }
+.text9 {
+    color: #000;
+    font-family: "Arial Black", sans-serif;
+    font-size: 0.9em;
+    font-weight: bold
+    }
+.text10 {
+    color: #000;
+    font-family: "Arial Black", sans-serif;
+    font-size: 0.9em;
+    font-weight: bold;
+    letter-spacing: 5pt
+    }
+.text11 {
+    font-size: 0.9em;
+    font-weight: bold
+    }
+.text12 {
+    font-size: 0.9em
+    }
+.text13 {
+    font-size: 0.75em;
+    font-style: italic
+    }
+.text14 {
+    font-weight: bold;
+    letter-spacing: 2pt
+    }
+.text15 {
+    color: #000;
+    font-size: 0.9em
+    }
+.text16 {
+    color: black;
+    font-size: 0.75em;
+    letter-spacing: 1pt;
+    text-decoration: none
+    }
+.text17 {
+    font-size: 0.75em;
+    letter-spacing: 1pt
+    }
+.text18 {
+    font-family: "Times New Roman", serif;
+    font-size: 2.2em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.text19 {
+    font-family: "Souvenir", serif;
+    font-size: 1.2em
+    }
+.text20 {
+    font-size: 1.2em
+    }
+.text22 {
+    display: block;
+    font-style: italic;
+    padding: 0;
+    margin: 0
+    }
+.text23 {
+    text-decoration: underline
+    }
+.text24 {
+    color: #000
+    }
+.text25 {
+    color: #00F;
+    text-decoration: underline
+    }
+.text26 {
+    color: #000;
+    font-style: italic
+    }

@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kara Elf Üçlemesi - 1 - Anayurt</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R. A.">R. A. Salvatore</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">675463cd-c5ca-4d4c-bb75-07f9b517c543</dc:identifier>
+    <dc:date opf:event="modification">2014-04-10</dc:date>
+    <dc:publisher>Laika Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Bildiğimiz yerlerden uzakta, farklı bir boyutta, tanımadığımız akıllı ırkların; Kara Elf'lerin yaşadığı karanlık bir yer; Menzoberranzan... Soylu evin prensi; Drizzt Do'Urden. Kendi ırkında olmayan bir şeyler arıyor. Dürüstlük, bağlılık, paylaşmak gibi insana ait şeyler... Bu bir yolculuk hikayesi... Unutulmuş diyarlarda, anayurdunda bulamadığı, görmediği ama hissettiği şeylerin peşinde koşan Drizzt Do'Urden'in yolculuğunun hikayesi...&lt;/p&gt;</dc:description>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7c89d781-c0a1-480e-b264-0008de6e0106</dc:identifier>
+    <meta content="Kara Elf Üçlemesi - 1 - Anayurt" name="calibre:title_sort"/>
+    <meta content="2013-07-14T21:48:06+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;R. A. Salvatore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Unutulmuş Diyarlar" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

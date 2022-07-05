@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kara Elf Üçlemesi - 3 - Göç</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R. A.">R. A. Salvatore</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">357777d8-f300-4119-8d9f-949e9bbb1cec</dc:identifier>
+    <dc:publisher>Laika Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;"...İnsanlar gerçekten de akıl karıştırcı bir ırk ve dünyanın kaderi gün geçtikçe onların her yere ulaşan ellerine geçiyor. Bu nazik bir denge oluşturabilir ama kesinlikle renksiz olmayacaktır. İnsanlar, karakter çeşitliliğine tüm diğer varlıklardan daha fazla sahipler; onlarınki, kendi ırklarına karşı -endişe verici sıklıkta- savaş açabilen tek 'iyi' ırk..." Anayurt ve Sürgün ile devam eden yolculuk Göç ile sonlanıyor. Drizzt Do'Urden'in özgürlük yolculuğu Buzyeli Vadisi'nde sürecek.&lt;/p&gt;</dc:description>
+    <dc:date>2014-04-09T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5ceaa0dd-1591-440d-8a3f-0623f216173a</dc:identifier>
+    <meta content="Kara Elf Üçlemesi - 3 - Göç" name="calibre:title_sort"/>
+    <meta content="2013-07-14T21:51:30+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="goc1.jpg"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;R. A. Salvatore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Unutulmuş Diyarlar" name="calibre:series"/>
+    <meta content="3.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.xhtml" id="index_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/goc1.jpg" id="goc1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_000.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

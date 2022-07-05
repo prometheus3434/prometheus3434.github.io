@@ -1,0 +1,234 @@
+.block8 {
+    color: black;
+    display: list-item;
+    font-size: 0.8em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 8.5pt;
+    margin-top: 6pt;
+    text-align: justify
+    }
+.block9 {
+    color: black;
+    display: list-item;
+    font-size: 0.8em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 8.5pt;
+    margin-top: 0;
+    text-align: justify
+    }
+.block10 {
+    color: black;
+    display: list-item;
+    font-size: 0.8em;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-left: 8.5pt;
+    margin-top: 0;
+    text-align: justify
+    }
+.block24 {
+    color: black;
+    display: table-row;
+    font-size: 0.8em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 6pt;
+    text-align: justify
+    }
+.block25 {
+    color: black;
+    display: table-row;
+    font-size: 0.8em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.block26 {
+    color: black;
+    display: table-row;
+    font-size: 0.8em;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-top: 0;
+    text-align: justify
+    }
+.calibre1 {
+    font-size: 0.875em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre2 {
+    text-decoration: none
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    display: table;
+    line-height: 1.2;
+    padding-left: 53pt
+    }
+.calibre5 {
+    display: table-cell
+    }
+.calibre6 {
+    display: table;
+    line-height: 1.2;
+    padding-left: 89pt
+    }
+.calibre7 {
+    display: table-row-group;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre8 {
+    display: table-row;
+    line-height: 1.2;
+    vertical-align: inherit
+    }
+.calibre9 {
+    display: block;
+    font-size: 0.9em;
+    line-height: 1.2
+    }
+.calibre10 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre11 {
+    display: block;
+    line-height: 1.2;
+    margin-left: 40px
+    }
+.calibre12 {
+    display: block;
+    line-height: 1.2;
+    margin-left: 40px;
+    page-break-after: avoid
+    }
+.list {
+    display: block;
+    line-height: 1.2;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.noteref {
+    font-size: 0.85714em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.notes {
+    display: block;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.notes-header {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.table {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 2pt;
+    margin-top: 0;
+    text-indent: 0
+    }
+.td {
+    border-bottom-style: none;
+    border-left-style: hidden;
+    border-right-style: none;
+    border-top-style: hidden;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 70.9pt;
+    padding: 0.5ex 2pt
+    }
+.td1 {
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 138pt;
+    padding: 0.5ex 2pt
+    }
+.td2 {
+    border-bottom-style: none;
+    border-left-style: hidden;
+    border-right-style: none;
+    border-top-style: none;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 70.9pt;
+    padding: 0.5ex 2pt
+    }
+.td3 {
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: hidden;
+    border-top-style: none;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 138pt;
+    padding: 0.5ex 2pt
+    }
+.td4 {
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-right-style: none;
+    border-top-style: none;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 70.9pt;
+    padding: 0.5ex 2pt
+    }
+.td5 {
+    border-bottom-style: hidden;
+    border-left-style: none;
+    border-right-style: hidden;
+    border-top-style: none;
+    display: table-cell;
+    line-height: 1.2;
+    text-align: inherit;
+    vertical-align: top;
+    width: 138pt;
+    padding: 0.5ex 2pt
+    }
+h1
+{
+text-align:center;
+Font-size:1em;
+}
+p{
+text-align:justify;
+text-indent:1.5em;
+}

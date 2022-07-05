@@ -1,0 +1,46 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: normal;
+    src: url(OEBPS/Fonts/TimesNewRomanPSMTw1nj4.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Arial";
+    font-weight: normal;
+    src: url(OEBPS/Fonts/ArialMTo22oh.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Cambria";
+    font-weight: normal;
+    src: url(OEBPS/Fonts/Cambriao22oh.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Arial";
+    font-weight: bold;
+    src: url(OEBPS/Fonts/Arial-BoldMT_Bold4hrsu.ttf)
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Cambria";
+    font-weight: normal;
+    src: url(OEBPS/Fonts/Cambria-Italic_Italicqt06i.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    src: url(OEBPS/Fonts/TimesNewRomanPS-BoldMT_Bold47pr_.ttf)
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Arial";
+    font-weight: normal;
+    src: url(OEBPS/Fonts/Arial-ItalicMT_Italiczawp9.ttf)
+    }

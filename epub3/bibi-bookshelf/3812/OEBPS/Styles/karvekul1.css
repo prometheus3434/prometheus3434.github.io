@@ -1,0 +1,499 @@
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-Bold.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-BoldItalic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../Fonts/AGaramondPro-BoldItalic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/AGaramondPro-Regular.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/MinionPro-Regular.otf");
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.No-Paragraph-Style {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Basic-Paragraph {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#231f20;
+	font-family:Calibri, sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.List-Paragraph {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:Georgia, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:36px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal--Web- {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.kitapadi {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:2.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.176;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.bolum-kesme {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:2.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:85px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.kunyeadi {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:14px;
+}
+p.kunye {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:14px;
+}
+p.kitapadi2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:2.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.176;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.yazar {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:2.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:0.52;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:14px;
+}
+p.baslik {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:0.893;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.bolum {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Aldine401 BT", serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.dip {
+	-epub-ruby-position:over;
+	color:#231f20;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.italik {
+	font-family:"Adobe Garamond Pro", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.bold {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.bolditalik {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+p.para-style-override-1 {
+	break-after:column;
+}
+p.para-style-override-2 {
+	text-indent:14px;
+}
+p.para-style-override-3 {
+	margin-bottom:0px;
+	text-align:center;
+}
+p.para-style-override-4 {
+	margin-bottom:0px;
+	text-align:center;
+	text-indent:14px;
+}
+p.para-style-override-5 {
+	margin-bottom:0px;
+	text-indent:14px;
+}
+p.para-style-override-6 {
+	break-after:column;
+	margin-bottom:0px;
+	text-indent:14px;
+}
+p.para-style-override-7 {
+	margin-bottom:0px;
+	text-align:justify;
+	text-indent:14px;
+}
+p.para-style-override-8 {
+	break-after:column;
+	margin-bottom:0px;
+	text-align:right;
+	text-indent:14px;
+}
+p.para-style-override-9 {
+	margin-bottom:0px;
+	text-align:right;
+	text-indent:14px;
+}
+p.para-style-override-10 {
+	break-after:column;
+	margin-bottom:0px;
+	margin-left:0px;
+	text-align:right;
+	text-indent:14px;
+}
+p.para-style-override-11 {
+	margin-bottom:0px;
+	margin-left:0px;
+	text-align:right;
+	text-indent:14px;
+}
+p.para-style-override-12 {
+	break-after:column;
+	margin-bottom:0px;
+	text-align:center;
+}
+p.para-style-override-13 {
+	break-after:column;
+	margin-bottom:0px;
+	text-align:justify;
+	text-indent:14px;
+}
+span.char-style-override-1 {
+	font-size:0.833em;
+}
+span.char-style-override-2 {
+	font-size:1.091em;
+}
+span.char-style-override-3 {
+	font-size:1.091em;
+	text-decoration:underline;
+}
+span.char-style-override-4 {
+	font-size:0.4em;
+	text-decoration:underline;
+}
+span.char-style-override-5 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.091em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-6 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-7 {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-8 {
+	font-family:"Adobe Garamond Pro";
+	font-size:3.636em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-9 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.955em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-10 {
+	font-size:0.955em;
+}
+span.char-style-override-11 {
+	font-size:0.556em;
+	vertical-align:super;
+}
+span.char-style-override-12 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.875em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-13 {
+	font-size:0.875em;
+}
+span.char-style-override-14 {
+	color:#000000;
+	font-family:"Adobe Garamond Pro";
+	font-size:0.875em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-15 {
+	color:#000000;
+	font-size:0.875em;
+}
+span.char-style-override-16 {
+	color:#000000;
+	font-size:0.955em;
+}
+span.char-style-override-17 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.818em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-18 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.556em;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.char-style-override-19 {
+	font-size:0.889em;
+}
+span.char-style-override-20 {
+	font-size:1.167em;
+}
+span.char-style-override-21 {
+	color:#ff0000;
+	font-size:0.955em;
+}
+span.char-style-override-22 {
+	font-size:1.182em;
+}
+span.char-style-override-23 {
+	font-size:0.583em;
+	vertical-align:super;
+}
+span.char-style-override-24 {
+	color:#000000;
+	font-family:"Adobe Garamond Pro";
+	font-size:0.955em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-25 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-weight:normal;
+}
+img.frame-1 {
+	height:22px;
+	width:105px;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}

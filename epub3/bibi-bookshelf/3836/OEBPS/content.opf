@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Karanlığın Yolları Serisi - 3 - Kristalin Hizmetkarı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R. A.">R. A. Salvatore</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">569b34e5-3215-4818-81ed-6e97073a9a8f</dc:identifier>
+    <dc:publisher>Arka Bahçe Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Ezeli düşmanıyla hesabını görüp kara elfyer eşliğinde Alimport'a dönen efsanevi katil Artemis Entreri, şehir sokaklarını tekrar demir yumruğa almıştır. Ancak tüm ihtiyat telkinlerine rağmen Jarlaxle'ın hırsı Kristal Parçası tarafından körüklenerek çığ gibi büyümekte ve habis ziynetin drow üzerindeki etkisi her geçen gün artmaktadır. Bregan D'aerthe jalaxle'a karşı içten içe yaklanmaya hazırlanırken, Entreri de yürümekte olduğu yolun kendisi ve drow hamisi için ne denli tehlikeli olduğunu kavramaya başlamıştır. Yaşamını ısrarla anlamlandırmaya çalışan Entreri'yi bu yolda beklenmedik dönemeçler, olmadık yol arkadaşları ve belki de yeni bir yaşamın şafağı beklemektedir. &lt;/p&gt;</dc:description>
+    <dc:date>2014-04-09T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">09fb67b2-ec7a-402d-9be0-6d750bdce34a</dc:identifier>
+    <meta content="Karanlığın Yolları Serisi - 3 - Kristalin Hizmetkarı" name="calibre:title_sort"/>
+    <meta content="2014-01-09T12:35:55.381000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;R. A. Salvatore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Unutulmuş Diyarlar" name="calibre:series"/>
+    <meta content="13.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

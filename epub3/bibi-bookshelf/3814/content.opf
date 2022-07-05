@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>kar_kurdu_ve_canavar_ebook</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2020-12-01T12:19:25+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">52f57a45-8684-4cc5-a1cb-2e39efd901c1</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2381d152-29fc-4b69-8008-2f0b22a34a0c</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T12:51:03.161406+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="kar_kurdu_ve_canavar_ebook"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uKc9qckscn8iVkofMXdq5N8" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook" href="OEBPS/kar_kurdu_ve_canavar_ebook.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-1" href="OEBPS/kar_kurdu_ve_canavar_ebook-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-2" href="OEBPS/kar_kurdu_ve_canavar_ebook-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-3" href="OEBPS/kar_kurdu_ve_canavar_ebook-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-4" href="OEBPS/kar_kurdu_ve_canavar_ebook-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-5" href="OEBPS/kar_kurdu_ve_canavar_ebook-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-6" href="OEBPS/kar_kurdu_ve_canavar_ebook-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-7" href="OEBPS/kar_kurdu_ve_canavar_ebook-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-8" href="OEBPS/kar_kurdu_ve_canavar_ebook-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-9" href="OEBPS/kar_kurdu_ve_canavar_ebook-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-10" href="OEBPS/kar_kurdu_ve_canavar_ebook-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-11" href="OEBPS/kar_kurdu_ve_canavar_ebook-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-12" href="OEBPS/kar_kurdu_ve_canavar_ebook-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-13" href="OEBPS/kar_kurdu_ve_canavar_ebook-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-14" href="OEBPS/kar_kurdu_ve_canavar_ebook-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-15" href="OEBPS/kar_kurdu_ve_canavar_ebook-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kar_kurdu_ve_canavar_ebook-16" href="OEBPS/kar_kurdu_ve_canavar_ebook-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/1.png" media-type="image/png"/>
+    <item id="x2.jpg" href="OEBPS/image/2.jpg" media-type="image/jpeg"/>
+    <item id="x9786052853184_back_cover.jpg" href="OEBPS/image/9786052853184_back_cover.jpg" media-type="image/jpeg"/>
+    <item id="x9786052853184_front_cover.jpg" href="OEBPS/image/9786052853184_front_cover.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uKc9qckscn8iVkofMXdq5N8"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-1"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-2"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-3"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-4"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-5"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-6"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-7"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-8"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-9"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-10"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-11"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-12"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-13"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-14"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-15"/>
+    <itemref idref="kar_kurdu_ve_canavar_ebook-16"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kırılmadık bir şey kalmadı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Asaf, Özdemir">Özdemir Asaf</dc:creator>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Özdemir Asaf'ın Kırılmadık Bir Şey Kalmadı'da bir araya getirilen aforizma niteliğindeki 'etikalar'ı, anı-deneme türünde yazıları ve öyküleri en az şiirleri kadar etkileyici, sıra dışı ve şaşırtıcı. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;'Kimbilir kaç yıllık büyücek bir defter. İçinde aforizma, şiir, öykü taslakları, tasarımları, bir sürü düş ve düşünce kırıntısı. Ben hep öyle yaptım. Şiirlerimin, öykülerimin, aforizmalarımın, günlük notlarımın ayrı defterleri olmadı. Kiminin altına tarih koymuşum, saat bile koyduklarım var.'&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">94cdb6b7-14f9-48ef-b13c-5ff0b735a222</dc:identifier>
+    <dc:date>2009-06-15T12:51:35+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8efe2392-4476-4a81-93b2-f1e54f9d4af2</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750816680</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2q5JAQAAIAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-02-21T11:42:56.188000+00:00"/>
+    <meta name="calibre:title_sort" content="Kırılmadık bir şey kalmadı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Özdemir Asaf&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

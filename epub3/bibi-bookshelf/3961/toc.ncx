@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="1aab5a2f-3f36-4071-aedb-1adfdb572528" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kıskançlık</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{F5F20A18-B871-4B27-A721-54DD1DEDA4F8}" playOrder="1">
+      <navLabel>
+        <text>Bölüm 1 4</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{BD3939B1-2150-4C27-AA30-8C15EB86A291}" playOrder="2">
+      <navLabel>
+        <text>Bir yerde hakem düdük çaldı. Marş başladı. Bu neşe</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

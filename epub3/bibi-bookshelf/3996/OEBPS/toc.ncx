@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="5d9f555e-b7a5-478e-bdd7-f2c7a332d545" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Kızıl Gezegen</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1 Willis</text>
+      </navLabel>
+      <content src="Text/Chapter1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2 Güney Kolonisi, Mars</text>
+      </navLabel>
+      <content src="Text/Chapter2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3 Gekko</text>
+      </navLabel>
+      <content src="Text/Chapter3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4 Lowell Akademisi</text>
+      </navLabel>
+      <content src="Text/Chapter4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5 Bazılarının Kulağı Deliktir</text>
+      </navLabel>
+      <content src="Text/Chapter5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6 Kaçış</text>
+      </navLabel>
+      <content src="Text/Chapter6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7 Kovalanış</text>
+      </navLabel>
+      <content src="Text/Chapter7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8 Öteki Dünya</text>
+      </navLabel>
+      <content src="Text/Chapter8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9 Politika</text>
+      </navLabel>
+      <content src="Text/Chapter9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10 &quot;Kapana Kısıldık!&quot;</text>
+      </navLabel>
+      <content src="Text/Chapter10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>11 Kuşatmada</text>
+      </navLabel>
+      <content src="Text/Chapter11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>12 &quot;Ateş Etmeyin&quot;</text>
+      </navLabel>
+      <content src="Text/Chapter12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>13 &quot;Bu Bir Ultimatomdur&quot;</text>
+      </navLabel>
+      <content src="Text/Chapter13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>14 Willis</text>
+      </navLabel>
+      <content src="Text/Chapter14.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

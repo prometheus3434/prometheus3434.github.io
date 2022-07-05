@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kemal Tahir - Rahmet Yolları Kesti</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kemal Tahir">Kemal Tahir</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">92d646f4-a06b-4253-a8ea-91ec63202806</dc:identifier>
+    <dc:date opf:event="modification">2017-06-20</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0cd14e52-47e8-49ae-aba7-c7b55d052fcd</dc:identifier>
+    <meta name="calibre:title_sort" content="Kemal Tahir - Rahmet Yolları Kesti"/>
+    <meta name="calibre:timestamp" content="2014-07-25T07:26:53+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="Sigil version" content="0.9.8"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="SM.css" href="Styles/SM.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover_image.jpg" media-type="image/jpeg"/>
+    <item id="x0000000419132-1.jpg" href="Images/0000000419132-1.jpg" media-type="image/jpeg"/>
+    <item id="font" href="fonts/Liberation-Serif.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Title Page" href="Text/titlepage.xhtml"/>
+  </guide>
+</package>

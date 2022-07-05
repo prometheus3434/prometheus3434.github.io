@@ -1,0 +1,93 @@
+body {
+  color: #000;
+  font-family: "Georgia", serif;
+  max-width: 33em;
+  margin: auto;
+  padding-top: 4em;
+}
+.orta {
+  text-align: center;
+}
+.il {
+  float: left;
+  margin: 3px;
+}
+.ir {
+  float: right;
+  margin: 3px;
+}
+p {
+  line-height: 120%;
+  margin: 0;
+  text-align: justify;
+  text-indent: 25px;
+  font-size: 1em;
+}
+h2 {
+  text-indent: 0;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 1.5em;
+}
+h3 {
+  text-indent: 0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+blockquote {
+  font-size: 100%;
+  font-style: normal;
+  padding-left: 20px;
+  text-indent: 0;
+}
+blockquote.star {
+  font-size: 100%;
+  font-style: normal;
+  padding-left: 20px;
+  background-image: url(../Images/_star.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 0;
+}
+blockquote p {
+  font-size: 0.8em;
+  text-indent: 0;
+  margin-left: px;
+}
+.mektup {
+  border: 0;
+}
+.mektup p {
+  text-align: justify;
+  font-style: italic;
+}
+.baslik {
+  text-align: center;
+  text-indent: 0;
+  margin: 40px 0;
+  color: #c1a13c;
+  font-size: 1.75em;
+}
+.yazar {
+  font-size: 1.5em;
+  text-align: center;
+  text-indent: 0;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.ara {
+  font-size: 0.875em;
+  text-align: center;
+  text-indent: 0;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.detay {
+  text-align: center;
+  text-indent: 0;
+  margin-top: 10px;
+}
+.renk {
+  color: #c1a13c;
+  font-size: 1.75em;
+}

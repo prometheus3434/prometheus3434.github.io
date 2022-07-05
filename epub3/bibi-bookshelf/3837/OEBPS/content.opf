@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Karanlığın Yüreği</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Conrad, Joseph">Joseph Conrad</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5b51f99f-aef0-4bbe-97c4-a7d87cd44b57</dc:identifier>
+    <dc:date opf:event="modification">2015-01-01</dc:date>
+    <dc:format>Roman</dc:format>
+    <dc:date>1982-07-19T21:00:00+00:00</dc:date>
+    <dc:publisher>Ötüken Neşriyat A.Ş.</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:description>Tıpkı romanlarında anlattığı karakterler gibi, Joseph Conrad’ın da denizle arasında sıra dışı bir bağ vardı. Bu duyguyla ilk gençlik yıllarını Fransız ticaret gemilerinde geçirdi, sonraları ise İngiliz ticaret filolarında çalışırken buldu kendini… Ve gençliğini takip eden yılları da hep o maviliklerde geçti. Bu uzun dönemde, insanların ve tabiatın türlü türlü hallerini gözlemledi ve belki de bu yüzden, düşünceleri çağlar ötesine tesir etti.     İşte, Karanlığın Yüreği de tam olarak bu özellikleri taşıyan bir eser olup, muhtevasındaki sömürge eleştirisini sadece 19. yüzyılda değil, bugün ve yarın da tesir bırakacak şekilde okuyucuya sunmuştur. Conrad, bu sömürge eleştirisini öyle derin analizler ve öyle insanî tasvirlerle yapar ki, gelmiş geçmiş en karanlık romanlardan sayılması boşuna değildir. Çünkü Conrad bu tasvirlerle, okuyanın kalbinde o karanlık dönem ve o karanlık ruhların resmini ustalıkla çizebilmiştir.     Fildişi elde etme gayesi uğruna çığrından çıkmış Avrupalı sömürgecilere, insana dair olan hiçbir meziyeti ve merhamet hissini taşımayanlara karşı söylediği şu sözler, şahit olduğu korkunçluklar karşısında onun hayretinin de delilidir:     “Tanrı, bunları yapsın diye mi insanı üstün varlık olarak yarattı?”</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f7181d22-9bf6-48a6-9d40-5ea5da407a48</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:5b51f99f-aef0-4bbe-97c4-a7d87cd44b57</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754374032</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">vz81EAAAQBAJ</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Karanlığın Yüreği"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Joseph Conrad&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet1.css" id="stylesheet1.css" media-type="text/css"/>
+    <item href="Images/ky.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

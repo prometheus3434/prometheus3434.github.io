@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kavramlar ve tarihleri 1</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Özlem, Doğan">Doğan Özlem</dc:creator>
+    <dc:publisher>İnkılap</dc:publisher>
+    <dc:date>2002-06-15T12:13:27+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:0045320b-e9bf-4901-8870-36cb95b3a37f</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-02-26</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">9dbf24e4-6d5e-4530-aab8-2b254a651910</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789751019028</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="GOOGLE">0JbzAAAACAAJ</dc:identifier>
+    <meta content="Adobe InDesign 9.0" name="generator"/>
+    <meta name="cover" content="x186.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kavramlar ve tarihleri 1"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doğan Özlem&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-1.xhtml" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="Text/7-2.xhtml" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="Text/7-3.xhtml" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="Text/7-4.xhtml" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="Text/7-5.xhtml" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="Text/7-6.xhtml" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="Text/7-7.xhtml" id="x7-7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-8.xhtml" id="x7-8" media-type="application/xhtml+xml"/>
+    <item href="Text/7-9.xhtml" id="x7-9" media-type="application/xhtml+xml"/>
+    <item href="Text/7-10.xhtml" id="x7-10" media-type="application/xhtml+xml"/>
+    <item href="Text/7-11.xhtml" id="x7-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="x7-6"/>
+    <itemref idref="x7-7"/>
+    <itemref idref="x7-8"/>
+    <itemref idref="x7-9"/>
+    <itemref idref="x7-10"/>
+    <itemref idref="x7-11"/>
+  </spine>
+</package>

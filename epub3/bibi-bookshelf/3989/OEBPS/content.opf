@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kız erkekle buluşur</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Smith, Ali &amp; Şendil, Dilek">Ali Smith</dc:creator>
+    <dc:creator opf:role="aut">Dilek Şendil</dc:creator>
+    <dc:identifier id="uuid">{B6C5CDA3-4DC5-414C-BEFF-72A501D13D6E}</dc:identifier>
+    <dc:date>2010-06-15T11:04:32+00:00</dc:date>
+    <dc:publisher>Turkuvaz Kitap</dc:publisher>
+    <dc:description>&lt;p&gt;Anthea ve Imogen (Midge) Gunn, günümüz İskoçya’sında yaşamlarını kurmaya çalışan iki kız kardeştir. Midge büyük bir şirkette reklam yazarıdır. Daha hayalperest olan ve düzene uymakta zorlanan Anthea, aynı şirkette işe başladığı günlerde şirket aleyhine duvarlara sloganlar yazan Robin’le karşılaşır, ikisi ilk görüşte âşık olurlar. Bunu kovalayan günlerde, Midge ve Anthea, kendileriyle, gerçek duygularıyla yüzleşip mutluluğa kavuşacakları adımları cesaretle atar, onları özgürlük ve mutluluğa ulaştıracak değişimleri yaşarlar. 
+
+Ali Smith, Ovidius’un Dönüşümler’de (Metamorphoses) anlattığı İphis’in öyküsünü günümüze uyarlıyor. Kız Erkekle Buluşur, aşkın gücüne dair duygusal, etkileyici ve eğlenceli bir roman: Mitolojiyle çağdaş edebiyatın başarıyla buluşup güncel toplumsal sorunlara da dokunduğu güçlü bir hikâye.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Mitoloji</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2e210a01-0e02-4e73-92de-012cd542b448</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055596583</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">nNRAnwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055596583</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kız erkekle buluşur"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ali Smith&quot;: &quot;&quot;, &quot;Dilek Şendil&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/hakkinda.html" id="hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="Text/author.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/mitler.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraf.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="hakkinda.html"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

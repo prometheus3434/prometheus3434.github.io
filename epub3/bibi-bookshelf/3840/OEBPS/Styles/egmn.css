@@ -1,0 +1,200 @@
+
+p {
+  font-family: "Chaparral Pro";
+  font-size: 1em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;}
+
+/*----H----*/
+h1 {
+  font: normal normal 1.6em "Chaparral Pro";
+  margin:2em 0em 0em 0em;
+  text-align: center;}
+
+h2 {
+  font: normal bold 1.4em "Chaparral Pro";
+  margin:2em 0em 4em 0em;
+  text-align: center;}
+
+h3 {
+  font: normal bold 1.2em "Chaparral Pro";
+  margin:2em 0em 1em 0em;
+  text-align: center;}
+
+h1,h2,h3 {text-indent:0;}
+
+
+/*- KÜNYE -*/
+.copyright {margin-top:1em}
+.copyright p {
+  font: normal normal 0.90em "Chaparral Pro";
+  margin: 0em 0em 1em 2em;
+  text-indent:0;
+  text-align: left;}
+
+/* PARAGRAF STİLLERİ  */
+.nonindent {text-indent:0em}
+.nonindent1 {text-indent:0em;margin:2em 0em 0em 0em;}
+.p1{text-indent:0em;margin:1em 0em 1em 10em;}
+.p2{font-size: 1.1em;text-indent:0em;margin:1em 0em 1em 0em;}
+.center {text-align:center;text-indent:0em;
+margin:1em 0em 1em 0em;}
+.left{text-align:left;text-indent:0em;
+margin:1em 0em 1em 0em;}
+.right{text-align:right;text-indent:0em;
+margin:1em 0em 1em 0em;}
+
+/*İÇ KAPAK*/
+.titlepage {text-align: center;text-indent: 0;}
+.author {
+  font: normal normal 2em "Chaparral Pro";
+  margin: 2em auto 0em auto;}
+.title {
+  font: normal normal 3em "Chaparral Pro";
+  margin: 0.5em auto 0em auto;}
+.trans {
+  font: normal normal 1.2em "Chaparral Pro";
+  margin: 8em auto 0em auto;}
+.trans span {font-size:1.2em;}
+.seri {
+  font: normal normal 1em "Chaparral Pro";
+  margin: 1em auto 0em auto;}
+.tur {
+  font: normal normal 1.2em "Chaparral Pro";
+  margin: 3em auto 0em auto;}
+.logo {margin: 6em auto 0 auto;}
+
+
+/* METİN İÇİ BAŞLIKLAR */
+.b1{font-size:1.1em;text-align:center;font-weight:bold;text-indent:0em;margin:2em 0em 0.7em 0em;}
+.b2{font-size:1.2em;text-align:center;text-indent:0em;margin:1em 0em 1em 0em;}
+.db{font-size:1.2em;text-align:center;text-indent:0em;margin:2em 0em 1em 0em;}
+
+/*- ARA METİNLER - MEKTUP - ŞİİR */
+.metin {margin: 1.5em 0em 1.3em 2em;}
+.metin p {
+font: normal normal 1em "Gill Sans MT Pro Book";
+text-indent:1.5em;text-align:justify;margin-top:1em;}
+
+.metin1 {margin: 1em 0em 1em 2em;}
+.metin1 p {
+font: normal normal 0.95em "Chaparral Pro";
+text-indent:1.5em;text-align:justify;}
+
+.metin2 {margin: 1.5em 0em 1.5em 2em;}
+.metin2 p {
+font: normal normal 1em "Gill Sans MT Pro Book";
+text-indent:1.5em;text-align:justify;}
+
+.metin3 {margin: 1.5em 0em 1.5em 2em;}
+.metin3 p{font: normal normal 1em "Gill Sans MT Pro Book";
+text-indent:1.5em;text-align:justify;margin-top:1em;}
+
+
+/*- YAZAR BİLGİ -*/
+.aut {margin:2em 1em 0em 1em;}
+.aut p {font-size:0.90em;text-indent:0em;}
+.aut .right {text-align:right;margin-top:1em;}
+
+/*- YAZARIN KİTAPLARI -*/
+.kitaplari {margin: 2em 1em 0em 1em;}
+.kitaplari p {font-size:0.80em;text-indent:0em;text-align:left;margin-top:1em;}
+
+/*- ÇEVİRMEN BİLGİ -*/
+.cevirmen {margin: 2em 1em 0em 1em;}
+.cevirmen p {text-align:justify;font-size:0.8em;text-indent:0em;}
+
+/*- TEŞEKKÜR -*/
+.tesekkur {margin-top:3em;font-size:0.8em;margin: 0em 1em 0em 1em;}
+
+/*- İTHAF -*/
+.ithaf {margin-top:5em}
+.ithaf p {font-size:1em;font-style:normal;text-indent:0em;text-align:center;margin: 0em 0em 0em 0em;}
+
+/*- EPİGRAF -*/
+.epigraf {margin:7em 0em 0em 4em;}
+.epigraf p {text-align:left;text-indent:0em;}
+.epigraf span {font-size:.75em;}
+
+/*- BOŞLUK -*/
+.m1 {margin-top:0.5em}
+.m2 {margin-top:1.5em}
+.m3 {margin-top:2em}
+.ara{text-align:center;text-indent:0;margin:0.7em 0em 0.7em 0em;}
+
+/* DROP CAPS (Dropcaps-1 Kindle için kullanılacak) */
+.dropcaps {font-size:3em;float:left;line-height: 0.8em;margin-left:0.13em;text-indent:0em;}
+.dropcaps1{font-size:320%;float:left;font-weight:normal;margin-top:-0.3225em;margin-bottom:-0.3245em;}
+
+/*GÖRSEL*/
+.gorsel{text-indent:0em;text-align:center;max-height: 100%;max-width: 100%;}
+.gorsel1{text-align:center;text-indent:0em;margin-top:1em;}
+
+/*- DİPNOT -*/
+.dipnot{text-align:justify;text-indent:1em;margin:0em 0em 1em 1em;}
+
+
+/*- FLOAT -*/
+.f-ana {clear:both;margin-top:1em;}
+.f-sol {float:left;width:20%;}
+.f-sol p {text-indent:0em;text-align:left;font-size:0.72em;}
+.f-sag {float:right;width:79%;}
+.f-sag p {text-indent:0em;text-align:left;font-size:0.72em;margin-bottom:1em;}
+
+/*- TABLO -*/
+table{margin-left:1em;margin-top:3em;}
+
+table1{font-size:1em;
+border-collapse:collapse;
+border:2px solid black; 
+text-align:center;
+width:90%; height:50px;
+margin-left:1em;
+margin-right:1em;}
+
+
+/*-- EKDG --*/
+.ekdg {text-align: center;text-indent: 0;}
+.ekdg1 {font-size:0.9em;text-align: center;text-indent: 0;margin-top: 1em;}
+
+sup, sub {line-height: 0;}
+hr{border: solid 0.125em;width:20em;margin-left:0em;margin-top:1em;margin-bottom:0.5em}
+.cizgi{width:0.1em;background-color:#000000;}
+.uline{text-decoration: underline;}
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em;}
+
+
+/*****FONT*****/
+@font-face {
+  font-family: "Chaparral Pro";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/ChaparralPro-Bold.otf);
+  }
+@font-face {
+  font-family: "Chaparral Pro";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/ChaparralPro-Italic.otf);
+  }
+@font-face {
+  font-family: "Chaparral Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/ChaparralPro-Regular.otf);
+  }
+@font-face {
+  font-family: "Chaparral Pro";
+  font-style: italic;
+  font-weight: bold;
+  src: url(../Fonts/ChaparralPro-BoldIt.otf);
+  }
+
+@font-face {
+  font-family: "Gill Sans MT Pro Book";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansMTPro-Book.ttf);
+  }
+

@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kırlangıç Kulesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sapkowski, Andrzej">Andrzej Sapkowski</dc:creator>
+    <dc:creator opf:role="trl">Regaip Minareci</dc:creator>
+    <dc:publisher>Pegasus Yayınları</dc:publisher>
+    <dc:date>2020-12-23T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">Id_7EC5A528-0172-4CA2-A162-4F079A951C29_</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">b9301d21-6b53-4654-a936-d39f0ad40c39</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-299-726-0</dc:identifier>
+    <meta content="The Witcher" name="calibre:series"/>
+    <meta content="6.0" name="calibre:series_index"/>
+    <meta content="1.4.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Kırlangıç Kulesi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Andrzej Sapkowski&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0001.xhtml" href="bolum_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0002.xhtml" href="bolum_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0003.xhtml" href="bolum_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0004.xhtml" href="bolum_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0005.xhtml" href="bolum_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0006.xhtml" href="bolum_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0007.xhtml" href="bolum_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0008.xhtml" href="bolum_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0009.xhtml" href="bolum_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0010.xhtml" href="bolum_0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0011.xhtml" href="bolum_0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arkakapak.xhtml" href="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id27" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id26" href="main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="facebook.jpg" href="facebook.jpg" media-type="image/jpeg"/>
+    <item id="instagram.jpg" href="instagram.jpg" media-type="image/jpeg"/>
+    <item id="id21" href="main-5.jpg" media-type="image/jpeg"/>
+    <item id="id22" href="main-6.jpg" media-type="image/jpeg"/>
+    <item id="id23" href="main-7.jpg" media-type="image/jpeg"/>
+    <item id="id24" href="main-8.jpg" media-type="image/jpeg"/>
+    <item id="id25" href="main-9.jpg" media-type="image/jpeg"/>
+    <item id="twitter.jpg" href="twitter.jpg" media-type="image/jpeg"/>
+    <item id="youtube.jpg" href="youtube.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id27">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum_0001.xhtml"/>
+    <itemref idref="bolum_0002.xhtml"/>
+    <itemref idref="bolum_0003.xhtml"/>
+    <itemref idref="bolum_0004.xhtml"/>
+    <itemref idref="bolum_0005.xhtml"/>
+    <itemref idref="bolum_0006.xhtml"/>
+    <itemref idref="bolum_0007.xhtml"/>
+    <itemref idref="bolum_0008.xhtml"/>
+    <itemref idref="bolum_0009.xhtml"/>
+    <itemref idref="bolum_0010.xhtml"/>
+    <itemref idref="bolum_0011.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+  </guide>
+</package>

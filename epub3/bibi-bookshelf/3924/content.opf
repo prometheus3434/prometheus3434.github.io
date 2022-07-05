@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Keşke'siz Bir Yaşam İçin İletişim Donanımları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cüceloğlu, Doğan">Doğan Cüceloğlu</dc:creator>
+    <dc:publisher>OMERZEN</dc:publisher>
+    <dc:date>2014-04-13T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:dc8d0289-5247-4157-8133-830783a07360</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:dc8d0289-5247-4157-8133-830783a07360</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3ec97742-e943-4ada-a542-03df92b7062f</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">69f8c4c9-9f05-4626-9005-24c67db1642d</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:dc8d0289-5247-4157-8133-830783a07360</dc:identifier>
+    <meta name="calibre:title_sort" content="Keşke'siz Bir Yaşam İçin İletişim Donanımları"/>
+    <meta name="calibre:timestamp" content="2014-04-14T15:21:26.281000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doğan Cüceloğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

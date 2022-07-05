@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Kırmızı Gürgenler</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Doyle, Arthur Conan">Arthur Conan Doyle</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:description>Güzel bir sayfiye yerinin adı olan KIRMIZI GÜRGENLER'de iş bulmak için bir iş ilanına başvurmuş olan Bayan Hunter'ın başından geçen tuhaf öykü anlatılmaktadır. Garip davranışlar içinde olan bir karı-kocanın biricik kızlarına bakmak için evlerine yerleşmiş olan Bayan Hunter kısa süre içinde buranın hiç de tekin bir yer olmadığını anlayacaktır. Büyük evin içinde olan tuhaf şeyleri çözmesi için Sherlock Holmes ve Dr. Watson'a başvuran Bayan Hunter evde saçları kendi saçına benzeyen birinin hapis hayatı yaşadığını öğrenirler. Bu meraklıların kendi evinde sırrını öğrenmesinden hiç hoşlanmayan ev sahibinin de onlar hakkında başka planları vardır.</dc:description>
+    <dc:publisher>Le Adri</dc:publisher>
+    <dc:date>2015-06-15T10:42:21+00:00</dc:date>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Polisiye</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Dedektif</dc:subject>
+    <dc:subject>Gizem</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">13f1d8c2-e047-44bb-b4c3-1545bb315125</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055752330</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789635279463</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">HG3JwAEACAAJ</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Kırmızı Gürgenler" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="x3688_frontcover.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/3688_frontcover.jpg" id="x3688_frontcover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

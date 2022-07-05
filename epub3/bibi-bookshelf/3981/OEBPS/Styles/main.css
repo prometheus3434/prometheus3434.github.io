@@ -1,0 +1,41 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+
+p.alinti {
+	font-size: 0.9em;
+	margin-left: 2em;
+
+}
+
+p {
+	text-align: justify;
+	text-indent:1em;
+	margin-top:0.35em;
+	margin-bottom:0.35em;
+
+}
+
+p.siir{
+	font-size: 0.9em;
+	margin-left: 2em;
+	margin-top:0;
+	margin-bottom:0;
+
+}
+h1
+{
+	text-align:center;
+	margin-top:20%;
+}
+h2
+{
+	text-align:center;
+}
+h3
+{
+	text-align:center;
+}

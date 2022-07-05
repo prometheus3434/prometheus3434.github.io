@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kiler: Bir Kacis</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bernhard, Thomas">Thomas Bernhard</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ea90f1ec-c86f-4181-9ca8-486bfa1f1dde</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Thomas Bernhard otobiyografik beşlemesinin ikinci kitabı Kiler - Bir Kaçış'ta, önünde uzanan yolu reddedişinin hikayesini anlatıyor bu kez. Kendisinden çok şey beklenen, geleceği parlak lise öğrencisinin yalnızca iki seçeneği vardır: ya tüm arzularına ve hayallerine aykırı bu küçük burjuva eğitim sistemine katlanmaya çalışıp en sonunda intihar edecek, ya da tüm beklentileri boşa çıkararak tam ters yöne gidecektir. Bir sabah okula giderken aniden gerisin geriye döner ve yoksul mahallesindeki bir bakkalda çıraklık yapmaya başlar. Şekillendirilmeyi, yetiştirilmeyi reddedişin, kendi yolunu seçme mücadelesinin hikayesi.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Bu eserinde Bernhard, büyük bir yazar olmanın taşlarının nasıl döşendiğine dair ipuçlarını vermeye başlıyor. Dedesinden öğrendiği teori ve felsefe bilgisine, çıraklık yaparken edindiği yaşam tecrübesinin eklenmesiyle dünyasının nasıl bir renklilik ve çeşitlilik kazandığını görüyoruz… THOMAS BERNHARD, (1931-1989) Hollanda'da doğup Avusturya'da büyüyen Bernhard, büyükbabası olan yazar Johannes Freumbichler tarafından bir sanatçı gibi yetiştirildi. Seekirchen'de ilkokula gitti, Salzburg'daki çeşitli okullarda orta öğrenime devam ederken 1947'de eğitimini bırakıp çıraklığa başladı. Gençliği boyunca yaşadığı solunum yolu rahatsızlıkları yüzünden 1949'da iki yıllığına sanatoryuma yatırıldı. 1952'de Salzburg'daki Mozarteum'da müzik eğitimini sürdürürken Demokratisches Volksblatt gazetesinde muhabirlik yaptı. 1957'den sonra geçimini esasen yazarlıktan sağladı. İngiltere'de ve Avrupa'nın çeşitli ülkelerinde yaşadıktan sonra 1965'te yeniden Avusturya'ya döndü. Çok sayıda ödül alan ve Türkçeye pek çok eseri çevrilen Bernhard'ın otobiyografik beşlemesinin diğer kitapları da yayınevimizden çıkacaktır.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2015-07-01T12:47:18+00:00</dc:date>
+    <dc:publisher>Sel Yayincilik</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:identifier opf:scheme="calibre">9ee24765-c2ef-424a-8c72-c229d57c64de</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755707389</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">rnQkswEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-02-21T11:42:31.336000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kiler: Bir Kacis"/>
+    <meta name="calibre:author_link_map" content="{&quot;Thomas Bernhard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

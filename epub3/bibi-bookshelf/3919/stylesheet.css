@@ -1,0 +1,227 @@
+.block {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block1 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block2 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 12pt 5.45pt 12pt 0
+    }
+.block3 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: center;
+    padding: 0;
+    margin: 12pt 5.45pt 12pt 0
+    }
+.block4 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    padding: 0;
+    margin: 12pt 5.45pt 12pt 0
+    }
+.block5 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 12pt 5.45pt 12pt 0
+    }
+.block6 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 12pt 5.45pt 12pt 0
+    }
+.block7 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block9 {
+    display: block;
+    text-align: justify;
+    text-indent: 35.4pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block10 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 6pt 35.2pt
+    }
+.block11 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 6pt 0 0
+    }
+.block12 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 35.4pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block14 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block15 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    display: block;
+    text-align: justify;
+    text-indent: 35.4pt;
+    padding: 0;
+    margin: 0
+    }
+.block18 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 6pt 27pt
+    }
+.block19 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 6pt 28.4pt
+    }
+.block20 {
+    display: block;
+    text-align: justify;
+    text-indent: 1.65pt;
+    padding: 0;
+    margin: 6pt 0 6pt 28.4pt
+    }
+.block21 {
+    display: block;
+    text-align: justify;
+    text-indent: 30pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block22 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 6pt 30pt
+    }
+.block23 {
+    display: block;
+    text-align: justify;
+    text-indent: 3pt;
+    padding: 0;
+    margin: 6pt 0 6pt 30pt
+    }
+.block24 {
+    display: block;
+    text-align: justify;
+    text-indent: 33pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block25 {
+    display: block;
+    text-align: justify;
+    text-indent: 65.4pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block26 {
+    display: block;
+    text-align: justify;
+    text-indent: 35.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block27 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 6pt 0 6pt 35.4pt
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    white-space: pre-wrap
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    display: block
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text {
+    color: #00F;
+    text-decoration: underline
+    }
+.text1 {
+    color: #F00
+    }
+.text2 {
+    color: #00F
+    }
+.text3 {
+    color: #F60
+    }

@@ -1,0 +1,95 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kelebek Adası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jio, Sarah">Sarah Jio</dc:creator>
+    <dc:date>2017-12-06T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{9D04C1FF-99F5-404C-BADC-D407DEE779AE}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">b4889992-225b-417d-8ea1-a862cabb95d0</dc:identifier>
+    <meta name="Sigil version" content="0.9.8"/>
+    <meta name="calibre:title_sort" content="Kelebek Adası"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sarah Jio&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main.html" href="Text/main.html" media-type="application/xhtml+xml"/>
+    <item id="x01.html" href="Text/01.html" media-type="application/xhtml+xml"/>
+    <item id="x02.html" href="Text/02.html" media-type="application/xhtml+xml"/>
+    <item id="x03.html" href="Text/03.html" media-type="application/xhtml+xml"/>
+    <item id="x04.html" href="Text/04.html" media-type="application/xhtml+xml"/>
+    <item id="x05.html" href="Text/05.html" media-type="application/xhtml+xml"/>
+    <item id="x06.html" href="Text/06.html" media-type="application/xhtml+xml"/>
+    <item id="x07.html" href="Text/07.html" media-type="application/xhtml+xml"/>
+    <item id="x08.html" href="Text/08.html" media-type="application/xhtml+xml"/>
+    <item id="x09.html" href="Text/09.html" media-type="application/xhtml+xml"/>
+    <item id="x10.html" href="Text/10.html" media-type="application/xhtml+xml"/>
+    <item id="x11.html" href="Text/11.html" media-type="application/xhtml+xml"/>
+    <item id="x12.html" href="Text/12.html" media-type="application/xhtml+xml"/>
+    <item id="x13.html" href="Text/13.html" media-type="application/xhtml+xml"/>
+    <item id="x14.html" href="Text/14.html" media-type="application/xhtml+xml"/>
+    <item id="x15.html" href="Text/15.html" media-type="application/xhtml+xml"/>
+    <item id="x16.html" href="Text/16.html" media-type="application/xhtml+xml"/>
+    <item id="x17.html" href="Text/17.html" media-type="application/xhtml+xml"/>
+    <item id="x18.html" href="Text/18.html" media-type="application/xhtml+xml"/>
+    <item id="x19.html" href="Text/19.html" media-type="application/xhtml+xml"/>
+    <item id="x20.html" href="Text/20.html" media-type="application/xhtml+xml"/>
+    <item id="x21.html" href="Text/21.html" media-type="application/xhtml+xml"/>
+    <item id="x22.html" href="Text/22.html" media-type="application/xhtml+xml"/>
+    <item id="x23.html" href="Text/23.html" media-type="application/xhtml+xml"/>
+    <item id="x24.html" href="Text/24.html" media-type="application/xhtml+xml"/>
+    <item id="x25.html" href="Text/25.html" media-type="application/xhtml+xml"/>
+    <item id="x26.html" href="Text/26.html" media-type="application/xhtml+xml"/>
+    <item id="x27.html" href="Text/27.html" media-type="application/xhtml+xml"/>
+    <item id="x28.html" href="Text/28.html" media-type="application/xhtml+xml"/>
+    <item id="x29.html" href="Text/29.html" media-type="application/xhtml+xml"/>
+    <item id="x30.html" href="Text/30.html" media-type="application/xhtml+xml"/>
+    <item id="x31.html" href="Text/31.html" media-type="application/xhtml+xml"/>
+    <item id="x32.html" href="Text/32.html" media-type="text/html"/>
+    <item id="id12" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id11" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id12">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+    <itemref idref="x14.html"/>
+    <itemref idref="x15.html"/>
+    <itemref idref="x16.html"/>
+    <itemref idref="x17.html"/>
+    <itemref idref="x18.html"/>
+    <itemref idref="x19.html"/>
+    <itemref idref="x20.html"/>
+    <itemref idref="x21.html"/>
+    <itemref idref="x22.html"/>
+    <itemref idref="x23.html"/>
+    <itemref idref="x24.html"/>
+    <itemref idref="x25.html"/>
+    <itemref idref="x26.html"/>
+    <itemref idref="x27.html"/>
+    <itemref idref="x28.html"/>
+    <itemref idref="x29.html"/>
+    <itemref idref="x30.html"/>
+    <itemref idref="x31.html"/>
+    <itemref idref="x32.html"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

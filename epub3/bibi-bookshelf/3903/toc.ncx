@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="169a0e51-4baf-4ebe-9f69-edc5cf1cdce6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kelleci Memet</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{FB64550F-A9C3-481A-9A49-08339CB474CD}" playOrder="1">
+      <navLabel>
+        <text>— Kim bu Kuyruk Müdür?</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7BD86FD2-3A2E-40E9-9A60-B114C4B2FA74}" playOrder="2">
+      <navLabel>
+        <text>Irmağın kıyısında, bir koca kasaba ki, Mekke'den s</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{27F78D9A-7D94-4350-850F-B7C718A81193}" playOrder="3">
+      <navLabel>
+        <text>Cinci Nezir, yardım ister gibi, oradakilerin yüzle</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{93611AAF-3F49-44B5-8AF0-2206291476CF}" playOrder="4">
+      <navLabel>
+        <text>— İyiliğinden, kötülüğünden...</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

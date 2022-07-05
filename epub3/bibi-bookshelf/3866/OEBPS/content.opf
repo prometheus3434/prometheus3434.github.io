@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Katili Herkes Bulamaz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Simenon, Georges">Georges Simenon</dc:creator>
+    <dc:publisher>BZ Yayın</dc:publisher>
+    <dc:description>&lt;p&gt;Georges Simenon'un yazarlık kariyerinin başlarında kaleme aldığı eseri Sait Faik Abasıyanık'ın Türkçesiyle...&lt;/p&gt;</dc:description>
+    <dc:date>1980-06-09T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9cf68e48-c3a6-4589-97d2-294497a0c561</dc:identifier>
+    <dc:date opf:event="modification">2014-06-23</dc:date>
+    <dc:subject>Öykü</dc:subject>
+    <dc:subject>Polisiye</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">eedc01e7-01f1-4cfb-967b-9e12e0316778</dc:identifier>
+    <meta content="Katili Herkes Bulamaz" name="calibre:title_sort"/>
+    <meta content="2014-06-20T01:37:22.922000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Georges Simenon&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/Book-Antiqua-Bold-Italic.ttf" id="font3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Book-Antiqua-Bold.ttf" id="font2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Book-Antiqua-Italic.ttf" id="font1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Book-Antiqua.ttf" id="font" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

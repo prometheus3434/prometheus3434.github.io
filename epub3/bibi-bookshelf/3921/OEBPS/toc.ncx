@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:4ae05dfd-2ca6-48c1-b24f-d6ab3f2e31b1" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Keskin Bıçak</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/yayinevi.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Keskin Bıçak</text>
+      </navLabel>
+      <content src="Text/altin%20pusula.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İkinci Kitap</text>
+      </navLabel>
+      <content src="Text/k200.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Kedi ve Gürgen Ağacı</text>
+      </navLabel>
+      <content src="Text/k0201.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Cadılar Arasında</text>
+      </navLabel>
+      <content src="Text/k0202.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Çocuk Dünyası</text>
+      </navLabel>
+      <content src="Text/k0203.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Kafa Delme</text>
+      </navLabel>
+      <content src="Text/k0204.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Uçak Postası Kağıtlar</text>
+      </navLabel>
+      <content src="Text/k0205.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Işıldayan Uçucular</text>
+      </navLabel>
+      <content src="Text/k0206.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Rolls-Royce</text>
+      </navLabel>
+      <content src="Text/k0207.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Melekler Kulesi</text>
+      </navLabel>
+      <content src="Text/k0208.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Hırsızlık</text>
+      </navLabel>
+      <content src="Text/k0209.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Şaman</text>
+      </navLabel>
+      <content src="Text/k0210.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Belvedere</text>
+      </navLabel>
+      <content src="Text/k0211.html#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Ekran Dili</text>
+      </navLabel>
+      <content src="Text/k0212.html#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Esatir</text>
+      </navLabel>
+      <content src="Text/k0213.html#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Alamo Vadisi</text>
+      </navLabel>
+      <content src="Text/k0214.html#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Kanyosunu</text>
+      </navLabel>
+      <content src="Text/k0215.html#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Son</text>
+      </navLabel>
+      <content src="Text/k0216.html#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/k0217.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

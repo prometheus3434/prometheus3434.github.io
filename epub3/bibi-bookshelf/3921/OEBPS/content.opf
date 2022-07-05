@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Keskin bıçak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pullman, Philip">Philip Pullman</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4ae05dfd-2ca6-48c1-b24f-d6ab3f2e31b1</dc:identifier>
+    <dc:date>2007-06-15T10:11:44+00:00</dc:date>
+    <dc:publisher>İthaki</dc:publisher>
+    <dc:contributor opf:role="trl">Sevin Okyay</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2014-06-11</dc:date>
+    <dc:description>Lyra har nu fået følgeskab af Will på sin livsfarlige rejse. De to er lige gamle - og lige modige, når de møder onde mennesker og sære væsener i andre verdener</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">07ead171-fda6-48fd-835a-5675ae8be791</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752733817</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">afzHSAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752733817</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:4ae05dfd-2ca6-48c1-b24f-d6ab3f2e31b1</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x2_the_subtle_knife.png"/>
+    <meta content="Keskin bıçak" name="calibre:title_sort"/>
+    <meta content="Karanlık Cevher" name="calibre:series"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta content="{&quot;Philip Pullman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/altin pusula.html" id="altin_pusula.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevi.html" id="yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0201.html" id="k0201.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0202.html" id="k0202.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0203.html" id="k0203.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0204.html" id="k0204.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0205.html" id="k0205.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0206.html" id="k0206.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0207.html" id="k0207.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0208.html" id="k0208.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0209.html" id="k0209.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0210.html" id="k0210.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0211.html" id="k0211.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0212.html" id="k0212.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0213.html" id="k0213.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0214.html" id="k0214.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0215.html" id="k0215.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0216.html" id="k0216.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k0217.html" id="k0217.html" media-type="application/xhtml+xml"/>
+    <item href="Text/k200.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/2_the subtle knife.png" id="x2_the_subtle_knife.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="altin_pusula.html"/>
+    <itemref idref="yayinevi.html"/>
+    <itemref idref="k0201.html"/>
+    <itemref idref="k0202.html"/>
+    <itemref idref="k0203.html"/>
+    <itemref idref="k0204.html"/>
+    <itemref idref="k0205.html"/>
+    <itemref idref="k0206.html"/>
+    <itemref idref="k0207.html"/>
+    <itemref idref="k0208.html"/>
+    <itemref idref="k0209.html"/>
+    <itemref idref="k0210.html"/>
+    <itemref idref="k0211.html"/>
+    <itemref idref="k0212.html"/>
+    <itemref idref="k0213.html"/>
+    <itemref idref="k0214.html"/>
+    <itemref idref="k0215.html"/>
+    <itemref idref="k0216.html"/>
+    <itemref idref="k0217.html"/>
+    <itemref idref="id"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

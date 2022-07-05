@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.2.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Karadelik Güncesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="bde1b1cc-9c97-4f25-89ac-b94f7af9ee47" playOrder="1">
+      <navLabel>
+        <text>KARADELİK GÜNCESİ *</text>
+      </navLabel>
+      <content src="Text/karadelik_guncesi_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e604f564-2901-4fed-adcb-360e063be9e4" playOrder="2">
+      <navLabel>
+        <text>KISALTMALAR</text>
+      </navLabel>
+      <content src="Text/karadelik_guncesi_split_013.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

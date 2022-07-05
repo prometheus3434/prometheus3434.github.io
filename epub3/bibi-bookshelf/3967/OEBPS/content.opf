@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kış Yolculuğu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nothomb, Amelie">Amelie Nothomb</dc:creator>
+    <dc:identifier id="uuid">{74FD869A-C9EA-4385-A7D4-5DEC9529EB83}</dc:identifier>
+    <dc:date>2022-01-07T11:08:19+00:00</dc:date>
+    <dc:publisher>Dogan Kitap</dc:publisher>
+    <dc:description>Aşkta kaybetmek yoktur.&amp;quot;Âşık olduğu kadına bir türlü ulaşamayan bir erkeğin hikâyesi bu. Büyük bir coşkunun korkunç bir hayal kırıklığına, ardından yıkıcı bir öfkeye dönüşmesinin hikâyesi.Kahramanımız Zoïle hayatının biricik aşkı Astrolabe&amp;#39;a kendisini kabul ettiremeyince, çareyi ona olan aşkını ispatlayacak ve büyük ses getirecek bir eylemde bulur. Yolcularıyla birlikte bir uçağı kaçırıp havada infilak ettirmektir</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Life Stages</dc:subject>
+    <dc:subject>Çeviri</dc:subject>
+    <dc:subject>Infants &amp; Toddlers</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:subject>Edebiyat</dc:subject>
+    <dc:subject>Family &amp; Relationships</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">31848cbd-0f6a-4550-9cc1-861716b9c52e</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">04xFEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050911145</dc:identifier>
+    <meta content="0.8.1" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kış Yolculuğu"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Amelie Nothomb&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../main.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id2" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id1" media-type="text/css"/>
+    <item href="ky.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id2">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

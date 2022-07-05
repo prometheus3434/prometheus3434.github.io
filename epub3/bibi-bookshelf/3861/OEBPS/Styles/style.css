@@ -1,0 +1,38 @@
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:bold;}
+@font-face{font-family:"Aharoni";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Courier New";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Franklin Gothic Heavy";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Chaparral Pro";font-style:italic;font-weight:bold;}
+@font-face{font-family:"Chaparral Pro Light";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Stencil BT";font-style:normal;font-weight:bold;}
+@font-face{font-family:"CloisterBlack BT";font-style:normal;font-weight:bold;}
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.3em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Trebuchet MS",sans-serif;font-size:100%}
+.p1{text-indent:0;margin-left:0;text-align:center}
+.p2{text-indent:1.8em;margin-top:3.8em;margin-bottom:0}
+.p3{text-indent:1.8em;margin-top:0;margin-bottom:0}
+.p5{text-indent:0;margin-left:0;text-align:center;margin-top:2.2em}
+h1{text-indent:1.1em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:.67em;margin-bottom:1em;font-family:"Stencil BT",fantasy;font-size:164%;font-weight:normal;font-style:italic;letter-spacing:.056em}
+.t2{font-weight:bold}
+.t3{font-size:.81em;line-height:120%}
+.t4{text-decoration:underline}
+.t6{font-family:Aharoni;font-size:3.3em;line-height:120%;font-weight:bold}
+.t7{font-family:"Courier New",monospace;font-size:3.4em;line-height:120%;font-weight:bold}
+.t8{font-family:"Franklin Gothic Heavy",sans-serif;font-size:3.4em;line-height:120%}
+.t9{font-family:"Chaparral Pro Light",serif;font-size:3.0em;line-height:120%;font-weight:bold;letter-spacing:-.1em}
+.t10{font-style:italic;letter-spacing:-.68em}
+.t11{font-style:italic}
+.t12{font-weight:bold;font-style:italic}
+.t13{font-family:"Stencil BT",fantasy;font-size:1.0em;line-height:120%}
+.t14{font-family:"CloisterBlack BT",cursive;font-size:2em}
+.t15{font-size:.65em;line-height:120%;font-weight:bold;vertical-align:super}
+.t16{font-size:.91em;line-height:120%;font-weight:bold;font-style:italic}
+.t18{letter-spacing:-.14em}
+.t19{font-style:italic;letter-spacing:-.14em}
+.t20{font-family:"Stencil BT",fantasy;font-size:1.6em;line-height:120%;font-style:italic}
+.t21{font-family:"Stencil BT",fantasy;font-size:1.0em;margin-left:1.5em;line-height:120%}
+
