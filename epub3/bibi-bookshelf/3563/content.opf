@@ -1,0 +1,43 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Hüseyin Nihal Atsız - Türkçülüğe Karşı Haçlı Seferi</dc:title>
+    <dc:creator id="id-2">ronaldinho424</dc:creator>
+    <dc:identifier>calibre:4411</dc:identifier>
+    <dc:identifier>uuid:86177ccd-9749-4184-9a6b-2a319d3db0d8</dc:identifier>
+    <dc:identifier id="uuid">Id_4E2CAFE8-4280-4F31-9268-B6BB4199E7AF_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Hüseyin Nihal Atsız - Türkçülüğe Karşı Haçlı Seferi</opf:meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2020-07-10T20:16:05Z</meta>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">ronaldinho424</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"ronaldinho424": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main.css" id="id9" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+</package>

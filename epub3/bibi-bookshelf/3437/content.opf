@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Harry Potter ve Ölüm Yadigarları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rowling, J.K.">J.K. Rowling</dc:creator>
+    <dc:date>2010-12-28T21:26:18+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a95ac756-c71e-449a-a88f-e84d3dd8124d</dc:identifier>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2f35258e-aebb-4078-b703-14fc38d856f5</dc:identifier>
+    <meta name="calibre:timestamp" content="2010-12-28T21:26:18.813652+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Harry Potter ve Ölüm Yadigarları"/>
+    <meta name="calibre:author_link_map" content="{&quot;J.K. Rowling&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="index-1_10.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="index-1_11.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="index-1_12.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="index-1_13.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="index-1_14.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="index-1_2.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="index-1_3.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="index-1_4.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="index-1_5.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="index-1_6.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="index-1_7.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="index-1_8.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="index-1_9.jpg" id="id15" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

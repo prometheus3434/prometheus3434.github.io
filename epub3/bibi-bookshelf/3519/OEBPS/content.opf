@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hikayeler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Seyfettin, Ömer">Ömer Seyfettin</dc:creator>
+    <dc:date>2013-06-15T11:04:46+00:00</dc:date>
+    <dc:identifier id="BookId">awp2013-07-20T12:35:59Z</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-12-07</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Türk edebiyatında önemli bir yeri olan Ömer Seyfettin'in on beş hikâyesini bulacağınız Seçme Hikâyeler'de yazarın eşsiz anlatımı ile tarihin bir dönemine tanıklık edeceksiniz.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Araf Yayinlari</dc:publisher>
+    <dc:subject>Türk Edebiyatı</dc:subject>
+    <dc:subject>Hikaye</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a283b10d-7913-4702-acd9-210f4821fbe1</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055205409</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">d6vTAQAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752203242</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Hikayeler" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Ömer Seyfettin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+  </guide>
+</package>

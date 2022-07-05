@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hacı Aga</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hidâyet, Sâdık">Sâdık Hidâyet</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:date>2014-03-20T22:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Sadık Hidayet'i başyapıtı &lt;i&gt;Kör Baykuş&lt;/i&gt;'ta ve &lt;i&gt;Diri Gömülen&lt;/i&gt;'de Kafka gibi modernlerin izinde gerçeküstü bir yazar olarak tanıdık; &lt;i&gt;Vejetaryenliğin Yararları&lt;/i&gt;'nda vejetaryen olmakla kalmayan, bir yandan da bu konuyu inceleyip araştıran kimliğini gördük. &lt;i&gt;Hacı Aga'&lt;/i&gt;da ise gerçekçi bir taşlama yazarıyla karşılaşıyoruz. Hidayet bu romanında 1940'lı yılların İran'ında sermaye çevrelerinin ve dini çıkarlarına alet etmekten çekinmeyen yüzsüz politikacıların ipliğini pazara çıkarıyor.&lt;/p&gt; &lt;p&gt;Hacı Aga"nın kahramanları, "kuyruk sallayan", "sürekli vezirlik", "şeriatın rehberi" gibi anlamlara gelen "manidar" adlarıyla, bizim de yabancımız değil; tabii en başta "Hacı Aga". Onları tanıyacaksınız... (Arka kapaktan)&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İran Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5c40eec0-b82f-46aa-8cc0-ac2c874069d7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753638081</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta content="Hacı Aga" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Sâdık Hidâyet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/after-cover.xhtml" id="after-cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/book.xhtml" id="book.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="after-cover.xhtml"/>
+    <itemref idref="book.xhtml"/>
+  </spine>
+</package>

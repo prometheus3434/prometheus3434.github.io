@@ -1,0 +1,318 @@
+/* ==Font tanıtımı=========================================== */
+
+@font-face {
+font-family: "Calibri";
+font-style: normal;
+font-weight: normal;
+src:url("../Fonts/CALIBRI.TTF");}
+
+@font-face {
+font-family: "Calibri";
+font-style: normal;
+font-weight: bold;
+src:url("../Fonts/CALIBRIB.TTF");}
+
+@font-face {
+font-family: "Calibri";
+font-style: italic;
+font-weight: normal;
+src:url("../Fonts/CALIBRII.TTF");}
+
+@font-face {
+font-family: "Calibri";
+font-style: italic;
+font-weight: bold;
+src:url("../Fonts/CALIBRIZ.TTF");}
+
+@font-face {
+font-family: "Liberation";
+font-style: normal;
+font-weight: normal;
+src:url("../Fonts/LIBERATION.TTF");}
+
+@font-face {
+font-family: "Liberation";
+font-style: normal;
+font-weight: bold;
+src:url("../Fonts/LIBERATION-BOLD.TTF");}
+
+@font-face {
+font-family: "Liberation";
+font-style: italic;
+font-weight: normal;
+src:url("../Fonts/LIBERATION-ITALIC.TTF");}
+
+@font-face {
+font-family: "Liberation";
+font-style: italic;
+font-weight: bold;
+src:url("../Fonts/LIBERATION-BOLDITALIC.TTF");}
+
+
+/* ==Sayfa yapısı ve tireleme============================================= */
+@page{margin-left:3%;margin-right:3%;margin-top:3%;margin-bottom:3%}
+
+body{-epub-hyphens:auto;
+	-webkit-hyphens:auto;margin:0}
+
+
+
+/* ==ic-1 deki ara çizgi ve sayfa içi yıldız bölmeleri için=============== */
+hr{ 
+display: block;
+margin-top: 0.2em;
+margin-bottom: 0.2em;
+margin-left: auto;
+margin-right: auto;
+border-style: solid;
+border-width: 1px;
+margin-left:40%;
+margin-right:40%;
+} 
+
+.Yildiz{
+text-align:center; 
+text-indent: 0em;
+margin-top: 1em;
+margin-bottom: 1em;
+} 
+
+/* ==Paragraflar=============================================== */
+p{
+text-indent: 0em;
+line-height:100%;
+font-family:"Liberation";
+font-style: normal;
+font-size:100%;
+margin-left:0;
+margin-right:0;
+margin-top:0em;
+margin-bottom:0.7em;
+text-align:justify;
+orphans:2; widows:2;
+}
+
+.Girintisiz{
+text-indent: 0em;
+line-height:100%;
+font-family:"Liberation";
+font-style: normal;
+font-size:100%;
+margin-left:0;
+margin-right:0;
+margin-top:0.3em;
+margin-bottom:0.3em;
+text-align:justify;
+orphans:2; widows:2;
+}
+
+.Ara-bosluk-2{
+margin:  3% 0 3% 0;
+font-size: 60%;
+}
+
+.Aciklama-1{
+margin-left: 1em;
+margin-right: 1em;
+}
+
+.Aciklama-2{
+margin-left: 1em;
+margin-right: 1em;
+font-style: italic;
+}
+
+.Siir-2{
+text-indent: 0em;
+margin-left: 2em;
+margin-top: 0;
+margin-bottom: 0;
+font-family:"Liberation";
+font-style: italic;
+font-size:100%;
+}
+
+
+
+/* ==Başlıklar============================================== */
+h1{
+text-indent:0;
+font-family:"Calibri";
+font-weight:normal;
+font-size:130%;
+margin-left:0;
+margin-right:0;
+text-align:center;
+margin-top:10%;
+margin-bottom:5%;
+}
+
+h2{
+text-indent:0;
+font-family:"Calibri";
+font-weight:normal;
+font-size:130%;
+margin-left:0;
+margin-right:0;
+text-align:left;
+margin-top:10%;
+margin-bottom:5%;
+}
+
+
+/* ==Sayfa başı ve diğer resimler için========================================= */
+.Resim{
+text-indent: 0em;
+text-align: center;
+}
+
+.Resim-1{
+margin-top: 30%;
+margin-bottom: 30%;
+text-indent: 0em;
+text-align: center;
+}
+
+.Resim-2{
+margin-top: 20%;
+margin-bottom: 10%;
+text-indent: 0em;
+text-align: center;
+}
+
+.Resim-3{
+margin-top: 5%;
+margin-bottom: 5%;
+text-indent: 0em;
+text-align: center;
+}
+
+
+/* ==ic-1 ve 2 için============================================= */
+
+.Yayinevi-1{
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+font-family:"Calibri";
+font-size: 80%;
+text-align: center;
+}
+
+.Yayinevi-2{
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+font-family:"Calibri";
+font-size: 80%;
+text-align: center;
+}
+
+.Yayinevi-3{
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+font-family:"Calibri";
+font-size: 70%;
+text-align: center;
+}
+
+.Yazar-1{
+margin-top: 0;
+margin-bottom: 0;
+text-indent: 0em;
+font-family:"Calibri";
+font-size: 95%;
+text-align: center;
+}
+
+.Yazar-2{
+margin-top: 0;
+margin-bottom: 0;
+text-indent: 0em;
+font-family:"Calibri";
+font-size: 95%;
+text-align: center;
+font-weight:bold;
+}
+
+.Yazar-3{
+margin-top: 0;
+margin-bottom: 0;
+text-indent: 0em;
+font-family:"Calibri";
+font-size: 80%;
+text-align: center;
+}
+
+
+/* ==================== Yayınevi sayfası için=========================== */
+
+.Tablo-sag{
+margin-left: 0.2em;
+margin-top: 0;
+margin-bottom: 0;
+font-family:"Calibri";
+text-indent: 0em;
+font-size: 0.7em;
+text-align: left;
+}
+
+.Tablo-sol{
+margin-right: 0.2em;
+margin-top: 0;
+margin-bottom: 0;
+font-family:"Calibri";
+text-indent: 0em;
+font-size: 0.7em;
+text-align: right;
+}
+
+.tablo-cizgi{
+width:0.001cm;
+background-color:black;
+}
+
+table.Tablo-Stili-1 {
+border-color:#000000;
+border-style:solid;
+border-width:0px;
+width:100%;
+margin-bottom:0.1%;
+margin-top:0.1%;
+text-indent: 0em;
+}
+
+
+/* ==================== Dipnotlar ve dipnot üst çizgisi için ===================== */
+
+a{
+text-decoration:none;
+color:#000000;
+font-weight:bold;
+}
+
+sup{
+text-decoration:none;
+color:#000000;
+font-weight:bold;
+vertical-align:15%
+}
+
+.dipnot-1{
+margin-top: 0;
+margin-bottom: 0;
+font-family: Calibri;
+font-size: 90%;
+}
+
+hr.dipnotcizgi{
+margin-top:0.4em;
+margin-bottom:0.101cm;
+height:0.010cm;
+width:40%;
+color:#000000;
+background-color:#000000;
+margin-left:0;
+margin-right:auto
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Hayalet Yazar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roth, Phliph">Phliph Roth</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Amerikan edebiyatının yaşayan en büyük yazarlarından Philip Roth'un 1979 tarihli romanı Hayalet Yazar, ilk kez Türkçede.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Hayalet Yazar'da, Roth'un ünlü roman kahramanı Nathan Zuckerman'la tanışıyoruz. Roth'un daha sonraki birçok romanında da karşımıza çıkacak olan Zuckerman, bir anlamda yazarın "alter ego"su: Tıpkı yaratıcısı gibi New Jerseyli bir Yahudi ailenin yazar oğlu olan Zuckerman, hayatının farklı dönemlerini anlatan romanlarda Roth'la birlikte büyüdü, olgunlaştı ve yaşlandı. Hayalet Yazar'da onu yirmi iki yaşında, heyecanlı, hırslı, ama aynı zamanda da kafası bir sürü soru işaretiyle dolu parlak bir yazar adayı olarak tanıyoruz: Zuckerman, idolü -ve edebi anlamda babası- olarak gördüğü ünlü öykücü E. I. Lonoff'un New England kırsalındaki evine davet edilmiştir. Dışarıda, ev sakinlerini dış dünyadan yalıtıp birbirlerine yaklaştıran bir kar fırtınası, evin içinde ise yaklaşmakta olan bir başka fırtına vardır: Lonoff, karısı Hope ve Lonoff'un genç, gizemli asistanı Amy Belette arasında kopmak üzere olan bir fırtına. Bu üçlüye, meraklı Zuckerman'ın hayal gücü ve arzuları da eklenince, Lonoffların sakin evi, Zuckerman'ın kaldığı iki gün boyunca hiç kimsenin öngöremeyeceği olaylara tanık olur. Hayalet Yazar'da Philip Roth, sanat-hayat, gerçeklik-kurmaca ilişkisi, baba-oğul, cemaat-birey çatışması gibi hayati konuları bütün yakıcılığıyla ele alıyor, bu meselelerle aile, aşk, mutluluk, cinsellik gibi konular arasında hayranlık uyandırıcı bir rahatlıkla gidip geliyor. Bu kadar zengin ve karmaşık bir dünyayı bu kadar kısa bir romana sığdırmak sadece usta bir yazarın hakkından gelebileceği bir şey olabilirdi.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">79b11e6b-b4a8-435a-aa73-32c5c8dc8a70</dc:identifier>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c38ed290-3663-4f8e-a85f-dae0d4a5e79e</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-02-21T11:42:40.657000+00:00"/>
+    <meta name="calibre:title_sort" content="Hayalet Yazar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Phliph Roth&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

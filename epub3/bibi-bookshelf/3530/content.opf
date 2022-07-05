@@ -1,0 +1,32 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Hızlı Okuma Teknikleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Karaçivi, Hüseyin Gökhan">Hüseyin Gökhan Karaçivi</dc:creator>
+    <dc:publisher>OMERZEN</dc:publisher>
+    <dc:date>2010-09-28T15:13:13+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d3084c3c-ac35-4c18-a2f8-bbf9a83b6005</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f8225c5c-3721-46c9-80ec-93db5ce9f56c</dc:identifier>
+    <meta name="calibre:title_sort" content="Hızlı Okuma Teknikleri"/>
+    <meta name="calibre:timestamp" content="2014-02-03T19:43:43.312000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hüseyin Gökhan Karaçivi&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

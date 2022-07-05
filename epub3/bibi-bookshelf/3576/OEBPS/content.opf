@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>İdeal Öğretmen</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Petrov, Grigory">Grigory Petrov</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5dfaf683-5c1b-435e-8887-b1e3dfaf6675</dc:identifier>
+    <dc:date>2008-03-30T21:00:00+00:00</dc:date>
+    <dc:publisher>Zafer Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Prof. Dr. S. A. Raçinski'nin, öğretmen ve öğrencilere örnek olacak gerçek hayat hikayesi
+
+1880'li Yıllarda Moskova Üniversitesi'nin bütün profesörleri, öğrencileri ve Moskova'nın aydınlar grubu, büyük bir şaşkınlık yaşıyorlardı. Çünkü tanık oldukları şey, o güne kadar görülmemiş bir şeydi... Üniversitenin en genç Matematik Profesörü S.A. Raçinski, Üniversitedeki kürsüsünden istifa edip ayrılmış, Rusya'nın Smolenska Eyaleti'nin Tatevo Köyü'nde öğretmenliğe atanması için Eğitim Bakanlığı'na bir dilekçe vermişti.
+
+Bilim dünyası onunla övünürken ve bir çok Matematik bilgini ondan önemli buluşlar beklerken, bu genç profesör, kendi arzusu ile üniversitedeki eğitim ve öğretim çalışmalarına son veriyordu. Herkes, "Ama neden?" diye büyük bir merak ile soruyordu. Raçinski ise, bu sorulara tek bir cevap veriyordu: "Bir köyde, sıradan bir köy öğretmeni olmak için!..."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Eğitim</dc:subject>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Gerçek</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0e1009d5-d20c-4b80-b7ea-023304839f2c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9799752610391</dc:identifier>
+    <meta content="İdeal Öğretmen" name="calibre:title_sort"/>
+    <meta content="2014-03-29T22:39:09.510000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Grigory Petrov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_000.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_001.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_002.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_003.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_004.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_005.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_006.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_007.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_008.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_009.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Ideal_Ogretmen_split_010.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/Ideal_Ogretmen_split_000.html#filepos109" title="Table Of Contents" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

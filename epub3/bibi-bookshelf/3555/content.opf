@@ -1,0 +1,41 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Hüseyin Nihal Atsız - Dokuz Boy Türkler ve Osmanlı Sultanları Tarihi</dc:title>
+    <dc:creator id="id-2">ronaldinho424</dc:creator>
+    <dc:identifier>calibre:4412</dc:identifier>
+    <dc:identifier>uuid:87864d57-6152-482e-9bae-e0529ea380cf</dc:identifier>
+    <dc:identifier id="uuid">Id_0AF65066-290E-4CF1-9288-EFECB62E6EB8_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Hüseyin Nihal Atsız - Dokuz Boy Türkler ve Osmanlı Sultanları Tarihi</opf:meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2020-07-10T20:10:26Z</meta>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">ronaldinho424</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"ronaldinho424": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main.css" id="id8" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+  </spine>
+</package>

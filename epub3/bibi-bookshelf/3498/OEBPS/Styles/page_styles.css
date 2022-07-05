@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: italic;
+    font-family: "verdana.ttf", sans-serif;
+    font-weight: normal;
+    src: url("res:///system/media/sdcard/my fonts/verdanai.ttf")
+    }
+@font-face {
+    font-style: normal;
+    font-family: "verdana.ttf", sans-serif;
+    font-weight: normal;
+    src: url("res:///system/media/sdcard/my fonts/verdana.ttf")
+    }
+@font-face {
+    font-style: italic;
+    font-family: "verdana.ttf", sans-serif;
+    font-weight: bold;
+    src: url("res:///system/media/sdcard/my fonts/verdanaz.ttf")
+    }
+@font-face {
+    font-style: normal;
+    font-family: "verdana.ttf", sans-serif;
+    font-weight: bold;
+    src: url("res:///system/media/sdcard/my fonts/verdanab.ttf")
+    }

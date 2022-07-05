@@ -1,0 +1,255 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+  font-family: "AGaramondP";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Fonts/AGaramondProRegular.otf")
+}
+@font-face {
+  font-family: "AGaramondP";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../Fonts/AGaramondProBold.otf")
+}
+@font-face {
+  font-family: "AGaramondP";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../Fonts/AGaramondProItalic.otf")
+}
+@font-face {
+  font-family: "AGaramondP";
+  font-style: italic;
+  font-weight: bold;
+  src: url("../Fonts/AGaramondProBoldItalic.otf")
+}
+@font-face {
+  font-family: "AGaramondP";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../Fonts/AGaramondProSemibold.otf")
+}
+@font-face {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Fonts/ARIALN.TTF")
+}
+@font-face {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../Fonts/ARIALNB.TTF")
+}
+@font-face {
+  font-family: "Arial";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../Fonts/ARIALNI.TTF")
+}
+@font-face {
+  font-family: "Times";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Fonts/times.ttf")
+}
+/*chapter*/
+
+h1 {
+ font:normal normal 1.17em "AGaramondP";
+ margin-bottom:3em;
+}
+.f-subtitle{
+  margin-bottom: 1em;
+}
+.subtitle{
+  margin:2em 0 1em;
+}
+.subtitle1{
+  margin:1em 0 .5em;
+  font-size: 1em;
+  text-align: center;
+}
+p{
+  font:normal normal 1em/1.3em "AGaramondP";
+  text-indent: 1.5em;
+  margin: 0;
+}
+.right{
+  text-align: right;
+  font-size: .83em;
+  margin-top: 1em;
+}
+.small{
+  font-size: .93em;
+}
+.first-letter {
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.unindent{
+  text-indent: 0;
+}
+.normal{
+  font-style: normal;
+}
+hr {
+  border: 0;
+  height: .8em;
+  text-align: center;
+  margin: .7em auto;
+  font-family: "Times";
+  font-size: 1em;
+}
+hr:after{
+  content: "*"
+}
+.italik p{
+  text-align: left;
+  text-indent: 0;
+  font-style: italic;
+  font-size: .92em;
+}
+.italik{
+  width: 60%;
+  margin-bottom: .6em;
+}
+/*biography*/
+
+
+
+/*yazim*/
+li{
+  font:normal normal .9em/1.4em Arial;
+  list-style: none;
+  float: left;
+  width: 6em; 
+}
+
+.yazim h1{
+  font:normal bold .85em/1.2em Arial;
+  margin-bottom: 0;
+  text-align: center;
+}
+/*notice*/
+a{
+  color: #7A7A7A;
+  text-decoration: none;
+}
+.notice div{
+  width: 350px;
+  margin: 0 auto 2em auto;
+}
+img{
+  width: 100%;
+}
+.notice-alt{
+  margin-top: .3em;
+}
+.notice{
+  text-align: center;
+}
+/*copyrigh*/
+
+.copyright-page section{
+  text-align: center;
+  margin-top: 1em;
+}
+.copy{
+  font:normal normal .8em/1.5em "AGaramondP";
+}
+/*cover*/
+.cover{
+  margin: 0 auto;
+  max-width: 450px;
+}
+/*title*/
+
+.titlepage section{
+  margin-top: .8em;
+  text-align: center;
+  font-family: "AGaramondP";
+  font-weight: bold;
+}
+.aut{
+  font-size: 1.6em;
+}
+.work{
+  font-size: 1.5em;
+}
+.type{
+ font-size: 1.1em;
+}
+.titlepage div {
+  width: 100px;
+  margin: 8em auto 0 auto;
+}
+/*epigraph*/
+.epigraph{
+  float: right;
+}
+.epigraph section{
+  margin-top: 3em;
+}
+.epigraph .left{
+  padding-right: 1em;
+}
+/*
+ *   BIOGRAPHY
+ */
+
+.biography p {
+  font-size: .916em;
+  margin: 0;
+  text-indent: 1em;
+}
+
+.biography header h1 {
+  text-align: center;
+  font-weight: bold;
+}
+.org {
+  display: block;
+  font-size: .71em;
+}
+.note {
+  font-size: .75em;
+  margin: .5em 0 1.2em 0;
+  text-align: center;
+  display: block;
+}
+.dotte {
+  font-family: "Arial";
+  font-size: .666em;
+}
+.auts-books h1 {
+  font-size: 1em;
+  margin: 1em 0 .3em;
+}
+.auts-books p {
+  text-indent: 0;
+  margin-top: .2em;
+}
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-family: "AGaramond";
+  font-size: .8em;
+  margin-bottom: .3em;
+  margin-top: 4em;
+}

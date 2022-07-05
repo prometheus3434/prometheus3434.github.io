@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Hamlet</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">William Shakespeare</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>The authoritative edition of Hamlet from The Folger Shakespeare Library, the trusted and widely used Shakespeare series for students and general readers.Hamlet is Shakespeare’s most popular, and most puzzling, play. It follows the form of a “revenge tragedy,” in which the hero, Hamlet, seeks vengeance against his father’s murderer, his uncle Claudius, now the king of Denmark. Much of its fascination, however, lies in its uncertainties.  Among them: What is the Ghost—Hamlet’s father demanding justice, a tempting demon, an angelic messenger? Does Hamlet go mad, or merely pretend to? Once he is sure that Claudius is a murderer, why does he not act? Was his mother, Gertrude, unfaithful to her husband or complicit in his murder?  This edition includes: -Freshly edited text based on the best early printed version of the play -Newly revised explanatory notes conveniently placed on pages facing the text of the play -Scene-by-scene plot summaries -A key to the play’s famous lines and phrases -An introduction to reading Shakespeare’s language -An essay by a leading Shakespeare scholar providing a modern perspective on the play -Fresh images from the Folger Shakespeare Library’s vast holdings of rare books -An up-to-date annotated guide to further reading  Essay by Michael Neill  The Folger Shakespeare Library in Washington, DC, is home to the world’s largest collection of Shakespeare’s printed works, and a magnet for Shakespeare scholars from around the globe. In addition to exhibitions open to the public throughout the year, the Folger offers a full calendar of performances and programs. For more information, visit Folger.edu.</dc:description>
+    <dc:publisher>Simon and Schuster</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">186100e1-b54f-4a1b-8eb4-afd9fa06740f</dc:identifier>
+    <dc:date>2012-04-24T11:59:26+00:00</dc:date>
+    <dc:rights>2018 Sovereign</dc:rights>
+    <dc:subject>top10</dc:subject>
+    <dc:subject>novel</dc:subject>
+    <dc:subject>interactive media</dc:subject>
+    <dc:subject>bestseller</dc:subject>
+    <dc:subject>book</dc:subject>
+    <dc:subject>Drama</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>urban romantics</dc:subject>
+    <dc:subject>English; Irish; Scottish; Welsh</dc:subject>
+    <dc:subject>European</dc:subject>
+    <dc:subject>Shakespeare</dc:subject>
+    <dc:subject>ebook</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">41475445-0393-4660-8780-22dc5008d4e9</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">UB74EoKvVfsC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781451669411</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781787244160</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-07-13T19:25:34.337348+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Hamlet"/>
+    <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter" href="OEBPS/chapter.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-1" href="OEBPS/chapter-1.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/images/33837.png" media-type="image/png"/>
+    <item id="cover_fmt.jpeg" href="OEBPS/images/cover_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="filet-201-20short_fmt.jpeg" href="OEBPS/images/filet1short_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="filet-201-20short_fmt1.jpeg" href="OEBPS/images/filet1short_fmt1.jpeg" media-type="image/jpeg"/>
+    <item id="Sovreign2_fmt.jpeg" href="OEBPS/images/Sovreign2_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="Sovreign3_fmt.jpeg" href="OEBPS/images/Sovreign3_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="top10-world_fmt.jpeg" href="OEBPS/images/top10-world_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="chapter"/>
+    <itemref idref="chapter-1"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

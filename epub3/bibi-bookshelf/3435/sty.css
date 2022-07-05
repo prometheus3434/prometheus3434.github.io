@@ -1,0 +1,102 @@
+/*Harry Potter Serisi için stil dosyası. Benim adım YILDIZGEZEN*/
+html, body, div, span, applet, object, iframe, img, h1, h2, h3, h4, h5, h6, h7, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, b, u, i, center, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, ol, ul, li, dl, dt, dd {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  font-size: 100%;
+  line-height: 100%;
+  text-align: justify;
+  vertical-align: baseline;
+  font-family: "Sitka Text";
+}
+a {
+  color: #494949;
+  text-decoration: none;
+}
+a:hover {
+  color: #000;
+  font-weight: bold;
+}
+b {
+  color: DarkGoldenRod;
+}
+div {
+  line-height: 120%;
+  text-align: center;
+  font-size: smaller;
+}
+div b {
+  line-height: 120%;
+}
+p {
+  line-height: 140%;
+  text-indent: 1.25em;
+  margin: 0.25em 0 0.25em 0;
+}
+p:first-of-type::first-letter {
+  color: DarkGoldenRod;
+  font-size: 250%;
+  line-height: 100%;
+  font-style: italic;
+}
+/*BAŞLIKLAR*/
+h1 {
+  /*KİTABIN ADI*/
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0.5em 0 0.5em 0;
+  line-height: 135%;
+  text-align: center;
+}
+h2 {
+  /*J. K. ROWLING yazısı*/
+  color: DarkGoldenRod;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0.5em 0 0.5em 0;
+  line-height: 135%;
+  text-align: center;
+}
+h4 {
+  /*Künye, SEVİN OKYAY yazısı*/
+  font-size: smaller;
+  font-weight: normal;
+  line-height: 100%;
+  margin: 0.5em;
+  /*vertical-align: super;*/
+  text-align: center;
+}
+h5 {
+  /* Yayıncıdan, İçindekiler, Yazardan, Bölüm Adı*/
+  font-weight: normal;
+  font-size: 1.3em;
+  font-style: italic;
+  line-height: 200%;
+  text-align: center;
+}
+h6 {
+  /*xxxİNCİ BÖLÜM yazısı*/
+  color: DarkGoldenRod;
+  font-weight: normal;
+  font-size: 1.3em;
+  font-style: normal;
+  line-height: 200%;
+  text-align: center;
+}
+ol, ul, li, dl, dt, dd {
+  padding: 0 0 0 0.25em;
+  line-height: 150%;
+  text-align: left;
+}
+li {
+  font-size: smaller;
+}
+dd {
+  color: DarkGoldenRod;
+  margin: 0.5em 0 0 0;
+}
+dt {
+  font-style: italic;
+  margin: 0.25em 0 0 2em;
+}

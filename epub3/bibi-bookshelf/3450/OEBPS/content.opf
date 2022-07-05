@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bir Havva Kızı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="BALZAC, Honore de">Honore de Balzac</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">adefdae5-fa58-4f82-b31f-ba5b35ba91f7</dc:identifier>
+    <dc:date opf:event="modification">2014-09-09</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;Honoré de Balzac (1799-1850): Fransa’nın 19. yüzyıldaki sosyal yapısının tarihsel bir tablosunu çıkardığı eski ve yeni romanlarını 1830’dan sonra İnsanlık Komedyası başlığı altında topladı. Bir Havva Kızı bu anıtsal eserin “Toplum Ahlak ve Görenekleri Üzerine İncelemeler” bölümünün “Özel Hayattan Sahneler” başlığı altında yer alır. Balzac’ın roman kahramanları çıkar çatışmalarının ortasında, ait oldukları sınıfın tipik karakterleri olarak ele alınsa da, her birinin bireysel özellikleri, ruh hallerinden giyim kuşamlarına kadar ayrıntılı olarak tasvir edilir. Bir Havva Kızı’nda romancılığının ve ince alaycılığı bütün özellikleri izlenebilen Balzac günümüzde edebi gerçekçiliğin en büyük yazarlarından biri sayılmaktadır.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Babür Kuzucuoğlu (1939): Haydarpaşa Lisesi’nde okudu. Yüksek öğrenimini İÜ Fransız Filolojisi’nde, Gazetecilik Enstitüsü’nde ve Paris VIII Vincennes Üniversitesi Sosyoloji bölümünde yaptı. Türkçeye çevirdiği yazarlar arasında André Malraux, Selma Lagerlöf, Stefanos Yerasimos, Ludovic Halévy yer alıyor. 1975’den beri Paris’te yaşayan Babür Kuzucuoğlu’nun Paris’te Türkiye Hareleri adlı bir kitabı var.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8bab0837-963a-4374-b903-ac3dbf334769</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944885898</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Havva Kızı, Bir"/>
+    <meta name="calibre:author_link_map" content="{&quot;Honore de Balzac&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_000.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_001.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_002.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_003.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_004.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_005.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_006.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/birhavvakizi_split_007.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

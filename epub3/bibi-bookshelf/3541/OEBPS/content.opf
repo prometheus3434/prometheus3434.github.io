@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Hunlar</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Gumilev, Lev Nikoloyeviç">Lev Nikoloyeviç Gumilev</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Selenge Yayınları</dc:publisher>
+    <dc:date>2004-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-20</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; float: none; display: inline !important;"&gt;Hunlar'ın varlığından Çin tarihi kaynakları sayesinde haberdar olduk. Muhtemelen bu isim, halkın kendisinden çok daha sonralarına kadar yaşamıştır. Bu ismi kullanan halklar bundan binbeşyüz yıl önce tarih sahnesinden silinmiş olmalarına rağmen, biz bugün Hunlar'ı daha iyi tanımaktayız. Halbuki Hunlar'ın çağdaşları olan birçok komşu halkları bugün sadece mütehassıs tarihçiler bilmektedirler. Çünkü Hunlar dünya tarihinde derin izler bırakmışlardır. Onlar Asya'dan Batı'ya yönelerek orada Ural çevresinde Ugorlar arasına karıştılar ve çok geçmeden onlarla kaynaşarak Avrupalılar'ın Gunlar [Kun] ismini verdikleri yeni bir millet olarak ortaya çıktılar. Bugüne kadar Gun kelimesi genelde bize vahşi bir yırtıcıyla eş anlamlı olarak görünmüştür ve bu da tesadüfi değildir. Çünkü Hunlar bin yıl boyunca sadece devlet kuran bir halk olarak değil, aynı zamanda genelde devlet yıkan bir millet olarak karşımıza çıkmaktadırlar&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">1ce062cf-59bc-43eb-bd95-1b9e8b2dd28c</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Hunlar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Lev Nikoloyeviç Gumilev&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Image1338_fmt.jpeg" id="Image1338_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image3701_fmt.jpeg" id="Image3701_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image4303_fmt.jpeg" id="Image4303_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image5377_fmt.jpeg" id="Image5377_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image7395_fmt.jpeg" id="Image7395_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image7699_fmt.jpeg" id="Image7699_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image8149_fmt.jpeg" id="Image8149_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image8601_fmt.jpeg" id="Image8601_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9019_fmt.jpeg" id="Image9019_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9028_fmt.jpeg" id="Image9028_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uUunN76vOKU4b7aOEcSY56H" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

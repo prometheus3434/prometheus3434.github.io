@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="9e091dcf-9363-4ba4-abab-89c86837f93d" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İki Büyük Dünya Sistemi Hakkında Diyalog</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="358e12d5-260f-4d26-8582-50ea11f99aba" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="ikidunya_split_003.html"/>
+      <navPoint id="78d32a21-debb-4458-8492-8548aa550ca4" playOrder="2">
+        <navLabel>
+          <text>Büyük Dük Hazretleri, [1]</text>
+        </navLabel>
+        <content src="ikidunya_split_004.html"/>
+      </navPoint>
+      <navPoint id="1c4d208b-5db1-46ae-9f92-d127522a2d3f" playOrder="3">
+        <navLabel>
+          <text>Eğriyi Doğruyu Ayıran Okura</text>
+        </navLabel>
+        <content src="ikidunya_split_005.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="8a6f6a34-cfa7-4017-bcad-9431a507f25e" playOrder="4">
+      <navLabel>
+        <text>İlk Gün</text>
+      </navLabel>
+      <content src="ikidunya_split_006.html"/>
+    </navPoint>
+    <navPoint id="dfe56adb-56e7-4b60-aff1-39c30411461c" playOrder="5">
+      <navLabel>
+        <text>İkinci Gün</text>
+      </navLabel>
+      <content src="ikidunya_split_008.html"/>
+    </navPoint>
+    <navPoint id="0670174e-eb67-4915-8da6-edaf948e45c3" playOrder="6">
+      <navLabel>
+        <text>Üçüncü Gün</text>
+      </navLabel>
+      <content src="ikidunya_split_010.html"/>
+    </navPoint>
+    <navPoint id="506a075e-6df1-415e-ba49-077f6d78391b" playOrder="7">
+      <navLabel>
+        <text>Dördüncü Gün</text>
+      </navLabel>
+      <content src="ikidunya_split_015.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

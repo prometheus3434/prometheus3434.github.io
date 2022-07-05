@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Güzel Yaz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pavese, Cesare">Cesare Pavese</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">cd4e093e-49dd-4e9a-b453-94684fc2de61</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:date>2017-04-15T10:14:22+00:00</dc:date>
+    <dc:description>&lt;p&gt;Güzel yaz çağdaş italyan Edebiyatının en önemli adlarından Cesare Pavese'nin 42 yaşındayken 1950 yılında bir otel odasından intihar etmeden önce tek başlık altında topladığı üç romandan biri...
+&lt;/p&gt;</dc:description>
+    <dc:subject>İtalyan Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f2fb1bab-9402-406d-858e-d69cbea54648</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3TAtzwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755108353</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750734984</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-01-07T12:25:46.019000+00:00" name="calibre:timestamp"/>
+    <meta content="Güzel Yaz" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cesare Pavese&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GY01.htm" id="GY01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY02.htm" id="GY02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY03.htm" id="GY03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY04.htm" id="GY04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY05.htm" id="GY05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY06.htm" id="GY06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY07.htm" id="GY07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY08.htm" id="GY08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY09.htm" id="GY09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY10.htm" id="GY10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY11.htm" id="GY11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY12.htm" id="GY12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY13.htm" id="GY13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY14.htm" id="GY14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY15.htm" id="GY15.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY16.htm" id="GY16.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY17.htm" id="GY17.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY18.htm" id="GY18.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY19.htm" id="GY19.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY20.htm" id="GY20.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY21.htm" id="GY21.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY22.htm" id="GY22.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/GY23.htm" id="GY23.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="GY01.htm"/>
+    <itemref idref="GY02.htm"/>
+    <itemref idref="GY03.htm"/>
+    <itemref idref="GY04.htm"/>
+    <itemref idref="GY05.htm"/>
+    <itemref idref="GY06.htm"/>
+    <itemref idref="GY07.htm"/>
+    <itemref idref="GY08.htm"/>
+    <itemref idref="GY09.htm"/>
+    <itemref idref="GY10.htm"/>
+    <itemref idref="GY11.htm"/>
+    <itemref idref="GY12.htm"/>
+    <itemref idref="GY13.htm"/>
+    <itemref idref="GY14.htm"/>
+    <itemref idref="GY15.htm"/>
+    <itemref idref="GY16.htm"/>
+    <itemref idref="GY17.htm"/>
+    <itemref idref="GY18.htm"/>
+    <itemref idref="GY19.htm"/>
+    <itemref idref="GY20.htm"/>
+    <itemref idref="GY21.htm"/>
+    <itemref idref="GY22.htm"/>
+    <itemref idref="GY23.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

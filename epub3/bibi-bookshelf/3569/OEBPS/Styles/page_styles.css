@@ -1,0 +1,34 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Ascender Sans", sans-serif;
+    font-weight: normal;
+    src: url(res:///system/fonts/AscenderSans-Italic.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Ascender Sans", sans-serif;
+    font-weight: normal;
+    src: url(res:///system/fonts/AscenderSans.ttf)
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Ascender Sans", sans-serif;
+    font-weight: bold;
+    src: url(res:///system/fonts/AscenderSans-BoldItalic.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Ascender Sans", sans-serif;
+    font-weight: bold;
+    src: url(res:///system/fonts/AscenderSans-Bold.ttf)
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Ascender Sans", sans-serif;
+    font-weight: bold;
+    src: url(res:///system/fonts/ascsanb_bitmap.ttf)
+    }

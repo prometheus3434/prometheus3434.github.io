@@ -1,0 +1,41 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Herlock Sholmes’a Karşı</dc:title>
+    <dc:creator id="id-1">Maurice Leblanc</dc:creator>
+    <dc:identifier>calibre:3227</dc:identifier>
+    <dc:identifier>uuid:518cb709-cde8-44cd-8af0-dee4108b905c</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:ee647c37-e05a-4f4e-b8f3-eed63fd19c69</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:contributor id="id-2">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Herlock Sholmes’a Karşı</meta>
+    <meta name="generator" content="Adobe InDesign 10.1"/>
+    <meta name="cover" content="arsenlupenherlocksholmesekarsi.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2017-02-13T19:25:53Z</meta>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta refines="#id-2" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Leblanc, Maurice</meta>
+    <meta property="calibre:author_link_map">{"Maurice Leblanc": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="calibre:title-page"/>
+    <item id="arsenlupenherlocksholmesekarsiepub" href="Text/arsenlupenherlocksholmesekarsiepub.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arsenlupenherlocksholmesekarsiepub-1" href="Text/arsenlupenherlocksholmesekarsiepub-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="arsenlupenherlocksholmesekarsi.jpg" href="Images/arsenlupenherlocksholmesekarsi.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="timaslogo.jpg" href="Images/timaslogo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="arsenlupenherlocksholmesekarsiepub"/>
+    <itemref idref="arsenlupenherlocksholmesekarsiepub-1"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

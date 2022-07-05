@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Hayali söyleşiler Freud</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Thomas, Donald M.">Donald M. Thomas</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Kolektif Kitap</dc:publisher>
+    <dc:date>2012-06-15T12:01:47+00:00</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">81840fa1-5c61-45c8-95c4-68b15fb566bc</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="GOOGLE">y7glnwEACAAJ</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Hayali söyleşiler Freud"/>
+    <meta name="calibre:author_link_map" content="{&quot;Donald M. Thomas&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-1.html" id="x5-1" media-type="application/xhtml+xml"/>
+    <item href="Text/5-2.html" id="x5-2" media-type="application/xhtml+xml"/>
+    <item href="Text/5-3.html" id="x5-3" media-type="application/xhtml+xml"/>
+    <item href="Text/5-4.html" id="x5-4" media-type="application/xhtml+xml"/>
+    <item href="Text/5-5.html" id="x5-5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-6.html" id="x5-6" media-type="application/xhtml+xml"/>
+    <item href="Text/5-7.html" id="x5-7" media-type="application/xhtml+xml"/>
+    <item href="Text/5-8.html" id="x5-8" media-type="application/xhtml+xml"/>
+    <item href="Text/5-9.html" id="x5-9" media-type="application/xhtml+xml"/>
+    <item href="Text/5-10.html" id="x5-10" media-type="application/xhtml+xml"/>
+    <item href="Text/5-11.html" id="x5-11" media-type="application/xhtml+xml"/>
+    <item href="Text/5-12.html" id="x5-12" media-type="application/xhtml+xml"/>
+    <item href="Text/5-13.html" id="x5-13" media-type="application/xhtml+xml"/>
+    <item href="Text/5-14.html" id="x5-14" media-type="application/xhtml+xml"/>
+    <item href="Text/5-15.html" id="x5-15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.png" id="x1_fmt.png" media-type="image/png"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/2_fmt.png" id="x2_fmt.png" media-type="image/png"/>
+    <item href="Images/3_fmt.png" id="x3_fmt.png" media-type="image/png"/>
+    <item href="Images/Image660_fmt.jpeg" id="Image660_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/KAPAK_fmt.jpeg" id="KAPAK_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="x5-2"/>
+    <itemref idref="x5-3"/>
+    <itemref idref="x5-4"/>
+    <itemref idref="x5-5"/>
+    <itemref idref="x5-6"/>
+    <itemref idref="x5-7"/>
+    <itemref idref="x5-8"/>
+    <itemref idref="x5-9"/>
+    <itemref idref="x5-10"/>
+    <itemref idref="x5-11"/>
+    <itemref idref="x5-12"/>
+    <itemref idref="x5-13"/>
+    <itemref idref="x5-14"/>
+    <itemref idref="x5-15"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

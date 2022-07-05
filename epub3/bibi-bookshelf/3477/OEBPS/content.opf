@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hayatta Kalma Güncesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lessing, Doris">Doris Lessing</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c67bee7c-f5bc-4b03-9205-fd88d6c424ce</dc:identifier>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:date>2013-02-15T12:21:16+00:00</dc:date>
+    <dc:description>Een vrouw, levend in een tijd waarin de westerse samenleving is vervallen tot barbarij, slaat de ontwikkeling gade van een aan haar zorgen toevertrouwd meisje.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">7b564987-4f30-49e5-a19c-b1c3a1820378</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c67bee7c-f5bc-4b03-9205-fd88d6c424ce</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ISeCXwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750711794</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="image__coverjpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Hayatta Kalma Güncesi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doris Lessing&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="chapter10xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="chapter11xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="chapter12xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="chapter13xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="chapter14xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="chapter13xhtml"/>
+    <itemref idref="chapter14xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

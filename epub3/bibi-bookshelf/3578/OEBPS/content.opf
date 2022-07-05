@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İdeoloji ve devletin ideolojik aygıtları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Althusser, Louis">Louis Althusser</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:8f8dc2db-bb60-48b9-b0f9-f893873b4b27</dc:identifier>
+    <dc:date>2017-06-15T11:46:20+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;İdeoloji ve Devletin İdeolojik Aygıtları, Althusser'in 1970 Haziranı'nda La Penseée'de yayınlanır yayınlanmaz bütün dünyada büyük yankılar uyandıran ve yankıları hâlâ devam eden aynı adlı ünlü makalesini, bu makalenin 1969 tarihli ilk versiyonunu ve La Penseée'de yayınlanan makalede dile getirilen fikirlere yönelik eleştirilere Althusser'in Aralık 1976 tarihinde -ve bu tarih itibariyle- verdiği cevapları içeren bir derlemedir. 
+
+Karl Polanyi, "yoksulluk" toplumda süren "doğa"dır, demişti. Çoktandır sadece kendilerini ve kendileri gibi düşünenleri ideolojinin dışında, başkalarını da daima ideolojinin içinde gören siyasi, felsefi, dini, ahlaki, kültürel ve etnik kamplarla kuşatılmış haldeyiz. Üstelik her meselede sadece kendilerini haklı başkalarını haksız, kendilerini iyi başkalarını kötü, kendilerini doğru başkalarını yanlış görmekteler. Güzellik ise sadece onlara has, başkaları çirkin de üstelik... Ve en kötüsü, aynı/özdeş olanı dost ve başka/farklı olanı daima (inkar ve asimilasyon işe yaramadığında) imha edilmesi gereken düşmanlar olarak görüyorlar, tıpkı "doğa" durumunda olduğu gibi! Althusser, işte bunun, yani ideolojinin neden, nasıl ve niçinini anlatıyor, belli ki kimsenin okuduğu yok bu kitabı!
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Siyasi</dc:subject>
+    <dc:subject>Derleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">60414d6a-92b6-46ff-b3b9-263c7d406288</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">OOEJvgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053754015</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053754015</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:8f8dc2db-bb60-48b9-b0f9-f893873b4b27</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="İdeoloji ve devletin ideolojik aygıtları"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Louis Althusser&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bol1.xhtml" id="bol1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bol2.xhtml" id="bol2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bol3.xhtml" id="bol3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not1.xhtml" id="not1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not2.xhtml" id="not2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not3.xhtml" id="not3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.jpg" id="main-1.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="bol1.xhtml"/>
+    <itemref idref="bol2.xhtml"/>
+    <itemref idref="bol3.xhtml"/>
+    <itemref idref="not1.xhtml"/>
+    <itemref idref="not2.xhtml"/>
+    <itemref idref="not3.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,296 @@
+@font-face {
+	font-family : "Minion Pro";
+	font-style : normal;
+	font-weight : bold;
+	src : url("../Fonts/MinionPro-Bold.otf");
+}
+@font-face {
+	font-family : "Minion Pro";
+	font-style : italic ;
+	font-weight : bold;
+	src : url("../Fonts/MinionPro-BoldIt.otf");
+}
+@font-face {
+	font-family : "Minion Pro";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("../Fonts/MinionPro-It.otf");
+}
+@font-face {
+	font-family : "Minion Pro";
+	font-style : normal;
+	font-weight : normal;
+	src : url("../Fonts/MinionPro-Regular.otf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.Normal {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.Normal-1 {
+	font-family : "Arial (TT) Regular", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 1.64em;
+}
+span.char-style-override-2 {
+	font-size : 1.36em;
+}
+span.char-style-override-3 {
+	font-family : "Minion Pro", serif;
+	font-size : 1em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-4 {
+	font-family : "Minion Pro", serif;
+	font-size : 1em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	font-family : "Minion Pro", serif;
+	font-size : 0.95em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-6 {
+	font-family : "Minion Pro", serif;
+	font-size : 0.82em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-7 {
+	font-family : "Minion Pro", serif;
+	font-size : 1.18em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-8 {
+	font-family : "Minion Pro", serif;
+	font-size : 0.82em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-9 {
+	font-size : 0.75em;
+}
+p.G-vde {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 10px 8px 10px;
+}
+p.Normal {
+	font-family : "Calibri Regular", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.15;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 10px 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.B-l-m-Ba-l--- {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 20px 10px 35px 10px;
+}
+p.Konu-Ba-l--- {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 150px 10px 50px 10px;
+}
+p.Paragraph-Style-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 100px 0px 50px 0px;
+}
+p.Normal-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.15;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 10px 0px;
+}
+p.RES {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 0px 50px 0px;
+}
+p.Normal-2 {
+	font-family : "Calibri Regular", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.15;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 10px 0px;
+}
+p.Basic-Paragraph-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Normal-3 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.15;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 10px 0px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	direction : rtl;
+	margin-bottom : 50px;
+	margin-top : 150px;
+	text-align : center;
+}
+p.para-style-override-3 {
+	direction : rtl;
+	margin-bottom : 0px;
+	text-align : center;
+}
+p.para-style-override-4 {
+	direction : rtl;
+	margin-bottom : 20px;
+	margin-top : 20px;
+	text-align : center;
+}
+p.para-style-override-5 {
+	margin-bottom : 22px;
+	margin-top : 22px;
+	text-align : center;
+}
+p.para-style-override-6 {
+	text-align : center;
+	margin-top : 22px;
+	margin-bottom : 22px;
+}
+p.para-style-override-7 {
+	margin-bottom : 50px;
+	margin-top : 250px;
+	text-align : center;
+}
+p.para-style-override-8 {
+	margin-bottom : 50px;
+	margin-top : 150px;
+	text-align : center;
+}
+p.para-style-override-9 {
+	text-align : center;
+}
+p.para-style-override-10 {
+	margin-bottom : 10px;
+	margin-top : 10px;
+	text-align : center;
+}
+div.Basic-Text-Frame {
+}

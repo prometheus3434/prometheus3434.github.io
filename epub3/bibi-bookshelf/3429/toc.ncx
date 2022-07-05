@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="d26d5737-4a98-415e-bc05-fc0fbda6948e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Harman Yerinde Aşk</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{8871B23B-A6D2-47B8-9490-622E19DC8BED}" playOrder="1">
+      <navLabel>
+        <text>UĞUR BÖCEĞİ</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{AAEE1F39-0CC0-4C51-A9AA-92081A28ED6A}" playOrder="2">
+      <navLabel>
+        <text>“‘Fabre’ı bilir misiniz?” diye araya girdi Lord Be</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{913CF193-1887-4951-9AFC-CD7B25C6DA54}" playOrder="3">
+      <navLabel>
+        <text>Şimdi sessizce dik, çimenli bayırdan yukarı ve kat</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{21EB9F6C-1221-4C4B-AA18-0E8C9152CEA2}" playOrder="4">
+      <navLabel>
+        <text>“Evet,” dedi Hannele.</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7C589ABE-7C7D-402E-B426-44A5AE9BC104}" playOrder="5">
+      <navLabel>
+        <text>“Ah!”diye bağırdı Hannele. “Ne, onu sevecek misin?</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

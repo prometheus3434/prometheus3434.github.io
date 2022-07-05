@@ -1,0 +1,23 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+a:link {text-decoration: none;}
+sub, sup { 
+font-size: 75%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.bos2{margin-top:2em;}
+.bos3{margin-top:3em;}
+.bos5{margin-top:5em;}
+.gir0{margin-top:8em;margin-left:5em;}
+
+.yildiz{text-align:center; font-size:1.2em;margin-top:1em;margin-bottom:1em;}
+
+.baslik1{text-indent:0em;font-size:1.5em;}
+.baslik2{text-indent:0em;font-size:1.8em;}

@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Herkes herkesle dostmuş gibi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bıçakçı, Barış">Barış Bıçakçı</dc:creator>
+    <dc:date>2000-06-15T12:46:51+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">29d6d224-6b22-4cc7-93bb-3738add0d389</dc:identifier>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Tuhaf bir oyun oynuyor sanki insanlar. Birinin öyküsü sürüp giderken, bir hayat devam ederken, yanından geçen, oralarda bir yerde gezen bir başkasına, 'öteki' hayatlara ilişiyor gözümüz, gönlümüz. En derin, en gizli, hem de en sıradan öyküler bunlar. ...&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">467f3bf4-4802-4b49-94fb-edf05991ce1a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754708141</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">PebdygAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-02-21T11:43:28.237000+00:00"/>
+    <meta name="calibre:title_sort" content="Herkes herkesle dostmuş gibi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Barış Bıçakçı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

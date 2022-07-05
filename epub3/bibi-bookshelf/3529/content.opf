@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Hızlandıkça Azalıyorum</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Skomsvold, Kjersti">Kjersti Skomsvold</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ff24bbfb-0c4d-428a-8074-94e0e339b8be</dc:identifier>
+    <dc:publisher>Jaguar</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Yeryüzünde yaşadığın her mutlu an kederle ödenmek zorundadır." &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Son yıllarda Norveç'in çıkardığı en güçlü yazarlardan Kjersti Skomsvold, şiirsel ve dokunaklı romanıyla Türkçede. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Mathea'nın yaşam ve ölüm, yaşlılık ve yalnızlık hakkında inceliklerle örülü zarif hikâyesi... Derinlikli bir melankoli, farklı bir mizah, küçük kelimeler, kısa cümleler, ufak paragraflar ve büyük bir yetenek... &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Norveç'te yayımlandığı yıl Tarjei Vesaas İlk Kitap Ödülü'ne layık görülen Hızlandıkça Azalıyorum'u Norveççe aslından Deniz Canefe çevirdi.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">90fd91eb-4942-41d0-b3a4-67e5c7d36a6c</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:25.802000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Hızlandıkça Azalıyorum"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kjersti Skomsvold&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

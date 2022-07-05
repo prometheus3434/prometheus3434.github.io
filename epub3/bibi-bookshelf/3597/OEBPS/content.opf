@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>İkiz Yıldız</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Heinlein, Robert A.">Robert A. Heinlein</dc:creator>
+    <dc:identifier id="bookid" opf:scheme="uuid">d939c386-e6c7-4cb4-93a1-60f2a5c96f04</dc:identifier>
+    <dc:contributor opf:role="aut">Online Media Technologies Ltd.</dc:contributor>
+    <dc:date>2010-08-12T21:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Dünya'nın ve Mars'ın kaderi, Büyük Lorenzo'nun rolünü iyi oynamasına bağlıydı.Kapının ağzında kabuslarımdaki zehirli mantarlara benzeyen bir Marslı duruyordu. Bu bir anlık şiddetli heyecan süresinde yalnızca Marslı'yı görebildim. Ne arkasındaki insanı ne de sözde uzvuyla tuttuğu Yaşam Asası'nı fark etmiştim. Derken Marslı içeri süzüldü ve kapı gıcırtısı sesiyle sordu: "İyi günler, baylar. Bir yere mi gidiyorsunuz?"&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5d93ccee-745d-42a9-85d9-ce47f3a02f90</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753420846</dc:identifier>
+    <meta name="cover" content="image1.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="İkiz Yıldız"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert A. Heinlein&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="x8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/9.xhtml" id="x9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/image1.jpg" id="image1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+    <itemref idref="x5.xhtml"/>
+    <itemref idref="x6.xhtml"/>
+    <itemref idref="x7.xhtml"/>
+    <itemref idref="x8.xhtml"/>
+    <itemref idref="x9.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

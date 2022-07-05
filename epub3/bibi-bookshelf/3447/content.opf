@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Hatırla</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Seran Demiral</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Tudem</dc:publisher>
+    <dc:date>2021-01-06T11:07:45+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d45bbb07-5065-45f8-ac7e-71a6521b502c</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">81e902bc-5c42-46bf-b12e-8fd1c573ca0a</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-09-03T12:07:44.199249+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Hatırla"/>
+    <meta name="calibre:author_link_map" content="{&quot;Seran Demiral&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="ufHGwe6eOaugmRKFlJcJN2D" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap" href="OEBPS/hatirla_e-kitap.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-1" href="OEBPS/hatirla_e-kitap-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-2" href="OEBPS/hatirla_e-kitap-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-3" href="OEBPS/hatirla_e-kitap-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-4" href="OEBPS/hatirla_e-kitap-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-5" href="OEBPS/hatirla_e-kitap-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-6" href="OEBPS/hatirla_e-kitap-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-7" href="OEBPS/hatirla_e-kitap-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-8" href="OEBPS/hatirla_e-kitap-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-9" href="OEBPS/hatirla_e-kitap-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-10" href="OEBPS/hatirla_e-kitap-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hatirla_e-kitap-11" href="OEBPS/hatirla_e-kitap-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/1.png" media-type="image/png"/>
+    <item id="x2.jpg" href="OEBPS/image/2.jpg" media-type="image/jpeg"/>
+    <item id="x9786052852675_front_cover.jpg" href="OEBPS/image/9786052852675_front_cover.jpg" media-type="image/jpeg"/>
+    <item id="hatirla_kapak.jpg" href="OEBPS/image/hatirla_kapak.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ufHGwe6eOaugmRKFlJcJN2D"/>
+    <itemref idref="hatirla_e-kitap"/>
+    <itemref idref="hatirla_e-kitap-1"/>
+    <itemref idref="hatirla_e-kitap-2"/>
+    <itemref idref="hatirla_e-kitap-3"/>
+    <itemref idref="hatirla_e-kitap-4"/>
+    <itemref idref="hatirla_e-kitap-5"/>
+    <itemref idref="hatirla_e-kitap-6"/>
+    <itemref idref="hatirla_e-kitap-7"/>
+    <itemref idref="hatirla_e-kitap-8"/>
+    <itemref idref="hatirla_e-kitap-9"/>
+    <itemref idref="hatirla_e-kitap-10"/>
+    <itemref idref="hatirla_e-kitap-11"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title Page"/>
+  </guide>
+</package>

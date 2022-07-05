@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Haw</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Varol, Kemal">Kemal Varol</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">18b90645-8175-4daf-8db4-921c432d683f</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>"Belaydık. Bitirimdik. Tuttuğumuzu koparırdık. Bazen ödlek kedilerin peşine düşerdik. Nefes nefese kaçacak bir delik ararlardı. Bazen de sokak sokak gezer, Ne geçiyon la burdan, diye korkuturduk yabancıları. Betleri benizleri atardı. Onların deyişiyle, itin götüne girmiş gibi olurlardı. Sonuçta insanlarla aramızdaki mesafe açılır ve kimse bir şey vermezdi bize. Onun adı Mikasa. Melsa’nın âşığı, uzun ince gövdesi, siyah benekleri var, güzel de bir burnu. Makam Dağı’nın, Papaz Gölü’nün adını biliyor. Güneylilerle Kuzeyliler savaşıyorlar, onu da duyuyor. Zamanı söyleyen hikâyeler, kaderi temize çeken melekler, ölmüşlere dualar ve sokakların tarihi... Hiçbiri, Heves Amca’nın Muhterem Nur’u sevdiği gibi Melsa’yı seven Mikasa’yı anlatmıyor. Dağlar gibi hatıralar... Alevli Kalpler Çetesi, Kıtmir Hazretleri, Çavuş Kabba, Burhan Çaçan’ın türküsü, Jandarma Köpek Eğitim Merkezi... Latif Dede, Köpek Cengiz, güzel bir biftek...Teneke çatılar, safralar, tevatürler, mayınlı yollar... Uluyan köpekler ve Adıgüzel, kalplere iyi gelen... Kemal Varol, zamanı aşan bir roman, hüzünlü bir edebiyat bileti sunuyor bize... Haw, sadece yeni değil sıcak ve güzel.." --Back cover.</dc:description>
+    <dc:date>2016-06-15T11:53:28+00:00</dc:date>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6e14b33d-99ad-4a6b-b006-04537c2d83f2</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750514197</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">9cHAoAEACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Haw"/>
+    <meta name="calibre:timestamp" content="2016-02-21T11:43:01.694000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Varol&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

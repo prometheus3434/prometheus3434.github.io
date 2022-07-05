@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hürriyetin ilanı: İkinci Meşrutiyetin siyasi hayatına bakışlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tunaya, Tarık Zafer">Tarık Zafer Tunaya</dc:creator>
+    <dc:date>1998-06-15T09:59:48+00:00</dc:date>
+    <dc:identifier id="BookId">awp2013-02-21T18:17:43Z</dc:identifier>
+    <dc:date opf:event="modification">2014-09-13</dc:date>
+    <dc:publisher>Cumhuriyet</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;Cemiyet gerek programı gerekse üyelerinin içtihatları bakımından gayrı mütecanis bir yapıya sahipti ve Jön Türk hareketinin özelliklerinden kurtulamamıştı. Saltanatçı, cumhuriyetçi, sosyalist, liberal, Türkçü, hilafetçi, her çeşit siyasi düşüncede insan, istibdat idaresini ''yıkmak için'' Cemiyetin çatısı altında birleşmişti. Üyeler gizli olarak Cemiyete alınıyor, gözleri kapalı bir tabancaya el basarak yemin ettiriliyordu (tahlif merasimi). Bu bir Jakoben usulüydü ve Cemiyete sihirli, efsanevi bir hal vermiştir. Rumeli'de uzun yıllar gizli faaliyette bulunan Cemiyet, üyelerini durmadan arttırmış. Orduyu da kendisine- yahut Ordu onu kendisine- bağlanmıştır. Kitlevi sayılabilecek hareketler Yıldız'ı korkutmuş, 1908 Meşrutiyeti ilan edilmiştir.&lt;/span&gt;&lt;br style="color: rgb(70, 71, 70); font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Siyasi</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Osmanlı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d00e4e1b-afb5-406a-bfb1-45efd73a631b</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">_9obnwEACAAJ</dc:identifier>
+    <meta name="cover" content="img1"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Hürriyetin ilanı: İkinci Meşrutiyetin siyasi hayatına bakışlar" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Tarık Zafer Tunaya&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Fonts/Georgia.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

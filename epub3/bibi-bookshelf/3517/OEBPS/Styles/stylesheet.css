@@ -1,0 +1,241 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 241;
+    width: 448
+    }
+.calibre11 {
+    height: 392;
+    width: 336
+    }
+.calibre12 {
+    height: 301;
+    width: 383
+    }
+.calibre13 {
+    height: 397;
+    width: 336
+    }
+.calibre14 {
+    height: 329;
+    width: 448
+    }
+.calibre15 {
+    height: 346;
+    width: 336
+    }
+.calibre16 {
+    height: 201;
+    width: 448
+    }
+.calibre17 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em
+    }
+.calibre18 {
+    height: 297;
+    width: 448
+    }
+.calibre19 {
+    height: 364;
+    width: 336
+    }
+.calibre2 {
+    height: auto;
+    width: auto
+    }
+.calibre20 {
+    height: 357;
+    width: 336
+    }
+.calibre21 {
+    height: 336;
+    width: 384
+    }
+.calibre22 {
+    height: 386;
+    width: 336
+    }
+.calibre23 {
+    height: 412;
+    width: 336
+    }
+.calibre24 {
+    height: 336;
+    width: 391
+    }
+.calibre25 {
+    height: 336;
+    width: 396
+    }
+.calibre26 {
+    height: 336;
+    width: 336
+    }
+.calibre27 {
+    height: 276;
+    width: 320
+    }
+.calibre3 {
+    height: 81;
+    width: 70
+    }
+.calibre4 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre5 {
+    height: 333;
+    width: 416
+    }
+.calibre6 {
+    height: 424;
+    width: 290
+    }
+.calibre7 {
+    height: 271;
+    width: 550
+    }
+.calibre8 {
+    height: 336;
+    width: 380
+    }
+.calibre9 {
+    height: 336;
+    width: 362
+    }
+.chapter {
+    display: block
+    }
+.clrb {
+    clear: both;
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

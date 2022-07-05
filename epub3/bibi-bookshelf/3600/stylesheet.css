@@ -1,0 +1,122 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre_ {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre_1 {
+    height: 240px;
+    vertical-align: baseline;
+    width: 118px
+    }
+.calibre_2 {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre_3 {
+    height: 160px;
+    vertical-align: baseline;
+    width: 200px
+    }
+.calibre_4 {
+    height: 259px;
+    vertical-align: baseline;
+    width: 123px
+    }
+.calibre_5 {
+    height: 54px;
+    vertical-align: baseline;
+    width: 210px
+    }
+.calibre_6 {
+    height: 84px;
+    vertical-align: baseline;
+    width: 121px
+    }
+.calibre_7 {
+    height: 112px;
+    vertical-align: baseline;
+    width: 76px
+    }
+.calibre_8 {
+    display: block;
+    height: 1em
+    }
+.calibre_9 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.calibre_10 {
+    display: list-item;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre_11 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre_12 {
+    display: block;
+    text-indent: -14pt;
+    margin: 1em 0 0 14pt
+    }
+.calibre_13 {
+    display: block;
+    text-indent: -14pt;
+    margin: 0 0 0 14pt
+    }
+.calibre1 {
+    font-size: 1.83333em;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-size: 1.41667em;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-size: 0.41667em
+    }
+.calibre5 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre6 {
+    font-size: 0.77778em
+    }
+.calibre7 {
+    font-size: 1.28571em
+    }
+.calibre8 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.italic {
+    font-style: italic
+    }
+.mbp_pagebreak {
+    display: block;
+    margin: 0
+    }

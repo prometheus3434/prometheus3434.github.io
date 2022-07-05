@@ -1,0 +1,145 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Huysuz ihtiyar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aral, Oğuz">Oğuz Aral</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3bf77fe0-28f4-47e1-ba62-1373c7e548d4</dc:identifier>
+    <dc:date>1998-06-15T10:57:58+00:00</dc:date>
+    <dc:publisher>AB Kitapçılık ve Dağıtımcılık</dc:publisher>
+    <dc:date opf:event="modification">2015-01-31</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Ertuğrul Özkök
+Hürriyet 12.04.1998 "Pazar Yazıları"
+..........
+Avni kesin dönüş yaptı. Ama hepsinden önemlisi, Oğuz Aral haftalık mizah yazıları yazmaya başladı. Ve ben bu yazıların bir müptelası oldum. Şimdi bu yazılardan oluşan kitap önümde duruyor.
+O çok sevdiğim adıyla "Huysuz İhtiyar" müstear başlığıyla bir Oğuz Aral klasiği. Kapağın hemen arkasından gelen sayfada bana hitaben yazılmış şu yedi kelime: "Ertuğrul Bey, Ertuğrul Bey, Yaptığınız marifeti beğendiniz mi?" Beğenmek ne kelime Oğuz Bey, kendi kendime alçak sesle, kimselerin duyamayacağı bir tonda, karşı koyamadığım bir gurur duygusuyla hayran oldum.
+Size utangaç bir ifadeyle şunu sormayı isterdim: "Bunda gerçekten benim de küçücük bir payım varsa, ne mutlu bana..."
+Bu kitap gerçek anlamda bir mizah klasiği olmaya adaydır.&lt;/p&gt;</dc:description>
+    <dc:subject>Mizah</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3c597cab-6f70-46e4-9797-95597f6c7d98</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757736394</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">7ER9AAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:3bf77fe0-28f4-47e1-ba62-1373c7e548d4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757736394</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Huysuz ihtiyar" name="calibre:title_sort"/>
+    <meta content="{&quot;Oğuz Aral&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="onkapak.jpg"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Hakkinda.xhtml" id="Hakkinda.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Baslik.xhtml" id="Baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.xhtml" id="Giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Hayallerimin_Katili_.xhtml" id="Hayallerimin_Katili_.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HerYerdeBirKomikVardir.xhtml" id="HerYerdeBirKomikVardir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BekirSanaHavHavDiyorum.xhtml" id="BekirSanaHavHavDiyorum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HuysuzIhtiyarinIntikami.xhtml" id="HuysuzIhtiyarinIntikami.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EzilenCinselSinif.xhtml" id="EzilenCinselSinif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DenverMeydanMuhaberesi.xhtml" id="DenverMeydanMuhaberesi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BelediyeyeSikayetEdecegim_.xhtml" id="BelediyeyeSikayetEdecegim_.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/NevilinKafasiFenaKaristi.xhtml" id="NevilinKafasiFenaKaristi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/RuhumdakiMarangoz.xhtml" id="RuhumdakiMarangoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AklinizVarsaIhtiyarlamayin.xhtml" id="AklinizVarsaIhtiyarlamayin.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MarangozluktaNamSaldim.xhtml" id="MarangozluktaNamSaldim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OkurlaraCevaplar.xhtml" id="OkurlaraCevaplar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BirTuketimSapigi.xhtml" id="BirTuketimSapigi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/EfendilerVekilBasvekilHattaKoseYazari.xhtml" id="EfendilerVekilBasvekilHattaKoseYazari.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/LutfenMustafayiElimdenAlmayin.xhtml" id="LutfenMustafayiElimdenAlmayin.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YoksaBenTembelMiyim_.xhtml" id="YoksaBenTembelMiyim_.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SeviyovumIste.xhtml" id="SeviyovumIste.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BugunDunyaKayinbabalarGunu.xhtml" id="BugunDunyaKayinbabalarGunu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BenKarikaturcuOlacakAdamMiydim.xhtml" id="BenKarikaturcuOlacakAdamMiydim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ItlerimeBaharGeldi.xhtml" id="ItlerimeBaharGeldi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/YaziYazmakMegersePetkaIsiymis.xhtml" id="YaziYazmakMegersePetkaIsiymis.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AcilarinCocuguMusti.xhtml" id="AcilarinCocuguMusti.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BizimItlerDulKaldi.xhtml" id="BizimItlerDulKaldi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OArtikBirOkullu.xhtml" id="OArtikBirOkullu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DenizeAdamDustu.xhtml" id="DenizeAdamDustu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BenimHayvanlarim.xhtml" id="BenimHayvanlarim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/ayrac.jpg" id="ayrac.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_01.jpg" id="karikatur_01.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_02.jpg" id="karikatur_02.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_03.jpg" id="karikatur_03.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_04.jpg" id="karikatur_04.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_05.jpg" id="karikatur_05.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_06.jpg" id="karikatur_06.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_07.jpg" id="karikatur_07.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_08.jpg" id="karikatur_08.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_09.jpg" id="karikatur_09.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_10.jpg" id="karikatur_10.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_11.jpg" id="karikatur_11.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_12.jpg" id="karikatur_12.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_13.jpg" id="karikatur_13.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_14.jpg" id="karikatur_14.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_15.jpg" id="karikatur_15.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_16.jpg" id="karikatur_16.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_17.jpg" id="karikatur_17.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_18.jpg" id="karikatur_18.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_19.jpg" id="karikatur_19.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_20.jpg" id="karikatur_20.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_21.jpg" id="karikatur_21.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_22.jpg" id="karikatur_22.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_23.jpg" id="karikatur_23.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_24.jpg" id="karikatur_24.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_25.jpg" id="karikatur_25.jpg" media-type="image/jpeg"/>
+    <item href="Images/karikatur_26.jpg" id="karikatur_26.jpg" media-type="image/jpeg"/>
+    <item href="Images/mustafa_01.jpg" id="mustafa_01.jpg" media-type="image/jpeg"/>
+    <item href="Images/mustafa_02.jpg" id="mustafa_02.jpg" media-type="image/jpeg"/>
+    <item href="Images/mustafa_03.jpg" id="mustafa_03.jpg" media-type="image/jpeg"/>
+    <item href="Images/mustafa_04.jpg" id="mustafa_04.jpg" media-type="image/jpeg"/>
+    <item href="Images/oguz_avni.Jpeg" id="oguz_avni.Jpeg" media-type="image/jpeg"/>
+    <item href="Images/oguz_imza_renkli.jpg" id="oguz_imza_renkli.jpg" media-type="image/jpeg"/>
+    <item href="Images/oguz_imza.jpg" id="oguz_imza.jpg" media-type="image/jpeg"/>
+    <item href="Images/oguz_resim_renkli.jpg" id="oguz_resim_renkli.jpg" media-type="image/jpeg"/>
+    <item href="Images/oguz_resim.jpg" id="oguz_resim.jpg" media-type="image/jpeg"/>
+    <item href="Images/onkapak.jpg" id="onkapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Hakkinda.xhtml"/>
+    <itemref idref="Baslik.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Giris.xhtml"/>
+    <itemref idref="Hayallerimin_Katili_.xhtml"/>
+    <itemref idref="HerYerdeBirKomikVardir.xhtml"/>
+    <itemref idref="BekirSanaHavHavDiyorum.xhtml"/>
+    <itemref idref="HuysuzIhtiyarinIntikami.xhtml"/>
+    <itemref idref="EzilenCinselSinif.xhtml"/>
+    <itemref idref="DenverMeydanMuhaberesi.xhtml"/>
+    <itemref idref="BelediyeyeSikayetEdecegim_.xhtml"/>
+    <itemref idref="NevilinKafasiFenaKaristi.xhtml"/>
+    <itemref idref="RuhumdakiMarangoz.xhtml"/>
+    <itemref idref="AklinizVarsaIhtiyarlamayin.xhtml"/>
+    <itemref idref="MarangozluktaNamSaldim.xhtml"/>
+    <itemref idref="OkurlaraCevaplar.xhtml"/>
+    <itemref idref="BirTuketimSapigi.xhtml"/>
+    <itemref idref="EfendilerVekilBasvekilHattaKoseYazari.xhtml"/>
+    <itemref idref="LutfenMustafayiElimdenAlmayin.xhtml"/>
+    <itemref idref="YoksaBenTembelMiyim_.xhtml"/>
+    <itemref idref="SeviyovumIste.xhtml"/>
+    <itemref idref="BugunDunyaKayinbabalarGunu.xhtml"/>
+    <itemref idref="BenKarikaturcuOlacakAdamMiydim.xhtml"/>
+    <itemref idref="ItlerimeBaharGeldi.xhtml"/>
+    <itemref idref="YaziYazmakMegersePetkaIsiymis.xhtml"/>
+    <itemref idref="AcilarinCocuguMusti.xhtml"/>
+    <itemref idref="BizimItlerDulKaldi.xhtml"/>
+    <itemref idref="OArtikBirOkullu.xhtml"/>
+    <itemref idref="DenizeAdamDustu.xhtml"/>
+    <itemref idref="BenimHayvanlarim.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table of Contents" type="toc"/>
+    <reference href="Text/Baslik.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

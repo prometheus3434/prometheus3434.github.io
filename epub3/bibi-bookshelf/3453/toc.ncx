@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="18b90645-8175-4daf-8db4-921c432d683f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Haw</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{51CCE277-1015-4153-9BA2-791A4B76A154}" playOrder="1">
+      <navLabel>
+        <text>GEÇ GELEN AŞK</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{241D722D-4B53-4DAB-BE5B-7EBEA9B285FA}" playOrder="2">
+      <navLabel>
+        <text>sekizinci bölüm KADERİMİ TEMİZE ÇEKEN MELEKLER</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C0AE26FE-3A81-4D9E-8DCE-A6C28441AE70}" playOrder="3">
+      <navLabel>
+        <text>SAVAŞIN EN KÖTÜ TARAFI</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

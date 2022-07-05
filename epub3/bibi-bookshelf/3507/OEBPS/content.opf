@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Hermeneutik ve Şiir</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Özlem, Doğan">Doğan Özlem</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Notos Kitap Yayıncılık Eğitim Danışmanlık ve Sanal Hizmetler Tic. Ltd. Şti.</dc:publisher>
+    <dc:date>2015-12-26T21:00:00+00:00</dc:date>
+    <dc:subject>Philosophy</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:description>Bir edebiyat yapıtını yorumlamada aslolan nedir?Şiir, edebiyatın en eski türü. Sevilen, yadırganan, içe kapalı gelen –dolayısıyla yoruma en muhtaç olan. Aslında yalnızca şiirin değil, bütün yazınsal metinlerin ömrü yoruma ne kadar açık olduklarına bağlı.Hermeneutik ve Şiir felsefi bir bakış açısıyla, bir edebiyat metnini yorumlama sorununu şiir özelinde tartışıyor. Öncelikle, bir edebiyat metnini anlama ve yorumlama sürecinde yapılan seçimlere değinen kitap, tarihselliğin altını özellikle çiziyor. Yazınsal bir metnin en iyi biçimde ancak yazıldığı tarihsel-toplumsal koşullar göz önünde bulundurulduğunda anlaşılabileceğini vurguluyor. Başka bir deyişle, Grek tinini anlamadan Homeros’u, Rönesans ile Reform’un kesiştiği noktayı göz önünde tutmadan Shakespeare’i yorumlamanın eksik yorumlama olacağını öne sürüyor.Hermeneutik ve Şiir, edebiyatı yeniden üçboyutlu düşünmek için iyi bir fırsat.Notos Felsefe#NotosKitap #NotosFelsefeDizisi</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">b76184ca-7c01-4d56-b734-89ad56157c73</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786059851343</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="GOOGLE">9izeDwAAQBAJ</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="KAPAK_fmt.png"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Hermeneutik ve Şiir"/>
+    <meta name="calibre:author_link_map" content="{&quot;Doğan Özlem&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/643.jpg" id="x643.jpg" media-type="image/jpeg"/>
+    <item href="Images/Dogan_Ozlem_(8)_fmt.jpeg" id="Dogan_Ozlem_-8-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/KAPAK_fmt.png" id="KAPAK_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

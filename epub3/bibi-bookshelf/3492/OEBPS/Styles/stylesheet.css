@@ -1,0 +1,126 @@
+.MsoNormal {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    margin: 0
+    }
+.MsoNormal1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.Section {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: Section1;
+    text-indent: 1.5em
+    }
+.SpellE {
+    line-height: 1.2
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre10 {
+    color: #4F81BD;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 10pt 0 0.0001pt
+    }
+.calibre11 {
+    font-size: 0.83333em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre2 {
+    font-size: 1.66667em;
+    line-height: 1.2
+    }
+.calibre3 {
+    color: black;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre4 {
+    -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0;
+    display: block;
+    line-height: 1.2;
+    orphans: 2;
+    text-align: -webkit-left;
+    widows: 2;
+    word-spacing: 0
+    }
+.calibre5 {
+    -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0;
+    float: none;
+    line-height: 1.2;
+    orphans: 2;
+    text-align: -webkit-left;
+    widows: 2;
+    word-spacing: 0
+    }
+.calibre6 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre8 {
+    color: #365F91;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 24pt 0 0.0001pt
+    }
+.calibre9 {
+    color: #4F81BD;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 10pt 0 0.0001pt
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    text-decoration: underline
+    }

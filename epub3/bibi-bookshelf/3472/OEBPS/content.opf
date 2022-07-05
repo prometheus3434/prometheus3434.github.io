@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hayata Yön Veren Sözler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Alıcı, Akın">Akın Alıcı</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c8b93fc7-9069-4e15-94eb-058fe0711e96</dc:identifier>
+    <dc:publisher>Epsilon Yayincilik Ltd. Sti</dc:publisher>
+    <dc:description>ürkiye&amp;#39;den ve dünyadan düşünür, devlet adamı, sanatçı ve bilim adamlarının hayat, iletişim, başarı, eğitim, dostluk gibi konulardaki sözlerine yer verilen kitaptaki bazı sözler:&amp;quot;Düşünme zor iştir. Muhtemelen bu nedenle çok az kişi düşünür.&amp;quot; - Heny Ford&amp;quot;Kuş bakışı bakmak güzeldir, fakat kuş gibi bakmamak kaydıyla.&amp;quot; - Şeyh Sadi&amp;quot;Hayal kurabilirsiniz, bu hayali gerçekleştirebilirsiniz. Her şeyin bir fareyle başladığını asla unutmayın.&amp;quot; - Walt Disney&amp;quot;Hiç düş kırıklığına uğramayanlar hiç umut beslememiş olanlardır.&amp;quot; - Bernard Shaw&amp;quot;Hayatımız, yaptığımız tercihlerin toplamıdır.&amp;quot; - Dr. W. Dwyer&amp;quot;Bağdat&amp;#39;ı almaya çalışmak, Bağdat&amp;#39;ın kendinden daha mı güzeldi ne?&amp;quot; - IV. Murat</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-04-02T11:46:27+00:00</dc:date>
+    <dc:subject>Self-Help</dc:subject>
+    <dc:subject>Motivational &amp; Inspirational</dc:subject>
+    <dc:subject>Derleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b33b91fa-d35a-401d-b9e5-4518f732f2c9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9753316089</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">agqUCwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c8b93fc7-9069-4e15-94eb-058fe0711e96</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753316088</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="KAPAK_fmt.jpeg"/>
+    <meta name="calibre:title_sort" content="Hayata Yön Veren Sözler"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Akın Alıcı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-1.xhtml" id="x7-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-2.xhtml" id="x7-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-3.xhtml" id="x7-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-4.xhtml" id="x7-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-5.xhtml" id="x7-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-6.xhtml" id="x7-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-7.xhtml" id="x7-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-8.xhtml" id="x7-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-9.xhtml" id="x7-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7-10.xhtml" id="x7-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="x8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/KAPAK_fmt.jpeg" id="KAPAK_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+    <itemref idref="x5.xhtml"/>
+    <itemref idref="x6.xhtml"/>
+    <itemref idref="x7.xhtml"/>
+    <itemref idref="x7-1.xhtml"/>
+    <itemref idref="x7-2.xhtml"/>
+    <itemref idref="x7-3.xhtml"/>
+    <itemref idref="x7-4.xhtml"/>
+    <itemref idref="x7-5.xhtml"/>
+    <itemref idref="x7-6.xhtml"/>
+    <itemref idref="x7-7.xhtml"/>
+    <itemref idref="x7-8.xhtml"/>
+    <itemref idref="x7-9.xhtml"/>
+    <itemref idref="x7-10.xhtml"/>
+    <itemref idref="x8.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

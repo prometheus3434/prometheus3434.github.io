@@ -1,0 +1,68 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre5 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre6 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre7 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre8 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre9 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: bottom;
+    padding: 1px
+    }
+.calibre10 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: middle;
+    padding: 1px
+    }
+.calibre11 {
+    display: block
+    }
+.calibre12 {
+    font-variant: small-caps
+    }

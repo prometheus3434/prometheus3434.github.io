@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="cd4e093e-49dd-4e9a-b453-94684fc2de61" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Güzel Yaz</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/GY07.htm" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/GY08.htm" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/GY09.htm" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/GY10.htm" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/GY14.htm" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/GY15.htm" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/GY16.htm" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="Text/GY17.htm" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="Text/GY18.htm" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="Text/GY19.htm" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="Text/GY20.htm" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="Text/GY21.htm" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/GY22.htm" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>XVI</text>
+      </navLabel>
+      <content src="Text/GY22.htm#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>XVII</text>
+      </navLabel>
+      <content src="Text/GY23.htm" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,97 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Harry Potter 6 - Melez Prens</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rowling, J.K.">J.K. Rowling</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:bb8ba6d0-235f-4e9b-8d44-3580dd0d195b</dc:identifier>
+    <dc:date>2015-01-03T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3cf32b74-49a8-425d-8487-9d3475bb82b8</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:bb8ba6d0-235f-4e9b-8d44-3580dd0d195b</dc:identifier>
+    <meta name="cover" content="img1.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Harry Potter 6 - Melez Prens"/>
+    <meta name="calibre:author_link_map" content="{&quot;J.K. Rowling&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="x004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="x005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="x006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="x007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="x008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="x009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="x010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="x011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="x012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="x013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="x014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="x015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="x016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="x017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="x018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="x019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="x020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="x021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="x022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="x023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/024.html" id="x024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/025.html" id="x025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/026.html" id="x026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/027.html" id="x027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/028.html" id="x028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/029.html" id="x029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/030.html" id="x030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/031.html" id="x031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/032.html" id="x032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/033.html" id="x033.html" media-type="application/xhtml+xml"/>
+    <item href="Text/034.html" id="x034.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/img1.jpg" id="img1.jpg" media-type="image/jpeg"/>
+    <item href="Images/img2.png" id="img2.png" media-type="image/png"/>
+    <item href="Images/img3.png" id="img3.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="x004.html"/>
+    <itemref idref="x005.html"/>
+    <itemref idref="x006.html"/>
+    <itemref idref="x007.html"/>
+    <itemref idref="x008.html"/>
+    <itemref idref="x009.html"/>
+    <itemref idref="x010.html"/>
+    <itemref idref="x011.html"/>
+    <itemref idref="x012.html"/>
+    <itemref idref="x013.html"/>
+    <itemref idref="x014.html"/>
+    <itemref idref="x015.html"/>
+    <itemref idref="x016.html"/>
+    <itemref idref="x017.html"/>
+    <itemref idref="x018.html"/>
+    <itemref idref="x019.html"/>
+    <itemref idref="x020.html"/>
+    <itemref idref="x021.html"/>
+    <itemref idref="x022.html"/>
+    <itemref idref="x023.html"/>
+    <itemref idref="x024.html"/>
+    <itemref idref="x025.html"/>
+    <itemref idref="x026.html"/>
+    <itemref idref="x027.html"/>
+    <itemref idref="x028.html"/>
+    <itemref idref="x029.html"/>
+    <itemref idref="x030.html"/>
+    <itemref idref="x031.html"/>
+    <itemref idref="x032.html"/>
+    <itemref idref="x033.html"/>
+    <itemref idref="x034.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

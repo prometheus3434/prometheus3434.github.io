@@ -1,0 +1,327 @@
+body {font-family: serif;}
+
+h1
+	{
+	margin-top:1em;
+	margin-bottom:1em;
+	text-align:center;
+	font-size:1.5em;
+	font-weight:bold;
+	}
+
+h2
+	{
+	margin-top:2em;
+	margin-bottom:0.5em;
+	text-align:center;
+	font-size:1.3em;
+	font-weight:bold;
+	}
+
+h3
+	{
+	margin-top:1em;
+	margin-bottom:1em;
+	font-weight:normal;
+	text-align:center;
+	font-size:normal;
+	text-indent:0em;
+	}
+
+p
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:0.0em;
+	margin-bottom:0.0em;
+	font-size: 1em;
+	}
+
+.p1
+	{
+	text-indent:0em;
+	}
+
+
+.kunye
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	font-size: 0.875em;
+	}
+
+.kunye2
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:1em;
+	margin-bottom:0em;
+	font-size: 0.875em;
+	}
+
+.pi
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:1em;
+	margin-left:2em;
+	margin-bottom:1em;
+	font-size: small;
+	}
+
+.pi2
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:1em;
+	margin-left:2em;
+	margin-bottom:1em;
+	font-size: small;
+	}
+
+.p2
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:0.3em;
+	margin-bottom:0.3em;
+	font-size: small;
+	}
+
+.p3
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:3em;
+	margin-bottom:0em;
+	font-size: 1em;
+	}
+
+.p4
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	font-size: 1em;
+	}
+
+.p5
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:3em;
+	margin-bottom:0em;
+	font-size: 1.2em;
+	}
+
+.yildiz
+	{
+	font-size:1em;
+	margin-top:1em;
+	margin-bottom:1em;
+	text-align:center;
+	}
+
+.baslik
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:2.0em;
+	margin-top:2em;
+	margin-bottom:2em;
+	}
+
+.baslik2
+	{
+	text-align:center;
+	font-style:bold;
+	font-size:1.2em;
+	text-indent:0em;
+	margin-top:2em;
+	margin-bottom:1em;
+	}
+
+.baslik3
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:2em;
+	margin-top:1.5em;
+	margin-bottom:1em;
+	}
+
+.baslik4
+	{
+	text-align:center;
+	font-size:1em;
+	text-indent:0em;
+	margin-top:0em;
+	margin-bottom:3em;
+	}
+
+.baslik5
+    {
+	text-align:justify;
+	text-indent:0em;
+	font-size:0.875em;
+    margin-left: 2em;
+	margin-top:0.0em;
+	margin-bottom:0.5em;
+	font-style:italic;
+	}
+
+.baslik6
+    {
+	font-size:0.875em;
+	text-align:right;
+	}
+
+.baslik7
+    {
+	text-align:justify;
+	text-indent:0em;
+	margin-top:1em;
+	font-size: 1em;
+	}
+
+.baslik8
+    {
+	text-align:center;
+	font-style:bold;
+	font-size:1.2em;
+	text-indent:0em;
+	margin-top:2em;
+	margin-bottom:1em;
+	}
+
+.baslik10
+    {
+	text-align:center;
+	text-indent:0em;
+	font-size:1.3em;
+	margin-top:0em;
+	margin-bottom:1em;
+	font-style:italic;
+	}
+
+.baslik11{
+text-align:justify;
+text-indent:0.5em;
+margin-top:1em;
+margin-bottom:0em;
+margin-left:2em;
+font-size:0.875em;
+}
+
+.baslik12{
+text-align:justify;
+text-indent:0.5em;
+margin-top:0em;
+margin-bottom:0em;
+margin-left:2em;
+font-size:0.875em;
+}
+
+.baslik13{
+text-align:justify;
+text-indent:0.5em;
+margin-top:0.5em;
+margin-bottom:1em;
+margin-left:2em;
+font-size:0.875em;
+}
+
+.baslik14
+    {
+	text-align:left;
+	text-indent:0em;
+	font-size:1.3em;
+	margin-top:1em;
+	margin-bottom:0em;
+	font-weight:bold;
+	}
+
+.baslik15
+    {
+	text-align:left;
+	text-indent:3em;
+	font-size:1em;
+	margin-top:1em;
+	margin-bottom:1em;
+	font-style:italic;
+	}
+
+.baslik16
+	{
+text-align:justify;
+text-indent:1em;
+font-style:italic;
+margin-top:1em;
+margin-bottom:0em;
+margin-left:2em;
+margin-right:0.5em;
+font-size:1em;
+	}
+
+.baslik17
+	{
+text-align:justify;
+text-indent:1em;
+font-style:italic;
+margin-top:0em;
+margin-bottom:0em;
+margin-left:2em;
+margin-right:0.5em;
+font-size:1em;
+	}
+
+.baslik18
+	{
+text-align:justify;
+text-indent:1em;
+font-style:italic;
+margin-top:0em;
+margin-bottom:1em;
+margin-left:2em;
+margin-right:0.5em;
+font-size:1em;
+	}
+
+.dipnot
+	{
+	text-align:align-left;
+	text-indent:2em;
+	margin-top:1em;
+	margin-bottom:1em;
+	margin-left:2em;
+	}
+
+.border1 
+	{
+	border-top: 0;
+	border-top-color: black;
+	border-top-style: solid;
+	color: black;
+	text-align: justify;
+	padding: 0 4pt;
+	border-top: black solid 1pt;
+	margin-left: 0.7em;
+	margin-right: 0.7em
+	}
+
+.ilkharf
+	{
+	font-size:1.3em;
+	font-style:bold;
+	}
+
+.lettrine 
+	{
+	float: left; 
+	margin: 0 0.5em -0.1em 0.25em; 
+	}

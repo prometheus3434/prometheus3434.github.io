@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Hocam, Allaha Peygambere Laf Etmek Caiz Midir?</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Nişanyan, Sevan">Sevan Nişanyan</dc:creator>
+    <dc:publisher>Propaganda Yayınları</dc:publisher>
+    <dc:rights>Creative Commons</dc:rights>
+    <dc:type>Sociology</dc:type>
+    <dc:date>2013-06-15T10:19:00+00:00</dc:date>
+    <dc:identifier id="bookid">9781927893043 (ePub), 9781927893050 (mobi)</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-10-26</dc:date>
+    <dc:description>&lt;p&gt;"Türkiye'de pek çok insanın kafası din ve ifade özgürlükleri konusunda karışıktır: Bu kitapta derlenen yazı parçacıklarından çıkan ana sonuç bu. Ama aynı zamanda bu konuları düşünmeye ve tartışmaya yönelik ciddi bir istek ve merak vardır. Cumhuriyet döneminde dindarlara yöneltilen hoyrat ve küçümseyici dil bu tartışma sürecini zorlaştırmıştır. İnsanlar din ve ifade özgürlüğü konularını konuşmaya istekli, ama aynı zamanda, anlaşılır nedenlerle, son derece ürkek ve alıngandır. Bu derece çetrefil bir meseleye, ucundan bir ayna tutabildiysem ne mutlu bana" diyor Nişanyan.
+Yazar'ın köşe yazarlığı serüveninin önemli bir halkasını oluşturan bu macerayı, yazarın gözünden okuyabilirsiniz. Sadece bir vaka incelemesi değil, aynı zamanda toplumun nabzını din ve ifade özgürlüğü konularında yakınen tutabilen bir çalışma...&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>İnceleme</dc:subject>
+    <dc:subject>Din</dc:subject>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:subject>Derleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">af717c69-53ed-4fac-9d3d-3ea4885ac25a</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="GOOGLE">XkDkzQEACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9781927893036</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9781927893036</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Hocam, Allaha Peygambere Laf Etmek Caiz Midir?"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sevan Nişanyan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/section1.html" id="section1" media-type="application/xhtml+xml"/>
+    <item href="Text/section2.html" id="section2" media-type="application/xhtml+xml"/>
+    <item href="Text/section3.html" id="section3" media-type="application/xhtml+xml"/>
+    <item href="Text/section4.html" id="section4" media-type="application/xhtml+xml"/>
+    <item href="Text/section5.html" id="section5" media-type="application/xhtml+xml"/>
+    <item href="Text/section6.html" id="section6" media-type="application/xhtml+xml"/>
+    <item href="Text/section7.html" id="section7" media-type="application/xhtml+xml"/>
+    <item href="Text/section8.html" id="section8" media-type="application/xhtml+xml"/>
+    <item href="Text/section9.html" id="section9" media-type="application/xhtml+xml"/>
+    <item href="Text/section10.html" id="section10" media-type="application/xhtml+xml"/>
+    <item href="Text/section11.html" id="section11" media-type="application/xhtml+xml"/>
+    <item href="Text/section12.html" id="section12" media-type="application/xhtml+xml"/>
+    <item href="Text/section13.html" id="section13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Images/kufur.png" id="image1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="section1"/>
+    <itemref idref="section2"/>
+    <itemref idref="section3"/>
+    <itemref idref="section4"/>
+    <itemref idref="section5"/>
+    <itemref idref="section6"/>
+    <itemref idref="section7"/>
+    <itemref idref="section8"/>
+    <itemref idref="section9"/>
+    <itemref idref="section10"/>
+    <itemref idref="section11"/>
+    <itemref idref="section12"/>
+    <itemref idref="section13"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

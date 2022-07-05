@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Huzursuz Bacak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kutlu, Mustafa">Mustafa Kutlu</dc:creator>
+    <dc:publisher>Dergah Yayinlari</dc:publisher>
+    <dc:description>İçimde yıllar sonra memlekete dönmüş olmanın sevinci, ellerimde bavullar, havaalanının kalabalık telaşından kurtulup bir taksiye doğru yürürken azıcık terlemiş alnıma huzurun sessiz, sakin, ama garip bir şekilde ürpertici eli dokunuverdi...
+
+Bavulları bıraktım, terimi sildim. Tam bu sırada o boz renkli kertenkele, ayaklarımın ucundan sessiz, sakin ama garip şekilde ürpertici bir bakışla süzülerek geçip gitti.</dc:description>
+    <dc:date>2017-06-15T12:21:52+00:00</dc:date>
+    <dc:identifier id="uuid">Id_95E48857-DF37-4DA0-8A33-3B2319F8A3E9_</dc:identifier>
+    <dc:subject>Hikaye</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">45c34e87-9ba2-412c-bae0-a68d1cfc12ab</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759954161</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">71ZuzQEACAAJ</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="0.9.9" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Huzursuz Bacak"/>
+    <meta name="calibre:author_link_map" content="{&quot;Mustafa Kutlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kitap.xhtml" href="Text/kitap.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="ey1.css" href="Styles/ey1.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logos.png" href="Images/logos.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kitap.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kapak" href="Text/cover.xhtml"/>
+  </guide>
+</package>

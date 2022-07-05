@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{69773E4E-BF7B-4207-AF36-F50F016BEB71}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hercai</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ISSIZ YALANLAR</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>GELİNLİK</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>YAKARIŞ</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>YOKOLUŞ</text>
+      </navLabel>
+      <content src="Text/main-10.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>KALPTEN YARALI</text>
+      </navLabel>
+      <content src="Text/main-11.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ÖLÜYORSUN İÇİMDE</text>
+      </navLabel>
+      <content src="Text/main-14.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>İMKÂNSIZ</text>
+      </navLabel>
+      <content src="Text/main-15.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ÖMÜR GİBİ</text>
+      </navLabel>
+      <content src="Text/main-16.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>GİT</text>
+      </navLabel>
+      <content src="Text/main-17.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>SAKIN AFFETME</text>
+      </navLabel>
+      <content src="Text/main-18.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ŞİMDİ UKDESİN</text>
+      </navLabel>
+      <content src="Text/main-19.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>HOŞÇA KAL SEVDAM</text>
+      </navLabel>
+      <content src="Text/main-20.xhtml#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>SERSERİ YAĞMURLAR</text>
+      </navLabel>
+      <content src="Text/main-21.xhtml#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>YAZIKLAR OLSUN</text>
+      </navLabel>
+      <content src="Text/main-22.xhtml#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>DİLENCİ</text>
+      </navLabel>
+      <content src="Text/main-23.xhtml#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>YÂR KOKUSU</text>
+      </navLabel>
+      <content src="Text/main-24.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>KÖR KURŞUN</text>
+      </navLabel>
+      <content src="Text/main-25.xhtml#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>YANGIN YERİ</text>
+      </navLabel>
+      <content src="Text/main-26.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>ACITAN MAZİ</text>
+      </navLabel>
+      <content src="Text/main-27.xhtml#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>HERCAİ 2’DEN ALINTILAR</text>
+      </navLabel>
+      <content src="Text/main-28.xhtml#sigil_toc_id_20"/>
+    </navPoint>
+  </navMap>
+</ncx>

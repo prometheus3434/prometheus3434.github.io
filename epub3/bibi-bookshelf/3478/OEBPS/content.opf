@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Hayek</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Butler, Eamonn">Eamonn Butler</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">55617693-35e1-42cc-b3d4-fd6d008f7d96</dc:identifier>
+    <dc:date>1989-10-15T10:50:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-08-14</dc:date>
+    <dc:publisher>Unión Editorial</dc:publisher>
+    <dc:description>Introducción: vida y obra de Hayek - Cómo funciona la sociedad - El proceso del mercado - La crítica de Hayek al socialismo - Crítica de la justicia social - La instituciones del orden liberal - La constitución del estado liberal - Razón y fantasía en las ciencias sociales.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Ekonomi</dc:subject>
+    <dc:subject>Business &amp; Economics</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Economics</dc:subject>
+    <dc:subject>Politik</dc:subject>
+    <dc:language>es</dc:language>
+    <dc:identifier opf:scheme="calibre">8e6d3e2e-0489-434d-9e6b-5ca331e0bdfa</dc:identifier>
+    <dc:identifier opf:scheme="UUID">55617693-35e1-42cc-b3d4-fd6d008f7d96</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9788472092181</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">975687743X</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2zckAgAACAAJ</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Hayek"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Eamonn Butler&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="Images/image001.png" id="cover-image" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter1.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/chapter2.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

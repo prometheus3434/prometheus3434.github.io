@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="3b6b6d8e-bb0f-416b-ae18-5515279bb090" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hür Şehrin İnsanları-1</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{5F0B3ED7-C16A-48AE-8811-9BA5FF6662A0}" playOrder="1">
+      <navLabel>
+        <text>— Haydi, kalk, dedi, giyin, gidiyoruz!</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{16C6C734-A3AC-4AAA-910A-3355B1CE947E}" playOrder="2">
+      <navLabel>
+        <text>— Neden be yahu? Geçen gün Eyüpsultan'dan gelirken</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{51893BEB-C0A1-425E-9854-16C0FD48080A}" playOrder="3">
+      <navLabel>
+        <text>— Evet!</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{48F96218-1D53-436D-934F-6F063473FC15}" playOrder="4">
+      <navLabel>
+        <text>— Benim cebime bir şey girecek değil!</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{BDD16C05-13C6-4807-A311-BFA9E8B962FE}" playOrder="5">
+      <navLabel>
+        <text>lütfen lâyık gören büyük sanatkâr sormuyordu. Telâ</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

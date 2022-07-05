@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Havadan Sudan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="NESİN AZİZ">Aziz Nesin</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Nesin Yayinevi</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c4c150d8-7700-4176-9330-8bbc9ad2a3e3</dc:identifier>
+    <dc:date>2005-11-15T12:16:57+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">63f930b0-e325-4417-bef9-6dafc1849f96</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054702374</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759038236</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">NQ4YnQAACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T13:43:26.863537+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Havadan Sudan"/>
+    <meta name="calibre:author_link_map" content="{&quot;Aziz Nesin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="noticexhtml" href="OPS/notice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright-pagexhtml" href="OPS/copyright-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepagexhtml" href="OPS/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1xhtml" href="OPS/chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2xhtml" href="OPS/chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3xhtml" href="OPS/chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4xhtml" href="OPS/chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5xhtml" href="OPS/chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter6xhtml" href="OPS/chapter6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter7xhtml" href="OPS/chapter7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter8xhtml" href="OPS/chapter8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter9xhtml" href="OPS/chapter9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter10xhtml" href="OPS/chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter11xhtml" href="OPS/chapter11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter12xhtml" href="OPS/chapter12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter13xhtml" href="OPS/chapter13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter14xhtml" href="OPS/chapter14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter15xhtml" href="OPS/chapter15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter16xhtml" href="OPS/chapter16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter17xhtml" href="OPS/chapter17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter18xhtml" href="OPS/chapter18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bookxhtml" href="OPS/book.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazimxhtml" href="OPS/yazim.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OPS/image/cover.jpg" media-type="image/jpeg"/>
+    <item id="image__imzajpg" href="OPS/image/imza.jpg" media-type="image/jpeg"/>
+    <item id="image__logopng" href="OPS/image/logo.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="noticexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="chapter13xhtml"/>
+    <itemref idref="chapter14xhtml"/>
+    <itemref idref="chapter15xhtml"/>
+    <itemref idref="chapter16xhtml"/>
+    <itemref idref="chapter17xhtml"/>
+    <itemref idref="chapter18xhtml"/>
+    <itemref idref="bookxhtml"/>
+    <itemref idref="yazimxhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover Image"/>
+  </guide>
+</package>
