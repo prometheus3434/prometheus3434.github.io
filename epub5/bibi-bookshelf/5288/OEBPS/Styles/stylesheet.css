@@ -1,0 +1,29 @@
+.calibre {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.calibre1 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.calibre2 {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.softbreak {
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    margin: 0.5em 0 1em
+    }
+.whitespace {
+    display: block;
+    text-align: center;
+    margin: 0
+    }

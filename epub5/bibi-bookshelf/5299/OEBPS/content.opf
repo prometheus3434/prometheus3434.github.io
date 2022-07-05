@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ucube Lise Öyküleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="İlktürk, Seyit">Seyit İlktürk</dc:creator>
+    <dc:description>&lt;p class="description"&gt;Gerçekten saçma öykülerle dolu bir kitap. Okumayın.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">acdf06a6-b7f8-4c81-90b0-500951143ab7</dc:identifier>
+    <dc:date>2014-04-24T21:00:00+00:00</dc:date>
+    <dc:subject>Hikaye</dc:subject>
+    <dc:subject>Amatör</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">4c2f3b6a-cc86-4b04-a4b6-baaef76a448a</dc:identifier>
+    <meta content="2013-09-29T10:30:42.999000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Ucube Lise Öyküleri"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Seyit İlktürk&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section1.html" id="Section1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.html" id="Section2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.html" id="Section3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.html" id="Section4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.html" id="Section5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.html" id="Section6.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section1.html"/>
+    <itemref idref="Section2.html"/>
+    <itemref idref="Section3.html"/>
+    <itemref idref="Section4.html"/>
+    <itemref idref="Section5.html"/>
+    <itemref idref="Section6.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

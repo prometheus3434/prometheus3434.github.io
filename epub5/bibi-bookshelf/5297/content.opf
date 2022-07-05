@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>UcKizKardes</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-12-01T12:23:07+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">baf2fc8c-43db-4f19-b0ec-314595b632a4</dc:identifier>
+    <dc:language>el</dc:language>
+    <dc:language>en</dc:language>
+    <dc:language>ru</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:language>uk</dc:language>
+    <dc:identifier opf:scheme="calibre">c7a2aecc-05c5-47ef-9a2f-e71a2021389f</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-12-02T10:50:44.410107+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="UcKizKardes"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uN7Vnu2EDfJ3F4onsIPTHw2" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UcKizKardes5" href="OEBPS/UcKizKardes_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UcKizKardes4" href="OEBPS/UcKizKardes_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UcKizKardes3" href="OEBPS/UcKizKardes_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UcKizKardes2" href="OEBPS/UcKizKardes_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UcKizKardes1" href="OEBPS/UcKizKardes_split_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/UcKizKardes.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uN7Vnu2EDfJ3F4onsIPTHw2"/>
+    <itemref idref="UcKizKardes5"/>
+    <itemref idref="UcKizKardes4"/>
+    <itemref idref="UcKizKardes3"/>
+    <itemref idref="UcKizKardes2"/>
+    <itemref idref="UcKizKardes1"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

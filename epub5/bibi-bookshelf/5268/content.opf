@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Türk İnkılabına Bakışlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+    <dc:date>1960-06-15T10:09:12+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0f9b8335-5a36-4ad1-a3cc-b6dfb43b9505</dc:identifier>
+    <dc:publisher>Ötüken Neşriyat A.Ş.</dc:publisher>
+    <dc:description>Türk İnkılâbı&amp;#39;nın temellerini erken bir dönemde hiçbir tartışmaya mahal  vermeyecek açıklıkla aşikâr kılan bir eserdir. &amp;quot;Türk İnkılâbına  Bakışların iki özelliği vardır. Birincisi inkılâp öncesi fikir  cereyanlarını en gerçek kaynaklarıyla ortaya koymaya çalışmış olmasıdır.  Kitaptaki vesikalardan, Atatürk inkılâbının İkinci Meşrutiyette ortaya  çıkan ve müdafaası yapılan Avrupalılaşma hareketinden aynen ilham aldığı  görülür. Eserin ikinci özelliği, Türk İnkılâbının tarih felsefesi,  medeniyetlerin mukayesesi, Şark (Doğu) ve Garp (Batı) mefhumlarının  tahlili, İslâm Türk ve Batı düşünceleri arasındaki kaynakların müşterek  oluşunu izah bakımından ilk deneme oluşudur.Satılmakta olan kitabımız e.pub 2.1 veya e.pub 3.0 formatında akan metin olarak hazırlanmıştır.İçerik olarak basılı metin ile birebir aynıdır. Metin üzerine not alabilir, metin büyüklüğünü değiştirebilir, metin içinde arama yapabilir, beğendiğiniz bölümleri cihazınız destekliyorsa paylaşabilirsiniz. Birkez indirdikten sonra tekrar internet bağlantısına ihtiyaç duymadan dilediğiniz yerde okuyabilirsiniz.[Ötüken Neşriyat A.Ş.]</dc:description>
+    <dc:subject>Essays</dc:subject>
+    <dc:subject>İnceleme</dc:subject>
+    <dc:subject>Literary Collections</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1166217c-c0aa-4e07-92a3-4cc47708698d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">20o8DQAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051555027</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9799754370019</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">13272118</dc:identifier>
+    <meta name="calibre:title_sort" content="Türk İnkılabına Bakışlar"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Peyami Safa&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.xhtml" id="id114" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id113" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.xhtml" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

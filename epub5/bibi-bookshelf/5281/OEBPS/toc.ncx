@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:e80cea43-3bfc-4cd8-aa67-7d9716eca73b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Türkiye Sosyal Tarihinde İslam'ın Macerası</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="titlepage" id="tp" playOrder="1">
+      <navLabel><text>İÇ KAPAK</text></navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint class="copyright" id="cop" playOrder="2">
+      <navLabel><text>TELİF SAYFASI</text></navLabel>
+      <content src="Text/copyright.htm"/>
+    </navPoint>
+    <navPoint class="other" id="toc" playOrder="3">
+      <navLabel><text>İÇİNDEKİLER</text></navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navPoint-4" playOrder="4">
+      <navLabel><text>SUNUŞ</text></navLabel>
+      <content src="Text/Sunus.xhtml"/>
+    </navPoint>
+    <navPoint class="part" id="p01" playOrder="5">
+      <navLabel><text>I. BÖLÜM DİNBİLİM, BİLİMCİLİK, MODERNLİK, ÇAĞDAŞLAŞMA</text>
+      </navLabel>
+      <content src="Text/bolumbir.xhtml"/>
+      <navPoint class="chapter" id="c1" playOrder="6">
+        <navLabel>
+          <text>TÜRK VE TÜRKİYE TARİHİNDE İSLÂM'I ÇALIŞMAK YAHUT "ARI KOVANINA ÇOMAK SOKMAK"</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c2" playOrder="7">
+        <navLabel>
+          <text>XV-XVII. YÜZYILLARDA OSMANLI İMPARATORLUĞU'NDA “ZENDEKA VE İLHAD” (HÉRÉSIE) MESELESİ</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c3" playOrder="8">
+        <navLabel>
+          <text>KUTB VE İSYAN: OSMANLI MEHDİCİ (MESİYANİK) HAREKETLERİNİN İDEOLOJİK ARKAPLANI ÜZERİNE BAZI DÜŞÜNCELER</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c4" playOrder="9">
+        <navLabel>
+          <text>XV-XVL YÜZYILLARDA OSMANLI RESMÎ İDEOLOJİSİ VE BUNA MUHALEFET PROBLEMİ</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c5" playOrder="10">
+        <navLabel>
+          <text>TARİH VE EFSÂNENİN BİR KAVŞAK NOKTASI: TÜRK FOLKLORUNDA KESİKBAŞ</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c6" playOrder="11">
+        <navLabel>
+          <text>BEKTAŞÎ MENÂKIBNÂMELERİNDE TENASÜH (RÉINCARNATION-METEMPSYCOSE) İNANCI</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c7" playOrder="12">
+        <navLabel>
+          <text>İSLÂM'IN TEMEL İNANÇLARI ETRAFINDAKİ “MİTOLOJİK” KÜLTÜR: “İSLÂM MİTOLOJİSİ” YAHUT İSLÂM İLAHİYATININ İHMAL. EDİLMİŞ ÖNEMLİ BİR SORUNSALI (Bir “mise-en-question” denemesi)</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c8" playOrder="13">
+        <navLabel>
+          <text>TÜRKİYE SELÇUKLULARI VE İSLÂM (Genel Bir Bakış)</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c9" playOrder="14">
+        <navLabel>
+          <text>OSMANLI İMPARATORLUĞU VE İSLÂM: PROBLEMLER, HİPOTEZLER VE BİR PERSPEKTİF DENEMESİ*</text>
+        </navLabel>
+        <content src="Text/09.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="part" id="p02" playOrder="15">
+      <navLabel>
+        <text>II. BÖLÜM İSLAM VE MODERNİTE</text>
+      </navLabel>
+      <content src="Text/bolumiki.xhtml"/>
+      <navPoint class="chapter" id="c10" playOrder="16">
+        <navLabel><text>TÜRK HALK İSLÂMI: TARİHSEL TEMELLER-İNANÇ YAPISI-TEOLOJİK KARAKTER-MODERNLEŞME PROBLEMİ</text>
+        </navLabel>
+        <content src="Text/10.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c11" playOrder="17">
+        <navLabel>
+          <text>İSLÂMÎ BİLİMLER VE MODERNLEŞME VE PROBLEMİ</text>
+        </navLabel>
+        <content src="Text/11.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c12" playOrder="18">
+        <navLabel>
+          <text>GÜNÜMÜZ TÜRKİYESİ'NDE İSLÂMÎ DÜŞÜNCENİN BİR TAHLİL DENEMESİ VE TARİH PERSPEKTİFİ</text>
+        </navLabel>
+        <content src="Text/12.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c13" playOrder="19">
+        <navLabel>
+          <text>TÜRKİYE, İSLÂM, ÜNİVERSİTELER VE SOSYAL BİLİMLER</text>
+        </navLabel>
+        <content src="Text/13.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="other" id="navPoint-20" playOrder="20">
+      <navLabel><text>YAZAR HAKKINDA</text></navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

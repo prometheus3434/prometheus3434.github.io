@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:9a7425f9-c36c-4b39-82ae-4ab4cbae6411" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Türk Saplantısı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>RESİM LİSTESİ</text>
+      </navLabel>
+      <content src="Text/figure.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>TÜRKÇE BASIMA ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>GİRİŞ HER ZAMAN &quot;TÜRKLER&quot;</text>
+      </navLabel>
+      <content src="Text/giris.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>DOĞU'YA DUYULAN İLGİ</text>
+      </navLabel>
+      <content src="Text/01.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>LEVANT'TAN HABERLER, ÖNGÖRÜLER VE MUCİZELER</text>
+      </navLabel>
+      <content src="Text/02.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>CARİYELER, KÜÇÜK MAGRİPLİLER, HIRİSTİYAN GANİMETLER</text>
+      </navLabel>
+      <content src="Text/03.xhtml#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>HAÇLI SEFERLERİ VE GEÇİT TÖRENLERİ</text>
+      </navLabel>
+      <content src="Text/04.xhtml#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>TUNUS'TA DİNDEN DÖNMEK, FERRARA'DA ŞİİR YAZMAK</text>
+      </navLabel>
+      <content src="Text/05.xhtml#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>VİYANA VE BUDA İÇİN</text>
+      </navLabel>
+      <content src="Text/06.xhtml#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>SÜRPRİZ ZİYARETLER</text>
+      </navLabel>
+      <content src="Text/07.xhtml#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>SAMANLA DOLDURULMUŞ İNSAN KAFALARI</text>
+      </navLabel>
+      <content src="Text/08.xhtml#sigil_toc_id_8" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>AZİZ LEONARDO'NUN ZİNCİRLERİ</text>
+      </navLabel>
+      <content src="Text/09.xhtml#sigil_toc_id_9" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>TUTSAKLIK ÖYKÜLERİ</text>
+      </navLabel>
+      <content src="Text/10.xhtml#sigil_toc_id_10" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ARINMA</text>
+      </navLabel>
+      <content src="Text/11.xhtml#sigil_toc_id_11" />
+    </navPoint>
+  </navMap>
+</ncx>

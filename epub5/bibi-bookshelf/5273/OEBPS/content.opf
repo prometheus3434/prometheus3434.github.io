@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Türk sözünün aslı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Orkun, Hüseyin Namık">Hüseyin Namık Orkun</dc:creator>
+    <dc:identifier id="uuid">{4850E5F3-C64E-43EE-8EEB-04BFE7BA3C90}</dc:identifier>
+    <dc:publisher>Atatürk Kültür, Dil ve Tarih Yüksek Kurumu, Türk Dil Kurumu yayınları</dc:publisher>
+    <dc:description>&lt;div&gt; &lt;p class="MsoNormal"&gt;&lt;span style="font-size:9.0pt"&gt;İlk baskısı 1940 yılında yapılan “Türk Sözünün Aslı” adlı bu eserin, tıpkıbasımı 1946 yılında yapılmıştır. Türk tarihçisi ve dilcisi Hüseyin Namık Orkun’un kıymetli çalışmaları arasında yer alan bu eser, 'Türk’ adının geçtiği en erken kayıtları içermesi ve Türk adının kökleri hakkında Vambery, Nemeth ve Thomsen gibi büyük Türk dilbilimcilerin etimolojik araştırmalarına yer vermesi bakımından büyük değer taşımaktadır.&lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <dc:date>2004-06-15T10:18:31+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Filoloji</dc:subject>
+    <dc:subject>Türk Tarihi</dc:subject>
+    <dc:subject>Etimoloji</dc:subject>
+    <dc:subject>İlkçağ Tarihi</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c8c49661-3019-41e7-ad38-5e2765314fa1</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3dcxAgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751617200</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9751617200000</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Türk sözünün aslı" name="calibre:title_sort"/>
+    <meta content="{&quot;Hüseyin Namık Orkun&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id12" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id11" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/main-7.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/TDK.jpg" id="TDK.jpg" media-type="image/jpeg"/>
+    <item href="Images/turuk.jpg" id="tıruk.jpg" media-type="image/jpeg"/>
+    <item href="Images/uk.jpg" id="uk.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id12">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Images/kapak.jpg" type="cover"/>
+  </guide>
+</package>

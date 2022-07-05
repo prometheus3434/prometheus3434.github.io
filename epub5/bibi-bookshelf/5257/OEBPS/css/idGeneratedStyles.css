@@ -1,0 +1,625 @@
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/AGaramondPro-Bold.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../font/AGaramondPro-BoldItalic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro Bold";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../font/AGaramondPro-BoldItalic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/AGaramondPro-Italic.otf");
+}
+@font-face {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/AGaramondPro-Regular.otf");
+}
+@font-face {
+	font-family:Corbel;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Corbel.ttf");
+}
+@font-face {
+	font-family:"Myriad Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/MyriadPro-It.otf");
+}
+@font-face {
+	font-family:"Myriad Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/MyriadPro-It.otf");
+}
+@font-face {
+	font-family:"Myriad Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/MyriadPro-Regular.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+div.Object-Style-2 {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+div.resimcerceve {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-1-baslik {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-1-baslik-isim {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:14px;
+	margin-left:14px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-2-baslik {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.5;
+	margin-bottom:0;
+	margin-left:14px;
+	margin-right:0;
+	margin-top:28px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-altbaslik {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:14px;
+	margin-right:0;
+	margin-top:23px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-dipnotmetni {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:0.583em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.286;
+	margin-bottom:0;
+	margin-left:14px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-14px;
+	text-transform:none;
+	widows:1;
+}
+p.e-epi {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.444;
+	margin-bottom:0;
+	margin-left:57px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.e-iyikikitaplarvar {
+	color:#000000;
+	font-family:"DINT  Light", sans-serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-jenerik {
+	color:#000000;
+	font-family:Corbel, sans-serif;
+	font-size:0.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.375;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-jenerikbaslik {
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.692;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-paragraf {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.e-perde {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:14px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:28px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.e-resim {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.381;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:7px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.e-resimalti {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.e-sagdan {
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:14px;
+	text-transform:none;
+	widows:1;
+}
+p.sayfabasindanbasla {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:14px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:43px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.bold {
+	font-style:normal;
+	font-weight:bold;
+}
+span.bolditalik {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+span.dipnot-no {
+	color:#000000;
+	font-size:0.625em;
+	font-variant:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.italik {
+	font-style:italic;
+	font-weight:normal;
+}
+span.sayfabasi-isim {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+p.ParaOverride-1 {
+	-epub-hyphens:none;
+	margin-top:43px;
+	text-align:center;
+}
+p.ParaOverride-2 {
+	-epub-hyphens:none;
+	text-align:center;
+}
+p.ParaOverride-3 {
+	-epub-hyphens:none;
+	margin-top:6px;
+	text-align:center;
+}
+p.ParaOverride-4 {
+	margin-top:57px;
+	text-align:center;
+}
+p.ParaOverride-5 {
+	text-align:center;
+}
+p.ParaOverride-6 {
+	margin-top:14px;
+	text-align:center;
+}
+p.ParaOverride-7 {
+	page-break-after:always;
+}
+span.CharOverride-1 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-3 {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-4 {
+	font-family:"Adobe Garamond Pro";
+	font-size:1.167em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-5 {
+	font-family:"Adobe Garamond Pro Bold", serif;
+	font-size:0.458em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-6 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.625em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	font-family:Corbel;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	font-family:"Adobe Garamond Pro";
+}
+span.CharOverride-10 {
+	font-family:"Adobe Garamond Pro Bold";
+}
+span.CharOverride-11 {
+	font-family:"Adobe Garamond Pro";
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	font-family:"Myriad Pro";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-13 {
+	font-family:"Myriad Pro";
+	font-size:1.072em;
+	font-style:normal;
+	font-weight:normal;
+}
+span._idGenCharOverride-1 {
+	font-size:0.75em;
+}
+span._idGenCharOverride-2 {
+	font-family:"Myriad Pro";
+}
+img._idGenPageitem-1 {
+	height:100%;
+	width:100%;
+}
+div._idGenPageitem-2 {
+	display:inline-block;
+	height:63px;
+	width:36px;
+}
+div._idGenPageitem-3 {
+	display:inline-block;
+	height:246px;
+	width:159px;
+}
+div._idGenPageitem-4 {
+	display:inline-block;
+	height:283px;
+	width:284px;
+}
+div._idGenPageitem-5 {
+	display:inline-block;
+	height:285px;
+	width:284px;
+}
+div._idGenPageitem-6 {
+	display:inline-block;
+	height:294px;
+	width:284px;
+}
+div._idGenPageitem-7 {
+	display:inline-block;
+	height:295px;
+	width:284px;
+}
+div._idGenPageitem-8 {
+	display:inline-block;
+	height:296px;
+	width:284px;
+}
+div._idGenPageitem-9 {
+	display:inline-block;
+	height:289px;
+	width:284px;
+}
+div._idGenPageitem-10 {
+	display:inline-block;
+	height:288px;
+	width:284px;
+}
+div._idGenPageitem-11 {
+	display:inline-block;
+	height:291px;
+	width:284px;
+}
+div._idGenPageitem-12 {
+	display:inline-block;
+	height:64px;
+	width:222px;
+}
+div._idGenRasterizeObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	margin:4px auto 4px auto;
+	page-break-after:always;
+	text-align:center;
+}
+div._idGenObjectLayout-2 {
+	text-align:center;
+}

@@ -1,0 +1,63 @@
+.calibre {
+    display: block;
+    font-family: "LiberationSerif", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.font {
+    font-family: "Bookman Old Style", serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font1 {
+    font-family: "Bookman Old Style", serif;
+    font-size: 0.77419em
+    }
+.font2 {
+    font-family: "Bookman Old Style", serif;
+    font-size: 0.77419em;
+    font-style: italic
+    }
+.font3 {
+    font-family: "Constantia";
+    font-size: 0.77419em
+    }
+.font4 {
+    font-family: "Constantia";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font5 {
+    font-family: "Constantia";
+    font-size: 1.41935em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.font6 {
+    font-family: "Bookman Old Style", serif;
+    font-size: 0.58065em
+    }

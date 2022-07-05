@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Türk kültür dünyasından portreler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kayalı, Kurtuluş">Kurtuluş Kayalı</dc:creator>
+    <dc:description>Intellectuals; sociologists; Turkey.</dc:description>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:date>2002-06-15T12:25:19+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9d608d90-5248-432e-a4e0-75e939fa7be5</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ccc051d7-a879-4bcc-a65d-4fab509e7062</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750500640</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">tcmMAAAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Türk kültür dünyasından portreler"/>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:26.613000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kurtuluş Kayalı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

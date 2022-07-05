@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Türk Romanına Eleştirel Bir Bakış 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yasal Uyarı</text>
+      </navLabel>
+      <content src="Text/dikkat.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Berna Moran Kimdir?</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bölüm I</text>
+      </navLabel>
+      <content src="Text/nakkal1.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>-Türk Romanı ve Batılılaşma Sorunsalı-</text>
+        </navLabel>
+        <content src="Text/nakkal1.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bölüm II</text>
+      </navLabel>
+      <content src="Text/nakkal2.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>-Âşık Hikâyeleri, Hasan Mellah ve İlk Romanlarımız-</text>
+        </navLabel>
+        <content src="Text/nakkal2.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bölüm III</text>
+      </navLabel>
+      <content src="Text/nakkal3.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>-Felâtun Bey ile Rakım Efendi-</text>
+        </navLabel>
+        <content src="Text/nakkal3.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bölüm IV</text>
+      </navLabel>
+      <content src="Text/nakkal4.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>-İddialı Bir Roman: Müşahedat-</text>
+        </navLabel>
+        <content src="Text/nakkal4.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Bölüm V</text>
+      </navLabel>
+      <content src="Text/nakkal5.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>-Araba Sevdası-</text>
+        </navLabel>
+        <content src="Text/nakkal5.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bölüm VI</text>
+      </navLabel>
+      <content src="Text/nakkal6.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>-Aşk-ı Memnu-</text>
+        </navLabel>
+        <content src="Text/nakkal6.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Bölüm VII</text>
+      </navLabel>
+      <content src="Text/nakkal7.xhtml"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>-Hüseyin Rahmi Gürpınar'ın «Yüksek Felsefe»si-</text>
+        </navLabel>
+        <content src="Text/nakkal7.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Bölüm VIII</text>
+      </navLabel>
+      <content src="Text/nakkal8.xhtml"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>-Şıpsevdi-</text>
+        </navLabel>
+        <content src="Text/nakkal8.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Bölüm IX</text>
+      </navLabel>
+      <content src="Text/nakkal9.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>-Sinekli Bakkal-</text>
+        </navLabel>
+        <content src="Text/nakkal9.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Bölüm X</text>
+      </navLabel>
+      <content src="Text/nakkal10.xhtml"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>-Kiralık Konak-</text>
+        </navLabel>
+        <content src="Text/nakkal10.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Bölüm XI</text>
+      </navLabel>
+      <content src="Text/nakkal11.xhtml"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>-Yaban'da Teknik ve İdeoloji-</text>
+        </navLabel>
+        <content src="Text/nakkal11.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Bölüm XII</text>
+      </navLabel>
+      <content src="Text/nakkal12.xhtml"/>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>-Peyami Safa'nın Romanlarında İdeolojik Yapı-</text>
+        </navLabel>
+        <content src="Text/nakkal12.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Bölüm XIII</text>
+      </navLabel>
+      <content src="Text/nakkal13.xhtml"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>-Matmazel Noraliya'nın Koltuğu-</text>
+        </navLabel>
+        <content src="Text/nakkal13.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Bölüm XIV</text>
+      </navLabel>
+      <content src="Text/nakkal14.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>-Alafranga Züppeden Alafranga Haine-</text>
+        </navLabel>
+        <content src="Text/nakkal14.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Bölüm XV</text>
+      </navLabel>
+      <content src="Text/nakkal15.xhtml"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>-Bir Huzursuzluğun Romanı: Huzur-</text>
+        </navLabel>
+        <content src="Text/nakkal15.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Bölüm XVI</text>
+      </navLabel>
+      <content src="Text/nakkal16.xhtml"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>-Saatleri Ayarlama Enstitüsü-</text>
+        </navLabel>
+        <content src="Text/nakkal16.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Sonuç — Özet</text>
+      </navLabel>
+      <content src="Text/sonuc.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

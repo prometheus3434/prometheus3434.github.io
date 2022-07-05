@@ -1,0 +1,36 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>TWİLİLİGHT</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">STEPHANE MAYER</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">060f5160-e73b-4525-b342-c5fb4313b00e</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">de5adef0-f20b-4f6e-af78-6fa16c6aab9e</dc:identifier>
+    <meta name="calibre:timestamp" content="2014-03-25T16:49:50.191674+00:00"/>
+    <meta name="calibre:title_sort" content="TWİLİLİGHT"/>
+    <meta name="calibre:author_link_map" content="{&quot;STEPHANE MAYER&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="index_split_000.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id2" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide/>
+</package>

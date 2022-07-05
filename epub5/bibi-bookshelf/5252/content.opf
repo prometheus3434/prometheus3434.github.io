@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tuhaf Bir Erkek</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Erbil, Leyla">Leyla Erbil</dc:creator>
+    <dc:publisher>Türkiye Is Bankasi Kültür Yayinlari</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;bütün acılara karşın hayat içimize bir nota bırakır ya&lt;/div&gt;&lt;div&gt;en bitik günümüzde direnme notasını&lt;/div&gt;&lt;div&gt;bir zarfa mı koyar bir deniz çırpıntısıyla mı savurur yüzümüze&lt;/div&gt;&lt;div&gt;neşe üşüşür hayatımıza birden güç aşılar iyi güçtür&lt;/div&gt;&lt;div&gt;başeğdirmeyen umut altın kafesinden&lt;/div&gt;&lt;div&gt;çıkıverir dolaşır tepemizde&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">88e8edae-6a1e-469f-a5e2-2f69a5965662</dc:identifier>
+    <dc:date>2022-06-15T12:36:40+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5fecf7b1-799d-4f5b-9ed8-e036141d23ae</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">N9PjzgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786254057502</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:25.362000+00:00"/>
+    <meta name="calibre:title_sort" content="Tuhaf Bir Erkek"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Leyla Erbil&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-8.png" id="id8" media-type="image/png"/>
+    <item href="main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

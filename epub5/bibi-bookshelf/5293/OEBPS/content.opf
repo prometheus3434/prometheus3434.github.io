@@ -1,0 +1,59 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="calibre: https://calibre-ebook.com ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Türklerin Tarihi: Orta Asya'nın bozkırlarından Avrupa'nın kapılarına</dc:title>
+    <dc:creator id="id-1">İlber Ortaylı</dc:creator>
+    <dc:identifier>isbn:9786050819267</dc:identifier>
+    <dc:identifier>google:CiSgAQAACAAJ</dc:identifier>
+    <dc:identifier>calibre:1221</dc:identifier>
+    <dc:identifier>uuid:2715808b-63b9-4e19-884e-1afb041654b9</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:f70acf05-a791-41b6-915b-bea2a0439003</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-2">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2015-06-15T12:14:55+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;"Koca bir kavmin binlerce kilometreyi üç asır içinde geçtiğini düşünün... Bu, dünyayı değiştirmez de ne yapar? İşte Türkler dünyayı böyle değiştirdi. Bu sebeple, bizim hayalî bir tarih ve kahramanlar üretmeye değil, yalnızca doğruyu öğrenmeye ihtiyacımız var…"&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;-İlber Ortaylı-&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Türklerin Tarihi, göçebe bir kavimken Ortadoğu'nun güçlü uygarlıklarından birini tesis eden Türklerin günümüzde de çok konuşulan menşei tartışmalarıyla başlıyor. Akabinde Orta Asya'dan Anadolu'ya göç edip bölgeyi Türkleştirmeleri ve orada inşa ettikleri kültürün esasları… Büyük bir mirasa, güçlü bir yapılanmaya ve tarihî bir zenginliğe sahip bir milletin, Türklerin adının nereden geldiği ve bu coğrafyaya ne zamandan beri "Türkiye" dendiği tartışmalarının tüm detayları… Kazanılan önemli savaşlar ve geri çekilmelerle, dahası ızdırablı toprak kayıplarıyla bugünkü halini alan Anadolu'nun hikâyesi…&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Türkiye'nin Malazgirt Savaşı'yla Bosna'nın fethi arasındaki 400 yıl boyunca Avrupa açısından önemli bir ülke ve baş edilmesi gereken bir sorun olmasının gerekçeleri… Dahası Oğuzlardan Kıpçaklara, Peçeneklerden Selçuklulara ve büyük bir imparatorluk olan Osmanlılara kadar uzanan ve sadece Türklerin değil; Rusların, Memlukluların, Karakoyunluların, Gaznelilerin, Safevilerin, Çinlilerin, Hintlerin ve Arapların tarihi… Yani aynı coğrafyayı yüzyıllar boyunca paylaşan uygarlıklara hep etki etmiş ve Doğu ve Batı kültürlerini birbirine taşımakta önemli bir rol oynamış Türklerin dünya tarihindeki yeri mercek altına alınıyor. &lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Orta Asya'nın bozkırlarından Avrupa'nın kapılarına, İlber Ortaylı'nın satırları arasında dolaşmak isteyen her yaştan okurun zevkle okuyacağı bir başucu kitabı...&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Türklerin Tarihi: Orta Asya'nın bozkırlarından Avrupa'nın kapılarına</meta>
+    <meta name="cover" content="cover"/>
+    <meta refines="#id-2" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Ortaylı, İlber</meta>
+    <meta property="calibre:author_link_map">{"İlber Ortaylı": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml" properties="calibre:title-page"/>
+    <item href="turklerintarihi-epub.xhtml" id="turklerintarihi-epub" media-type="application/xhtml+xml"/>
+    <item href="turklerintarihi-epub-1.xhtml" id="turklerintarihi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="turklerintarihi-epub-2.xhtml" id="turklerintarihi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="turklerintarihi-epub-3.xhtml" id="turklerintarihi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/arapca.jpg" id="arapca.jpg" media-type="image/jpeg"/>
+    <item href="image/arapca1.jpg" id="arapca1.jpg" media-type="image/jpeg"/>
+    <item href="image/arapca2.jpg" id="arapca2.jpg" media-type="image/jpeg"/>
+    <item href="image/arapca3.jpg" id="arapca3.jpg" media-type="image/jpeg"/>
+    <item href="image/arapca4.jpg" id="arapca4.jpg" media-type="image/jpeg"/>
+    <item href="image/arapca5.jpg" id="arapca5.jpg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/Findley-dingbat-flag-vert.jpg" id="Findley-dingbat-flag-vert.jpg" media-type="image/jpeg"/>
+    <item href="image/timaslogo.jpg" id="timaslogo.jpg" media-type="image/jpeg"/>
+    <item href="image/turklerintarihi.jpg" id="turklerintarihi.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="font/AGaramondPro-Bold.otf" id="AGaramondPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/AGaramondPro-BoldItalic.otf" id="AGaramondPro-BoldItalic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/AGaramondPro-Italic.otf" id="AGaramondPro-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/AGaramondPro-Regular.otf" id="AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="turklerintarihi-epub"/>
+    <itemref idref="turklerintarihi-epub-1"/>
+    <itemref idref="turklerintarihi-epub-2"/>
+    <itemref idref="turklerintarihi-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

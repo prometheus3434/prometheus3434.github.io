@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:ddcbe167-f633-40c0-a6d1-7e86dbc9b43e" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Türkler ve Tatarlar Arasında (1394-1427)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Telif Sayfası</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/toc.xhtml#toc"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÇEVİRENİN ÖNSÖZÜ</text>
+      </navLabel>
+      <content src="Text/CevirenOnsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>AVRUPA'NIN İLK TÜRKOLOĞU BAVYERALI JOHANNES (HANS) SCHILTBERGER (1381-1440)</text>
+      </navLabel>
+      <content src="Text/Hayat.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ALMANLARIN MARCO POLO'SU SCHILTBERGER (1380-1440) VE ESERİ</text>
+      </navLabel>
+      <content src="Text/ToplumTarih1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Alman Marco Polo'su</text>
+      </navLabel>
+      <content src="Text/ToplumTarih2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Epigraf</text>
+      </navLabel>
+      <content src="Text/Giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Kral Sigismund’un Türklerle Yaptığı Meydan Savaşı</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Türk Kralının Tutsaklara Karşı Davranışı</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bayezid’in Bütün Bir Memleketi Yoketmesi</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Bayezid’in Eniştesiyle Savaşıp Onu Öldürmesi (Karamanın Fethi)</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Bayezid’in Sivas Kralını Kovması</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bizden Altmış Hıristiyanın Tasarladığı Kaçış Planı</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bayezid’in Samsun Şehrini Fethi</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Yılanlar ve Engerekler</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Müslümanların Sürüleriyle Kış-Yaz Otlaklarda Kalması</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Bayezid’in Mısır Sultanının Bir Ülkesini Elinden Alması</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Mısır Sultanı Hakkında</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Timur’un Sivas Krallığını Ele Geçirişi</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Bayezid’in Ankara Savaşında Yenilgisi</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Timur’un Mısır Sultaniyle Savaşı</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Timur’un Bağdat’ı Fethi</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Timur’un Küçükhindistan’ı Ele Geçirmesi</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Bir Beyin Timur’un Birçok Malını Kaçırışı</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Timur’un Yedibin Çocuğu Öldürmesi</text>
+      </navLabel>
+      <content src="Text/Section0025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Timur’un Büyük Hana karşı Savaş Girişimi</text>
+      </navLabel>
+      <content src="Text/Section0026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Timur’un Ölümü</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Timur’un Oğulları</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Yusuf’un Miranşah’ın Boynunu Vurdurması ve Bütün Devletini Ele Geçirişi</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Yusuf un Bir Kralı Yenip Kafasını Kesmesi</text>
+      </navLabel>
+      <content src="Text/Section0030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Ebubekir’in Yanına Gelişim</text>
+      </navLabel>
+      <content src="Text/Section0031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Kıpçak Ülkesinde Bir Şehzade</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Birbiri Ardından Hükümdar Olanlar</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Putperest Bir Kadın ve Dörtbin Bâkiresi</text>
+      </navLabel>
+      <content src="Text/Section0034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Bulunduğum Ülkeler</text>
+      </navLabel>
+      <content src="Text/Section0035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Tuna İle Deniz Arasında Gördüğüm Memleketler</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Atmaca Kalesi ve Korunuşu</text>
+      </navLabel>
+      <content src="Text/Section0037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Fakir Bir Adamın Atmaca İçin Nöbet Tutması</text>
+      </navLabel>
+      <content src="Text/Section0038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Yine Atmaca Kalesi Hakkında</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>İpek (Böceği) Yetiştiren Ülke, İran ve Diğer Krallıklar</text>
+      </navLabel>
+      <content src="Text/Section0040.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Babil deki Büyük Kule</text>
+      </navLabel>
+      <content src="Text/Section0041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Büyük Tataristan</text>
+      </navLabel>
+      <content src="Text/Section0042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Tataristan’ın Benim Gördüğüm Yerleri</text>
+      </navLabel>
+      <content src="Text/Section0043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Ben Müslümanlar Arasında İken Ne Kadar Sultan Gelip Geçti</text>
+      </navLabel>
+      <content src="Text/Section0044.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Aziz Katharine Kutsal Sina Dağı</text>
+      </navLabel>
+      <content src="Text/Section0045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Mambre (Nâsıra) Yakınındaki Kurumuş Ağaç Hakkında</text>
+      </navLabel>
+      <content src="Text/Section0046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Kudüs ve Kutsal Mezar</text>
+      </navLabel>
+      <content src="Text/Section0047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Cennette Dört Ayrı Suyu Olan Kaynak</text>
+      </navLabel>
+      <content src="Text/Section0048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Hindistan’da Biber Nasıl Yetişir</text>
+      </navLabel>
+      <content src="Text/Section0049.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>İskenderiye</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Dev Gibi Bir Şövalye</text>
+      </navLabel>
+      <content src="Text/Section0051.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Putperestlerin Çeşitli Dinleri</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Muhammed ve Dininin Meydana Çıkışı</text>
+      </navLabel>
+      <content src="Text/Section0053.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Müslümanların Paskalyası (Ramazan Bayramı)</text>
+      </navLabel>
+      <content src="Text/Section0054.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Müslümanların Diğer Bir Bayramı</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Müslümanların Kanunu</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Muhammed Şarabı Müslümanlara Neden Yasakladı</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Bir Müslüman Mezhebi Hakkında</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Bir Hıristiyan Nasıl Müslüman Olur</text>
+      </navLabel>
+      <content src="Text/Section0059.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Müslümanların İsa ve Meryem Hakkındaki İnançları</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Müslümanların Hıristiyanlar Hakkında Söyledikleri</text>
+      </navLabel>
+      <content src="Text/Section0061.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>İddialara Göre Hıristiyanlar Hangi Konularda Emirleri Tutmuyorlar</text>
+      </navLabel>
+      <content src="Text/Section0062.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Muhammed Ne Zaman Yaşadı</text>
+      </navLabel>
+      <content src="Text/Section0063.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>İstanbul</text>
+      </navLabel>
+      <content src="Text/Section0064.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Rumlar</text>
+      </navLabel>
+      <content src="Text/Section0065.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Rumların İnançları</text>
+      </navLabel>
+      <content src="Text/Section0066.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>İstanbul Şehrinin Kuruluşu</text>
+      </navLabel>
+      <content src="Text/Section0067.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Gürcüler ve Ossetlerde Evlenme Adetleri</text>
+      </navLabel>
+      <content src="Text/Section0068.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Ermeniler, Şehirleri ve Âdetleri</text>
+      </navLabel>
+      <content src="Text/Section0069.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Ermenilerin İnançları</text>
+      </navLabel>
+      <content src="Text/Section0070.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Aziz Gregorius</text>
+      </navLabel>
+      <content src="Text/Section0071.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Bir Ejderha ve Tek Boynuzlu Canavar</text>
+      </navLabel>
+      <content src="Text/Section0072.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Rum ve Ermenilerin Düşman Olmalarının Nedeni</text>
+      </navLabel>
+      <content src="Text/Section0073.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Müslüman Ülkesinden Hangi Yollardan Geçerek Döndüm</text>
+      </navLabel>
+      <content src="Text/Section0074.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Çevirmen Notlar</text>
+      </navLabel>
+      <content src="Text/Notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

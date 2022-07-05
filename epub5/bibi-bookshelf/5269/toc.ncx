@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="9d608d90-5248-432e-a4e0-75e939fa7be5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Türk Kültür Dünyasından Portreler</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{0B1900D5-670D-4A47-9467-17D275BF7329}" playOrder="1">
+      <navLabel>
+        <text>Batı Klasiklerinin Çevirisinin Önemi •</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{FEEE25A1-4824-4C70-8AAA-3A37755E61A6}" playOrder="2">
+      <navLabel>
+        <text>A. 1960'lı Yllların Tipik Olmayan Bir Entelektüelinin Portresi: idris Küçükömer</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{4C0E06C7-CF77-46B3-9E31-381837C61CD9}" playOrder="3">
+      <navLabel>
+        <text>FLU AYDIN FOTOĞRAFLARI</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

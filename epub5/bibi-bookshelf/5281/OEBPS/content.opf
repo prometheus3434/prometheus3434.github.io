@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Türkiye sosyal tarihinde İslam'ın macerası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ocak, Ahmet Yaşar">Ahmet Yaşar Ocak</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e80cea43-3bfc-4cd8-aa67-7d9716eca73b</dc:identifier>
+    <dc:date opf:event="modification">2014-10-09</dc:date>
+    <dc:type>Tarih-Araştırma İnceleme</dc:type>
+    <dc:publisher>Timaş</dc:publisher>
+    <dc:date>2010-06-15T12:15:12+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">2b41f58d-4037-4fa8-8294-10217dc7409f</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:e80cea43-3bfc-4cd8-aa67-7d9716eca73b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051142913</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Iy_pZwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-114-291-3</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="turkiyesosyaltarihindeislaminmacerasi.jpg"/>
+    <meta name="calibre:title_sort" content="Türkiye sosyal tarihinde İslam'ın macerası"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Yaşar Ocak&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.htm" id="copyright.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sunus.xhtml" id="Sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolumbir.xhtml" id="bolumbir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolumiki.xhtml" id="bolumiki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Images/section.jpg" id="section.jpg" media-type="image/jpeg"/>
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg"/>
+    <item href="Images/turkiyesosyaltarihindeislaminmacerasi.jpg" id="turkiyesosyaltarihindeislaminmacerasi.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="copyright.htm"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Sunus.xhtml"/>
+    <itemref idref="bolumbir.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="bolumiki.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/title.xhtml" title="Title Page" type="start"/>
+    <reference href="Text/copyright.htm" title="Copyright Page" type="copyright-page"/>
+  </guide>
+</package>

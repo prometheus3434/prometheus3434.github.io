@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Türk Ülküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Atsiz, Hüseyin Nihal">Hüseyin Nihal Atsiz</dc:creator>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:797956B1-F4FD-48D2-80BD-D908655EBCA3</dc:identifier>
+    <dc:date>2018-03-15T12:30:25+00:00</dc:date>
+    <dc:publisher>Ötüken Nesriyat</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bfd03510-63c4-4d0d-9ecf-64650a087d60</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:797956B1-F4FD-48D2-80BD-D908655EBCA3</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ytFlMwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754378269</dc:identifier>
+    <meta name="Lighten PDF Converter version" content="5.2.0"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Türk Ülküsü"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hüseyin Nihal Atsiz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="x1.html" href="Text/1.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="x1.jpg" href="Images/1.jpg" media-type="image/jpeg"/>
+    <item id="x10.jpg" href="Images/10.jpg" media-type="image/jpeg"/>
+    <item id="x11.jpg" href="Images/11.jpg" media-type="image/jpeg"/>
+    <item id="x12.jpg" href="Images/12.jpg" media-type="image/jpeg"/>
+    <item id="x13.jpg" href="Images/13.jpg" media-type="image/jpeg"/>
+    <item id="x14.jpg" href="Images/14.jpg" media-type="image/jpeg"/>
+    <item id="x15.jpg" href="Images/15.jpg" media-type="image/jpeg"/>
+    <item id="x16.jpg" href="Images/16.jpg" media-type="image/jpeg"/>
+    <item id="x17.jpg" href="Images/17.jpg" media-type="image/jpeg"/>
+    <item id="x18.jpg" href="Images/18.jpg" media-type="image/jpeg"/>
+    <item id="x19.jpg" href="Images/19.jpg" media-type="image/jpeg"/>
+    <item id="x2.jpg" href="Images/2.jpg" media-type="image/jpeg"/>
+    <item id="x20.jpg" href="Images/20.jpg" media-type="image/jpeg"/>
+    <item id="x21.jpg" href="Images/21.jpg" media-type="image/jpeg"/>
+    <item id="x22.jpg" href="Images/22.jpg" media-type="image/jpeg"/>
+    <item id="x23.jpg" href="Images/23.jpg" media-type="image/jpeg"/>
+    <item id="x24.jpg" href="Images/24.jpg" media-type="image/jpeg"/>
+    <item id="x25.jpg" href="Images/25.jpg" media-type="image/jpeg"/>
+    <item id="x26.jpg" href="Images/26.jpg" media-type="image/jpeg"/>
+    <item id="x27.jpg" href="Images/27.jpg" media-type="image/jpeg"/>
+    <item id="x28.jpg" href="Images/28.jpg" media-type="image/jpeg"/>
+    <item id="x3.jpg" href="Images/3.jpg" media-type="image/jpeg"/>
+    <item id="x4.jpg" href="Images/4.jpg" media-type="image/jpeg"/>
+    <item id="x5.jpg" href="Images/5.jpg" media-type="image/jpeg"/>
+    <item id="x6.jpg" href="Images/6.jpg" media-type="image/jpeg"/>
+    <item id="x7.jpg" href="Images/7.jpg" media-type="image/jpeg"/>
+    <item id="x8.jpg" href="Images/8.jpg" media-type="image/jpeg"/>
+    <item id="x9.jpg" href="Images/9.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>
