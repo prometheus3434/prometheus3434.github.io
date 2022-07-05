@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Günü yaşa</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bellow, Saul &amp; Baykan, Özge &amp; Calafato, Raees">Saul Bellow</dc:creator>
+    <dc:creator opf:role="aut">Özge Baykan</dc:creator>
+    <dc:creator opf:role="aut">Raees Calafato</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:fe54af98-cae3-4483-adbb-aacca993ebee</dc:identifier>
+    <dc:description>&lt;p&gt;Modern bireyin açmazlarına trajedi ve mizah duygusuyla ışık tutan Günü Yaşa, Nobel edebiyat ödüllü Saul Bellow’un başyapıtlarından biri. Aktörlük, evlilik ve iş hayatında başarısız olan Tommy Wilhelm, kişisel tarihini baştan aşağı sorgulamaktadır. “Bu, dünya değil; bu, bir tür cehennem” diyecek kadar umutsuzdur gelecekten. Kendi iradesiyle değiştirebileceği çok az şey olduğunu düşünmektedir. “Göğsünün içinde yanlışın sıkıca atılmış bir düğümü vardır”. Babası, kız kardeşi, karısı ve oğullarıyla ilişkisi yalnızlık ve suçluluk duygusunu daha da derinleştirir. Çektiği acıları, içinden çıkamadığı sorunları, benliğini ele geçiren yabancılaşma duygusunu aşmak için “burada ve şimdide” tutunmanın bir yolunu ararken suçluluk duygusu, bencillik, kibir ve yabancılaşmanın modern zamanları çepeçevre saran bir insanlık hali olduğunu anlar Tommy. Günü Yaşa, modern bireyin fay hatlarını sergileyen, çarpıcı bir anlatı.&lt;/p&gt;</dc:description>
+    <dc:date>2006-06-15T10:52:39+00:00</dc:date>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:fe54af98-cae3-4483-adbb-aacca993ebee</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:fe54af98-cae3-4483-adbb-aacca993ebee</dc:identifier>
+    <dc:subject>Amerikan Edebiyatı</dc:subject>
+    <dc:subject>Logolu</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">e6a66e0a-e5d6-432f-9a4f-b2e56ce4ffeb</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:fe54af98-cae3-4483-adbb-aacca993ebee</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2053MwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-975-05-0437-2</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750504372</dc:identifier>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta content="Günü yaşa" name="calibre:title_sort"/>
+    <meta content="{&quot;Saul Bellow&quot;: &quot;&quot;, &quot;Özge Baykan&quot;: &quot;&quot;, &quot;Raees Calafato&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.htm" id="kunye.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/title.htm" id="title.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.htm" id="yazar.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.htm" id="notlar.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/logo.jpg" id="logo.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerkeleyBoldE.ttf" id="BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerkeleyItaE.ttf" id="BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerkeleyMediumE.ttf" id="BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="title.htm"/>
+    <itemref idref="yazar.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="notlar.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

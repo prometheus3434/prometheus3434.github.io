@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Güvercin</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Süskind, Patrick">Patrick Süskind</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c319568c-c060-4647-98e4-816e4b058dbd</dc:identifier>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-07-15T10:03:42+00:00</dc:date>
+    <dc:description>&lt;p&gt;Daha önce yayımladığımız ve aralıksız yeni basımlarını yaptığımız "Koku" adlı romanıyla, bütün dünyada olduğu gibi yurdumuzda da alışılmadık kalabalıklara ulaşan genç Alman romancısı Patrick Süskind'in bu ikinci romanını, "Güvercin"i de yine usta çevirmen Tevfik Turan'ın Türkçesiyle sunuyoruz. Bu kısa romanın başkişisi Jonathan Noel, olaylardan kaçan, içine kapanık, sıradan bir insandır. Yıllardır bir bankanın bekçiliğini yapmaktadır. Bütün yaptığı da bankanın müdürünü karşılamak, arabasının kapısını açmaktır. Paris'te bir çatıkatında yaşamakta, bu katın sahibi olmaya çalışmaktadır. Ama birgün karşısına çıkan bir güvercin, bu sıradan insanın tekdüze yaşamını altüst eder. Patrick Süskind, gerçekten okutmasını bilen usta bir yazar. "Koku" gibi "Güvercin"i de bir solukta büyük bir ilgi ve keyifle okuyacağınızdan hiç kuşkumuz yok. &lt;/p&gt;</dc:description>
+    <dc:subject>Kısa Roman</dc:subject>
+    <dc:subject>Alman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">295ea2de-4795-4d37-ab45-e5577d68223d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755102122</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Gje9zgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750751646</dc:identifier>
+    <meta content="Çağdaş Dünya Edebiyatı" name="calibre:series"/>
+    <meta content="Güvercin" name="calibre:title_sort"/>
+    <meta content="2014-02-19T10:42:02.209000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Patrick Süskind&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id221" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id220" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id219" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id218" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id217" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id216" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id215" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_014.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_015.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_016.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_017.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_018.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_019.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_020.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id221"/>
+    <itemref idref="id220"/>
+    <itemref idref="id219"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

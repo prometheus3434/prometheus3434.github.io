@@ -1,0 +1,31 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gregory Samak - Gizli Kitap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="yazar, Bilinmeyen">Bilinmeyen yazar</dc:creator>
+    <dc:identifier id="uuid">{E5839C9A-3865-4514-B871-5722E362013D}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">49d9fa4c-4b9f-4a41-aab5-4c619921cdf1</dc:identifier>
+    <meta name="calibre:title_sort" content="Gregory Samak - Gizli Kitap"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bilinmeyen yazar&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id5" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.jpg" id="id1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+</package>

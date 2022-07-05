@@ -1,0 +1,29 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    font-family: "Arial", "sans-serif";
+    font-size: 1em
+    }
+.calibre4 {
+    font-family: "Cambria Math", "serif";
+    font-size: 1em
+    }
+.calibre5 {
+    display: block
+    }
+.MsoNormal {
+    display: block;
+    margin: 1em 0 0.0001pt
+    }

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{C0AF63A8-73A2-4E7A-BC3D-699F56AB1DAB}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Georges Bataille - Gözün Hikayesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/goz01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Susan Sontag</text>
+      </navLabel>
+      <content src="Text/goz02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Pornografik İmgelem</text>
+      </navLabel>
+      <content src="Text/goz03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Roland Barthes</text>
+      </navLabel>
+      <content src="Text/goz09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Söz Metaforu</text>
+      </navLabel>
+      <content src="Text/goz10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Gözün Hikayesi</text>
+      </navLabel>
+      <content src="Text/goz11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Kedi Gözü</text>
+      </navLabel>
+      <content src="Text/goz12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Antika Gardrop</text>
+      </navLabel>
+      <content src="Text/goz13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Marcelle'in Kokusu</text>
+      </navLabel>
+      <content src="Text/goz14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Güneş Lekesi</text>
+      </navLabel>
+      <content src="Text/goz15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Kan Sızıntısı</text>
+      </navLabel>
+      <content src="Text/goz16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Simone</text>
+      </navLabel>
+      <content src="Text/goz17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Marcelle</text>
+      </navLabel>
+      <content src="Text/goz18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Ölü Kadının Açık Gözleri</text>
+      </navLabel>
+      <content src="Text/goz19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Kızışmış Hayvanlar</text>
+      </navLabel>
+      <content src="Text/goz20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Granero'nun Gözü</text>
+      </navLabel>
+      <content src="Text/goz21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Sevilla Güneşin Altında</text>
+      </navLabel>
+      <content src="Text/goz22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Simone'un İtirafı ve Sir Edmund'un Ayini</text>
+      </navLabel>
+      <content src="Text/goz23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Sineğin Ayakları</text>
+      </navLabel>
+      <content src="Text/goz24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Rastlantılar</text>
+      </navLabel>
+      <content src="Text/goz25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Sözün Hikayesine Bir Devam Taslağı</text>
+      </navLabel>
+      <content src="Text/goz26.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

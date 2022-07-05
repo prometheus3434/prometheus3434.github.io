@@ -1,0 +1,35 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:xx-small; font-family: 'Book Antiqua', serif; }
+ .font1 { font-size:x-small; font-family: 'Book Antiqua', serif; }
+ .font2 { font-size:small; font-family: 'Book Antiqua', serif; }
+ .font3 { font-size:medium; font-family: 'Book Antiqua', serif; }
+ .font4 { font-size:large; font-family: 'Book Antiqua', serif; }
+ .font5 { font-size:xx-large; font-family: 'Book Antiqua', serif; }
+ .font6 { font-size:x-small; font-family: 'Bookman Old Style', serif; }
+ .font7 { font-size:large; font-family: 'Franklin Gothic Book', sans-serif; }
+ .font8 { font-size:medium; font-family: 'Franklin Gothic Demi Cond', sans-serif; }
+ .font9 { font-size:small; font-family: 'Franklin Gothic Heavy', sans-serif; }
+ .font10 { font-size:large; font-family: 'Lucida Sans Unicode', sans-serif; }
+ .font11 { font-size:x-small; font-family: 'Palatino Linotype', serif; }
+ .font12 { font-size:small; font-family: 'Palatino Linotype', serif; }
+ .font13 { font-size:xx-small; font-family: 'Tahoma', sans-serif; }
+ .font14 { font-size:x-small; font-family: 'Tahoma', sans-serif; }
+ .font15 { font-size:small; font-family: 'Tahoma', sans-serif; }
+ .font16 { font-size:medium; font-family: 'Tahoma', sans-serif; }
+ .font17 { font-size:x-large; font-family: 'Tahoma', sans-serif; }
+ .font18 { font-size:xx-small; font-family: 'Times New Roman', serif; }
+ .font19 { font-size:x-small; font-family: 'Times New Roman', serif; }
+ .font20 { font-size:small; font-family: 'Times New Roman', serif; }
+ .font21 { font-size:medium; font-family: 'Times New Roman', serif; }
+ .font22 { font-size:large; font-family: 'Times New Roman', serif; }
+ .font23 { font-size:x-large; font-family: 'Times New Roman', serif; }
+ .font24 { font-size:x-small; font-family: 'Trebuchet MS', sans-serif; }
+ .font25 { font-size:small; font-family: 'Trebuchet MS', sans-serif; }
+ .font26 { font-size:medium; font-family: 'Trebuchet MS', sans-serif; }
+ .font27 { font-size:large; font-family: 'Trebuchet MS', sans-serif; }
+ .font28 { font-size:medium; font-family: 'Verdana', sans-serif; }

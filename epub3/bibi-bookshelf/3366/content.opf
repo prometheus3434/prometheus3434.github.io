@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>GuvercinciKelCocuk</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-12-01T14:43:25+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">de33e68d-9657-435d-b951-b8e6830d76fa</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">47ccc909-6f34-41a4-82c1-ab398e9673fd</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-12-02T10:50:20.158856+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="GuvercinciKelCocuk"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="u4mfL5jkUB3AoZxG98mrUGA" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GuvercinciKelCocuk_05" href="OEBPS/GuvercinciKelCocuk_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/GuvercinciKelCocuk.jpg" media-type="image/jpeg"/>
+    <item id="kapakic.png" href="OEBPS/image/kapakic.png" media-type="image/png"/>
+    <item id="kel__ocuk.jpg" href="OEBPS/image/kel__ocuk.jpg" media-type="image/jpeg"/>
+    <item id="prenses.jpg" href="OEBPS/image/prenses.jpg" media-type="image/jpeg"/>
+    <item id="samed_behrengi_fars_a_isim.png" href="OEBPS/image/samed_behrengi_fars_a_isim.png" media-type="image/png"/>
+    <item id="sayfa_11.jpg" href="OEBPS/image/sayfa_11.jpg" media-type="image/jpeg"/>
+    <item id="sayfa_12.jpg" href="OEBPS/image/sayfa_12.jpg" media-type="image/jpeg"/>
+    <item id="sayfa_13.jpg" href="OEBPS/image/sayfa_13.jpg" media-type="image/jpeg"/>
+    <item id="sayfa_15_son.jpg" href="OEBPS/image/sayfa_15_son.jpg" media-type="image/jpeg"/>
+    <item id="sayfa_4.jpg" href="OEBPS/image/sayfa_4.jpg" media-type="image/jpeg"/>
+    <item id="sayfa_5.jpg" href="OEBPS/image/sayfa_5.jpg" media-type="image/jpeg"/>
+    <item id="sayfa_6.jpg" href="OEBPS/image/sayfa_6.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="u4mfL5jkUB3AoZxG98mrUGA"/>
+    <itemref idref="GuvercinciKelCocuk_05"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

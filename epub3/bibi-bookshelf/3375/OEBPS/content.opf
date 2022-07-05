@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Gültekin: Orhun Barkı Kahramanı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kozanoğlu, Abdullah Ziya">Abdullah Ziya Kozanoğlu</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bbd8ee7b-9e39-4562-82dd-66849e6ad6e9</dc:identifier>
+    <dc:publisher>Mualli Ahmet Halit Kitap Evi</dc:publisher>
+    <dc:description>&lt;p&gt;" BAYRAĞINI DÜŞMANA KAPTIRMA! " YURDUNA YABANCI AYAK BASTIRMA! " DÜŞMANIN VERDİĞİ ÖĞÜTLERE KANIP KARDEŞLERİNİ KÜÇÜK GÖRME! " YURDUNU BIRAKIP YAĞIYA YANAŞMA! " EY BÜYÜK TÜRK TÜRK ULUSU" DÜNYADA YAPAMAYACAĞIN HİÇ BİR ŞEY YOKTUR; ÇÜNKÜ SEN GÜLTEKİN GİBİ KAHRAMANLAR YETİŞTİRMİŞ BİR ULUSUN OĞLUSUN! BUNU BÖYLE GÖR,BÖYLE DİNLE! BAYRAĞIMIZIN RENGİ SOLMASIN,GÖLGELİCE KABA AĞACLARIMIZ KESİLMESİN,ULUSUMUZUN ARASINA İKİLİK GİRMESİN,YURDUMUZA YAĞI AYAK BASMASIN, EY BÜYÜK TÜRK ULUSU!...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1936-06-15T11:27:45+00:00</dc:date>
+    <dc:subject>Savaş</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b5f753e9-fc44-469b-95fc-c20e58216dd5</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3ewxNQAACAAJ</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2010-11-20T02:10:36.426813+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Gültekin: Orhun Barkı Kahramanı" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Abdullah Ziya Kozanoğlu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

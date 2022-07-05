@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="60487eb3-bcaa-44cf-84fb-16a873d0f84b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gun Ortasinda Karanlik</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{7F52BE41-F362-4894-B67B-5555586314E5}" playOrder="1">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{1E6EE55D-42B5-4489-B661-0945BF126D92}" playOrder="2">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{BC1A9A9C-2D90-45C4-84C6-766E9726438B}" playOrder="3">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{1D827F12-D7A0-4CD9-A370-714A4C4474FC}" playOrder="4">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

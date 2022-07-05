@@ -1,0 +1,52 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Gülseren Budayıcıoğlu - Camdaki kız (Doğan)</dc:title>
+    <dc:creator id="id-2">Bilinmeyen yazar</dc:creator>
+    <dc:identifier>calibre:4661</dc:identifier>
+    <dc:identifier>uuid:bf915d1f-f33a-480c-bed3-ba6df3728b35</dc:identifier>
+    <dc:identifier id="uuid">{457E2EB6-725E-4703-AE84-6494689667F8}</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Gülseren Budayıcıoğlu - Camdaki kız (Doğan)</opf:meta>
+    <meta name="Sigil version" content="0.9.10"/>
+    <meta property="dcterms:modified">2020-07-29T00:17:42Z</meta>
+    <meta name="cover" content="KAPAK.jpg"/>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">yazar, Bilinmeyen</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Bilinmeyen yazar": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="nav" href="Text/navigation.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="id0" href="Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/main-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="Text/main-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id11" href="Styles/main.css" media-type="text/css"/>
+    <item id="KAPAK.jpg" href="Images/KAPAK.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="id1" href="Images/main-1.jpg" media-type="image/jpeg"/>
+    <item id="id2" href="Images/main-2.png" media-type="image/png"/>
+    <item id="id3" href="Images/main-3.png" media-type="image/png"/>
+    <item id="id4" href="Images/main-4.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kapak" href="Text/cover.xhtml"/>
+  </guide>
+</package>
