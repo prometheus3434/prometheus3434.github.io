@@ -1,0 +1,307 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre_rescale_ {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-indent: 1.5em
+    }
+.calibre1 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    color: white
+    }
+.calibre5 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-indent: 1.5em
+    }
+.calibre6 {
+    display: block;
+    font-family: "MS Shell Dlg 2", sans-serif;
+    font-size: 0.75em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-align: justify;
+    text-indent: 1.5em
+    }
+.calibre7 {
+    color: rgb(51, 51, 51);
+    font-family: Tahoma, Arial, Helvetica, Verdana;
+    line-height: 18px
+    }
+.calibre8 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-align: justify;
+    text-indent: 1.5em
+    }
+.calibre9 {
+    color: #333;
+    font-family: Tahoma, Arial, Helvetica, Verdana
+    }
+.calibre10 {
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.calibre11 {
+    color: rgb(51, 51, 51);
+    font-family: Tahoma, Arial, Helvetica, Verdana;
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.calibre12 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre13 {
+    color: rgb(51, 51, 51);
+    font-family: Tahoma, Arial, Helvetica, Verdana;
+    font-size: 0.75em;
+    line-height: 1.2;
+    outline: 0;
+    vertical-align: top;
+    border: currentColor none 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre14 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-align: center
+    }
+.calibre15 {
+    outline: 0;
+    vertical-align: top;
+    border: currentColor none 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre16 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0.5em 0
+    }
+.calibre17 {
+    font-family: "Constantia", "serif";
+    font-size: 0.875em;
+    line-height: 1.2
+    }
+.calibre18 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre19 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre20 {
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre21 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre22 {
+    font-weight: bold
+    }
+.calibre23 {
+    display: block;
+    line-height: 1.2;
+    page-break-before: auto
+    }
+.calibre24 {
+    display: block
+    }
+.calibre25 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0.83em 0
+    }
+.calibre26 {
+    text-align: justify
+    }
+.cbj_banner {
+    -webkit-border-radius: 8px;
+    background: #eee;
+    color: black;
+    display: block;
+    text-indent: 1.5em;
+    border: black solid thin;
+    padding: 1em;
+    margin: 0.5em 1em
+    }
+.cbj_comments {
+    display: block;
+    font-family: sans-serif;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-indent: 1.5em
+    }
+.cbj_content {
+    display: table-cell;
+    font-family: sans-serif;
+    text-align: left;
+    vertical-align: inherit;
+    width: 67%;
+    padding: 1px
+    }
+.cbj_footer {
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.75em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-align: center
+    }
+.cbj_header {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.cbj_label {
+    display: table-cell;
+    font-family: sans-serif;
+    text-align: right;
+    vertical-align: inherit;
+    width: 33%;
+    padding: 1px
+    }
+.cbj_series {
+    display: table-cell;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.cbj_title {
+    display: table-cell;
+    font-size: 1.375em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.metadata_divider {
+    color: gray;
+    display: block;
+    height: 2px;
+    width: 90%;
+    border-top: white solid 0;
+    border-right: white solid 0;
+    border-bottom: black solid 1px;
+    border-left: white solid 0;
+    margin: 0.5em auto 0.5em 5%
+    }
+.msonormal {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.msonormal1 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.msonormal2 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.msonormal3 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    margin: 0.5em 0
+    }
+.msonormal4 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0.5em 0
+    }
+.msonormal5 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    margin: 0.5em 0
+    }
+.msonormal6 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    margin: 0.5em 31.2pt 0.5em 0
+    }
+.msonormal7 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.title {
+    line-height: 1.2
+    }
+.wordsection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }

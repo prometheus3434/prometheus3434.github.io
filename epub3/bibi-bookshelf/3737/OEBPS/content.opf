@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Juli Zeh - Sessizliğin Gürültüsü[Metis yay. Sevinç Altınçekiç. 1. Basım]</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gürültüsü, Sessizliğin">Sessizliğin Gürültüsü</dc:creator>
+    <dc:creator opf:role="Zeh,Juli">Juli Zeh</dc:creator>
+    <dc:contributor opf:role="translate">Sevinç Altınçekiç</dc:contributor>
+    <dc:description>Metis Edebiyat / Roman</dc:description>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="hazırlayan">[sardav25]</dc:contributor>
+    <dc:date>2016-06-20T21:00:00+00:00</dc:date>
+    <dc:subject>Temize Havale (Özgün adı: Die Stille ist ein Geräusch Eine Fahrt durch Bosnien) "Kartallar ve Melekler" (2005) ile Tanıdığımız Alman edebiyatının huzursuz ruhu Zeh in 2001 yazında çıktığı Bosna yolculuğunun izlenimlerinden oluşan Sessizliğin Gürültüsü</dc:subject>
+    <dc:subject>doğanın büyüleyici güzelliğiyle yıkımın iç burkan izlerinin İç içe girdiği</dc:subject>
+    <dc:subject>savaşın hayaletinin hala her yerde kol gezdiği bir ülkeyi yalın bir şiirsellikle anlatan etkileyici bir kitap. Gezi boyunca yaşadıklarını derin bir duyarlılık ve ince bir mizah anlayışıyla aktarırken bir yandan da savaşın doğasını</dc:subject>
+    <dc:subject>sebep ve sonuçlarını sorgulayan Zeh'in akıcı anlatısı</dc:subject>
+    <dc:subject>küçük öykülerden örülü bir roman tadında olan Sessizliğin Gürültüsü 1. baskı Sevinç Altınçekiç tarafından Türkçeye çevrilmiştir.</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">6a4fb2b2-0575-4702-a6fe-b426a20a18ad</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">13: 978-975-342-826-2</dc:identifier>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta content="Juli Zeh - Sessizliğin Gürültüsü[Metis yay. Sevinç Altınçekiç. 1. Basım]" name="calibre:title_sort"/>
+    <meta content="{&quot;Sessizliğin Gürültüsü&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="fcover.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/sardav25_01.xhtml" id="sardav25_01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_02.xhtml" id="sardav25_02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_03.xhtml" id="sardav25_03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_04.xhtml" id="sardav25_04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_05.xhtml" id="sardav25_05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_06.xhtml" id="sardav25_06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_07.xhtml" id="sardav25_07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_08.xhtml" id="sardav25_08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_09.xhtml" id="sardav25_09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_10.xhtml" id="sardav25_10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_11.xhtml" id="sardav25_11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_12.xhtml" id="sardav25_12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_13.xhtml" id="sardav25_13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_14.xhtml" id="sardav25_14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_15.xhtml" id="sardav25_15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sardav25_16.xhtml" id="sardav25_16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id12" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id11" media-type="text/css"/>
+    <item href="Images/bcover.jpg" id="bcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/fcover.jpg" id="fcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/metis-.png" id="metis-.png" media-type="image/png"/>
+    <item href="Images/metis.png" id="metis.png" media-type="image/png"/>
+    <item href="Fonts/GARA.TTF" id="GARA.TTF" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GARABD.TTF" id="GARABD.TTF" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GARAIT.TTF" id="GARAIT.TTF" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="id12">
+    <itemref idref="sardav25_01.xhtml"/>
+    <itemref idref="sardav25_02.xhtml"/>
+    <itemref idref="sardav25_03.xhtml"/>
+    <itemref idref="sardav25_04.xhtml"/>
+    <itemref idref="sardav25_05.xhtml"/>
+    <itemref idref="sardav25_06.xhtml"/>
+    <itemref idref="sardav25_07.xhtml"/>
+    <itemref idref="sardav25_08.xhtml"/>
+    <itemref idref="sardav25_09.xhtml"/>
+    <itemref idref="sardav25_10.xhtml"/>
+    <itemref idref="sardav25_11.xhtml"/>
+    <itemref idref="sardav25_12.xhtml"/>
+    <itemref idref="sardav25_13.xhtml"/>
+    <itemref idref="sardav25_14.xhtml"/>
+    <itemref idref="sardav25_15.xhtml"/>
+    <itemref idref="sardav25_16.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/sardav25_01.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/sardav25_07.xhtml" title="Table of Content" type="toc"/>
+  </guide>
+</package>

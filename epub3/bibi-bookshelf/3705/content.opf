@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Işık bahçeleri: roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:ac5a627f-7fad-4161-8810-06c74d3d4849</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:ac5a627f-7fad-4161-8810-06c74d3d4849</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">45f4fc6b-6e6d-4b71-b65b-5f280ef619b5</dc:identifier>
+    <dc:date>2004-06-15T10:22:40+00:00</dc:date>
+    <dc:description>&lt;p&gt;3. yüzyılda yaşayan Mani, Manicilik dininin kurucusudur. Kurduğu din, İsa, Buda ve Zerdüşt'ün düşüncelerinin kaynaştırılmasından meydana gelmiştir. Mani, eski çağın bütün bilgeliğini bütün insanlara seslenen, evrensel ve tek bir dinle birleştirmek istiyordu. (...)
+"Semerkant", "Afrikalı Leo" ve "Tanios Kayası"nın yazarı, Goncourt Ödülü sahibi Amin Maalouf, dini ve düşünceleri bütün baskılara karşın "doğru" ve "iyi" insanlarda varlığını sürdüren Mani'nin yaşamını yeniden kurarken göz kamaştırıyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:subject>İnanç</dc:subject>
+    <dc:subject>Manizm</dc:subject>
+    <dc:subject>Tarihi Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c6ff27f3-2231-4569-a890-da2ac224f05b</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:ac5a627f-7fad-4161-8810-06c74d3d4849</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Gp4ePQAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750807947</dc:identifier>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:title_sort" content="Işık bahçeleri: roman"/>
+    <meta name="calibre:timestamp" content="2020-06-10T17:42:53+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik01.xhtml" id="isik01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik02.xhtml" id="isik02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik03.xhtml" id="isik03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik04.xhtml" id="isik04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik05.xhtml" id="isik05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik06.xhtml" id="isik06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik07.xhtml" id="isik07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik08.xhtml" id="isik08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik09.xhtml" id="isik09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik10.xhtml" id="isik10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik11.xhtml" id="isik11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik12.xhtml" id="isik12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik13.xhtml" id="isik13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik14.xhtml" id="isik14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/isik15.xhtml" id="isik15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="isik01.xhtml"/>
+    <itemref idref="isik02.xhtml"/>
+    <itemref idref="isik03.xhtml"/>
+    <itemref idref="isik04.xhtml"/>
+    <itemref idref="isik05.xhtml"/>
+    <itemref idref="isik06.xhtml"/>
+    <itemref idref="isik07.xhtml"/>
+    <itemref idref="isik08.xhtml"/>
+    <itemref idref="isik09.xhtml"/>
+    <itemref idref="isik10.xhtml"/>
+    <itemref idref="isik11.xhtml"/>
+    <itemref idref="isik12.xhtml"/>
+    <itemref idref="isik13.xhtml"/>
+    <itemref idref="isik14.xhtml"/>
+    <itemref idref="isik15.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

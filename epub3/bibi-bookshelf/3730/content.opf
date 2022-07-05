@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Japonlarin Kadim Beslenme Sirri: Günde Tek Ögün Ile 20 Yas Genclesin</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="NAGUMO, YOSHİNORİ">YOSHİNORİ NAGUMO</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Dogan Novus Yayinlari</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e9c792c7-475c-43d8-9076-19df700ecf04</dc:identifier>
+    <dc:date>2018-07-15T11:54:24+00:00</dc:date>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.</dc:rights>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c3edd0ad-f512-4ae5-b49d-106e4b093be9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050956450</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">c_xwuQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050953770</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-11-12T11:37:55.071862+00:00"/>
+    <meta name="calibre:title_sort" content="Japonlarin Kadim Beslenme Sirri: Günde Tek Ögün Ile 20 Yas Genclesin"/>
+    <meta name="calibre:author_link_map" content="{&quot;YOSHİNORİ NAGUMO&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="on_kapak" href="OEBPS/on_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye" href="OEBPS/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="perde" href="OEBPS/perde.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1" href="OEBPS/1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-23" href="OEBPS/1-2_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-22" href="OEBPS/1-2_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-21" href="OEBPS/1-2_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-3" href="OEBPS/1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-4" href="OEBPS/1-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-5" href="OEBPS/1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-6" href="OEBPS/1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arka_kapak" href="OEBPS/arka_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="x1.png" href="OEBPS/image/1.png" media-type="image/png"/>
+    <item id="x2.png" href="OEBPS/image/2.png" media-type="image/png"/>
+    <item id="x3.png" href="OEBPS/image/3.png" media-type="image/png"/>
+    <item id="x4.png" href="OEBPS/image/4.png" media-type="image/png"/>
+    <item id="arkakapak.png" href="OEBPS/image/arkakapak.png" media-type="image/png"/>
+    <item id="onkapak.png" href="OEBPS/image/onkapak.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="on_kapak"/>
+    <itemref idref="kunye"/>
+    <itemref idref="perde"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-23"/>
+    <itemref idref="x1-22"/>
+    <itemref idref="x1-21"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="arka_kapak"/>
+  </spine>
+</package>

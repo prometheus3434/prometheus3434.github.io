@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="c89e36c9-de8e-43c8-87df-e72812df5a7d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İzmir Postasının Adamları</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{8729CDBA-09D4-474B-BBE5-584BEA811B58}" playOrder="1">
+      <navLabel>
+        <text>“KANATLARI GÜMÜŞ .</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{1CC944B2-7906-474D-A6DE-0659A2B0FBDC}" playOrder="2">
+      <navLabel>
+        <text>IZMlR POSTASI’NIN ADAMLARI</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{74B1B48B-66E2-4640-A884-48577ED9D84B}" playOrder="3">
+      <navLabel>
+        <text>HAFTA SONU ŞEYLERİ; RAKI VE USKUMRU</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

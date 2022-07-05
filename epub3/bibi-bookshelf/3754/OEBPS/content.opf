@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kadının Işığı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gary, Romain">Romain Gary</dc:creator>
+    <dc:identifier id="uuid">{229D9A10-FA8B-453D-A2C6-281CDCD7C4EC}</dc:identifier>
+    <dc:date>2012-01-30T22:00:00+00:00</dc:date>
+    <dc:publisher>Agora Kitaplığı</dc:publisher>
+    <dc:description>&lt;p&gt;'Şafakta Verilmiş Sözüm Vardı' ve 'Cennetin Kökleri' gibi romanların yazarı, Fransa'da hem kendi adıyla hem de kullandığı mahlasla Goncourt Ödülü'nü kazanan tek büyük edebiyatçı olan Romain Gary'nin 'Kadının Işığı' romanı, kadın-erkek ilişkisinin üçüncü boyutunu, bir çifti anlatır. Roman bu özelliğiyle tam bir aşk şarkısı, bir sevda türküsüdür...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">66843957-3261-4a69-80cb-91708d82077c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051031613</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kadının Işığı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Romain Gary&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/KI.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id2"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>İvan İlyiç'in Ölümü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="TOLSTOY, Lev">Lev TOLSTOY</dc:creator>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2010-11-02T14:52:41+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e1296b66-ba22-410c-a5fc-0f97efb5c247</dc:identifier>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bceb6a7e-9c23-4284-82e8-3c419f2aa4bb</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">XTg7CgAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750720901</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-11-02T14:52:41.931318+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="İvan İlyiç'in Ölümü"/>
+    <meta name="calibre:author_link_map" content="{&quot;Lev TOLSTOY&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

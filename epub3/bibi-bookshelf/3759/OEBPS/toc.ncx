@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:f814aa69-5404-4810-ad13-6666621167a9" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>KADINLAR, RÜYALAR, EJDERHALAR</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Hakkında</text>
+      </navLabel>
+      <content src="Text/about.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Metis Yayınları</text>
+      </navLabel>
+      <content src="Text/publish.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Kadınlar, Rüyalar, Ejderhalar</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Çevirmenler</text>
+      </navLabel>
+      <content src="Text/transl.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Önsöz: Seyyahın El Kitabı</text>
+      </navLabel>
+      <content src="Text/pro.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Seyyahın El Kitabı</text>
+      </navLabel>
+      <content src="Text/pro.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Kadınlar, Rüyalar, Ejderhalar</text>
+      </navLabel>
+      <content src="Text/tit.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Everest (1977)</text>
+      </navLabel>
+      <content src="Text/kre6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Rüyalar Kendilerini Açıklamalı (1973)</text>
+      </navLabel>
+      <content src="Text/kre7.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Amerikalılar Ejderhalardan Neden Korkar? (1974)</text>
+      </navLabel>
+      <content src="Text/kre8.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Çocuk ve Gölge (1974)</text>
+      </navLabel>
+      <content src="Text/kre9.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Metin, Sessizlik, Gösteri (1986)</text>
+      </navLabel>
+      <content src="Text/kre10.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Çuval Kuramı ve Kurgu (1986)</text>
+      </navLabel>
+      <content src="Text/kre11.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bu Fikirler Aklınıza Nereden Geliyor?" (1987)</text>
+      </navLabel>
+      <content src="Text/kre12.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Bilimkurgu ve Bayan Brown (1975)</text>
+      </navLabel>
+      <content src="Text/kre13.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Bilimkurguda Mit ve Arketip (1976)</text>
+      </navLabel>
+      <content src="Text/kre14.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Balıkçı Kadının Kızı (1988)</text>
+      </navLabel>
+      <content src="Text/kre15.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Ruhtaki Stalin (1973-7)</text>
+      </navLabel>
+      <content src="Text/kre16.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Kaçış Yolları (1974-5)</text>
+      </navLabel>
+      <content src="Text/kre17.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Uzaylı Kocakarı (1976)</text>
+      </navLabel>
+      <content src="Text/kre18.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

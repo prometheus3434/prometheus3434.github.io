@@ -1,0 +1,141 @@
+.calibre {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.heading {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right;
+    text-indent: 1.5em
+    }
+.heading1 {
+    display: block;
+    font-family: Calibri;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.main {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.sgc {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse
+    }
+.sgc1 {
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc10 {
+    font-family: Calibri;
+    font-style: normal
+    }
+.sgc11 {
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc12 {
+    font-family: Calibri;
+    font-weight: bold
+    }
+.sgc13 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc14 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc15 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc16 {
+    font-family: Arial
+    }
+.sgc17 {
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc2 {
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc3 {
+    display: block;
+    text-align: center
+    }
+.sgc4 {
+    display: block;
+    text-align: right
+    }
+.sgc5 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-weight: bold
+    }
+.sgc6 {
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc7 {
+    font-family: Calibri
+    }
+.sgc8 {
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc9 {
+    font-weight: normal
+    }

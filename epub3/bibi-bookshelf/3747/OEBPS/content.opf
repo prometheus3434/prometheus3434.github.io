@@ -1,0 +1,48 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Kader Kilici: The Witcher Serisi 2</dc:title>
+    <dc:creator id="cre">Regaip Minareci</dc:creator>
+    <dc:creator id="cre">Kemal Küçükgedik</dc:creator>
+    <dc:creator id="cre">Meral Gök</dc:creator>
+    <dc:creator id="id-2">Andrzej Sapkowski</dc:creator>
+    <dc:identifier>isbn:9786052991954</dc:identifier>
+    <dc:identifier>google:Z3aCswEACAAJ</dc:identifier>
+    <dc:identifier>calibre:916</dc:identifier>
+    <dc:identifier>uuid:70684ef4-2745-4dd3-b2d7-e5758c281389</dc:identifier>
+    <dc:identifier id="BookId">urn:uuid:3c152826-859c-4321-9118-3072d60279ed</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2017-05-15T12:08:24+00:00</dc:date>
+    <dc:publisher>Pegasus Yayincilik</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Kader Kilici: The Witcher Serisi 2</meta>
+    <meta property="role" refines="#cre" scheme="marc:relators">bkd</meta>
+    <meta property="dcterms:modified">2020-12-24T17:16:14Z</meta>
+    <meta content="1.4.3" name="Sigil version"/>
+    <meta name="cover" content="KaderKilici.jpg"/>
+    <meta refines="#id-1" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-2" property="file-as">Sapkowski, Andrzej</meta>
+    <meta property="calibre:author_link_map">{"Andrzej Sapkowski": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="main.xhtml" href="Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="ncx/toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="KaderKilici.jpg" href="Images/KaderKilici.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="main-4.jpg" href="Images/main-4.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/nav.xhtml"/>
+  </guide>
+</package>

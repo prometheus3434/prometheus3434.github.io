@@ -1,0 +1,55 @@
+body {margin: 10% 10pt;font-family: Palatino, Georgia, serif;}
+
+h1,h2,h3,h4,h5,h6 {text-indent: 0px;text-align:center;}
+
+p {text-indent: 1.5em;text-align:justify;margin:0;line-height:1.3em}
+
+
+.ickapak p {text-indent:0em;text-align:center}
+.yazar {font-size:1.3em;margin-bottom:1em;}
+.kitap {font-size:3em;margin-bottom:0.5em}
+.cevirmen {font-size:0.85em}
+.logo {margin-top:3em; font-size:4em}
+
+
+.kunya p {
+          font-family :"Garamond";
+	      font-weight : normal;
+	      font-style : normal;
+	      font-size : 0.67em;
+	      text-decoration : none;
+	      font-variant : normal;
+	      line-height : 1.38;
+	      text-align:left;
+	      color : #000000;
+	      text-indent : 0px;
+	      margin : 3px 30px 0px 30px;
+          }
+
+.bosluk4 {
+         padding-top:4em;
+         padding-bottom:4em;
+         }
+
+.bosluk1 {
+         padding-top:0.5em;
+         padding-bottom:0.5em;
+         }
+.bosluk2 {
+         padding-top:2em;
+         padding-bottom:2em;
+         }
+
+.n p {text-indent: 0em;text-align:justify;margin:0;line-height:1.3em}
+
+
+.ithaf {
+       text-indent:0em;
+       text-align:right;
+       font-size:1em;
+       margin-right:0.5in;
+       font-weight:normal;
+       font-style: italic;
+       margin-top:0em;
+       margin-bottom:0em;
+}

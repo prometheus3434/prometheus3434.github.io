@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kadın krallığı: son anaerkil toplum</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Coler, Ricardo">Ricardo Coler</dc:creator>
+    <dc:publisher>Nemesis Kitap</dc:publisher>
+    <dc:description>&lt;p&gt;Burada evlilik denen bir kurum yok. Bu kadınlara göre gayet gereksiz bir kurum. Neden bütün ömürlerini tek bir erkekle geçirsinler ki? Toplumda erkek ast ve yetkisiz. Erkekler, ne yaşadıkları evin ne de bölgedeki herhangi bir malın sahibi olamazlar. Sadece kadınlar için çalışabilirler. Kadınlar, kalacakları yer ile beslenmeleri için gereken yiyeceklerin temininden ve çocuklarının eğitiminden sorumlular. Ekonominin bekçileri onlar. Ailenin bütün mal varlığı sadece kadınlarda. Yasal olarak kadınlar her türlü avantaja sahipler: Soyadı vermek, miras almak gibi haklar kadınlara ait. Kız çocukları anaerkil bu toplumda çok önemli çünkü soyun devamı kız çocuklarla sağlanabilir. Bilinmedik ve şaşırtıcı bir dünyaya yolculuk yapan Arjantinli gazeteci Ricardo Coler, Çin'in güneyine giderek Mosuolar ile birlikte yaşadığı iki ayı anlatıyor. Son &lt;/p&gt;</dc:description>
+    <dc:date>2010-06-15T11:41:03+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">24b76ab4-0a1b-4c97-b9a0-03e36956f0b5</dc:identifier>
+    <dc:date opf:event="modification">2015-09-21</dc:date>
+    <dc:subject>kadın</dc:subject>
+    <dc:subject>Toplumsal</dc:subject>
+    <dc:subject>araştırma</dc:subject>
+    <dc:subject>Anı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">660c6eb1-6ab6-4d7c-8786-6451ca696b29</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055913618</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">N4LfnQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055913618</dc:identifier>
+    <meta content="Kadın krallığı: son anaerkil toplum" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2015-09-12T08:48:43.437000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ricardo Coler&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

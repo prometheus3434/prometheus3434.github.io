@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kaos'un kutsal kitabı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Caraco, Albert &amp; Ergüden, Işık">Albert Caraco</dc:creator>
+    <dc:creator opf:role="aut">Işık Ergüden</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e4f37ad0-dfcd-401d-8f60-abeb9f50609c</dc:identifier>
+    <dc:publisher>Versus Kitap</dc:publisher>
+    <dc:date>2007-06-15T12:43:12+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e3813cb2-7255-4aba-b8ce-94f44c308499</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">GB8scgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:e4f37ad0-dfcd-401d-8f60-abeb9f50609c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944989411</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kaos'un kutsal kitabı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Albert Caraco&quot;: &quot;&quot;, &quot;Işık Ergüden&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <item href="Images/img3.jpg" id="img3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="Section0005.html"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/001.html" title="Cover" type="cover"/>
+  </guide>
+</package>

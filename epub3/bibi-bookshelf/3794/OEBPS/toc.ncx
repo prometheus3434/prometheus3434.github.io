@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:a9358dfc-e437-474b-b1bc-dc4a68817ddd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kaos İmgesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>AMBER YILLIKLARI</text>
+      </navLabel>
+      <content src="Text/icbaslik8.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KAOS İMGESİ</text>
+      </navLabel>
+      <content src="Text/Cilt%20ismi8.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Bölüm 1</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Bölüm 2</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi2.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bölüm 3</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi3.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Bölüm 4</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi4.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bölüm 5</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi5.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Bölüm 6</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi6.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Bölüm 7</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi7.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Bölüm 8</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi8.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bölüm 9</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi9.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bölüm 10</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi10.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Bölüm 11</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Bölüm 12</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi12.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Son</text>
+        </navLabel>
+        <content src="Text/Kaos%20Imgesi13.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Yayınevi</text>
+      </navLabel>
+      <content src="Text/Yayinevi.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/Yazar%20Hakkinda.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

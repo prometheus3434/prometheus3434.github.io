@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>İşgal Altında İstanbul (1918-1923)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Criss, Nur Bilge">Nur Bilge Criss</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2aee48ab-1400-44f3-afad-5038e153461b</dc:identifier>
+    <dc:type>Tarih-Politika</dc:type>
+    <dc:publisher>İletişim Yyınları</dc:publisher>
+    <dc:description>Osmanlı İmparatorluğu ile İtilaf Devletleri arasında 30 Ekim 1918'de Mondoros Mütarekesi'nin imzalanmasından kısa süre sonra İstanbul işgal edildi. Yabancı işgaline ve ülkenin kaçınılmaz görünen parçalanmasına karşı İstanbul'da güçlü bir direniş kök salmaya başladı. Örgütlülüğü ve kararlılığı gitgide artan bu direniş, etkin bir yeraltı hareketine dönüştü. Bilge Criss, elinizdeki araştırmasında, Türkiye Cumhuriyeti'nin kurulmasına varan mücadeleye katkıda bulunan pek çok unsurdan biri olan bu hareket üzerinde duruyor. Öte yandan, İstanbul'u işgal eden ve Osmanlı İmparatorluğunun tasfiyesini planlamaya girişen İngiltere, Fransa ve İtalya'nın, öncelikle kendi çıkarlarının peşinde koşmalarının, onları Türk milliyetçileri karşısında güçsüz düşürdüğüne işaret ediyor. Türklerin başarısında payı bulunan bir başka etken, Batılı büyük devletlerin karşılarındaki gücü küçümsemeleri. Özellikle İngilizler Müslüman Türkiye toplumunu çelişkisiz bir bütün olarak görüyorlar, kendi girişimlerine karşı herhangi bir tepki de beklemiyorlardı. Milliyetçi yeraltı hareketinin geniş tabanlı bir destek bulabileceğine de ihtimal vermiyorlardı...</dc:description>
+    <dc:date>2013-08-23T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">1f2156dc-210c-47f2-8e14-9970f3f22b8c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-975-470-322-1</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:2aee48ab-1400-44f3-afad-5038e153461b</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="İşgal Altında İstanbul (1918-1923)"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nur Bilge Criss&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Copyright.xhtml" id="Copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Onsoz.xhtml" id="Onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1.xhtml" id="Bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2.xhtml" id="Bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3.xhtml" id="Bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4.xhtml" id="Bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum5.xhtml" id="Bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum6.xhtml" id="Bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum7.xhtml" id="Bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum8.xhtml" id="Bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sonuc.xhtml" id="Sonuc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/SonSoz.xhtml" id="SonSoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaynakca.xhtml" id="Kaynakca.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Notlar.xhtml" id="Notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar.xhtml" id="Yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Resim.xhtml" id="Resim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Fig1.jpg" id="Fig1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Fig2.jpg" id="Fig2.jpg" media-type="image/jpeg"/>
+    <item href="Images/Fig3.jpg" id="Fig3.jpg" media-type="image/jpeg"/>
+    <item href="Images/titlepage.jpg" id="titlepage.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="Copyright.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Onsoz.xhtml"/>
+    <itemref idref="Bolum1.xhtml"/>
+    <itemref idref="Bolum2.xhtml"/>
+    <itemref idref="Bolum3.xhtml"/>
+    <itemref idref="Bolum4.xhtml"/>
+    <itemref idref="Bolum5.xhtml"/>
+    <itemref idref="Bolum6.xhtml"/>
+    <itemref idref="Bolum7.xhtml"/>
+    <itemref idref="Bolum8.xhtml"/>
+    <itemref idref="Sonuc.xhtml"/>
+    <itemref idref="SonSoz.xhtml"/>
+    <itemref idref="Kaynakca.xhtml"/>
+    <itemref idref="Notlar.xhtml"/>
+    <itemref idref="Yazar.xhtml"/>
+    <itemref idref="Resim.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/title.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/Copyright.xhtml" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/Onsoz.xhtml" title="Foreword" type="foreword"/>
+    <reference href="Text/Notlar.xhtml" title="Notes" type="notes"/>
+    <reference href="Text/Kaynakca.xhtml" title="Bibliography" type="bibliography"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

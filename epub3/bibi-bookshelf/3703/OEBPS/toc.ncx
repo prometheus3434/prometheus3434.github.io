@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:2aee48ab-1400-44f3-afad-5038e153461b" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İşgal Altında İstanbul (1918-1923)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/Bolum1.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>MÜTAREKE DÖNEMİNDE İSTANBUL’A GENEL BİR BAKIŞ</text>
+      </navLabel>
+      <content src="Text/Bolum2.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İÇ SİYASİ DURUM</text>
+      </navLabel>
+      <content src="Text/Bolum3.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>MÜTTEFİK YÖNETİMİ</text>
+      </navLabel>
+      <content src="Text/Bolum4.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>MÜTTEFİKLERİN AÇMAZI</text>
+      </navLabel>
+      <content src="Text/Bolum5.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>İSTANBUL’DAKİ DİRENİŞ VE YERALTI ÖRGÜTLERİ (1918-1920): TEŞKÎLÂT-I MAHSUSA VE KARAKOL</text>
+      </navLabel>
+      <content src="Text/Bolum6.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>İSTANBUL’DAKİ DİRENİŞ VE YERALTI ÖRGÜTLERİ (1920-1923): M.M., FELÂH, YARDIMCI GRUPLAR</text>
+      </navLabel>
+      <content src="Text/Bolum7.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>İSTANBUL’UN BOŞALTILMASINA DOĞRU</text>
+      </navLabel>
+      <content src="Text/Bolum8.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>SONUÇ</text>
+      </navLabel>
+      <content src="Text/Sonuc.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>SONSÖZ</text>
+      </navLabel>
+      <content src="Text/SonSoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/Kaynakca.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/Notlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/Yazar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

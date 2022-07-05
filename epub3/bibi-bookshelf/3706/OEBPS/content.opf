@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Işık Tanrısı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:date>2012-08-31T11:57:51+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fbbaf671-18bf-4fd1-a490-325cbea2a271</dc:identifier>
+    <dc:date opf:event="modification">2013-04-06</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Dünya'nın ölümünden çağlar sonra, uzak bir gezegende bir grup insan teknolojik bilgileri tekellerine alıp halktan esirgeyerek kontrolü ele geçirmiştir.Tutsak dünyalarını da Hindu panteonunun kişiliklerine bürünerek yönetmektedirler. Onları tanrılaştıran ise teknolojiden yararlanarak geliştirdikleri ve tekrardoğuş zincirinde biledikleri güçleridir. Yıkım Tanrıçası Kali, Ölüm Tanrısı Yama ve Şehvet Tanrısı Krishna'ya meydan okuyacak olan da bir zamanla Siddartha, şimdiyse Mahasamatman, İblis Tutan ve Işık Tanrısı olan Sam'dan başkası değildir. Sam, barışçı ve çilekeş öğretisiyle sözde Hindu tanrılarının gazabıyla kıvranan halkın gönüllerine seslenecek, birçok defa ölmek pahasına onları zoraki cehaletlerinin karanlığından kurtaracaktır.&lt;/p&gt;</dc:description>
+    <dc:subject>Öykü</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4b726a5a-a3f3-43ff-8104-e1a4ee40c958</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756902202</dc:identifier>
+    <meta content="2012-09-15T22:31:53+00:00" name="calibre:timestamp"/>
+    <meta content="Işık Tanrısı" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/content_1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/content_2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/content_3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/content_4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/content_5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/content_6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/content_7.xhtml" id="content_7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="content_7.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

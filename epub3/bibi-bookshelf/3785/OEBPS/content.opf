@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kamyon: seçme öyküler</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Ali, Sabahattin">Sabahattin Ali</dc:creator>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:date>2008-06-15T12:53:05+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:92E6BCAF-2F4B-4B40-BBEF-5FC18CD0E8EF</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">e2f4edf8-2fc5-4ea8-868b-52095da381a1</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750815003</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">hbxJAQAAIAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kamyon: seçme öyküler"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sabahattin Ali&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="on_kapak.xhtml" id="on_kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="1-1.xhtml" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="1-2.xhtml" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="1-3.xhtml" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="1-4.xhtml" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="1-5.xhtml" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="1-6.xhtml" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="1-7.xhtml" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="1-8.xhtml" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="1-9.xhtml" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="1-10.xhtml" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="1-11.xhtml" id="x1-11" media-type="application/xhtml+xml"/>
+    <item href="1-12.xhtml" id="x1-12" media-type="application/xhtml+xml"/>
+    <item href="1-13.xhtml" id="x1-13" media-type="application/xhtml+xml"/>
+    <item href="1-14.xhtml" id="x1-14" media-type="application/xhtml+xml"/>
+    <item href="1-15.xhtml" id="x1-15" media-type="application/xhtml+xml"/>
+    <item href="1-16.xhtml" id="x1-16" media-type="application/xhtml+xml"/>
+    <item href="1-17.xhtml" id="x1-17" media-type="application/xhtml+xml"/>
+    <item href="1-18.xhtml" id="x1-18" media-type="application/xhtml+xml"/>
+    <item href="1-19.xhtml" id="x1-19" media-type="application/xhtml+xml"/>
+    <item href="1-20.xhtml" id="x1-20" media-type="application/xhtml+xml"/>
+    <item href="1-21.xhtml" id="x1-21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/yky_fmt.jpeg" id="yky_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uOS4mrOlYmU2MNDNOeJNMs8" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="on_kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+    <itemref idref="x1-12"/>
+    <itemref idref="x1-13"/>
+    <itemref idref="x1-14"/>
+    <itemref idref="x1-15"/>
+    <itemref idref="x1-16"/>
+    <itemref idref="x1-17"/>
+    <itemref idref="x1-18"/>
+    <itemref idref="x1-19"/>
+    <itemref idref="x1-20"/>
+    <itemref idref="x1-21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

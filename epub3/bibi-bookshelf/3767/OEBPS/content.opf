@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kağıt Ev</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dominguez, Carlos Maria">Carlos Maria Dominguez</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9f8d365f-55f9-4321-b4ca-51bb85708bb9</dc:identifier>
+    <dc:publisher>Jaguar</dc:publisher>
+    <dc:description>&lt;p&gt;Bazı insanlar kitap okumaz, bazıları okur ve kimileriyse okumakla kalmayıp onlarla birlikte yaşar. Kâğıt Ev, işte bu kitap tutkunlarından Carlos Brauer'in ve onun -bir edebiyat profesörü olan- Bruma Lennon'la olan gizemli ilişkisinin, bu ilişkinin gün yüzüne çıkmasına neden olan bir Joseph Conrad cildinin, kitap ve okuma aşkıyla dolu yaşamların hikâyesi...
+
+Arjantinli yazar Carlos Maria Dominguez'in, yayımlandığı her ülkede büyük ilgi uyandıran novellasını Seda Ersavcı İspanyolca aslından çevirdi. Peter Sis'in çizimleri ve Cem Ersavcı'nın kapak fotoğrafıyla, kalın ciltlerin arasında saklanacak bir mücevher...
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2005-05-09T21:00:00+00:00</dc:date>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">29467ac5-dce9-4666-87b5-d87b8e9d45ca</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786056501944</dc:identifier>
+    <meta content="Kağıt Ev" name="calibre:title_sort"/>
+    <meta content="2015-05-06T09:14:40.067000+00:00" name="calibre:timestamp"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Carlos Maria Dominguez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.htm" id="ickapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/1.htm" id="x1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/2.htm" id="x2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/3.htm" id="x3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/4.htm" id="x4.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.htm" id="notlar.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.htm"/>
+    <itemref idref="x1.htm"/>
+    <itemref idref="x2.htm"/>
+    <itemref idref="x3.htm"/>
+    <itemref idref="x4.htm"/>
+    <itemref idref="notlar.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

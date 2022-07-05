@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kaos Sarayları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:bb8178a9-4746-4709-ad9d-316a4dc67322</dc:identifier>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:contributor opf:role="trl">Niran Elçi</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:date opf:event="modification">2014-08-06</dc:date>
+    <dc:description>&lt;p&gt;Uzun yıllar önce kayıplara karışmış Amber Kralı Oberon, ülkesine geri dönmüş, yönetimi tekrar eline almıştır. Desen'deki bozulma iyice tehlikeli bir hale geldiğinen, onarılması zorunludur. Dworkin ile Oberon'un bu konuda bazı planları vardır.
+Öte yandan Corwin, Amber'in kurtuluşundaki görevini yerine getirmeye çalışırken birbiri ardına tehlikelerle karşılaşır. Nihayet yaşamı, ailesi ve geçmişiyle barışır ve onu bekleyen yeni yolculuğa ilk adımını atar.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">be15723a-7ac8-4238-9c8e-3e4dfc6e8864</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:bb8178a9-4746-4709-ad9d-316a4dc67322</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">975-8725-24-6</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kaossaray.jpg"/>
+    <meta name="calibre:title_sort" content="Kaos Sarayları"/>
+    <meta name="calibre:series" content="Amber Yıllıkları"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Cilt_ismi.html" id="Cilt_ismi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icbaslik.html" id="icbaslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0001.html" id="Kaos_Saraylari_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0002.html" id="Kaos_Saraylari_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0003.html" id="Kaos_Saraylari_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0004.html" id="Kaos_Saraylari_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0005.html" id="Kaos_Saraylari_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0006.html" id="Kaos_Saraylari_0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0007.html" id="Kaos_Saraylari_0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0008.html" id="Kaos_Saraylari_0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0009.html" id="Kaos_Saraylari_0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0010.html" id="Kaos_Saraylari_0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0011.html" id="Kaos_Saraylari_0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0012.html" id="Kaos_Saraylari_0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0013.html" id="Kaos_Saraylari_0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari_0014.html" id="Kaos_Saraylari_0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos_Saraylari.html" id="Kaos_Saraylari.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.html" id="Yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar_Hakkinda.html" id="Yazar_Hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/kaossaray.jpg" id="kaossaray.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Cilt_ismi.html"/>
+    <itemref idref="icbaslik.html"/>
+    <itemref idref="Kaos_Saraylari_0001.html"/>
+    <itemref idref="Kaos_Saraylari_0002.html"/>
+    <itemref idref="Kaos_Saraylari_0003.html"/>
+    <itemref idref="Kaos_Saraylari_0004.html"/>
+    <itemref idref="Kaos_Saraylari_0005.html"/>
+    <itemref idref="Kaos_Saraylari_0006.html"/>
+    <itemref idref="Kaos_Saraylari_0007.html"/>
+    <itemref idref="Kaos_Saraylari_0008.html"/>
+    <itemref idref="Kaos_Saraylari_0009.html"/>
+    <itemref idref="Kaos_Saraylari_0010.html"/>
+    <itemref idref="Kaos_Saraylari_0011.html"/>
+    <itemref idref="Kaos_Saraylari_0012.html"/>
+    <itemref idref="Kaos_Saraylari_0013.html"/>
+    <itemref idref="Kaos_Saraylari_0014.html"/>
+    <itemref idref="Kaos_Saraylari.html"/>
+    <itemref idref="Yayinevi.html"/>
+    <itemref idref="Yazar_Hakkinda.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

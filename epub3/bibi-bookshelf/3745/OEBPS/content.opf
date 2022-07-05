@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Kaçın! demokrasi geliyor!</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Avar, Banu">Banu Avar</dc:creator>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:date>2011-06-15T12:50:21+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">312cf300-f551-4cd5-8f53-a9afeddd3d65</dc:identifier>
+    <dc:date opf:event="modification">2014-11-10</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0609ae38-9bc5-441c-a9c8-4c3df900158d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ybzmnQEACAAJ</dc:identifier>
+    <meta content="Kaçın! demokrasi geliyor!" name="calibre:title_sort"/>
+    <meta content="2014-02-07T16:22:48.472000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Banu Avar&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003_split_000.html" id="section-0003_html4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

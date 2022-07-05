@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>İyi insan bulmak zor: öyküler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="O'Connor, Flannery &amp; Ülçer, Aylin">Flannery O'Connor</dc:creator>
+    <dc:creator opf:role="aut">Aylin Ülçer</dc:creator>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:date>2009-06-15T12:15:14+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;İyi İnsan Bulmak Zor, yirminci yüzyıl Amerikan edebiyatının en ilginç isimlerinden biri olan ve "güney gotiği" diye adlandırılan akım içinde başarılı eserler veren Flannery O'Connor'ın on öyküsünü içeriyor. Tekinsiz bir atmosferin hâkim olduğu bu öykülerde, insan doğasının pek hoş olmayan ama bir o kadar da gerçek yönleri gözler önüne seriliyor. O'Connor'ın karakterlerinin çoğu sempati duyulamayacak kadar rahatsız edici, ama onları ilginç kılan tam da bu. İyi veya kötü diye sınıflandırılmaya şiddetle direnen karakterler söz konusu burada; ahlak terazisinde hangi kefenin ağır basacağını kestirmek kolay değil. Zira okuru bencilliğin, riyakârlığın, cehaletin ve hatta sırf zevk için yapılan kötülüğün dünyasına buyur eden O'Connor ahlak, dindarlık, iyi ve kötü gibi ikircikli konularda bildik klişeleri yerle bir ediyor ve neredeyse tedirgin edici, afallatıcı bir nesnellik sergiliyor. Grotesk karakterlerle dolu bu grotesk dünya, "karanlık"la yüzleşmekten korkmayan edebiyatseverlere doyurucu bir okuma vadediyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;YAZAR HAKKINDA: 1925'te Amerika'nın Georgia eyaletinde doğdu. 1964 yılında deri veremi hastalığın sonucu öldü. Hastalığıyla mücadele ettiği on üç yıl süresince yazdığı öyküler iki kitapta toplandı. Bunlardan ilki olan İyi İnsan Bulmak Zor 1955 yılında yayımlanırken, diğeri (Everything That Rises Must Converge) ölümünün ardından 1965 yılında yayımlandı. Kısa öykülerinin haricinde Wise Blood (Bilge Kan) (1952) ve The Violent Bear It Away (1960) başlıklı iki romanı da vardır.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fed23977-4ccf-4287-96fc-923fb49e5edc</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">39c3139b-6ec3-4e49-8b6b-5b57ff60f415</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753427494</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">eENYywAACAAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="İyi insan bulmak zor: öyküler"/>
+    <meta name="calibre:timestamp" content="2016-01-11T16:45:27.699000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Flannery O'Connor&quot;: &quot;&quot;, &quot;Aylin Ülçer&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

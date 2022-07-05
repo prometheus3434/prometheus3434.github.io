@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Kapancızade Hamit Bey</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Eken, Halit">Halit Eken</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Yeditepe Yayınevi</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-12-06</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">e3eaecf3-70be-4f33-8f08-5c0862c78523</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kapancızade Hamit Bey"/>
+    <meta name="calibre:author_link_map" content="{&quot;Halit Eken&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="kapak_fmt.png"/>
+  </metadata>
+  <manifest>
+    <item href="Text/KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="kapak_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9478_fmt.jpeg" id="Image9478_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9485_fmt.jpeg" id="Image9485_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9494_fmt.jpeg" id="Image9494_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9502_fmt.jpeg" id="Image9502_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9509_fmt.jpeg" id="Image9509_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9517_fmt.jpeg" id="Image9517_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9526_fmt.jpeg" id="Image9526_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9533_fmt.jpeg" id="Image9533_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9541_fmt.jpeg" id="Image9541_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9549_fmt.jpeg" id="Image9549_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9556_fmt.jpeg" id="Image9556_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9566_fmt.jpeg" id="Image9566_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9573_fmt.jpeg" id="Image9573_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9588_fmt.jpeg" id="Image9588_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9595_fmt.jpeg" id="Image9595_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9603_fmt.jpeg" id="Image9603_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9610_fmt.jpeg" id="Image9610_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Image9618_fmt.jpg" id="Image9618_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9627_fmt.jpg" id="Image9627_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9638_fmt.jpg" id="Image9638_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9653_fmt.jpg" id="Image9653_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9660_fmt.jpg" id="Image9660_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9668_fmt.jpg" id="Image9668_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9675_fmt.jpg" id="Image9675_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/Image9683_fmt.jpg" id="Image9683_fmt.png" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+  <guide>
+    <reference href="Images/cover.jpg" type="cover"/>
+  </guide>
+</package>

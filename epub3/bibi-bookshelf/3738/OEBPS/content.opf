@@ -1,0 +1,85 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Juliette I: erdemsizliğe övgü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sade, Marquis de &amp; Yılmaer, Münire">Marquis de Sade</dc:creator>
+    <dc:creator opf:role="aut">Münire Yılmaer</dc:creator>
+    <dc:identifier id="uuid">{A57114A8-34E6-4215-8602-B589AC398646}</dc:identifier>
+    <dc:date>2003-06-15T11:05:54+00:00</dc:date>
+    <dc:publisher>Chiviyazıları</dc:publisher>
+    <dc:description>&lt;p&gt;Dünya listelerinde her dönem ilk 100... Bir başyapıt...
+
+O bir misyoner... Yeni bir din yazdı... Juliette onun kutsal kitaplarından biridir.
+New York Times Book Review
+
+Sade, batı tarihinin en radikal zekalarından, ruhsal hayatın bazı temel yanlarını oluşturan, çılgınlıkla soğuk rasyonelliğin hayret verici birleşimine değinen biriydi... Ardında yetenekli, korkutucu fakat daha çok aydınlık bir figür bıraktı.
+Newsweek
+
+Sade, zaten var olan sadizmi icat etmedi fakat büyük bir doktorun virüsü bulması gibi onu keşfetti. Sade, bizim anarşik ve kontrolsüz olan seksüel içgüdümüzü keşfetmemizi sağladı.
+Maurice Lever / New York Times&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Yetişkin</dc:subject>
+    <dc:subject>Fransız Edebiyatı</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Erotik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">521aa9c2-45ae-4949-a513-33c71de50b57</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758663460</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">oO3bnQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9758663488</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Juliette I: erdemsizliğe övgü"/>
+    <meta name="calibre:series" content="Juliette"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Marquis de Sade&quot;: &quot;&quot;, &quot;Münire Yılmaer&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.xhtml" id="arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yayinevi.xhtml" id="yayinevi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.xhtml" id="baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b1.xhtml" id="b1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b2.xhtml" id="b2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not1.xhtml" id="not1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not2.xhtml" id="not2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not3.xhtml" id="not3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not4.xhtml" id="not4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/not5.xhtml" id="not5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id13" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id12" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/arkakapak.jpg" id="arkakapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="logo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id13">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yayinevi.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="b1.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="b2.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+    <itemref idref="x5.xhtml"/>
+    <itemref idref="not1.xhtml"/>
+    <itemref idref="not2.xhtml"/>
+    <itemref idref="not3.xhtml"/>
+    <itemref idref="not4.xhtml"/>
+    <itemref idref="not5.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

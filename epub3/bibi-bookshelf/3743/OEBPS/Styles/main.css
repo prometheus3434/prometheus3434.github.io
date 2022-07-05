@@ -1,0 +1,807 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+    font-family:"NotoSerif";
+    font-style:normal;
+    font-weight:normal;
+    src : url("../Fonts/NotoSerif-Regular.ttf");
+}
+@font-face {
+    font-family:"NotoSerif";
+    font-style:normal;
+    font-weight:bold;
+    src : url("../Fonts/NotoSerif-Bold.ttf");
+}
+@font-face {
+  font-family:"NotoSerif";
+  font-style:italic;
+  font-weight:normal;
+  src : url("../Fonts/NotoSerif-Italic.ttf")
+}
+@font-face {
+  font-family:"NotoSerif";
+  font-style:italic;
+  font-weight:bold;
+  src : url("../Fonts/NotoSerif-BoldItalic.ttf")
+}
+
+@font-face {
+    font-family:"NotoSans";
+    font-style:normal;
+    font-weight:normal;
+    src : url("../Fonts/NotoSans-Regular.ttf");
+}
+@font-face {
+    font-family:"NotoSans";
+    font-style:normal;
+    font-weight:bold;
+    src : url("../Fonts/NotoSans-Bold.ttf");
+}
+@font-face {
+  font-family:"NotoSans";
+  font-style:italic;
+  font-weight:normal;
+  src : url("../Fonts/NotoSans-Italic.ttf")
+}
+@font-face {
+  font-family:"NotoSans";
+  font-style:italic;
+  font-weight:bold;
+  src : url("../Fonts/NotoSans-BoldItalic.ttf")
+}
+
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+.footnotes {
+  margin-top: 2em;
+}
+.si-footnote{
+  font-size: .85em;
+}
+.pagebreak{
+  page-break-before: always;
+}
+/*
+ *preamble
+ */
+.preamble h1{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.3em;
+  text-align: center;  
+  margin: 5em auto 2em auto;
+}
+
+.epigraph{
+  margin-top: 3em !important;
+  margin-bottom: 4em !important;
+  margin-left: 1.5em !important;
+}
+.epigraph p{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: italic !important;  
+  text-indent: 0 !important;
+  line-height: 1.4em;
+}
+.epigraph p.by{
+  font-size: .65em;
+  font-style: normal !important;
+  text-align: right;
+  margin-top: 1em;
+}
+
+.big-font{
+  font-size: 1.35em !important;
+}
+.preamble p{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-size: .9em;
+  text-indent: 1.3em;
+  line-height: 1.4em;
+  margin: .2em auto;
+}
+.preamble p.first{
+  text-indent: 0;
+}
+.preamble p.first span span {
+  font-size: 1.4em;
+}
+.preamble p span.smallcaps{
+  font-size: .75em;
+}
+/*
+ *note
+ */
+#note h1{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.3em;  
+  text-align: center;  
+  margin: 5em auto 4em auto;
+}
+#note p{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;  
+  margin: .2em auto;
+  text-indent: 1.3em;
+}
+#note p:first-of-type{
+  text-indent: 0;
+}
+.pull-right{
+  text-align: right;
+}
+/*
+ *chapter
+ */
+.chapter h1.chapter{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;    
+  text-align: center;
+  letter-spacing: .4em;
+  margin-top: 5em;
+  margin-bottom: 1.5em;
+}
+.chapter > .container > .container > h1,
+.part > .container > .container > h1{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.3em;    
+  text-align: center;
+  margin: auto .5em;
+}
+.chapter .container .container .container h1{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .8em;  
+  margin: 2.5em auto .8em auto;
+}
+
+.chapter  h1.head{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;    
+  text-align: center !important;
+  margin-bottom: 2em !important;
+}
+.chapter h2.head_alt{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .8em;   
+  text-align: center;
+  margin-bottom: 5em;
+  margin-top: 3em;
+}
+.chapter  h1.head span.line{
+  border-bottom: 1px solid #000;
+  padding: 0 1em;
+}
+.chapter  h1.subhead{
+  font-family: "NotoSerif";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-indent: 1.3em;
+  margin: 1.5em auto .5em auto;
+}
+.chapter  h1.subhead-1{
+  font-family: "NotoSerif";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-indent: 1.3em;
+  margin: 2.5em auto 0 auto;
+}
+
+.chapter  h1.subhead-2{
+  font-family: "NotoSerif";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-indent: 1.3em;
+  margin: 1.5em auto 0 auto;
+}
+
+.chapter  h1.midhead{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;
+  letter-spacing: .09em;
+  text-align: center;
+  margin: 2em auto;
+}
+
+h1.subhead-1 span{
+  font-weight: normal;
+}
+
+.chapter p{
+  font-family: "NotoSerif";
+  font-weight: normal !important;
+  font-style: normal;
+  font-size: .9em;  
+  text-indent: 1.3em;
+  margin: .2em auto;
+  line-height: 1.4em;
+}
+.chapter p.first-letter{
+  text-indent: 0;
+}
+.chapter  p.first-letter:first-letter{
+  font-size: 1.2em !important;
+}
+.chapter p.first-letter1{
+  text-indent: -1.3em;
+}
+.chapter  p.first-letter1:first-letter{
+  font-size: 1.2em !important;
+}
+.text1, .text2{
+  padding-left: 1.3em;
+  margin: 2em auto;
+}
+.text3{
+  margin: 1.5em auto;
+}
+.text2 p{
+  text-indent: 0 !important;
+  margin-top: .4em !important;
+}
+.small{
+  font-style: italic;
+  font-size: .9em;
+}
+.copy-margin{
+  margin-top: .5em !important;
+}
+
+.text4{
+  margin: .4em auto 1.5em auto;
+}
+
+section.afirmasyon{
+  margin: 1.5em auto;
+  padding-left: 1.3em;
+}
+section.afirmasyon p{
+  text-indent: 0;
+}
+.chapter span.smallcaps{
+  font-size: .8em;
+}
+
+.initial{
+  font-size: 1.3em;
+}
+.emphasis{
+  margin: 1em auto;
+}
+p.non-margin{
+  margin: 0 auto !important;
+}
+
+.chapter h1 .emphasis{
+  font-style: italic;
+  font-weight: bold;
+}
+.chapter .emphasis p, span.emphasis{
+  font-style: italic !important;
+}
+.chapter .strong-emphasis{
+  margin: 1.5em auto;
+}
+
+.chapter .strong-emphasis p, span.strong-emphasis{
+  font-weight: bold !important;
+}
+ol{
+  font-size: .9em;
+  line-height: 1.3em;
+  padding-left: 2.5em;
+}
+ol.non-margined{
+  margin-top: 0;
+}
+ol.non-margined-1{
+  margin-bottom: 0;
+}
+ol.non-margined-2{
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+ol.style0{
+  margin-top: 1.5em
+}
+
+ol.style1{
+  margin-bottom: 1.5em
+}
+
+ol li{
+  margin-top: .2em;
+}
+ul{
+  font-size: .9em;
+  line-height: 1.3em;
+  padding-left: 2.5em;
+}
+ul.non-margined{
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+ul.non-margined-1{
+  margin-top: 0 !important;
+}
+
+ul li p{
+  font-size: 1em;
+  text-indent: 0 !important;
+}
+ol li p{
+  font-size: .95em !important;
+  text-indent: 0 !important;
+}
+
+ol li ol li{
+  font-size: 1.15em;
+}
+
+ol.exercise{
+ padding-left: 0;
+ text-indent: 1.3em;
+}
+ol.exercise li{
+  list-style-position: inside;
+  margin-bottom: 1.5em;
+}
+ol.alpha{
+  margin: 1.5em auto;
+  list-style-type: lower-alpha;
+}
+ol.inside{
+  margin: 0 auto !important;
+  padding-left: 1.3em;
+}
+ul.adjacent-top{
+  margin-top: 0 !important;
+}
+ol li ul{
+  list-style-type: disc;
+  font-size: 1em;
+  padding-left: 1.3em !important;
+}
+.normal{
+  font-weight: normal !important;
+}
+
+.margintop{
+  margin-top: 1.5em !important;
+}
+
+.margintop1{
+  margin-top: .8em !important;
+}
+
+.centered{
+  text-align: center;
+}
+div.border{
+  border: 2px solid #000;
+  border-radius: 15px;
+  margin: 1.5em 1.3em;
+  background-color: #d1d3d4;
+}
+div.border p{
+  font-size: .85em;
+  text-indent: 0;
+  line-height: 1.4em;
+}
+div.border div{
+  padding: .1em 1em;
+}
+div.border ol{
+  font-size: .8em;
+  padding: 0;
+  margin-top: .7em !important;
+  margin-left: 1.3em;
+  margin-top: 0;
+}
+div.border div.container h1{
+  font-size: .9em;
+  margin: .5em auto;
+}
+div.border div.margin p{
+  margin-top: .5em !important;
+}
+hr{
+  display: block;
+  text-align: center;
+  border: none;
+  vertical-align: middle;
+}
+hr:after{
+  content: '*'
+}
+
+
+.part h1.parttitle{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.3em;
+  text-align: center;
+  letter-spacing: .4em;
+  margin-top: 6em;
+}
+
+.part h1.ek{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.2em;    
+  text-align: center;
+  letter-spacing: .4em;
+  margin-top: 5em;
+  margin-bottom: 1.5em;
+}
+
+.part h1.subtitle{
+  margin-bottom: 4em;
+  font-size: 1.3em;
+  
+}
+
+h2{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .8em !important;
+  margin: 2.5em auto .5em auto;
+  text-align: left;
+}
+h1.head{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em !important;
+  text-indent: 0 !important;
+  margin: 2.5em auto .5em auto !important;
+  text-align: left !important;  
+}
+.part section section section section h1{
+  font-weight: bold;
+  font-size: .9em;
+  text-indent: 1.3em;
+  margin-bottom: .5em;
+}
+
+.part h1.subhead{
+  font-weight: bold;
+  font-size: .9em !important;
+  text-align: left;
+  text-indent: 1.3em;
+  margin-top: 1.5em !important;
+  margin-bottom: .65em;
+}
+
+.part p{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;
+  text-indent: 1.3em;
+  line-height: 1.4em;
+  margin: .2em auto;
+}
+
+.part .strong-emphasis p{
+  font-weight: bold;
+  margin: 1em auto;
+}
+
+section.strong-emphasis{
+  margin: 1.5em auto;  
+}
+
+.part p.first-letter{
+  text-indent: 0;
+}
+.part p span.smallcaps{
+  font-size: .7em;
+}
+.part hr{
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+.part hr:after{
+  content: "* * *";
+}
+.part hr + article p{
+  text-indent: 0 !important;
+}
+.aut{
+  font-style: italic !important;
+  text-align: right;
+  margin-bottom: .4em !important;
+}
+
+
+.bibliography h1{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: 4em;
+  margin-bottom: 3em;
+}
+.bibliography p{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;
+  text-indent: -1em;
+  line-height: 1.4em;
+  padding-left: 1.3em;
+  margin: .1em auto;
+}
+
+
+body#source .container h1{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.1em;
+  text-align: center;
+  margin-top: 4em;
+  margin-bottom: 3em;  
+}
+
+body#source .container .container h1{
+  font-size: .9em;
+  text-indent: 0;
+  margin-top: 2em;
+  margin-bottom: 0;
+  text-align: left;
+}
+body#source .container .container .container h1{
+  font-weight: bold;
+  font-size: .85em;
+  margin: .3em auto;
+  text-align: left;
+}
+#source p{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: .9em;
+  margin: 0 auto;
+  text-indent: 1.3em;
+  line-height: 1.4em;
+}
+#source .noindent {
+  text-indent: 0;
+  padding-left: 0 !important;
+}
+#source p.note{
+  margin-top: 4em;
+  text-indent: 0;
+}
+#source .tv{
+  margin: 3em auto;
+}
+#source .first-letter{
+  text-indent: 0 !important;
+}
+
+
+.titlepage {
+  text-align: center;
+  font-family: NotoSerif;
+  font-weight: normal;
+  font-style: normal;
+}
+.titlepage div.name{
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+.titlepage div.sub-name{
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-top: 2em;
+}
+.titlepage div.edition{
+  font-size: .9em;
+  margin-top: 1.5em;
+}
+.titlepage div.author{
+  font-size: 1.8em;
+  margin-top: 2em;
+}
+
+.titlepage div.frame2{
+  margin-top: 4em;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  text-align: center;
+}
+
+.titlepage img{
+  width: 100%;
+}
+
+/*
+ *advertising
+ */
+#advertising .advertising-container p{
+  font-size: .8em;
+  margin: 0 0 .1em 0;
+  line-height: 1.4em;
+}
+#advertising .advertising-container ul li, #advertising .advertising-container ol li{
+  font-size: .9em;
+}
+#advertising .advertising-container{
+  font-family: 'NotoSans';
+  font-style: normal;
+  font-weight: normal;
+  position: relative;
+  padding: .7em;
+  margin-top: 4em;
+  border: 5px solid;
+  border-radius: 30px;
+  page-break-after: always !important;
+}
+
+#advertising .advertising-container:before{
+  content: 'WORKSHOP';
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: -1.7em;
+  left: 0;
+  overflow: hidden;
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding: auto;
+  font-family: 'NotoSans';
+  font-weight: 800;
+  font-style: normal;
+  font-size: 1.7em;
+  letter-spacing: .3em;
+  text-align: center;
+  background-color: black;
+  color: #fff;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust:none;
+  -ms-text-size-adjust:none;
+  
+  zoom: 1;
+}
+#advertising .advertising-container h1{
+  font-family: 'NotoSans' !important;
+  font-weight: bold !important;
+  font-style: normal;
+  position: relative;
+  text-align: center;
+  font-size: 30pt;
+  margin-bottom: 1em;
+  
+}
+.img-container-tv{
+  width: 250px;  
+  margin: 2em auto 4em auto;
+}
+#advertising img{
+  width: 100%;
+}
+.info-tv{
+  font-family: "NotoSerif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1.3em;
+  text-align: center;
+  
+  margin: 3em 0 3em 0;
+  page-break-before: always;
+}
+.info-tv:last-child{
+  page-break-before: avoid;
+}
+.info-tv .normal{
+  text-align: left;
+  text-indent: 1.4em;
+}
+#advertising h1{
+  font-family: "NotoSerif";
+  font-weight: normal !important;
+  text-align: center !important;
+  font-size: 1.5em;
+  line-height: 1.2em;
+  margin-bottom: 2em;
+}
+#advertising p.detail {
+  font-family: "NotoSerif";
+  font-weight: bold;
+	text-align: right;
+	margin: 2.5em 1em 1em auto;
+	font-size: .9em;
+}
+#advertising a{
+	color: rgb(72, 131, 218);
+}
+#advertising .advertising{
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*
+ *cover
+ */
+
+.cover-container {
+  text-align: center;
+  margin: 0 auto !important;
+  max-width: 420px;
+}
+
+.cover-container img {
+  max-width: 100%;
+}
+
+/*
+ *copyright-page
+ */
+.copyright-container a.pad{
+  margin-right: 1em;
+}
+
+.copyright-container .copy {
+  font-family: "NotoSerif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: .81em;
+  margin-top: 1.4em;
+  line-height: 1.4em;
+}
+section.copyright-container{
+  margin-top: 1.25em;
+}
+
+.work-name{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.warning{
+  margin-top: 5em;
+}
+
+.warning p{
+  font-size: .9em;
+  margin: .5em auto;
+}

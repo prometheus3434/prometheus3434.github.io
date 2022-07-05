@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Jakob Von Gunten (German)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Walser, Robert">Robert Walser</dc:creator>
+    <dc:description>Man lernt hier sehr wenig, es fehlt an Lehrkräften, und wir Knaben vom Institut Benjamenta werden es zu nichts bringen, d. h., wir werden alle etwas sehr Kleines und Untergeordnetes im späteren Leben sein. Der Unterricht, den wir genießen, besteht hauptsächlich darin, uns Geduld und Gehorsam einzuprägen, zwei Eigenschaften, die wenig oder gar keinen Erfolg versprechen. Innere Erfolge, ja. Doch was hat man von solchen? Geben einem innere Errungenschaften zu essen? Ich möchte gern reich sein, in Droschken fahren und Gelder verschwenden. Ich habe mit Kraus, meinem Schulkameraden, darüber gesprochen, doch er hat nur verächtlich die Achsel gezuckt und mich nicht eines einzigen Wortes gewürdigt. Kraus besitzt Grundsätze, er sitzt fest im Sattel, er reitet auf der Zufriedenheit, und das ist ein Gaul, den Personen, die galoppieren wollen, nicht besteigen mögen. Seit ich hier im Institut Benjamenta bin, habe ich es bereits fertiggebracht, mir zum Rätsel zu werden. Auch mich hat eine ganz merkwürdige, vorher nie gekannte Zufriedenheit angesteckt. Ich gehorche leidlich gut, nicht so gut wie Kraus, der es meisterlich versteht, den Befehlen Hals über Kopf dienstfertig entgegenzustürzen. In einem Punkt gleichen wir Schüler, Kraus, Schacht, Schilinski, Fuchs, der lange Peter, ich usw., uns alle, nämlich in der vollkommenen Armut und Abhängigkeit. Klein sind wir, klein bis hinunter zur Nichtswürdigkeit. Wer eine Mark Taschengeld hat, wird als ein bevorzugter Prinz angesehen. Wer, wie ich, Zigaretten raucht, der erregt ob der Verschwendung, die er treibt, Besorgnis.</dc:description>
+    <dc:publisher>Createspace Independent Pub</dc:publisher>
+    <dc:date>2014-04-02T11:52:28+00:00</dc:date>
+    <dc:identifier id="uuid">{5AA363E2-0445-45E5-97DE-68DCCE18D9C8}</dc:identifier>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Okunmadı</dc:subject>
+    <dc:subject>Literary Collections</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>de</dc:language>
+    <dc:identifier opf:scheme="calibre">091f9c1f-3da2-4d24-a4d5-4c3ba1a47cc0</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781497525580</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">YKCdoAEACAAJ</dc:identifier>
+    <meta name="Sigil version" content="0.9.9"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Jakob Von Gunten (German)"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Walser&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jvg.xhtml" href="Text/jvg.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ikapak.xhtml" href="Text/ikapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otob.xhtml" href="Text/otob.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="hoc.css" href="Styles/hoc.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="Palatino_Bold.ttf" href="Fonts/Palatino_Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="Palatino_BoldItalic.ttf" href="Fonts/Palatino_BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="Palatino_Italic.ttf" href="Fonts/Palatino_Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="Palatino_Normal.ttf" href="Fonts/Palatino_Normal.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="jvg.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ikapak.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="otob.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

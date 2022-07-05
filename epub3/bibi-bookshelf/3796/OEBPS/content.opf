@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kaos Prensi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e1a1b078-cfb3-482e-afe6-a6e4d53276e1</dc:identifier>
+    <dc:date opf:event="modification">2014-08-11</dc:date>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:contributor opf:role="trl">Niran Elçi</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:description>&lt;p&gt;Bir tek gerçek dünya var. Diğerleri - yaşadığımız dünya da dahil - gölgelerden ibaret... 
+Amber serisinin son kitabında Merlin, arkadaşının karısı ve eski sevgilisi Coral'ı kaçıranlarla mücadele etmek, bunu yaparken de varoluşun Kaos ucunda kafasını karıştıran sorunları çözmek zorundadır: Kaos'un bir sonraki kralı kim olacaktır? Desen ile Kaos arasında ezelden beri süren mücadeleyi kim kazanacaktır? Desendüşüşü Savaşı'ndan beri görülmeyen Corwin ortaya çıkacak mıdır? 
+Merlin'in hikayesi sona ererken, sonrasında gelişecek tarihin nasıl yol alacağı konusunda da ipuçları veriyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4da230ae-5d1f-4fe9-b59b-3431ee0d7c5d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758725533</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:e1a1b078-cfb3-482e-afe6-a6e4d53276e1</dc:identifier>
+    <meta name="cover" content="kaospr.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kaos Prensi"/>
+    <meta name="calibre:series" content="Amber Yıllıkları"/>
+    <meta name="calibre:series_index" content="10.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icbaslik.html" id="icbaslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Cilt ismi.html" id="Cilt_ismi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0001.html" id="Kaos_Prensi_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0002.html" id="Kaos_Prensi_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0003.html" id="Kaos_Prensi_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0004.html" id="Kaos_Prensi_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0005.html" id="Kaos_Prensi_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0006.html" id="Kaos_Prensi_0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0007.html" id="Kaos_Prensi_0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0008.html" id="Kaos_Prensi_0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0009.html" id="Kaos_Prensi_0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0010.html" id="Kaos_Prensi_0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0011.html" id="Kaos_Prensi_0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0012.html" id="Kaos_Prensi_0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi_0013.html" id="Kaos_Prensi_0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Prensi.html" id="Kaos_Prensi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.html" id="Yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar Hakkinda.html" id="Yazar_Hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/kaospr.jpg" id="kaospr.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="icbaslik.html"/>
+    <itemref idref="Cilt_ismi.html"/>
+    <itemref idref="Kaos_Prensi_0001.html"/>
+    <itemref idref="Kaos_Prensi_0002.html"/>
+    <itemref idref="Kaos_Prensi_0003.html"/>
+    <itemref idref="Kaos_Prensi_0004.html"/>
+    <itemref idref="Kaos_Prensi_0005.html"/>
+    <itemref idref="Kaos_Prensi_0006.html"/>
+    <itemref idref="Kaos_Prensi_0007.html"/>
+    <itemref idref="Kaos_Prensi_0008.html"/>
+    <itemref idref="Kaos_Prensi_0009.html"/>
+    <itemref idref="Kaos_Prensi_0010.html"/>
+    <itemref idref="Kaos_Prensi_0011.html"/>
+    <itemref idref="Kaos_Prensi_0012.html"/>
+    <itemref idref="Kaos_Prensi_0013.html"/>
+    <itemref idref="Kaos_Prensi.html"/>
+    <itemref idref="Yayinevi.html"/>
+    <itemref idref="Yazar_Hakkinda.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

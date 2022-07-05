@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>İşte Zor İnsanlar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aslan, Özden">Özden Aslan</dc:creator>
+    <dc:publisher>Elma Yayınevi</dc:publisher>
+    <dc:date>2011-04-18T11:51:23+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid"/>
+    <dc:date opf:event="modification">2015-06-28</dc:date>
+    <dc:description>&lt;p&gt;Özden Aslan, Zor İnsanlarla Zorlanmadan Baş Etmek adlı kitabında olduğu gibi, yine üç farklı zor insan tipiyle baş etmenin yollarını anlatıyor. İşte Zor İnsanlar, yarattığı beklentiyi tamamen karşılıyor. Çevremizde mutlaka bir Demir, Engin Bilgin, Dr. Hüsnü veya Nurcan vardır. Böyle kişilerle baş etmenin akıl oyunlarıyla dolu yolları bu kitapta. Zaman zaman güldüren, güldürürken de öğreten harika bir kitap. Dinçer Maden Harikaydı, bir solukta okudum. Öyküler, eğitici ve etkileyici; kendinizden bir parça buluyorsunuz. "Bu kişiye böyle davramrsam baş edebilirim" diyorsunuz ve ders çıkarıyorsunuz. Kitap, insanın ufkunu genişletiyor, bakış açısını yeniliyor. Hüma Oktay Kitap gerçekten çok güzel ve sürükleyici. Hizmet sektöründe çalışan biri olarak bu kitabı ısrarla tavsiye ederim. Şirketler, tüm personellerine okutmalı. Böylece çalışanlar zor durumda kaldıklarında ne yapacaklarını öğrenir.
+
+Özkan Bikiş&lt;/p&gt;</dc:description>
+    <dc:subject>İş Dünyası</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d51cd56a-652c-442c-b0de-c241b1312ddd</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756093856</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-04-18T11:51:23.059000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="İşte Zor İnsanlar"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Özden Aslan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_000.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_001.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_002.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_003.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_004.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_005.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/istezorinsan_split_006.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/elma logo sb_opt.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/octet-stream"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/octet-stream"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/octet-stream"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

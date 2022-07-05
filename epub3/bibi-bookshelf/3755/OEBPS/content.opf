@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bir kadının penceresinden: roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rıfat, Oktay">Oktay Rıfat</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e77e7ab4-1066-41ec-80c3-5c808ab70938</dc:identifier>
+    <dc:description>&lt;p&gt;Türk şiirinin büyük ustalarından Oktay Rifat, "Bir Kadının Penceresinden" ile, edebiyatın şimdiye kadar eser vermediği bir alanına yaklaşıyor. Kendisini soluk soluğa okutan bir romanlaştırma ustalığıyla yazılmış bu ilk romanında, ünlü ozan, tadına doyulmaz türkçesiyle 12 Mart sonrasının gerilimli havasında evliliğini belirli bir aydınlar ortamında sürdürüp çocuklarını büyüten bir kadının genç bir devrimciyle aşkını anlatıyor.
+İlk bakışta, birkaç kişinin çevresinde dönüyormuş izlenimini uyandıran bu ilginç roman, ilerledikçe, çetrefil bir iç ilişkiler sürecini geliştirerek, belirli bir toplumun, Türk toplumunun toplumsal dramını somutlaştırıyor: Bu, ileriye doğru birşeyler yaparak sıçramak isteyen genç kuşakların heyecanlı gözüpekliğiyle, devrimciliği kişisel başarısızlıklarının çeşitli yanlarını örtbast etmek için soyut, daha çok lafa dayanan bir entelektüel oyun haline getiren aydınların dramıdır.&lt;/p&gt;</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2007-06-15T10:10:55+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:date opf:event="modification">2016-01-03</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>kadın</dc:subject>
+    <dc:subject>Cumhuriyet Dönemi</dc:subject>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:subject>Orijinal</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">609ff592-e466-4c10-a9a3-6578b5376028</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:e77e7ab4-1066-41ec-80c3-5c808ab70938</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">XzEauAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750812675</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750828416</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign 9.0" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="x186.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="kadının penceresinden: roman, Bir"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Oktay Rıfat&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/1-1.xhtml" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="Text/1-2.xhtml" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="Text/1-3.xhtml" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="Text/1-4.xhtml" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="Text/1-5.xhtml" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="Text/1-6.xhtml" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="Text/1-7.xhtml" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="Text/1-8.xhtml" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="Text/1-9.xhtml" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="Text/1-10.xhtml" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yky_fmt.jpeg" id="yky_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

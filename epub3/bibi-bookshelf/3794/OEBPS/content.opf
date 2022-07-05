@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kaos İmgesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a9358dfc-e437-474b-b1bc-dc4a68817ddd</dc:identifier>
+    <dc:date opf:event="modification">2014-08-06</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="trl">Niran Elçi</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:description>&lt;p&gt;Kendisini, Luke ve Alice kitaplarının karakterleriyle fantastik bir barda içki içerken bulan Merlin, bu tuzaktan kurtulmanın yollarını aramaya başlar. Onu ve Luke'u bu tuzağa mahkum eden kişi kimdir? Yardım etmek için sürekli yoluna çıkmakta ısrar eden varlık kim tarafından görevlendirilmiştir? Merlin'i öldürme girişimlerine ara vermeksizin devam eden kişi gerçekte hangi güçlerin yönlendirmesiyle hareket etmektedir? Merlin; Luke, Jasra, Jurt ve Maske'nin oluşturduğu çok bilinmeyenli denklemi çözmeye çalışırken dostlar ve düşmanlar değişir durur. Sonunda gizemler açığa çıkmaşa başlarken yanıtlar Merlin'i şaşırtmaya devam edecektir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">93f3456c-8a04-4135-aa99-30bf8e92ae62</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:a9358dfc-e437-474b-b1bc-dc4a68817ddd</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">975-8607-38-3</dc:identifier>
+    <meta name="cover" content="kaosimgesi.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kaos İmgesi"/>
+    <meta name="calibre:series" content="Amber Yıllıkları"/>
+    <meta name="calibre:series_index" content="8.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Cilt ismi8.html" id="Cilt_ismi8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icbaslik8.html" id="icbaslik8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi1.html" id="Kaos_Imgesi1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi2.html" id="Kaos_Imgesi2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi3.html" id="Kaos_Imgesi3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi4.html" id="Kaos_Imgesi4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi5.html" id="Kaos_Imgesi5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi6.html" id="Kaos_Imgesi6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi7.html" id="Kaos_Imgesi7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi8.html" id="Kaos_Imgesi8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi9.html" id="Kaos_Imgesi9.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi10.html" id="Kaos_Imgesi10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi11.html" id="Kaos_Imgesi11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi12.html" id="Kaos_Imgesi12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaos Imgesi13.xhtml" id="Kaos_Imgesi13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.html" id="Yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar Hakkinda.html" id="Yazar_Hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/kaosimgesi.png" id="kaosimgesi.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Cilt_ismi8.html"/>
+    <itemref idref="icbaslik8.html"/>
+    <itemref idref="Kaos_Imgesi1.html"/>
+    <itemref idref="Kaos_Imgesi2.html"/>
+    <itemref idref="Kaos_Imgesi3.html"/>
+    <itemref idref="Kaos_Imgesi4.html"/>
+    <itemref idref="Kaos_Imgesi5.html"/>
+    <itemref idref="Kaos_Imgesi6.html"/>
+    <itemref idref="Kaos_Imgesi7.html"/>
+    <itemref idref="Kaos_Imgesi8.html"/>
+    <itemref idref="Kaos_Imgesi9.html"/>
+    <itemref idref="Kaos_Imgesi10.html"/>
+    <itemref idref="Kaos_Imgesi11.html"/>
+    <itemref idref="Kaos_Imgesi12.html"/>
+    <itemref idref="Kaos_Imgesi13.xhtml"/>
+    <itemref idref="Yayinevi.html"/>
+    <itemref idref="Yazar_Hakkinda.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
