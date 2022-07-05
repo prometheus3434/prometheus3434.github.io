@@ -1,0 +1,71 @@
+@page{
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+body{
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+p{
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+ol,ul{margin:0}
+li{font-size:127%}
+.linone{list-style-type:none}
+.p0{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;text-align:center;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p1{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p2{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p3{text-indent:0;margin-left:0;line-height:115%;margin-right:0;text-align:center;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p4{text-indent:0;margin-left:0;line-height:115%;margin-right:0;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p5{text-indent:0;margin-left:0;line-height:115%;margin-right:0;text-align:center;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p6{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p7{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;text-align:right;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p8{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;text-align:right;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p9{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;text-align:center;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p10{text-indent:0;margin-left:1.6em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p11{text-indent:1.6em;margin-left:2em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p12{text-indent:1.6em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p13{text-indent:1.6em;margin-left:2em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p14{text-indent:1.6em;margin-left:2em;line-height:115%;margin-right:2em;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p15{text-indent:0;margin-left:2em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p16{text-indent:1.6em;margin-left:2.6em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p17{text-indent:1.6em;margin-left:2.6em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.p18{text-indent:0;margin-left:0;line-height:115%;margin-right:0;widows:1;orphans:1;margin-top:0;margin-bottom:.71em}
+.p19{text-indent:-1em;margin-left:1em;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p20{text-indent:-.81em;margin-left:.81em;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p21{text-indent:-.61em;margin-left:.61em;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+.p22{text-indent:-1.2em;margin-left:1.2em;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+h1{font-size:236%;font-weight:bold}
+.h10{text-indent:0;margin-left:0;line-height:115%;margin-right:0;text-align:center;widows:1;orphans:1;margin-top:0;margin-bottom:.46em}
+.h11{text-indent:0;margin-left:1.5em;line-height:115%;margin-right:1.6em;text-align:center;widows:1;orphans:1;margin-top:0;margin-bottom:0}
+h2{font-size:145%;font-weight:bold}
+.h20{text-indent:1.4em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.75em}
+.h21{text-indent:1.8em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.75em}
+h3{font-size:136%;font-weight:bold}
+.h30{text-indent:1.5em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.8em}
+.li0{list-style-type:disc;margin-left:2.6em;line-height:115%;margin-right:0;text-align:justify;widows:1;orphans:1;margin-top:0;margin-bottom:.86em}
+.t2{font-weight:bold}
+.t3{font-size:.86em;line-height:115%;font-weight:bold}
+.t4{font-size:.93em;line-height:115%}
+.t5{font-size:.93em;line-height:115%;font-weight:bold}
+.t6{font-size:2.6em;line-height:115%}
+.t7{font-size:6.4em;line-height:115%}
+.t8{font-size:1.7em;line-height:115%;font-weight:bold}
+.t9{font-size:1.7em;line-height:115%}
+.t10{font-size:1.1em;line-height:115%;font-weight:bold}
+.t11{font-style:italic}
+.t12{font-size:1.3em;line-height:115%;font-weight:bold}
+.t13{font-size:.65em;line-height:115%;vertical-align:super}
+.t14{font-size:.65em;line-height:115%;font-style:italic;vertical-align:super}
+.t15{font-weight:bold;font-style:italic}
+.t16{font-size:.65em;line-height:115%;font-weight:bold;font-style:italic;vertical-align:super}
+.t17{font-size:.79em;line-height:115%}
+.t18{font-size:.56em;line-height:100%;vertical-align:super}
+.t19{font-size:.86em;line-height:100%}

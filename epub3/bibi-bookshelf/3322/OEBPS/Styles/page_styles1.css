@@ -1,0 +1,46 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: Sylfaen;
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/sylfaen.ttf)
+    }
+@font-face {
+    font-family: Batang;
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/batang.ttc)
+    }
+@font-face {
+    font-family: Arial;
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/arial.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../Fonts/ariali.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    src: url(../Fonts/arialbi.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-weight: bold;
+    font-style: normal;
+    src: url(../Fonts/arialbd.ttf)
+    }
+@font-face {
+    font-family: Constantia;
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/CONSTAN.TTF)
+    }

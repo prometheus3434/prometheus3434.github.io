@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Göl Insanlari</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tahir, Kemal">Kemal Tahir</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2018-07-15T12:03:03+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;"Göl İnsanları, Türk edebiyatının en güzel dört hikâyesi olarak kalacaktır." (1941)&lt;/div&gt;&lt;div&gt;-Nâzım Hikmet-&lt;/div&gt;&lt;div&gt;"Göl İnsanları'ndaki kişilerin hepsi köylüdür. Kitaptaki dört büyük hikâyeye, kişileri yönünden bir çekicilik veren şey, buradaki köylü tiplerinin, bizdeki magazin edebiyatının bol bol kullandığı klişe olmuş tiplerden çok başka niteliklerle belirlenmiş olmalıdır. (...) Yazarın, dışardan kolayca görülüp anlaşılamayacak, bütün tarihi oluş ve evrimi, iç yapısı, sorunları, bütün toplum ve moral ilişkileriyle bir kapalı kutu olan köylüyü anlatabilmek için, onların arasında uzun zaman yaşadığı, sabırlı bir gözlem, derleme ve araştırmadan sonra anlaşılmaktadır." &lt;/div&gt;&lt;div&gt;-Tahir Alangu-&lt;/div&gt;&lt;div&gt;Bu yapıtta yer alan ilk dört öykü önce bir gazetede tefrika edildi (1940-41), sonra iki kez kitap olarak basıldı (1955, 1958). Dokuz yıl sonra yapılan üçüncü baskıya ise yazar dört uzun öykü daha ekledi. Ama önceki öykülerin diline hiç dokunmadı. Böylece getirdiği güzel öykülerin yanı sıra yazarın dil alanındaki gelişmelerini de sergileyen ilginç bir yapıt ortaya çıktı.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1c7c3599-9252-4437-8c1e-7b88b3a72925</dc:identifier>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e0c1634c-3d6e-47db-be47-117c841dea55</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053757870</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Dqs4uQEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-09-10T11:49:44.793000+00:00"/>
+    <meta name="calibre:title_sort" content="Göl Insanlari"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal Tahir&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

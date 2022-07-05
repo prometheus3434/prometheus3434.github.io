@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>En Son Kale</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vance, Jack">Jack Vance</dc:creator>
+    <dc:identifier id="BookId">AWP-BAD492A4-14C2-46A9-AC97-B614D6DB4B5E</dc:identifier>
+    <dc:date>2009-12-22T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-05-29</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Sınıflar genetik olarak belirlenmiş, tüm angarya Mek'lerin sırtına yüklenmişti. Ama Mek'ler ayaklanınca, kaleler tek tek düşmeye başladı..."Belli değil mi?" dedi Mek. "artık sizin emirlerinizle çalışmak arzusunda değiliz. Biz hayatlarımızı kendi geleneksel standartlarımızla idare etmek arzusundayız."Cevap beni şarşırttı. Meklerin standartları olduğundan, hele hele geleneksel standartları olduğundan haberim yoktu."Niçin öldürüyorsunuz? niçin hayatlarımızı sizinkini daha iyi hale sokmak için yok ediyorsunuz?""Kararlılıkla davranmamız gerektiğini biliyoruz. Sizin kendi kurallarınız bunu zorunlu kılıyor. Etamin Dokuz'a dönebilirdik ama bu dünyayı tercih ettik; onu kendi gemi kızaklarımız, küvetlerimiz, güneşlenme iskelelerimizle kendimizin kılacağız.""Bu anlaşılabilir birşey. Ama niçin öldürüyorsunuz, niçin yok ediyorsunuz? Farklı bir bolgeye gidebilirsiniz. Size saldırıp zarar veremezdik.""Hayır," dedi Mek. "Olaylar çok ileri gitti. artık bütün insanları yok edeceğiz. Bu sözlerin gerçeği çok açık: Bir dünya iki ırk için çok küçük."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">940aa5e4-d917-42f2-9e55-b49c8677aa68</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9753421516</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="En Son Kale"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jack Vance&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

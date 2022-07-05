@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Ezeli mağlup: söyleşiler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cioran, Emile M. &amp; Bayrı, Haldun">Emile M. Cioran</dc:creator>
+    <dc:creator opf:role="aut">Haldun Bayrı</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d12e16ed-4fcb-407c-b110-f032c3d07f9f</dc:identifier>
+    <dc:publisher>Metis Yayincilik</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2019-09-15T12:42:11+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;div&gt;Burukluk, Tarih ve Ütopya, Çürümenin Kitabı. Cioran'dan yayımladığımız bu üç kitap da Türkçede okurlardan hatırı sayılır bir ilgi gördü, hatta belli bir müdavim kuşağı yarattı. Ezeli Mağlup, Cioran'la yapılmış söyleşileri bir araya getiriyor. Romanya'da, Karpat Dağları'ndaki çocukluğunu, aile hayatını, etkilendiği ve beslendiği kaynakları, Paris'e gidişi ve yakın çevresiyle ilişkilerinin hikâyesini, Fransızca yazma, dil ve düşünce, din ve mistisizm, insanlık tarihi üzerine hınzır tespitlerini buluyoruz bu söyleşilerde.&lt;/div&gt;&lt;div&gt;Her Cioran okurun er ya da geç aklına düşen şu soru " diğer konuşanlardan, yorumlayanlardan, vaaz verenlerden bunca şikayetçiyseniz ve bütün bunlara hiçbir inanç ve güven duymuyorsanız, siz kendiniz niye yazıyorsunuz?" sorusu da yer alıyor söyleşilerde. Hak veriyor Cioran, ezeli bir...&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">79f9e9c4-5d81-4f19-958e-edde1c3f67bc</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753426022</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ZTLmcQAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Ezeli mağlup: söyleşiler"/>
+    <meta name="calibre:timestamp" content="2015-09-10T11:50:02.212000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Emile M. Cioran&quot;: &quot;&quot;, &quot;Haldun Bayrı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-8.png" id="id8" media-type="image/png"/>
+    <item href="main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

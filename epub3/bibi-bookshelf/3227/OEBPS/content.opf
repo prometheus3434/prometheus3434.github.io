@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Fraternis: kayıp kitaplar, gizli kardeşlik</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Eldem, Burak">Burak Eldem</dc:creator>
+    <dc:identifier id="BookId">AWP-5D896516-7A3E-4F72-9743-A675D23B1666</dc:identifier>
+    <dc:publisher>İnkılâp Kitabevi</dc:publisher>
+    <dc:date>2006-06-15T12:37:25+00:00</dc:date>
+    <dc:description>Om religionsfænomenologi, religiøse symboler, religionshistoriske fremstillinger, mysteriereligioner samt Østens tro, Veda'erne</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4734f0d6-4364-40ed-bfac-796778e00e36</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">kSLmZwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751024398</dc:identifier>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Fraternis: kayıp kitaplar, gizli kardeşlik" name="calibre:title_sort"/>
+    <meta content="{&quot;Burak Eldem&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/knye.html" id="knye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/BurakEldem.html" id="BurakEldem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yazrn_notu.html" id="yazrn_notu.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm001.html" id="Blm001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm002.html" id="Blm002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm003.html" id="Blm003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm004.html" id="Blm004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm005.html" id="Blm005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm006.html" id="Blm006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm007.html" id="Blm007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm008.html" id="Blm008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm009.html" id="Blm009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm010.html" id="Blm010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm011.html" id="Blm011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm012.html" id="Blm012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm013.html" id="Blm013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm014.html" id="Blm014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm015.html" id="Blm015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm016.html" id="Blm016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm017.html" id="Blm017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Blm018.html" id="Blm018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Notlar.html" id="Notlar.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="knye.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="BurakEldem.html"/>
+    <itemref idref="yazrn_notu.html"/>
+    <itemref idref="Blm001.html"/>
+    <itemref idref="Blm002.html"/>
+    <itemref idref="Blm003.html"/>
+    <itemref idref="Blm004.html"/>
+    <itemref idref="Blm005.html"/>
+    <itemref idref="Blm006.html"/>
+    <itemref idref="Blm007.html"/>
+    <itemref idref="Blm008.html"/>
+    <itemref idref="Blm009.html"/>
+    <itemref idref="Blm010.html"/>
+    <itemref idref="Blm011.html"/>
+    <itemref idref="Blm012.html"/>
+    <itemref idref="Blm013.html"/>
+    <itemref idref="Blm014.html"/>
+    <itemref idref="Blm015.html"/>
+    <itemref idref="Blm016.html"/>
+    <itemref idref="Blm017.html"/>
+    <itemref idref="Blm018.html"/>
+    <itemref idref="Notlar.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+  </guide>
+</package>

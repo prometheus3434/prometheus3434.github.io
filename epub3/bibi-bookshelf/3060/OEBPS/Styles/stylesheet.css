@@ -1,0 +1,98 @@
+.calibre {
+    display: block
+    }
+.calibre1 {
+    font-weight: bolder
+    }
+.heading {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.heading1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading2 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 1.5em
+    }
+.heading3 {
+    display: block;
+    font-family: Century;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.main {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.sgc {
+    font-family: Century;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc1 {
+    font-family: Century;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc10 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse
+    }
+.sgc2 {
+    font-family: Century
+    }
+.sgc3 {
+    font-family: Century;
+    font-weight: bold
+    }
+.sgc4 {
+    font-family: Arial
+    }
+.sgc5 {
+    display: block;
+    text-align: center
+    }
+.sgc6 {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-weight: bold
+    }
+.sgc7 {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc9 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-family: Century;
+    font-weight: bold
+    }

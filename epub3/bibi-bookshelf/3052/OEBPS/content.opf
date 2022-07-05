@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Efendimiz'in Bir Günü</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Yüce, Abdülhakim">Abdülhakim Yüce</dc:creator>
+    <dc:identifier id="bookid">9789752785540</dc:identifier>
+    <dc:publisher>Işık Yayınları</dc:publisher>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-06-17</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">7fba6f0e-58c3-4c18-af78-91ad53835816</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9789752785540</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789752782204</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Efendimiz'in Bir Günü"/>
+    <meta name="calibre:author_link_map" content="{&quot;Abdülhakim Yüce&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/02-Jenerik.html" id="x02-Jenerik" media-type="application/xhtml+xml"/>
+    <item href="Text/02-Jenerik-2.html" id="x02-Jenerik-2" media-type="application/xhtml+xml"/>
+    <item href="Text/03-01.html" id="x03-01" media-type="application/xhtml+xml"/>
+    <item href="Text/03-02.html" id="x03-02" media-type="application/xhtml+xml"/>
+    <item href="Text/03-03.html" id="x03-03" media-type="application/xhtml+xml"/>
+    <item href="Text/03-04.html" id="x03-04" media-type="application/xhtml+xml"/>
+    <item href="Text/03-05.html" id="x03-05" media-type="application/xhtml+xml"/>
+    <item href="Text/03-06.html" id="x03-06" media-type="application/xhtml+xml"/>
+    <item href="Text/03-07.html" id="x03-07" media-type="application/xhtml+xml"/>
+    <item href="Text/03-08.html" id="x03-08" media-type="application/xhtml+xml"/>
+    <item href="Text/03-09.html" id="x03-09" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/isik_fmt.jpeg" id="isik_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x02-Jenerik"/>
+    <itemref idref="x02-Jenerik-2"/>
+    <itemref idref="x03-01"/>
+    <itemref idref="x03-02"/>
+    <itemref idref="x03-03"/>
+    <itemref idref="x03-04"/>
+    <itemref idref="x03-05"/>
+    <itemref idref="x03-06"/>
+    <itemref idref="x03-07"/>
+    <itemref idref="x03-08"/>
+    <itemref idref="x03-09"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

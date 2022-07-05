@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="Id_6E4932E5-9E2A-4F70-872F-55664675F8FA_" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>Elflerin Kanı</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>ELFLERİN KANI</text>
+    </navLabel>
+    <content src="Text/giris.xhtml" />
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>Bölüm 1</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>Bölüm 2</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>Bölüm 3</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>Bölüm 4</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>Bölüm 5</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint7">
+      <navLabel>
+        <text>Bölüm 6</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>Bölüm 7</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml" />
+    </navPoint>
+  </navPoint>
+</navMap>
+</ncx>

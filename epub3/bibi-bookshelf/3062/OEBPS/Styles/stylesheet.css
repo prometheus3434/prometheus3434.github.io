@@ -1,0 +1,66 @@
+.calibre {
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre3 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.scenebreak {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    text-indent: 0%;
+    padding: 0;
+    margin: 0
+    }
+.softbreak {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    page-break-before: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.text_ {
+    background-color: yellow;
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    text-indent: 1.5em;
+    padding: 0;
+    margin: 0
+    }

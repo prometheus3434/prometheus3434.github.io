@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Fransız Öpücüğü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Harmel, Kristin">Kristin Harmel</dc:creator>
+    <dc:publisher>Turkuvaz Kitap</dc:publisher>
+    <dc:date>2011-06-10T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8a0fb9b6-931e-4992-a925-79dcfa873996</dc:identifier>
+    <dc:date opf:event="modification">2014-06-10</dc:date>
+    <dc:description>&lt;p&gt;Emma korkunç günler yaşıyordu; nişanlısı tarafından tam da düğün
+hazırlıkları yaparken terk edilmişti, işinden kovulmuştu ve çok yakında
+evsiz kalacaktı. Peri masalı gibi süren hayatı bir anda tepe taklak
+oluvermişti. Artık yapacak hiçbir şeyi kalmamıştı…
+Kucağında dondurma kâsesi, üzerinde pijamasıyla kendine acıyarak sürekli
+evde oturuyordu, ta ki Paris’te yaşayan ve ünlü yıldızların halkla ilişkiler
+işlerini yürüten arkadaşı Poppy ona muhteşem bir teklifte bulunana kadar!
+Şimdi, Işık Şehri’nde yepyeni bir hayat Emma’yı bekliyor…
+Bir Film Yıldızı Nasıl Tavlanır’ın ardından Kristin Harmel’dan yine eğlenceli
+ve romantik bir çağdaş peri masalı.
+“Roman, güzel bir aşk hikâyesi ve çılgın maceralar eşliğinde fıkır fıkır
+eğlenceyle dolup taşıyor ve Paris’in sihriyle sürekli başınızı döndürüyor. Bir
+şişe şampanya gibi… Bir dikişte hepsini bitireceksiniz.”
+Julia Holden, One Dance in Paris’in yazarı
+“Aşkı kaybedip kendinizi bulmanın tatlı, komik hikâyesi... Yeryüzündeki en
+romantik şehri arka planına alan Fransız Öpücüğü, bizi heyecanlı,
+gösterişli, çekici bir fırtınaya sürükleyip ünlülerin skandallarına ortak
+ediyor.”
+Johanna Edwards, The Next Best Thing’in yazarı
+“Kristin Harmel’ın en büyük hayranlarından biriyim ve Fransız Öpücüğü
+onun en sevdiğim romanı.”
+Melissa Senate, See Jane Date’in ve Love You to Death’in yazarı
+&lt;/p&gt;</dc:description>
+    <dc:subject>Aşk</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">17f8956c-4d4d-4bbf-9b3c-0f5483de9a30</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054505081</dc:identifier>
+    <meta content="Fransız Öpücüğü" name="calibre:title_sort"/>
+    <meta content="2014-06-10T11:01:54.079000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kristin Harmel&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image-1.jpeg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/image.jpeg" id="id5" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

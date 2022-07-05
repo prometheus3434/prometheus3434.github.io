@@ -1,0 +1,101 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com" unique-identifier="PrimaryID" version="3.0" xml:lang="en">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Everything Happens for a Reason: And Other Lies I've Loved</dc:title>
+    <dc:creator id="id-2">Kate Bowler</dc:creator>
+    <dc:identifier>google:uejWDgAAQBAJ</dc:identifier>
+    <dc:identifier>isbn:9780399592072</dc:identifier>
+    <dc:identifier>calibre:4969</dc:identifier>
+    <dc:identifier>uuid:c99ee5c4-81f1-4286-bf6c-70d0af134029</dc:identifier>
+    <dc:identifier id="PrimaryID">9780399592072</dc:identifier>
+    <dc:source>urn:isbn:9780399592065</dc:source>
+    <dc:rights>Copyright © 2018 by Kate Bowler</dc:rights>
+    <dc:language>en-US</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2018-02-06T12:45:12+00:00</dc:date>
+    <dc:description>NEW YORK TIMES BESTSELLER • “A meditation on sense-making when there’s no sense to be made, on letting go when we can’t hold on, and on being unafraid even when we’re terrified.”—Lucy Kalanithi“Belongs on the shelf alongside other terrific books about this difficult subject, like Paul Kalanithi’s When Breath Becomes Air and Atul Gawande’s Being Mortal.”—Bill GatesNAMED ONE OF THE BEST BOOKS OF THE YEAR BY REAL SIMPLE Kate Bowler is a professor at Duke Divinity School with a modest Christian upbringing, but she specializes in the study of the prosperity gospel, a creed that sees fortune as a blessing from God and misfortune as a mark of God’s disapproval. At thirty-five, everything in her life seems to point toward “blessing.” She is thriving in her job, married to her high school sweetheart, and loves life with her newborn son. Then she is diagnosed with stage IV colon cancer.The prospect of her own mortality forces Kate to realize that she has been tacitly subscribing to the prosperity gospel, living with the conviction that she can control the shape of her life with “a surge of determination.” Even as this type of Christianity celebrates the American can-do spirit, it implies that if you “can’t do” and succumb to illness or misfortune, you are a failure. Kate is very sick, and no amount of positive thinking will shrink her tumors. What does it mean to die, she wonders, in a society that insists everything happens for a reason? Kate is stripped of this certainty only to discover that without it, life is hard but beautiful in a way it never has been before. Frank and funny, dark and wise, Kate Bowler pulls the reader deeply into her life in an account she populates affectionately with a colorful, often hilarious retinue of friends, mega-church preachers, relatives, and doctors. Everything Happens for a Reason tells her story, offering up her irreverent, hard-won observations on dying and the ways it has taught her to live.Praise for Everything Happens for a Reason   “I fell hard and fast for Kate Bowler. Her writing is naked, elegant, and gripping—she’s like a Christian Joan Didion. I left Kate’s story feeling more present, more grateful, and a hell of a lot less alone. And what else is art for?”—Glennon Doyle, #1 New York Times bestselling author of Love Warrior and president of Together Rising</dc:description>
+    <dc:publisher>Random House Publishing Group</dc:publisher>
+    <dc:subject>Biography &amp; Autobiography</dc:subject>
+    <dc:subject>Personal Memoirs</dc:subject>
+    <dc:subject>Medical (İncl. Patients)</dc:subject>
+    <dc:subject>Religion</dc:subject>
+    <dc:subject>Christian Living</dc:subject>
+    <dc:subject>Death; Grief; Bereavement</dc:subject>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Everything Happens for a Reason: And Other Lies I've Loved</opf:meta>
+    <meta content="coverimg" name="cover"/>
+    <meta property="dcterms:modified">2017-12-14T14:51:56Z</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta content="2017-12-14" name="epubcheckdate"/>
+    <meta content="4.0.1" name="epubcheckversion"/>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Bowler, Kate</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Kate Bowler": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Bowl_9780399592072_epub3_cvi_r1.xhtml" id="cvi" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_tp_r1.xhtml" id="tp" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_cop_r1.xhtml" id="cop" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_toc_r1.xhtml" id="inlinetoc" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_prf_r1.xhtml" id="prf" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c001_r1.xhtml" id="c001" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c002_r1.xhtml" id="c002" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c003_r1.xhtml" id="c003" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c004_r1.xhtml" id="c004" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c005_r1.xhtml" id="c005" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c006_r1.xhtml" id="c006" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c007_r1.xhtml" id="c007" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c008_r1.xhtml" id="c008" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_c009_r1.xhtml" id="c009" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_app_r1.xhtml" id="app" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_app1_r1.xhtml" id="app1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_ded_r1.xhtml" id="ded" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_ack_r1.xhtml" id="ack" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_adc_r1.xhtml" id="adc" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_ata_r1.xhtml" id="ata" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/next-reads-html/next-reads.xhtml" id="next-reads_template" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Bowl_9780399592072_epub3_nav_r1.xhtml" id="generatedNavDoc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="Bowl_9780399592072_epub3_ncx_r1.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+    <item href="OEBPS/style/Bowl_9780399592072_epub3_css_r1.css" id="css1" media-type="text/css"/>
+    <item href="OEBPS/style/prhStyle-media-queries.css" id="extra2" media-type="text/css"/>
+    <item href="OEBPS/style/prhStyle.css" id="extra1" media-type="text/css"/>
+    <item href="OEBPS/images/Bowl_9780399592072_epub3_001_cvi.jpg" id="coverimg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="OEBPS/images/Bowl_9780399592072_epub3_001_r1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="OEBPS/next-reads-html/images/next-reads_logo.jpg" id="next-reads_image_1" media-type="image/jpeg"/>
+    <item href="OEBPS/next-reads-html/fonts/Fort-Book.otf" id="next-reads_font_1" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/next-reads-html/fonts/Shift-BoldItalic.otf" id="next-reads_font_2" media-type="application/vnd.ms-opentype"/>
+    <item href="OEBPS/next-reads-html/fonts/Shift-Light.otf" id="next-reads_font_3" media-type="application/vnd.ms-opentype"/>
+    <item href="_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_" toc="toc">
+    <itemref idref="cvi" linear="yes"/>
+    <itemref idref="tp" linear="yes"/>
+    <itemref idref="cop" linear="yes"/>
+    <itemref idref="inlinetoc" linear="yes"/>
+    <itemref idref="prf" linear="yes"/>
+    <itemref idref="c001" linear="yes"/>
+    <itemref idref="c002" linear="yes"/>
+    <itemref idref="c003" linear="yes"/>
+    <itemref idref="c004" linear="yes"/>
+    <itemref idref="c005" linear="yes"/>
+    <itemref idref="c006" linear="yes"/>
+    <itemref idref="c007" linear="yes"/>
+    <itemref idref="c008" linear="yes"/>
+    <itemref idref="c009" linear="yes"/>
+    <itemref idref="app" linear="yes"/>
+    <itemref idref="app1" linear="yes"/>
+    <itemref idref="ded" linear="yes"/>
+    <itemref idref="ack" linear="yes"/>
+    <itemref idref="adc" linear="yes"/>
+    <itemref idref="ata" linear="yes"/>
+    <itemref idref="next-reads_template" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/Bowl_9780399592072_epub3_cvi_r1.xhtml" title="Cover" type="cover"/>
+    <reference href="OEBPS/Bowl_9780399592072_epub3_toc_r1.xhtml" title="Start" type="start"/>
+    <reference href="OEBPS/Bowl_9780399592072_epub3_toc_r1.xhtml" title="Text" type="text"/>
+    <reference href="OEBPS/Bowl_9780399592072_epub3_toc_r1.xhtml" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Gölge Aile</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Miyabe, Miyuki">Miyuki Miyabe</dc:creator>
+    <dc:date>2008-06-10T03:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">47a8c181-a6f6-4945-88d1-7c07d83b0dcd</dc:identifier>
+    <dc:date opf:event="modification">2014-10-17</dc:date>
+    <dc:description>&lt;p&gt;Şehrin yeni mahallelerinden birinde önce orta yaşlı bir İşadamının, ardından da genç sevgilisinin cesedi bulunur. Erkek kurbanın kızı, takip edildiğini düşündüğünden polise başvurur ve koruma alrına alınır. Soruşturma ilerledikçe İşadamının sanal ortamda "baba" rolünü üstlendiği bir ailesi olduğu ortaya çıkar. Üstelik bu "gölge aile"' cinayetlerden bir süre önce gerçek hayatta da bif araya gelmeye başlamıştır.
+Dedektif Takegami ve yardımcısı Çikako, katilin peşinde, fantezi ile acımasız gerçeklerin iç içe geçtiği karanlık bir labirentte ilerlemek zorundadır.
+"Miyabe sadece sanal dünyayı da içine alan usra işi bir polisiye roman yazmakla
+k.ılnumjş. Japon toplumundaki ahlaki çöküşü e yabancılaşmayı d.ı çarpıcı bîr
+şekilde gözler önüne sermiş."
+New York Times
+-Ige ^//c'degeril i m dozu yüksek bir polisiye ile milyonlarca insanın saatlerini verdiği sanal âlemin eleştirisi mükemmel bir ustalıkla birleşiyor," Washington Post
+Miyuki Mİyabe 1960 yılında Tokyo'da doğdu. Hukuk öğrenimi gördü ve yazmaya banlamadan önce avukat olarak çalıştı. Japonya nın en popüler yazarlarında birt olan Miyabe'nin gerilim ve polisiye romanlarının yanı sıra tarihi romanları da vardır. İngili/ceye AllShe Wtn Woılh başlığıyla çevrilen kitabıyla Şııgoro Yamamoto Ödülü nü almıştır.
+&lt;/p&gt;</dc:description>
+    <dc:subject>Gizem</dc:subject>
+    <dc:subject>Japon Edebiyatı</dc:subject>
+    <dc:subject>Suç</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bb90e9b3-2c4c-4712-879a-797b438c7eee</dc:identifier>
+    <dc:identifier opf:scheme="GOODREAD">13177228</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789759917982</dc:identifier>
+    <meta content="2014-10-09T03:21:42.538000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="Gölge Aile" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Miyuki Miyabe&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Miyuki_Miyabe_-_Golge_Aile_split_000.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Miyuki_Miyabe_-_Golge_Aile_split_001.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Miyuki_Miyabe_-_Golge_Aile_split_002.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Miyuki_Miyabe_-_Golge_Aile_split_003.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Miyuki_Miyabe_-_Golge_Aile_split_004.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image001.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

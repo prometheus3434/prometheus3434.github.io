@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Efendisiz halklar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Barclay, Harold B. &amp; Biliz, Zarife">Harold B. Barclay</dc:creator>
+    <dc:creator opf:role="aut">Zarife Biliz</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a5e8687f-8251-4d7d-9c65-c2319d39bb4c</dc:identifier>
+    <dc:date>2010-06-15T11:44:18+00:00</dc:date>
+    <dc:publisher>Versus</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;30 yılı aşkın antropoloji öğretme tecrübem sırasında, öğrenciler arasında, hiçbir toplumun yönetimsiz var olamayacağı ve buna bağlı olarak her toplumun bir başının olması gerektiği mitinin çok köklü bir şekilde yerleşmiş olduğunu gördüm. Günümüz öğrencileri kilisenin dininden vazgeçmiş olsalar bile, milliyetçilik ve devletçilik dinlerinden vazgeçmediler. Çağdaş çoğulcu toplumlarda birliğin kaynağı olan, tutkal işlevi gören şey bu ikisidir. Demek ki, tıpkı ortaçağ toplumunun birliği için Tanrı inancının gerekli olması gibi, devletin ve yönetimin gerekliliği miti bu birlik için şart ve belirleyicidir.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Barcley bu kitabında Aborijinlerden Pigmelere, Eskimolardan Santallara, Kızılderililerden Berberileree kadar dünyanın dört bir yanından onlarca topluluğu inceliyor; devletsiz bir toplum düşüncesinin ütopyacı bir düş olmadığını tersine insanlığın geçmişini karakterize eden bir sistem olduğunu ortaya koyuyor.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-02-02</dc:date>
+    <dc:subject>Anarşi</dc:subject>
+    <dc:subject>Antropoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">31a1a78b-c1ba-4863-bcbc-9e5b12ddf49e</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055691196</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">rXd6MwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:a5e8687f-8251-4d7d-9c65-c2319d39bb4c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055691196</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Efendisiz halklar" name="calibre:title_sort"/>
+    <meta content="{&quot;Harold B. Barclay&quot;: &quot;&quot;, &quot;Zarife Biliz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0101-01-01T00:00:00+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_cover.jpg"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Cevirmenin_Notu.xhtml" id="Cevirmenin_Notu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Hakkinda.xhtml" id="Hakkinda.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-1.xhtml" id="Section0001_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-2.xhtml" id="Section0001_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-3.xhtml" id="Section0001_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-4.xhtml" id="Section0001_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-5.xhtml" id="Section0001_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-6.xhtml" id="Section0001_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-7.xhtml" id="Section0001_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum-8.xhtml" id="Section0001_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kaynaklar.xhtml" id="Kaynaklar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/_cover.jpg" id="_cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="Cevirmenin_Notu.xhtml"/>
+    <itemref idref="Hakkinda.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0001_0001.xhtml"/>
+    <itemref idref="Section0001_0002.xhtml"/>
+    <itemref idref="Section0001_0003.xhtml"/>
+    <itemref idref="Section0001_0004.xhtml"/>
+    <itemref idref="Section0001_0005.xhtml"/>
+    <itemref idref="Section0001_0006.xhtml"/>
+    <itemref idref="Section0001_0007.xhtml"/>
+    <itemref idref="Section0001_0008.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+    <itemref idref="Kaynaklar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Kapak.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/Bolum-3.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

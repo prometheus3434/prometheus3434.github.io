@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ev: (1946-1954)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zileli, Gün">Gün Zileli</dc:creator>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">60a52dfa-cdb3-4871-a863-ecea0a59ad8c</dc:identifier>
+    <dc:date>2014-05-22T11:01:10+00:00</dc:date>
+    <dc:description>“Filistinli Ebu Suut el Haravi, ‘evinden kaçmaya zorlandığın için utanma’ diyor. Türkçede tam öyle değil ama birçok dilde ‘ev’, yaşanan yurdu da temsil ediyor. Gittikçe azalan aile fertlerinin birlikte yaşadığı aile ocağını terk edeli yaklaşık otuz beş yıl oluyor. Neredeyse on beş yıl geçecek, ‘yurt’ anlamındaki ‘ev’den kaçmak zorunda kalışımın üzerinden. Utanmıyorum. Kader de utanmasın. Utanması gereken başkaları var.”Gün ZileliTürkiye sol hareketinin önemli isimlerinden biri olan Gün Zileli politik geçmişini, daha önce yayımladığımız Yarılma, Havariler ve Sapak’ta bütün açıklığıyla anlatmıştı. Elinizdeki kitap bir açıdan o üçlemenin öncesi, diğer bir açıdan ise tamamlayıcısı. Zileli bu kitabında kendi ‘özel’ine dönüyor, çocukluğunu ve evini hikâye ediyor. ’40’ların sonu ve ’50’lerin başında yaşanan toplumsal dönüşümün orta sınıf Cumhuriyet aydını bir ailedeki yansımaları, o hayatlarda ve insanlarda yarattığı değişim... Anılarında karşımıza çıkan tiplerin evveliyatları... Hem anıların ayrılmaz bir parçası hem de başlı başına edebiyat tadında bir dönem anlatısı...</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-02-15</dc:date>
+    <dc:subject>Personal Memoirs</dc:subject>
+    <dc:subject>Biography &amp; Autobiography</dc:subject>
+    <dc:subject>Otobiyografi</dc:subject>
+    <dc:subject>Anı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c7044bb8-2cce-45e0-9c5a-a6090e7057a0</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750514715</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750502415</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">qAKcDwAAQBAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="2015-02-14T14:41:16.302000+00:00" name="calibre:timestamp"/>
+    <meta content="Ev: (1946-1954)" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Gün Zileli&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id10"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,172 @@
+@font-face {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/comic.ttf)
+    }
+@font-face {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-weight: bold;
+    src: url(../Fonts/comicbd.ttf)
+    }
+@page {
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm
+    }
+body {
+    margin: 0
+    }
+p {
+    text-indent: 1.8em;
+    margin-left: 0.26em;
+    line-height: 1.4em;
+    margin-right: 0.26em;
+    text-align: justify;
+    margin-top: 0.55em;
+    margin-bottom: 0;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 100%
+    }
+.p1 {
+    text-indent: 1.8em;
+    line-height: 1.3em;
+    margin-bottom: 0.55em
+    }
+.p2 {
+    text-indent: 0;
+    margin-left: 0.26em;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 7em;
+    margin-bottom: 1.1em
+    }
+.p3 {
+    text-indent: 0;
+    margin-left: 0.26em;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1.1em
+    }
+.p4 {
+    text-indent: 0;
+    margin-left: 0.26em;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 0
+    }
+.p5 {
+    text-indent: 0;
+    margin-left: 0.26em;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 2.2em
+    }
+.p6 {
+    text-indent: 0;
+    margin-left: 0.26em;
+    line-height: 100%;
+    text-align: left;
+    margin-top: 0
+    }
+.p8 {
+    text-indent: 1.8em;
+    text-align: right
+    }
+.p9 {
+    text-indent: 0;
+    margin-left: 0.26em;
+    line-height: 1.1em;
+    text-align: center
+    }
+.p10 {
+    text-indent: 1.8em;
+    line-height: 200%;
+    text-align: center;
+    margin-top: 1.1em;
+    margin-bottom: 1.1em
+    }
+h1 {
+    text-indent: 0;
+    margin-left: 0.18em;
+    line-height: 200%;
+    margin-right: 0.18em;
+    text-align: center;
+    page-break-after: avoid;
+    margin-top: 1.1em;
+    margin-bottom: 1.1em;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 145%;
+    font-weight: bold;
+    color: #c00000
+    }
+.h11 {
+    text-indent: 0
+    }
+.t3 {
+    color: #5b9bd5
+    }
+.t4 {
+    color: #5b9bd5
+    }
+.t5 {
+    font-size: 2em;
+    line-height: 100%;
+    font-weight: bold;
+    color: #5b9bd5
+    }
+.t7 {
+    font-size: 1.3em;
+    line-height: 100%;
+    font-weight: bold;
+    color: #5b9bd5
+    }
+.t8 {
+    font-weight: bold;
+    color: #5b9bd5
+    }
+.t9 {
+    font-size: 0.91em;
+    line-height: 100%
+    }
+.t10 {
+    font-size: 0.91em;
+    line-height: 100%;
+    font-style: italic
+    }
+.t11 {
+    font-size: 0.91em;
+    line-height: 100%;
+    font-weight: bold
+    }
+.t12 {
+    font-size: 0.91em;
+    line-height: 100%;
+    color: #0563c1;
+    text-decoration: underline
+    }
+.t13 {
+    font-weight: bold
+    }
+.t14 {
+    font-style: italic
+    }
+.t15 {
+    font-size: 0.91em;
+    font-style: italic
+    }
+.t16 {
+    font-size: 1.5em;
+    line-height: 200%;
+    font-weight: bold;
+    color: red;
+    letter-spacing: -0.031em
+    }
+.t17 {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: red
+    }

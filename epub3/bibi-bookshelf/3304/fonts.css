@@ -1,0 +1,16 @@
+@font-face {
+	src: url(fonts/Comic-Sans-MS.ttf);
+	font-family: "Comic Sans MS"
+}
+
+@font-face {
+	src: url(fonts/Comic-Sans-MS-Bold.ttf);
+	font-weight: bold;
+	font-family: "Comic Sans MS"
+}
+
+@font-face {
+	src: url(fonts/Comic-Sans-MS-Italic.ttf);
+	font-style: italic;
+	font-family: "Comic Sans MS"
+}

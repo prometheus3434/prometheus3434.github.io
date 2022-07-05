@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xml:lang="tr" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="ISBN 975-510-686-3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fanfan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/section-0001.html#auto_bookmark_1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/section-0002.html#tableofcontents"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bölüm 1</text>
+      </navLabel>
+      <content src="Text/section-0003.html#auto_bookmark_toc_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bölüm 2</text>
+      </navLabel>
+      <content src="Text/section-0005.html#auto_bookmark_toc_1"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bölüm 3</text>
+      </navLabel>
+      <content src="Text/section-0006.html#auto_bookmark_toc_1"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Kitap Hakkında</text>
+      </navLabel>
+      <content src="Text/section-0007.html#auto_bookmark_toc_1"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/section-0008.html#auto_bookmark_toc_1"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Sec01 new</title>
+  <link href="../Styles/stylesheet.css" rel="stylesheet" type="text/css" />
+  
+<style type="text/css">
+@page { margin-bottom: 10.000000pt; margin-top: 10.000000pt; }
+</style>
+</head>
+
+<body class="calibre">
+  <div class="chapter">
+    <p class="solbaslik">FİNANSAL MATEMATİĞE GİRİŞ</p>
+
+    <p class="normal">Tüm pozitif bilimlerin temelinde karşımıza çıkan matematik, finansal piyasalarda işlem yapan yatırımcı ve profesyoneller için de karşımıza finansal matematik formunda çıkmaktadır. Modern bilişim sistemlerinin de varlığı ile pek çok işlemsel hamallığı üzerimizden alan teknolojiler, ne yazık ki hâlâ matematikten bihaber olmamızı engelleyecek düzeye gelemediler. Gelmiş olsalar dahi, müşteri ziyareti, yeni ürün tasarlanması ya da ihtiyaçlar doğrultusunda ürün modifikasyonu gibi durumlarda, karar vericinin matematik bilgisine ihtiyaç duyulacağı gerçeğinde radikal bir değişiklik yaratamamışlardır.</p>
+
+    <p class="normal">İşte bu yüzden finansal kurumlarda çalışan tüm profesyonellerin ya da "ne ola ki bu finansal matematik?" diyen yatırımcıların basit bir üssel fonksiyonlu hesap makinesi yardımı ile fiyatlamaya esas olan matematik denklemleri kuracak ve bunları çözecek temel finansal matematik bilgisine sahip olmaları gerekmektedir. Kitabın bu bölümü de bu amaçla tasarlanmış olup, bilgisayar ya da finansal hesap makinesine ihtiyaç duyulmaksızın, üssel fonksiyonlu basit bir hesap makinesi ile finansal hesapların yapılması konusundaki gerekli bilgi ve becerileri kazandırmayı hedeflemektedir.</p>
+
+    <p class="normal">Böylesi bir konunun bir kitap aracılığıyla öğrenilmesinin güçlüğünün farkında olan ve yaşamının yaklaşık on yılını bu konuyu çeşitli seminerlerde ve sınıf içi eğitimlerde anlatarak geçirmiş biri olarak, size kötü bir haberim var: Ne yazık ki yanlızca okuyarak kapamayacağınız bir konu ile karşı karşıyasınız! Yani elinize bir üssel fonksiyonlu hesap makinesi almak ve onu kullanarak sayfaları çevirmek zorundasınız (hayır sayfaları elinizle çevirebilirsiniz, makine soruları çözmek için lazım). Üssel fonksiyonlu bir hesap makinesi dediğimizde kastımız, örneğin 35’i hesaplayabilecek, xy ya da ab şeklinde tanımlı tuşları olan en basit hesap makinesidir. Bu anlamda, bilgisayar kullanıyorsanız, Windows işletim sisteminin içindeki hesap makinesi de işinizi görecektir. Ancak yine de bizim önerimiz elinizin altında böyle bir makine bulundurmanızdır. Böylesi en ucuz makinelerin kitabın fiyatının altında olduğunu biliyorum, zira seminerlerim için her hafta yarım düzine kadar satın almak zorunda kalıyorum (zamanla eksiliyor da).</p>
+
+    <p class="normal">Modül, öncelikle paranın zaman değeri gibi temel finansal bilgiler ile başlayarak, uç noktada finansal ürünlerin fiyatlandırılması, getirilerinin hesaplanması ve birbirleriyle kıyaslanması sürecini tanıtacak ve ağırlıklı olarak bol örnek içeren bir süreçle program tamamlanacaktır. Finansal matematik konusunu dört temel başlık altında inceleyeceğiz:</p>
+
+    <p class="indentmetin">• Paranın Zaman Değeri ve Faiz Kavramları</p>
+
+    <p class="indentmetin">• Faizlendirme ve İskontolama</p>
+
+    <p class="indentmetin">• Anüite Hesapları</p>
+
+    <p class="indentmetin">• Finansal Ürünler ve Matematik</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="solbaslik">PARANIN ZAMAN DEĞERİ VE FAİZ KAVRAMLARI</p>
+
+    <p class="normal">Şimdi, sırayla bu konuları incelmeye başlayalım. Öncelikle "Paranın zaman değeri ve faiz kavramları"ndan başlayacağız.</p>
+
+    <p class="normal">Paranın zaman değeri, kısaca paranın zaman karşısında, özellikle de enflasyon karşısındaki değerinin korunması gereğinin mantığı üzerine kurulmuştur. Buna göre yatırımcı cebindeki parasından belli bir süre uzak kalmak karşılığında belli bir getiri talep edecektir. Her ne kadar bazı sistemlerde farklı isimler altında anılsa da tanımı gereği, paranın zaman değerinin bünyesinde "faiz" kavramı vardır.</p>
+
+    <p class="normal">Bu nedenle"paranın zaman değeri" konusunu da çeşitli faiz kavramlarıyla birlikte işleyeceğiz:</p>
+
+    <p class="indentmetin">1. Paranın Zaman Değeri</p>
+
+    <p class="indentmetin">2. Basit Faiz</p>
+
+    <p class="indentmetin">3. Bileşik Faiz</p>
+
+    <p class="indentmetin">4. Sürekli Faiz</p>
+
+    <p class="indentmetin">5. Nominal ve Efektif Faiz</p>
+
+    <p class="normal1">1. Paranın Zaman Değeri</p>
+
+    <p class="normal">Zamanı bilinmeyen bir paranın değerini saptamak da problemli olacaktır. Para zamana göre değer ve anlam kazanır. Mevcut enflasyonist ortamda peşin 200 TL’nin 5 yıl sonraki 250 TL’den daha değerli olduğu tartışılmayacak bir gerçektir. Faiz hesabı yapabilen herkes, peşin 200 TL’yi 5 yıl sonraki 250 TL’ye tercih edecektir. Ancak süre kısaldığında ya da söz konusu para üzerinde ince hesaplara girildiğinde hesaplamalar zorlaşabilecektir.</p>
+
+    <p class="normal">Benzer biçimde, bugün 100 TL’ye mal olan bir yatırım, 2 yıl sonra 265&nbsp;TL getiri sağlıyorsa, bu yatırım yapılmalı mıdır? Şüphesiz bu sorunun yanıtı, söz konusu 2 yıllık dönem içinde paranın değerinin aşınma oranına bağlıdır. İşte bu örneğimizde paranın aşınma oranı olarak ifade ettiğimiz kavram, paranın zaman değeri olarak belirttiğimiz kavramdır.</p>
+
+    <p class="normal">Paranın Zaman Değeri kavramını daha geniş olarak açıklayabilmek için konuya hem fon sağlayan (ödünç veren) hem de fon kullanan (ödünç alan) açısından bakalım. Fon kullanan açısından paranın zaman değeri, bugün ödünç alarak kullandığı paraya karşılık olarak gelecekteki herhangi bir zaman noktasında geri ödediği/ödeyeceği para arasındaki farktır. Benzer şekilde, fon sağlayan kişinin açısından da bugün ödünç verdiği paraya karşılık gelecekteki herhangi bir zaman noktasında almaya razı olduğu para arasındaki farktır. Her iki örnekte de söz konusu fark, paranın iki zaman noktası arasındaki değer kaybını gösteren ve paranın zaman değeri olarak tanımlanan kavramdır. Dolayısıyla, paranın zaman değerinin işlevi, değişik zaman noktalarında gerçekleşmeleri söz konusu olan nakit akımlarının her birinin/hepsinin değerlerini gösteren aynı zaman noktasına göre belirlemektir.</p>
+
+    <p class="normal">Paranın zaman değerini açıklamak için iki temel kavram tanıtılmalıdır:</p>
+
+    <p class="indentmetin">• Gelecek Değer Kavramı</p>
+
+    <p class="indentmetin">• Şimdiki Değer Kavramı</p>
+
+    <p class="normal2">Gelecek Değer Kavramı</p>
+
+    <p class="normal">Gelecek değer, bir paranın belirli bir faiz oranı üzerinden belirli bir süre sonra ulaşacağı değeri ifade etmektedir. Bu kavramı matematiksel olarak gösterebilmek için şu notasyonları kullanalım:</p>
+
+    <p class="ortayazi">FV = PV + PV x r</p>
+
+    <p class="ortayazi">FV = PV (1 + r)</p>
+
+    <p class="indentmetin">PV : Anapara</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı</p>
+
+    <p class="indentmetin">PV x r : Dönem sonundaki faiz tutarı</p>
+
+    <p class="indentmetin">FV : Dönem sonundaki anapara ve faiz tutarı</p>
+
+    <p class="normal">Buna göre, bugün PV miktarındaki para yıllık r faiz oranı üzerinden 1 yıl yatırıldığında para, 1 yıl sonunda FV değerine ulaşacak ve bu değer de</p>
+
+    <p class="ortayazi">FV = PV + faiz kazancı = PV + PV x r = PV (1 + r)</p>
+
+    <p class="normal">olacaktır.</p>
+
+    <p class="normal2">Şimdiki Değer Kavramı</p>
+
+    <p class="normal">Şimdiki değer, herhangi bir nakit akımının bugünkü veya sıfır zaman noktasındaki değeridir. Paranın değerindeki aşınmanın/zaman değerinin pozitif olduğu bir ortamda, örneğin 2 yıl sonra gerçekleşecek olan 400&nbsp;TL’nin şimdiki/bugünkü değerinin 400 TL’den daha az olacağı açıktır. Ancak, bu değerin tam olarak kaç TL olduğunun belirlenmesi amacıyla şimdiki değer saptanmalıdır.</p>
+
+    <p class="normal1">2. Basit Faiz</p>
+
+    <p class="normal">Faiz oranının anapara tutarı ile çarpılmasıyla yapılan hesaplama yöntemi basit faiz kavramı olarak kabul edilebilir. Bu noktada ve çalışmanın ilerleyen bölümlerinde gelecek değer bölümündeki notasyon kullanılacaktır.</p>
+
+    <p class="normal">Faiz hesaplamalarını formül hâlinde şöyle belirleriz:</p>
+
+    <p class="ortayazi">FV = PV + PV x r</p>
+
+    <p class="ortayazi">FV = PV (1 + r)</p>
+
+    <p class="indentmetin">PV : Anapara</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı (yüzde değer olarak)</p>
+
+    <p class="indentmetin">PV x r : Dönem sonundaki faiz tutarı</p>
+
+    <p class="indentmetin">FV : Dönem sonundaki anapara ve faiz tutarı</p>
+
+    <p class="ortayazi">FV = PV (1 + r)&nbsp;<sup class="calibre3"><a href="../Text/Finansci%20Olmayanlar%20Icin%20Finans_split_030.html#footnote-100-1" id="footnote-100-1-backlink">[1]</a></sup></p>
+
+    <p class="normal">Basit faizdeki temel yaklaşım, her dönem sonunda işleyen dönemsel faizin anaparaya eklenmemesidir. Dönem sonunda işlemiş olan faiz üzerinden devam eden dönemlerde faiz kazanmak mümkün değildir.</p>
+
+    <p class="normal">Diğer bir deyişle, faize faiz işletilmez. Basit faiz mantığı ile PV’nin iki dönem sonraki değeri FV2’de aşağıdaki şekilde hesaplanacaktır:</p>
+
+    <p class="ortayazi">FV2 = PV (1 + r) + PV x r</p>
+
+    <p class="ortayazi">FV2 = PV (1 + 2r)</p>
+
+    <p class="normal">Aynı mantıkla n dönem sonunda PV tutarlı anaparanın ulaşacağı değer FV<sub class="calibre4">n</sub>,</p>
+
+    <p class="ortayazi">FV<sub class="calibre4">n</sub> = PV (1 + n x r)</p>
+
+    <p class="normal">olarak hesaplanır.</p>
+
+    <p class="indentmetin">n dönem içinde kazanılan toplam faiz miktarı,</p>
+
+    <p class="ortayazi">Faiz Miktarı = PV (1 + n x r) – PV&nbsp;&nbsp;&nbsp;&nbsp;’dir.</p>
+
+    <p class="indentmetin">n döneme ait basit faiz oranı,</p>
+
+    <p class="ortayazi">r<sub class="calibre4">n</sub> = (PV(1 + n x r) – PV) / PV</p>
+
+    <p class="normal">r<sub class="calibre4">n</sub> = n x r olarak hesaplanır.</p>
+
+    <p class="normal">n Döneme Ait Basit Faiz Oranı</p>
+
+    <p class="ortayazi">r<sub class="calibre4">n</sub> = n x r</p>
+
+    <p class="indentmetin">r<sub class="calibre4">n</sub> : n Döneme Ait Basit Faiz Oranı</p>
+
+    <p class="indentmetin">n : Dönem Sayısı</p>
+
+    <p class="indentmetin">r : Dönemsel Faiz Oranı</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 1</p>
+
+    <p class="indentmetin">Aylık net %5 ile değerlendirilen bir yatırımın 6 aylık basit faiz oranı kaçtır?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">r<sub class="calibre4">n</sub> = n x r</p>
+
+    <p class="indentmetin">r<sub class="calibre4">6</sub> = 6 x 0,05</p>
+
+    <p class="indentmetin">r<sub class="calibre4">6</sub> = 0,30 (%30)’dur.</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 2</p>
+
+    <p class="indentmetin">Yıllık %64 faiz ile yatırdığınız 2.000 TL’nin basit faiz hesabına göre 3 yıl sonunda anapara ve faiz ödemeli olmak üzere, ulaşacağı değer ne kadar olacaktır?</p>
+
+    <p class="indentmetin">1 yıllık faiz tutarı = PV x r</p>
+
+    <p class="indentmetin">3 yıllık faiz tutarı = PV x r x 3</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2.000 x 0,64 x 3</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 3.840 TL</p>
+
+    <p class="indentmetin">Anapara + Faiz = 2.000 + 3.840</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 5.840 TL</p>
+
+    <p class="normal1">3. Bileşik Faiz</p>
+
+    <p class="normal">Bileşik faiz, dönemler itibarıyla anapara tutarına karşılık gelen faiz tutarının yine aynı faiz şartları üzerinden değerlendirilmesi varsayımıyla anaparanın kazandığı toplam faiz tutarının katlanarak büyümesi esasına dayanır. Buna göre para + faizi yeniden faizlendirilmektedir (yani daha çok paranız olur).</p>
+
+    <p class="indentmetinbold">ÖRNEK 3</p>
+
+    <p class="indentmetin">Bankaya 2.000 TL tutarındaki mevduatınızı %64 net faizle yılda bir kere faiz ödemeli olarak 3 yıl vadeli yatırdınız.</p>
+
+    <p class="indentmetin">• Yatırdığınız paranın 3 yıl sonundaki değeri ne olacaktır?</p>
+
+    <p class="indentmetin">• Bulduğunuz değeri basit faiz hesabına göre hesapladığınız değer ile karşılaştırınız.</p>
+
+    <p class="normal">1. Yıl sonundaki değer:</p>
+
+    <table border="1" class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">2.000</td>
+
+          <td class="calibre7">1,64</td>
+
+          <td class="calibre7">3.280</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">2. Yıl sonundaki değer:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">2.000</td>
+
+          <td class="calibre7">1,64</td>
+
+          <td class="calibre7">3.280</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">2</td>
+
+          <td class="calibre7">3.280</td>
+
+          <td class="calibre7">1,64</td>
+
+          <td class="calibre7">5.379</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">3. Yıl sonundaki değer:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">2.000</td>
+
+          <td class="calibre7">1,64</td>
+
+          <td class="calibre7">3.280</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">2</td>
+
+          <td class="calibre7">3.280</td>
+
+          <td class="calibre7">1,64</td>
+
+          <td class="calibre7">5.379</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">3</td>
+
+          <td class="calibre7">5.379</td>
+
+          <td class="calibre7">1,64</td>
+
+          <td class="calibre7">8.821</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Basit faiz hesabı ile 3 yıl sonunda toplam anapara ve faiz tutarını önceki örnekte bulmuştuk. Bu değer: 5.840 TL</p>
+
+    <p class="normal">Bileşik faiz hesabı ile 3 yıl toplam anapara ve faiz tutarı ise 8.821&nbsp;TL olmaktadır.</p>
+
+    <p class="normal">Görüldüğü üzere, bileşik faiz hesabına göre hesaplanan mevduat hesabının dönem sonu tutarı, basit faiz hesabına göre hesaplanan mevduat hesabı tutarından daha fazladır. Bunun nedeni, dönemler itibarıyla kazanılan faizin, aynı faiz oranı ile dönem sonuna kadar tekrar değerlendirilmesidir.</p>
+
+    <p class="normal">Bileşik faiz kavramı için akılda tutulması gereken önemli noktalardan birisi de hiç kuşkusuz faiz oranı’nın dönemler boyunca sabit kalacağı varsayımıdır. Bu varsayım, ülkemizdeki genel durum dikkate alındığında, çok da olanaklı görülmemekle birlikte, yine de anlamlıdır. Zira farklı vadeli yatırım alternatiflerini kıyaslamak gerektiğinde, onları aynı vadeye getirerek kıyaslayabilmek açısından, tümünün de aynı vadedeki (örneğin 1 yıllık) bileşik faizleri hesaplanacak ve en yüksek bileşik getirisi olan tercih edilecektir. Dolayısıyla, uzun vadede faiz oranlarının değişme riski yüksek olmakla birlikte, yine enstrümanların getirilerinin kıyaslanabilmesi açısından bileşik faizlerinin hesaplanması anlamlı olmaktadır.</p>
+
+    <p class="normal">Yukarıdaki bölümde yıl içinde sadece bir kere yıl sonunda olmak üzere faiz ödenmesi prensibini inceledik. Şimdi de yılda bir kereden daha fazla faiz hesaplanması durumunda sonuçların nasıl etkileneceğini inceleyelim:</p>
+
+    <p class="indentmetinbold">ÖRNEK 4</p>
+
+    <p class="indentmetin">1.000 TL tutarındaki paranızı yıllık %58 faizle, yılda bir kere faiz ödemeli olarak yatırdınız. Yılda 2 ve 4 kere faiz aldığınız mevduatın (yani 6 ve 3 er aylık mevduatlar) değerini basit faiz hesabına göre hesapladığınız değer ile karşılaştırınız. Bu durumda yıllık net faiz geliriniz toplam olarak ne kadar olacaktır?</p>
+
+    <p class="normal">Yıllık olarak parayı yatırmamız durumunda yıl sonunda alacağımız anapara ve faiz tutarı:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">1.000</td>
+
+          <td class="calibre7">1,58</td>
+
+          <td class="calibre7">1.580</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Bu örnekte, 6 ayda bir faiz ödemeli (yılda 2 kere) mevduata alacağımız faiz ve anapara tutarı tabloda gösterildiği gibi olacaktır:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r / 2)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">1.000</td>
+
+          <td class="calibre7">1,29</td>
+
+          <td class="calibre7">1.290</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">2</td>
+
+          <td class="calibre7">1.290</td>
+
+          <td class="calibre7">1.29</td>
+
+          <td class="calibre7">1.664</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Buna göre yıllık yerine 2 kez 6 aylık dönemde faizlenen paranın vade sonu değeri daha yüksek olmaktadır. Örneğimizde bu fark:</p>
+
+    <p class="normal">1.664 – 1.580 = 84’tür.</p>
+
+    <p class="normal">Aynı örnekte, 3 ayda bir faiz ödemeli (yılda 4 kere) mevduata alacağımız faiz ve anapara tutarı ise aşağıdaki gibidir:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r / 4)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">1.000</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.145</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">2</td>
+
+          <td class="calibre7">1.145</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.311</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">3</td>
+
+          <td class="calibre7">1.311</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.501</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">4</td>
+
+          <td class="calibre7">1.501</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.718</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Sonuç olarak:</p>
+
+    <p class="indentmetin">Yılda 1 kere faiz ödemeli<br class="chapter" />
+    toplam anapara ve faiz tutarı : 1.580 TL</p>
+
+    <p class="indentmetin">Yılda 2 kere faiz ödemeli<br class="chapter" />
+    toplam anapara ve faiz tutarı : 1.664 TL</p>
+
+    <p class="indentmetin">Yılda 4 kere faiz ödemeli<br class="chapter" />
+    toplam anapara ve faiz tutarı : 1.718 TL</p>
+
+    <p class="normal">olmaktadır.</p>
+
+    <p class="normal">Bu durumda, yılda 4 kere (her 3 ayda bir) faiz ödemeli bir mevduat hesabı, yılda 2 kere ve yılda 1 kere faiz ödemeli mevduat hesabından daha fazla getiri sağlar. Çünkü yılda birden fazla dönüşü olan mevduat sisteminde, faiz olarak alınan tutarın tekrar değerlendirilmesi mümkün olabilecektir.</p>
+
+    <p class="indentmetinbold">ÖRNEK 5</p>
+
+    <p class="indentmetin">Anapara = 100 TL Faiz Oranı = %64 Süre = 1 yıl</p>
+
+    <p class="normal">a. Yılda 1 kere faiz ödemeli</p>
+
+    <p class="indentmetin">FV = 100 x (1 + (0.64 / 1))<sup class="calibre3">1</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 100 x 1.64</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 164 TL</p>
+
+    <p class="normal">b. Yılda 2 kere (6 ayda bir) faiz ödemeli</p>
+
+    <p class="indentmetin">FV = 100 x (1 + (0.64 / 2))<sup class="calibre3">2</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 100 x 1.7424</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 174.24 TL</p>
+
+    <p class="normal">c. Yılda 4 kere (3 ayda bir) faiz ödemeli</p>
+
+    <p class="indentmetin">FV = 100 x (1 + (0.64 / 4))<sup class="calibre3">4</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 100 x 1.8106</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 181.06 TL</p>
+
+    <p class="normal">ç. Yılda 12 kere (aylık) faiz ödemeli</p>
+
+    <p class="indentmetin">FV = 100 x (1 + (0.64 / 12))<sup class="calibre3">12</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 100 x 1.8654</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 186.55 TL</p>
+
+    <p class="normal">d. Yılda 365 kere (günlük) faiz ödemeli</p>
+
+    <p class="indentmetin">FV = 100 x (1 + (0.64/365))<sup class="calibre3">365</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 100 x 1.8954</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 189.54 TL</p>
+
+    <p class="normal">Bu antrenmanları yanlızca gözle takip etmediğinizi umuyoruz. Söz konusu hesapları kendi makinenizin ekranında yapmamanız hâlinde, ilk pratik uygulamanızın başarısızlıkla sonuçlanma olasılığının oldukça yüksek olduğuna emin olabilirsiniz. Bu nedenle, lütfen şimdi, yukarıdaki hesapları bir kez de makineniz eşliğinde yapınız; burada kritik nokta parantezlerdir. Açtığınız parantez kadarını kapatmalısınız!</p>
+
+    <p class="normal3">Döneme Ait Bileşik Faiz Oranının Hesaplanması</p>
+
+    <p class="normal">Bir önceki bölümde yapmış olduğumuz örneği hatırlayalım:</p>
+
+    <p class="indentmetin">Anapara = 100 TL</p>
+
+    <p class="indentmetin">Faiz oranı = %64</p>
+
+    <p class="indentmetin">Süre = 1 yıl</p>
+
+    <p class="normal">Bu bilgiyle gecelik (over night) faizlendirilen paranın dönem sonu değeri: 189.54 TL idi.</p>
+
+    <p class="normal">Bu durumda dönemsel toplam getiri tutarı, dönem sonu değeri ile dönem başı değeri arasındaki fark kadar olacaktır. Buna göre toplam faiz tutarı:</p>
+
+    <p class="normal">189,54 – 100 = 89,54 TL’dir.</p>
+
+    <p class="normal">Söz konusu faiz, paranın her gün faizlendirilmesiyle bulunduğuna göre, aslında paranın bileşik faizlendirilmesi suretiyle elde edilmiştir. O hâlde dönemsel bileşik faiz oranı:</p>
+
+    <p class="normal">Bileşik faiz oranı = 89,54 / 100 = 0.8954 = %89,54’tür.</p>
+
+    <p class="normal">Bu rakam anlamlı olmakla birlikte, bileşik faiz sorulduğunda, önce paranın dönem sonu değerini bulup bu değerin ana para ile oranlanarak hesaplanmasından daha pratik bir yol olmalıdır.</p>
+
+    <p class="normal">Bu aşamada, dönemsel bileşik faiz oranını bulmak için pratik bir formülün türetilişini tartışacağız:</p>
+
+    <p class="normal">r dönemsel faiz oranı ile değerlendirilen PV tutarlı anaparanın 1 dönem sonundaki değeri FV<sub class="calibre4">1</sub>:</p>
+
+    <p class="normal">FV<sub class="calibre4">1</sub> = PV (1 + r)</p>
+
+    <p class="normal">2 dönem sonundaki değeri FV<sub class="calibre4">2</sub>:</p>
+
+    <p class="normal">FV<sub class="calibre4">2</sub> = PV (1 + r) + PV (1 + r) x r</p>
+
+    <p class="normal">FV<sub class="calibre4">2</sub> = PV (1 + r)<sup class="calibre3">2</sup></p>
+
+    <p class="normal">n dönem sonundaki değeri FV<sub class="calibre4">n</sub>;</p>
+
+    <p class="normal">FV<sub class="calibre4">n</sub> = PV (1 + r)<sup class="calibre3">n</sup></p>
+
+    <p class="normal">olarak hesaplanmıştı. Buna göre n dönem içinde kazanılan toplam faiz miktarı ise,</p>
+
+    <p class="normal">Faiz miktarı = PV (1 + r)<sup class="calibre3">n</sup> – PV’dir.</p>
+
+    <p class="normal">Buna göre, n döneme ait bileşik faiz oranı ise;</p>
+
+    <p class="normal">r<sub class="calibre4">n</sub> = (PV (1 + r)<sup class="calibre3">n</sup> – PV) / PV</p>
+
+    <p class="normal">r<sub class="calibre4">n</sub> = (1 + r)<sup class="calibre3">n</sup> – 1 olarak hesaplanır.</p>
+
+    <p class="normal3">n Döneme Ait Bileşik Faiz Oranı</p>
+
+    <p class="ortayazi">r<sub class="calibre4">n</sub> = (1 + r)<sup class="calibre3">n</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">n</sub> : n Dönemlik Bileşik Faiz Oranı</p>
+
+    <p class="indentmetin">r : Dönemsel Faiz Oranı</p>
+
+    <p class="indentmetin">n : Dönem Sayısı</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 6</p>
+
+    <p class="indentmetin">Anapara = 100 TL</p>
+
+    <p class="indentmetin">Faiz Oranı = %52</p>
+
+    <p class="indentmetin">Süre = 1 yıl</p>
+
+    <p class="indentmetin">a. Yılda 1 kere faiz ödemeli</p>
+
+    <p class="indentmetin">b. Yılda 4 kere faiz ödemeli (3 ayda 1 kere faiz ödemeli)</p>
+
+    <p class="indentmetin">c. Ayda 1 kere faiz ödemeli</p>
+
+    <p class="indentmetin">ç. Yılda 365 kere faiz ödemeli</p>
+
+    <p class="indentmetin">olmak üzere yıllık bileşik faiz oranlarını hesaplayalım:</p>
+
+    <p class="normal">a.</p>
+
+    <p class="indentmetin">r<sub class="calibre4">1</sub> = (1 + 0,52)<sup class="calibre3">1</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">1</sub> = 0,52 =&gt; (%52.00)</p>
+
+    <p class="normal">b.</p>
+
+    <p class="indentmetin">r<sub class="calibre4">4</sub> = (1 + 0,52 / 4)<sup class="calibre3">4</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">4</sub> = 0,6304 =&gt; (%63,04)</p>
+
+    <p class="normal">c.</p>
+
+    <p class="indentmetin">r<sub class="calibre4">12</sub> = (1 + 0,52 / 12)<sup class="calibre3">1</sup>2 – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">12</sub> = 0.6637 =&gt; (%66.37)</p>
+
+    <p class="normal">ç.</p>
+
+    <p class="indentmetin">r<sub class="calibre4">365</sub> = (1 + 0,52 / 365)<sup class="calibre3">365</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">365</sub> = 0.6814 =&gt; (%68.14)</p>
+
+    <p class="normal1">4. Sürekli Faiz</p>
+
+    <p class="normal">Yıllık faiz oranı r, verildiğinde ve faiz hesaplamalarında dönem sayısı olan n, çok büyük olduğu takdirde, bu durum sürekli faiz kavramını gündeme getirmektedir.</p>
+
+    <p class="normal">Daha çok teorik bir durumu yansıtmakta olan sürekli faiz kavramında denklem aşağıdaki şekli alır:</p>
+
+    <p class="ortayazi">FV = PV (1 + r/n)<sup class="calibre3">n</sup></p>
+
+    <p class="indentmetin">n =&gt; sürekli</p>
+
+    <p class="indentmetin">FV : Gelecekteki değeri</p>
+
+    <p class="indentmetin">PV : Anapara değeri</p>
+
+    <p class="indentmetin">r : Yıllık faiz oranı</p>
+
+    <p class="indentmetin">n : Yılda kaç kere faiz ödendiği</p>
+
+    <p class="ortayazi">FV = PVe<sup class="calibre3">r</sup></p>
+
+    <p class="indentmetin">e : 2.718</p>
+
+    <p class="normal">Bu durumda sürekli faiz oranı hesaplanmak istendiğinde aynı mantık ile</p>
+
+    <p class="ortayazi">r<sub class="calibre4">s</sub> = e<sup class="calibre3">r</sup> – 1</p>
+
+    <p class="normal">elde edilir.</p>
+
+    <p class="indentmetin">r<sub class="calibre4">s</sub> : Yıllık sürekli faiz oranı</p>
+
+    <p class="indentmetin">r : Yıllık basit faiz oranı</p>
+
+    <p class="normal">Sürekli faiz oranı bir bileşik faiz türü olmakla beraber finans ve bankacılıkta uygulaması yoktur. Sürekli faiz, verilmiş olan basit faizin ulaşılabileceği en yüksek bileşik faizi ifade etmektedir.</p>
+
+    <p class="indentmetinbold">ÖRNEK 7</p>
+
+    <p class="indentmetin">%74 yıllık basit faiz oranının yıllık sürekli faiz oranı kaçtır?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">r<sub class="calibre4">s</sub> = e<sup class="calibre3">0,74</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">s</sub> = 1,0957 =&gt; (%109.57)</p>
+
+    <p class="normal1">5. Nominal Faiz ve Efektif Faiz</p>
+
+    <p class="normal">Yılda birden fazla ödemeli faiz hesaplarında, yıl sonunda gerçekleşen faiz oranlarının hesaplanması nominal ve efektif faiz oranları kavramını gündeme getirmektedir. Nominal faiz oranı yıllık basit faiz oranını, efektif faiz oranı ise yıllık bileşik faiz oranını ifade etmektedir. Hem nominal faiz oranı hem de efektif faiz oranı bankacılık sisteminde kullanılmaktadır.</p>
+
+    <p class="normal">Kredi, mevduat, repo gibi çeşitli finansal ürünlerin faiz oranlarının karşı tarafa bildirilmesinde nominal faiz oranları kullanılır. Örneğin, banka müşteriye 3 ay vadeli kredi faizini bildirmek için yıllık basit (nominal) faiz oranını bildirir. Tüm bankalar vade ne olursa olsun mevduat faiz oranlarını açıklarken nominal faiz oranlarını ilan ederler.</p>
+
+    <p class="normal">Buna karşılık, efektif faiz oranı tarafların yıllık bazda gerçek maliyet ve kârlılıklarını hesaplamak için kullandıkları faiz oranıdır. Örneğin, aylık mevduatın bankaya olan gerçek getirisi gibi. Dolayısıyla, bu oranlar takip edilip işlemlerde kullanılmalarına rağmen konuşmalarda lanse edilmezler. Ancak, örneğin, hazine bonosu getirilerinde açıklanmaktadırlar.</p>
+
+    <p class="normal">Paranın zaman değerini dikkate alması nedeniyle finansal ürünlerin gerçek maliyet ve kârlılık hesaplamasında efektif faiz oranları kullanılmaktadır.</p>
+
+    <p class="indentmetin">• Nominal Faiz Oranı</p>
+
+    <p class="indentmetin">• Efektif Faiz Oranı</p>
+
+    <p class="normal2">Nominal Faiz Oranı</p>
+
+    <p class="normal">Nominal faiz oranı, yıllık basit faiz oranı anlamına gelmektedir. Buna göre:</p>
+
+    <p class="ortayazi">r<sub class="calibre4">nom</sub> = n x r</p>
+
+    <p class="indentmetin">r<sub class="calibre4">nom</sub> : Nominal faiz oranı</p>
+
+    <p class="indentmetin">n : Yılda kaç faiz ödeme döneminin bulunduğu</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı</p>
+
+    <p class="normal2">Efektif Faiz Oranı</p>
+
+    <p class="normal">Efektif faiz oranı, yıllık bileşik faiz oranı anlamına gelmektedir. Buna göre:</p>
+
+    <p class="ortayazi">r<sub class="calibre4">ef</sub> = (1 + r)<sup class="calibre3">n</sup> –&nbsp;1</p>
+
+    <p class="normal">veya</p>
+
+    <p class="ortayazi">r<sub class="calibre4">ef</sub> = (1 + r<sub class="calibre4">nom</sub> / n)<sup class="calibre3">n</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = Efektif faiz oranı</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 8</p>
+
+    <p class="indentmetin">a. Nominal faiz oranı %57 olsun;</p>
+
+    <p class="indentmetin">b. 3 ayda 1 kere faiz ödemeli,</p>
+
+    <p class="indentmetin">c. Yılda 12 kere faiz ödemeli</p>
+
+    <p class="indentmetin">olmak üzere efektif faiz oranlarını hesaplayalım:</p>
+
+    <p class="normal">a.</p>
+
+    <p class="indentmetin">r<sub class="calibre4">nom</sub> = %57</p>
+
+    <p class="indentmetin">n = 4</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = (1 + 0,57 / 4)<sup class="calibre3">4</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = %70,38</p>
+
+    <p class="normal">b.</p>
+
+    <p class="indentmetin">n = 12</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = (1 + 0,57 / 12)<sup class="calibre3">12</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = %74.5</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">PROBLEM</p>
+
+    <p class="indentmetin">Hazine bonosunun 104 günlük getirisi %13,5’tir. Nominal ve efektif getirilerini hesaplayınız.</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">q = 365 / 104 = 3,5096</p>
+
+    <p class="indentmetin">r<sub class="calibre4">nom</sub> = 3,5096 x 13,5</p>
+
+    <p class="indentmetin">r<sub class="calibre4">nom</sub> = 47,37 %</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = (1 + (0,4737 / 3,5096))<sup class="calibre3">3,5096</sup> – 1</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = %55,96</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="solbaslik">FAİZLENDİRME VE İSKONTOLAMA</p>
+
+    <p class="normal">Paranın zaman değeri kavramı ve temel faiz kavramları incelendikten sonraki adımda, finans sisteminde faizin iki temel kullanımı incelenmelidir. Buna göre muhtemel durumlar, bugünkü değeri bilinen paranın belli bir faiz oranı üzerinden ilerideki değerini hesaplamayı amaçlayan "faizlendirme" ve gelecekteki değeri belli olan bir tutarın bugünkü değerini bulmayı amaçlayan "iskontolama"dır.</p>
+
+    <p class="normal1">Faizlendirme</p>
+
+    <p class="normal2">Gelecekteki değer kavramını bir kez daha gözden geçirelim:</p>
+
+    <p class="normal">Bankaya 1.000 TL’lik mevduatı yıllık net %61 faiz oranı ile 1 yıl vadeli yatırdığınızda, 1 yıl sonundaki anapara ve faiz tutarları ne olacaktır?</p>
+
+    <p class="normal">Faiz hesabının formülünü tekrar edelim:</p>
+
+    <p class="ortayazi">FV = PV (1 + r)<sup class="calibre3">n</sup></p>
+
+    <p class="indentmetin">PV : Anapara</p>
+
+    <p class="indentmetin">R : Faiz oranı</p>
+
+    <p class="indentmetin">PV x r : Dönem sonundaki faiz tutarı</p>
+
+    <p class="indentmetin">FV : n dönem sonunda, r faiz oranı ile toplam anapara ve faiz toplamı</p>
+
+    <p class="indentmetin">ve n = 1 olduğunda,</p>
+
+    <p class="ortayazi">FV = PV (1 + r)</p>
+
+    <p class="normal">Örneğimizde dönem sonu anapara ve faiz tutarını hesaplamak istersek,</p>
+
+    <p class="indentmetin">FV = 1.000 TL (1.0 + 0.61)</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 1.000 x 1.61</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 1.610 TL olacaktır.</p>
+
+    <p class="normal3">Gelecekteki değer, birden çok dönem sonunda hesaplanır ise:</p>
+
+    <p class="indentmetinbold">ÖRNEK 9</p>
+
+    <p class="indentmetin">Önceki örnekte 1.000 TL’sini yıllık %62 faiz oranı ile her yıl sonunda ödemeli olmak üzere, 2 yıl vadeli olarak yatırırsak, dönem sonunda toplam ne kadar anapara ve faizi olacaktır?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">1. Yıl Sonu Değeri:</p>
+
+    <p class="indentmetin">FV = 1.000 x (1.0 + 0.62)</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 1.620 TL</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">2. Yıl Sonu Değeri:</p>
+
+    <p class="indentmetin">FV = 1.620 x (1.0 + 0.62)</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2.624 TL</p>
+
+    <p class="normal">Yukarıda hesaplandığı gibi, değeri bilinen bir paranın gelecek zamandaki değerini hesaplamaya faizlendirme denir. Buna göre:</p>
+
+    <p class="ortayazi">FV = PV (1 + r)<sup class="calibre3">n</sup></p>
+
+    <p class="indentmetin">PV : Anapara</p>
+
+    <p class="indentmetin">FV : Anaparanın n dönem sonundaki değeri</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı</p>
+
+    <p class="indentmetin">n : Dönem sayısı</p>
+
+    <p class="normal1">İskontolama</p>
+
+    <p class="normal">Şimdiki değer kavramını bir kez daha gözden geçirelim: Faizlendirme bölümünde paranın gelecekteki değerinin dönem ve faiz oranına bağlı olarak arttığını görmüş olduk. Aynı şekilde, gelecekteki bir paranın bugünkü değerinin öğrenilmesi, yatırımın veya projenin kârlılığı ve fizibilitesinin diğer yatırım araçları veya projelerin kendi aralarındaki seçimini etkileyen en önemli unsurdur.</p>
+
+    <p class="normal">Örneğin, bir yıl sonunda 100.000 TL değeri olacağını bildiğimiz bir yatırım aracının (örneğin tahvil) piyasada geçerli faiz oranlarından bugünkü değerinin ne olduğunu öğrenebiliriz. Gelecekteki belirli bir değeri bugünkü değere getirmek için iskontolama metodundan faydalanabiliriz.</p>
+
+    <p class="normal">Gelecekteki değeri belli olan bir paranın bugünkü değerini hesaplamaya iskontolama denir.</p>
+
+    <p class="normal">Yukarıda belirtilen faizlendirme formülünü</p>
+
+    <p class="ortayazi">(FV = PV (1 + r)<sup class="calibre3">n</sup>)</p>
+
+    <p class="normal">kullanarak eşitliğin her iki tarafında (1 + r)n değerine bölerek iskontolama formülünü ortaya çıkarabiliriz. Buna göre:</p>
+
+    <p class="normal">İskontolama Formülü</p>
+
+    <p class="ortayazi">PV = <sup class="calibre3">FV</sup><span class="h2baslik1">/</span> <sub class="calibre4">(1 + r)</sub><sup class="calibre3">n</sup></p>
+
+    <p class="indentmetin">PV : Anapara</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı</p>
+
+    <p class="indentmetin">n : Dönem sayısı</p>
+
+    <p class="indentmetin">FV : Paranın gelecek zamandaki değeri</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 10</p>
+
+    <p class="indentmetin">Yılda bir kere faiz ödemeli olarak %57 faiz oranı ile yatıracağımızbir mevduat hesabımızda, 2 yıl sonunda 246.490 TL paramızın olması için bugün itibarıyla hesabımıza ne kadar para yatırmamız gerekir?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">FV = PV (1 + r)<sup class="calibre3">n</sup></p>
+
+    <p class="indentmetin">FV = 246.490 TL</p>
+
+    <p class="indentmetin">PV = ?</p>
+
+    <p class="indentmetin">r = %57</p>
+
+    <p class="indentmetin">n = 2</p>
+
+    <p class="ortayazi">PV = <sup class="calibre3">FV</sup><span class="h2baslik1">/</span> <sub class="calibre4">(1 + r)</sub><sup class="calibre3">n</sup></p>
+
+    <p class="indentmetin">PV = 246.490 / (1.0 + 0.57)2</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 100.000 TL</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="solbaslik">ANÜİTE HESAPLARI</p>
+
+    <p class="normal">Belli bir zaman diliminde eşit tutardaki ödemelerin devam ettiği durumları anüite olarak tanımlıyoruz. Temel olarak kredilerde, leasing geri ödemelerinde ve proje analizlerinde kullanılan anüite hesaplarının elle yapılması uzun zaman aldığından, genellikle bilgisayar ya da özel hesap makineleriyle hesaplanması uygun olacaktır. Ancak yine de burada hesaplamanın metodolojisi tartışılacaktır.</p>
+
+    <p class="normal">Temel olarak eşit taksitlerle geri ödemeyi ya da eşit taksitlerle yapılan bir ödemenin ilerideki değerini ifade eden anüite, aşağıdaki biçimde gösterilebilir:</p>
+
+    <p class="resimalti"><img alt="" class="calibre9" src="../Images/01.jpg" /></p>
+
+    <p class="normal">Anüiteyi iki farklı zaman bakışıyla inceleyeceğiz:</p>
+
+    <p class="indentmetin">• Anüitenin Bugünkü Değeri</p>
+
+    <p class="indentmetin">• Anüitenin Gelecekteki Değeri</p>
+
+    <p class="normal1">Anüitenin Bugünkü Değeri</p>
+
+    <p class="normal">İleride yapılacak eşit taksitli geri ödemelerin bugünkü değerini bulmak anlamlıdır. Bu yolla gelecekteki nakit akımlarının bugünkü değeri bulunabilir.</p>
+
+    <p class="indentmetinbold">ÖRNEK 11</p>
+
+    <p class="indentmetin">3 yıl boyunca, faiz oranlarının %50 olduğu bir dönemde, her yıl 1.000 TL ödediğimiz bir yatırımın bugünkü değeri nedir?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">PV (Toplam) = PV(1) + PV(2) + PV(3)</p>
+
+    <p class="indentmetin">PV(1) = 1,000 / (1 + 0.50)</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 666,7</p>
+
+    <p class="indentmetin">PV(2) = 1,000 / (1 + 0.50)<sup class="calibre3">2</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 444,4</p>
+
+    <p class="indentmetin">PV(3) = 1,000 / (1 + 0.50)<sup class="calibre3">3</sup></p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 296,3</p>
+
+    <p class="indentmetin">PV(Toplam) = 1,407 TL</p>
+
+    <p class="normal">Örnekte verilen eşit taksitli geri ödemede izlediğimiz yol, her taksitin bugünkü değerini bulmaktı.</p>
+
+    <p class="indentmetin">PV (Toplam) = PV(1) + PV(2) + PV(3)</p>
+
+    <p class="normal">Bu çıkarımın formülü:</p>
+
+    <p class="indentmetin">PV = A (1 / 1 + r) + A (1 / 1 + r)<sup class="calibre3">2</sup> + A (1 / 1 + r)<sup class="calibre3">3</sup> +</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A (1 / 1 + r)<sup class="calibre3">4</sup> + A (1 / 1 + r)<sup class="calibre3">5</sup>......</p>
+
+    <p class="normal">Buna göre anüitenin bugünkü değerinin hesaplanması:</p>
+
+    <p class="resimalti"><img alt="" class="calibre10" src="../Images/02.jpg" /></p>
+
+    <p class="indentmetin">PV : Paranın bugünkü değeri</p>
+
+    <p class="indentmetin">A : Anüite (taksit tutarı)</p>
+
+    <p class="indentmetin">r : Dönemsel faiz tutarı</p>
+
+    <p class="indentmetin">n : Taksit sayısı</p>
+
+    <p class="normal">Daha önce yapmış olduğumuz örneği yeni elde etmiş olduğumuz anüite formülüyle çözmek istersek:</p>
+
+    <p class="indentmetin">A = 1.000</p>
+
+    <p class="indentmetin">r = 0,50</p>
+
+    <p class="indentmetin">n = 3</p>
+
+    <p class="normal">Buna göre sonuç: PV = 1.407,4’tür.</p>
+
+    <p class="normal1">Anüitenin Gelecekteki Değeri</p>
+
+    <p class="normal">Yapılan eşit taksitli ödemelerin ya da projenin üreteceği eşit miktarlı getirilerin gelecekteki değerini bulmak anlamlı ve gereklidir. Bu yolla, bir projenin olası getirilerinin ilerideki toplam değerini ya da emeklilik amacıyla her ay belli miktarda biriktirilen paranın hedeflenen dönem sonundaki değeri hesaplanabilir.</p>
+
+    <p class="indentmetinbold">ÖRNEK 12</p>
+
+    <p class="indentmetin">3 yıl boyunca, faiz oranlarının %70 olduğu bir dönemde, her yıl 1.000 TL ödediğimiz bir yatırımın 3 yıl sonundaki değeri nedir?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">FV (Toplam) = FV(1) + FV(2) + FV(3)</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">FV(1) = 1.000 x (1 + 0.70)2</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 1.000 x 2.89</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2.890</p>
+
+    <p class="indentmetin">FV(2) = 1.000 x (1 + 070)</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 1.700</p>
+
+    <p class="indentmetin">FV(3) = 1.000</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">FV (Toplam) = 2.890 + 1.700 + 1.000</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 5.590 TL</p>
+
+    <p class="normal">Bu çıkarımı formül hâline döktüğümüzde, yine oldukça uzun, ezberlenmesi güç bir sonuçla karşılaşacağız. Temel yaklaşım olarak, anüitenin şimdiki değerini bulup bu değeri dönem sonuna taşımak da anlamlı olabilecektir.</p>
+
+    <p class="normal1">Anüite Hesapları ile İlgili Sonsöz</p>
+
+    <p class="normal">Anüite hesaplarında sürenin uzaması hesabı oldukça güçleştireceğinden, hesapların özel makine, tablo ya da bilgisayar yardımıyla yapılması anlamlı olacaktır. Bu noktada, anüiteye yer vermememizin amacı, eşit taksit ödemesinin mantığının anlaşılmasından ibarettir.</p>
+
+    <p class="normal">Söz konusu formül ya da formüllerin ezberlenmesi de anlamlı olmayacaktır. Ayrıca formüller ezberlense dahi, örneğin şimdiki değeri ve gelecekteki değeri bilinen bir denklemden dönem sayısının ya da faiz oranının çekilerek hesaplanması oldukça güç ve külfetli bir çalışma olacaktır.</p>
+
+    <p class="solbaslik">FİNANSAL ÜRÜNLER VE MATEMATİK</p>
+
+    <p class="normal">Bu bölümde, finansal matematiğin temel finansal ürünlerde kullanılmasını tartışacağız. Bu anlamda çalışmamızın temelini oluşturmamakla birlikte, genel kavramların aktarılmasını kolaylaştırması açısından, mevduatta matematiğin kullanımı ile başlanacak ve çeşitli menkul kıymetlerdeki kullanımı ile devam edilecektir. Buna göre, bu bölümün detayları şu şekildedir:</p>
+
+    <p class="indentmetin">• Mevduat</p>
+
+    <p class="indentmetin">• Krediler</p>
+
+    <p class="indentmetin">• Hazine bonosu</p>
+
+    <p class="normal1">Mevduat</p>
+
+    <p class="normal">Banka mevduatlarının faizlerinin hesabı en temel faiz hesabıdır. Vadeler belli ve genellikle sabittir.</p>
+
+    <p class="normal">Buna göre, kırık vadeli mevduat olmadığı sürece, para 1 ay, 3 ay, 6 ay ve 1 yıllık periyotlarla yatırılabilir. Böylesi bir durumda paranın vade sonundaki değerinin hesabı oldukça basittir. Daha önce incelemiş olduğumuz örneği hatırlayalım:</p>
+
+    <p class="indentmetinbold">ÖRNEK 13</p>
+
+    <p class="indentmetin">1.000 TL tutarındaki paranızı yıllık %58 faiz ile yılda bir kere faiz ödemeli olarak yatırdınız. Yılda 2 ve 4 kere faiz aldığınız mevduatın (yani 6 ve 3’er aylık mevduatlar) değerini basit faiz hesabına göre hesapladığınız değer ile karşılaştırınız. Bu durumda, yıllık net faiz geliriniz toplam olarak ne kadar olacaktır?</p>
+
+    <p class="normal">Yıllık olarak parayı yatırmamız durumunda, yıl sonunda alacağımız anapara ve faiz tutarı:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">1.000</td>
+
+          <td class="calibre7">1,58</td>
+
+          <td class="calibre7">1.580</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Bu örnekte, 6 ayda bir faiz ödemeli (yılda 2 kere) mevduata alacağımız faiz ve anapara tutarı:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r / 2)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">1.000</td>
+
+          <td class="calibre7">1,29</td>
+
+          <td class="calibre7">1.290</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">2</td>
+
+          <td class="calibre7">1.290</td>
+
+          <td class="calibre7">1,29</td>
+
+          <td class="calibre7">1.664</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">olacaktır. Buna göre yıllık yerine 2 kez 6 aylık dönemde faizlenen paranın vade sonu değeri daha yüksek olmaktadır. Örneğimizde bu fark: 1.664 – 1.580 = 84’tür.</p>
+
+    <p class="normal">Aynı örnekte, 3 ayda bir faiz ödemeli (yılda 4 kere) mevduata alacağımız faiz ve anapara tutarı ise:</p>
+
+    <table class="generictable">
+      <thead class="calibre5">
+        <tr class="calibre6">
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">Dönem Başı Tutarı</td>
+
+          <td class="calibre7">(1 + r / 4)</td>
+
+          <td class="calibre7">Dönem Sonu Tutarı</td>
+        </tr>
+      </thead>
+
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">1</td>
+
+          <td class="calibre7">1.000</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.145</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">2</td>
+
+          <td class="calibre7">1.145</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.311</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">3</td>
+
+          <td class="calibre7">1.311</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.501</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">4</td>
+
+          <td class="calibre7">1.501</td>
+
+          <td class="calibre7">1,145</td>
+
+          <td class="calibre7">1.718</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Sonuç olarak:</p>
+
+    <p class="indentmetin">Yılda 1 kere faiz ödemeli<br class="chapter" />
+    toplam anapara ve faiz tutarı : 1.580 TL</p>
+
+    <p class="indentmetin">Yılda 2 kere faiz ödemeli<br class="chapter" />
+    toplam anapara ve faiz tutarı : 1.664 TL</p>
+
+    <p class="indentmetin">Yılda 4 kere faiz ödemeli<br class="chapter" />
+    toplam anapara ve faiz tutarı : 1.718 TL olmaktadır.</p>
+
+    <p class="normal">Bu soruda yapmış olduğumuz hesapların 3 aylık, 6 aylık ve yıllık ile gecelik için aynı mantık üzerine kurulduğunu gördük. O hâlde, "mevduata özel" bir hesaplama yolu bulmak anlamlı olmayacaktır.</p>
+
+    <p class="normal">Faiz hesaplarında (anüiteler hariç) kullanabileceğimiz 2 temel formül vardır. Sorunun içeriğine göre hangisini kullanacağımıza karar vermek gerekir.</p>
+
+    <table border="1" class="generictable">
+      <tbody class="calibre8">
+        <tr class="calibre6">
+          <td class="calibre7">FV = PV (1 + r)<sup class="calibre3">n</sup></td>
+
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">r<sub class="calibre4">ef</sub> = (1 + r)<sup class="calibre3">n</sup> – 1</td>
+        </tr>
+
+        <tr class="calibre6">
+          <td class="calibre7">A</td>
+
+          <td class="calibre7">&nbsp;</td>
+
+          <td class="calibre7">B</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="normal">Eğer paranın zaman değeri tartışılıyor ise A formülü, basit faizden bileşik faize geçiş tartışılıyor ise B formülü, kullanılacaktır.</p>
+
+    <p class="normal">Tüm faiz hesapları için mantık aynı olmalıdır. Şimdi bu konuyla ilgili birkaç örnek daha yapalım:</p>
+
+    <p class="indentmetinbold">ÖRNEK 14</p>
+
+    <p class="indentmetin">Bankaya yatırmış olduğunuz bir aylık mevduat için aylık net %54 faiz verilmektedir. Buna göre, yatırmış olduğunuz 250.000 TL bir ay sonunda kaç TL olacaktır?</p>
+
+    <p class="indentmetin">Yanıtınız : _________________________________</p>
+
+    <p class="indentmetinbold">ÇÖZÜM</p>
+
+    <p class="indentmetin">Soru, paranın dönem sonu değeri olduğuna göre, "paranın zaman değeri" uygulamasıdır ve FV = PV (1 + r)n formülü kullanılmalıdır. Buna göre gerekli bilgiler yerine koyulacaktır.</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">FV : Bilinmeyen ve bulunması istenen değer</p>
+
+    <p class="indentmetin">PV : Yatırılan para (örnekte 250.000 TL)</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı</p>
+
+    <p class="indentmetin">&nbsp;&nbsp;&nbsp;&nbsp;(örnekte 0.54/12 = 0.045 = %4.5)</p>
+
+    <p class="indentmetin">n : Dönem sayısı (örnekte 1’dir, çünkü para yatırılmakta ve 1 kez döndükten sonra –1 ay sonunda– çekilmektedir).</p>
+
+    <p class="normal">Şimdi bu değerleri formülde yerine koyalım:</p>
+
+    <p class="indentmetin">FV = 250.000 x (1 + 0.045)<sup class="calibre3">1</sup> = 261.250 TL</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 15</p>
+
+    <p class="indentmetin">Bankaya para yatırmak için gittiğinizde, aylık mevduata uygulanmakta olan faiz oranının %54 olduğunu öğrendiniz. Buna göre, söz konusu mevduatın efektif getirisi nedir?</p>
+
+    <p class="indentmetin">Yanıtınız : _________________________________</p>
+
+    <p class="indentmetinbold">ÇÖZÜM</p>
+
+    <p class="indentmetin">Soruda, efektif (yıllık bileşik) faiz sorulduğuna göre, "basit–bileşik faiz geçiş" uygulamasıdır. O hâlde, ref = (1 + r)n – 1 formülü kullanılmalıdır. Bu noktada hatırlanılması gereken nokta, finans piyasasında, müşteriye verilen oranların daima nominal (yıllık basit) olmasıdır. Buna göre, sorudaki %54 faiz oranı da yıllık olarak verilecek olan basit faizdir.</p>
+
+    <p class="normal">Formülde kullanılacak değerleri gözden geçirelim:</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> : Efektif faiz (yıllık bileşik faiz), örnekte bizden istenen değer.</p>
+
+    <p class="indentmetin">n : Paranın kendisini tekrar eden sayısı, örnekte aylık mevduatın yıllık bileşik değeri sorulduğuna göre, aylık mevduatın yıl içinde kaç kez döndüğü 12 / 1 = 12 kez hesaplanmalıdır.</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı. Örnekte aylık mevduat için nominal oran %54 olduğuna göre, 1 aylık döneme denk düşen oran = 0.54 / 12 = 0.045 = %4.5</p>
+
+    <p class="normal">Şimdi bu değerleri formülde yerine koyalım:</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> = (1+r)n – 1 = (1+ 0.045)<sup class="calibre3">1</sup>2 – 1 = 0.6959 = %69,59’dur.</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 16</p>
+
+    <p class="indentmetin">Bankaya yatırmış olduğunuz üç aylık mevduat için aylık net %58 faiz verilmektedir. Buna göre, yatırmış olduğunuz 500.000.000 TL’yi üç ay sonunda çekmez ve ikinci kez aynı faiz oranından üç aylık mevduata yatırmaya karar verirseniz altı ay sonunda kaç TL’niz olacaktır? Öte yandan, söz konusu mevduatın yıllık bileşik faiz oranı (efektif) nedir?</p>
+
+    <p class="indentmetin">Yanıtlarınız:</p>
+
+    <p class="indentmetin">6 ay sonunda paranız : _________________________________</p>
+
+    <p class="indentmetin">Yıllık bileşik faiz oranı : _________________________________</p>
+
+    <p class="indentmetinbold">ÇÖZÜM</p>
+
+    <p class="indentmetin">Sorunun ilk kısmı, paranın dönem sonu değeri olduğuna göre, "paranın zaman değeri" uygulamasıdır ve FV = PV (1 + r)<sup class="calibre3">n</sup> formülü kullanılmalıdır. Buna göre gerekli bilgiler yerine koyulacaktır.</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">FV : Bilinmeyen ve bulunması istenen değer</p>
+
+    <p class="indentmetin">PV : Yatırılan para, örnekte 500.000 TL</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı, (örnekte 0.58/4 = 0.145 = %14.5 3 aylık olduğuna göre, 1 yılda 4 adet 3 aylık dönem olacak ve 3 aylık döneme denk gelen faiz oranı yıllık oranın 1/4’ü kadar olacaktır).</p>
+
+    <p class="indentmetin">n : Dönem sayısı, örnekte 2’dir; çünkü para yatırılmakta ve 1 kez döndükten sonra (3 ay sonunda), bir kez daha 3 aylık yatırılmakta ve 2. dönüşü takiben, yani 6 ayın sonunda çekilmektedir.</p>
+
+    <p class="normal">Şimdi bu değerleri formülde yerine koyalım:</p>
+
+    <p class="ortayazi">FV = 500.000 x (1 + 0.145)<sup class="calibre3">2</sup> = 655.512 TL</p>
+
+    <p class="normal">Sorunun ikinci kısmı, paranın bileşik faizini sorguladığına göre, bu bir "basit faiz - bileşik faiz geçişi" uygulamasıdır ve</p>
+
+    <p class="ortayazi">r<sub class="calibre4">ef</sub> = (1 + r)<sup class="calibre3">n</sup> – 1</p>
+
+    <p class="normal">formülü kullanılmalıdır.</p>
+
+    <p class="indentmetin">Formülde kullanılacak değerleri gözden geçirelim:</p>
+
+    <p class="indentmetin">r<sub class="calibre4">ef</sub> : Efektif faiz (yıllık bileşik faiz), örnekte bizden istenen değer.</p>
+
+    <p class="indentmetin">n : Paranın kendisini tekrar eden sayısı (örnekte 3 aylık mevduatın yıllık bileşik değeri sorulduğuna göre, 3 aylık mevduatın yıl içinde kaç kez döndüğü, 12/3 = 4 kez) belirtilmelidir.</p>
+
+    <p class="indentmetin">r : Dönemsel faiz oranı. (Örnekte 3 aylık mevduat için nominal oran %58 olduğuna göre, 3 aylık döneme denk düşen oran = 0.58/4 = 0.145 = %14.5)</p>
+
+    <p class="normal">Şimdi bu değerleri formülde yerine koyalım:</p>
+
+    <p class="ortayazi">ref = (1 + r)<sup class="calibre3">n</sup> – 1 = (1 + 0.145)<sup class="calibre3">4</sup> – 1 = 0.7188 = %71,88</p>
+
+    <p class="normal1">Krediler</p>
+
+    <p class="normal">Kredi kavramı finans piyasasının vazgeçilmez kavramlarındandır. Fon ihtiyacı olan taraf, fon arz eden taraftan kredi kullanır. Buna göre borç veren ve borçlanan taraflar doğar. Söz konusu taraflar, transfer olan kaynak üzerinden "paranın zaman değeri"ni dikkate alarak bir faiz hesaplarlar. Faizsiz sistemlerde, ticaret ilişkisi yaratılarak doğan "kâr", modern bankacılıkta doğrudan "faiz" kavramını getirmiştir.</p>
+
+    <p class="normal">Buna göre paranın vade sonundaki değeri hesaplanacak ve gerektiğinde para tutarı, gerektiğinde ise basit-bileşik faiz geçişi yapılabilecektir.</p>
+
+    <p class="normal">Kredi faiz hesaplarında işlemler radikal değişiklikler göstermezler. Klasik faiz hesabında kullanılan yaklaşım krediler için de aynıdır. Örneğin bir aracı kurumun açıkladığı kredi oranı üzerinden, vergi ve fonlar eklenmek suretiyle, söz konusu kredinin kuruma getirisi hesaplanabilir. Benzer biçimde, söz konusu kredinin vergi ve fon kesintileri, kredinin maliyetine eklenerek, müşteriye maliyeti de bulunabilecektir. Bu hesaplar, klasik faiz hesabı üzerinden yapılacağından, söz konusu kredinin basit ve bileşik getirisi ile paranın faizlendirilmesi ya da iskontolanması kavramlarında herhangi bir değişiklik olmayacaktır.</p>
+
+    <p class="normal">Ancak ülkemizdeki uygulamada, kredi hesaplarında yıl 360 gün olarak kabul edilmektedir. Böylece, yıllık %65’ten 15 günlük bir kredi kullanıldığında ödenecek dönemsel faiz oranı:</p>
+
+    <p class="indentmetin">0.65 x 15/360 = 0,0271 = %2,71 olacaktır.</p>
+
+    <p class="normal">Oysa, aynı hesabı faiz kazanacağımız bir enstrüman için yapmış olsaydık (örneğin repo, bono, mevduat gibi), yıl 365 gün ve sonuç:</p>
+
+    <p class="indentmetin">0.65 x 15/365 = 0,0267 = %2,67 olacaktı.</p>
+
+    <p class="normal">Görüldüğü üzere, genel hesaplamada radikal bir değişiklik olmamakla birlikte, krediler için temel fark, ülkemizde, yılın 365 gün yerine 360 gün olarak alınmasıdır. Böylesi bir farkı yabancı bir yatırımcı ya da okur anlamakta güçlük çekecektir. Zira gelişmiş pek çok piyasada yıl zaten her durum için 360 gün olarak alınmaktadır. Bu farkın, ülkemiz sisteminde, borç ödeyicinin cebinden daha çok faiz çıkması anlamına geldiği kolayca görülecektir.</p>
+
+    <p class="normal1">Hazine Bonosu</p>
+
+    <p class="normal3">Tahvil ve Bonoların Fiyatlaması</p>
+
+    <p class="normal">Devletin ya da özel şirketlerin borç para bulmak için ihraç ettikleri borçlanma senetlerine tahvil ve bono denmektedir. Devlet kâğıtları için 1 yıldan kısa vadeyle ihraç olunanlar hazine bonosu, 1 yıldan uzun vadeli olanlar ise devlet tahvili olarak tanımlanmaktadır.</p>
+
+    <p class="normal">Özel kesimin çıkardığı borçlanma senetleri ise mevzuat gereği 2 yıldan kısa vadeli olamaz ve finansman bonosu olarak adlandırılır. Ancak günümüzde uygulaması bulunmamaktadır.</p>
+
+    <p class="normal">Tahvillerde Değer Tanımlamaları</p>
+
+    <p class="normal">Tahvillerin üç türlü değeri vardır:</p>
+
+    <p class="normal2">a. Nominal Değer</p>
+
+    <p class="normal">Tahvilin üzerinde yazılan değerdir. Bu değer sabittir, hiçbir zaman değişmez. Muhasebe kayıtlarına ve itfa planına esas teşkil eder. Vade sonunda tahvil hamilinin eline geçecek anaparadır.</p>
+
+    <p class="normal2">b. İhraç Değeri</p>
+
+    <p class="normal">Primli olarak ihraç edilen ve/veya erken alanlara faiz oranı içinde indirim uygulanan tahvillerde ilk satış değeridir.</p>
+
+    <p class="normal2">c. Piyasa Değeri</p>
+
+    <p class="normal">Tahvillerin piyasa değeri nominal değerden çok farklı olmasa da şartlara göre inip çıkabilir.</p>
+
+    <p class="normal">Tahvillerin piyasa değeri şu faktörlerden etkilenir:</p>
+
+    <p class="indentmetin">• Paraya çevrilebilir olmasa bile, piyasada her an için her tahvilin bir değeri vardır. Bu değer anapara ve son faiz ödemesinden beri işlemiş günlük faiz toplamı civarındadır. Tahvilin net yıllık faizi 365’e bölünüp geçen gün sayısı ile çarpıldığında, işlemiş net faizi bulunur.</p>
+
+    <p class="indentmetin">• Tahvilin nominal faiz oranı, cari faiz oranının altında ise, piyasada borsa değeri başabaş (nominal) değerinin altındadır. Bu durumda "İskontolu işlem görüyor" denilir. Normal olarak tahvillerin üzerinde bir miktar işlemiş faiz bulunduğu için işlemiş faizle birlikte, genellikle başabaşın üzerinde fiyat bulur.</p>
+
+    <p class="indentmetin">• Tahvilin nominal faiz oranı cari piyasa faiz oranının üstünde ise, piyasa ya da borsa değeri (işlemiş faiz hariç) nominal değerin üzerinde oluşur. Bu durumda da tahvilin "Primli işlem gördüğü" söylenir.</p>
+
+    <p class="indentmetin">• Normal ekonomik şartlar altında, büyük ve tanınmış şirketlerin tahvilleri ile büyük banka holdinglerin garantisine sahip tahviller, diğerlerine oranla ikincil piyasada daha yüksek değer bulurlar.</p>
+
+    <p class="normal3">Tahvil ve Bono Piyasası Fiyatlamaları</p>
+
+    <p class="normal">Tahvil satışından ya da kupon ödemesinden elde edilecek nakit girişinin yeniden aynı faiz oranıyla yatırıma dönüştürüldüğü varsayımına dayanır. İkinci el piyasasının likit ve getiri oranlarının istikrarlı olduğu durumlarda tercih edilir.</p>
+
+    <p class="normal">1 Yıldan Kısa Vadeli Borçlanma Senetleri</p>
+
+    <p class="ortayazi">PV = ND / (1 + r x c / 365)</p>
+
+    <p class="indentmetin">PV : Tahvilin bugünkü değeri</p>
+
+    <p class="indentmetin">ND : Nominal değer</p>
+
+    <p class="indentmetin">r : Getiri oranı</p>
+
+    <p class="indentmetin">c : Vadeye kalan gün sayısı</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetinbold">ÖRNEK 17</p>
+
+    <p class="indentmetin">Bugün, 16.10.2001 tarihi itibarıyla tedavülde olan 230 gün vadeli, 100.000 TL nominal değerli hazine bonosunun yıllık %78 getiri sağlaması bekleniyorsa, satın alma günündeki değeri ne olmalıdır?</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">ND = 100.000</p>
+
+    <p class="indentmetin">r = %78</p>
+
+    <p class="indentmetin">c = 230 gün</p>
+
+    <p class="indentmetin">PV = ?</p>
+
+    <p class="indentmetin">PV = 100.000 / (1 + 0.78 x 230 / 365)</p>
+
+    <p class="indentmetin">= 67.046 TL</p>
+
+    <p class="normal">1 Yıldan Uzun Vadeli Borçlanma Senetleri</p>
+
+    <p class="indentmetin">PV : Bugünkü değeri</p>
+
+    <p class="indentmetin">c : İlk faiz ödeme tarihine kalan gün sayısı</p>
+
+    <p class="indentmetin">m : Bir faiz ödeme döneminin içerdiği gün sayısı</p>
+
+    <p class="indentmetin">(yılda bir ödemeli tahvillerde 365, 6 ayda bir ödemeli tahvillerde 182, 3 ayda bir ödemeli tahvillerde 91 alınmaktadır).</p>
+
+    <p class="indentmetin">r : Getiri oranı</p>
+
+    <p class="indentmetin">n : Vadeye kadar yapılacak faiz ödeme sayısı</p>
+
+    <p class="indentmetin">i : Faiz oranı</p>
+
+    <p class="indentmetin">A : Anapara</p>
+
+    <p class="indentmetin">F : A x i ilk ödenecek faiz tutarı</p>
+
+    <p class="ortayazi">PV = 1 / (1 + r)<sup class="calibre3">x c/m</sup> x F + S<sup class="calibre3">n</sup> x F / (1=r)<sup class="calibre3">n-1</sup> x A/ (1+r)<sup class="calibre3">k-1</sup></p>
+
+    <p class="ortayazi">k = 2</p>
+
+    <p class="normal1">Değişken Faizli Tahviller</p>
+
+    <p class="indentmetin">c : İlk faiz ödeme tarihine kalan gün sayısı</p>
+
+    <p class="indentmetin">m : Bir faiz ödeme döneminin içerdiği gün sayısı</p>
+
+    <p class="indentmetin">(yılda bir ödemeli tahvillerde 365, 6 ayda bir ödemeli tahvillerde 182, 3 ayda bir ödemeli tahvillerde 91 alınmaktadır).</p>
+
+    <p class="indentmetin">r : Getiri oranı</p>
+
+    <p class="indentmetin">F : Net faiz tutarı</p>
+
+    <p class="indentmetin">ND : Nominal değer</p>
+
+    <p class="indentmetin">PV : Tahvilin bugünkü piyasa değeri</p>
+
+    <p class="ortayazi">PV = <sup class="calibre3">F + ND</sup><span class="h2baslik1">/</span> <sub class="calibre4">(1 + r)</sub><sup class="calibre3">c/m</sup></p>
+
+    <p class="indentmetinbold">ÖRNEK 18</p>
+
+    <p class="indentmetin">Vade tarihi 20.02.2001 olan 100.000 TL nominal değerli, yılda bir faiz ödemeli, değişken faizli devlet tahvili, bugün net %80 getiri sağlaması beklenerek satılmak istenmektedir. İlk yıl için kupon faiz oranı %76’dır. Değişken faizli devlet tahvilinin bugünkü fiyatı ne olmalıdır? (VKG 315 gün.)</p>
+
+    <p class="indentmetin">&nbsp;</p>
+
+    <p class="indentmetin">r = %80</p>
+
+    <p class="indentmetin">c = 315 gün</p>
+
+    <p class="indentmetin">F = 76.000 TL</p>
+
+    <p class="indentmetin">ND = 100.000 TL</p>
+
+    <p class="indentmetin">PV = ?</p>
+
+    <p class="indentmetin">PV = <sup class="calibre3">76000 + 100000</sup><span class="h2baslik1">/</span> <sub class="calibre4">(1 + 0.80)</sub><sup class="calibre3">315/365</sup></p>
+
+    <p class="indentmetin">= 105.976 TL</p>
+
+    <p class="normal1">Finansal Ürünlerin Fiyatlaması ile İlgili Detaylar</p>
+
+    <p class="normal">Finansal ürünlerden mevduat, kredi, tahvil ve bonoların fiyatlamasını incelediğimizde, ilk tespitimiz, kitabın başından beri kullandığımız formüller ve yaklaşımlarda bir değişiklik olmadığıdır. Biz zaten faizlendirme ve iskontolama uygulamalarını pek çok soruya uyguladık ve hemen hemen aynıları bu ürünler için de geçerli oldu.</p>
+
+    <p class="normal">O hâlde, "finansal ürünlerin fiyatlamasında" yeni olan nedir? Aslında yeni bir şey yok. Kredilerde yıldaki gün sayısını takvimden farklı olarak 360 gün aldık, kuponlu tahviller için ise yeni bazı formüller ekledik.</p>
+
+    <p class="normal">İşin doğrusu, bu ürünlerdeki temel farklılık vergilendirmeden kaynaklanacaktır. Zira, ülkemizde hem kredilerde hem de mevduat ve bono gibi faiz geliri yaratan enstrümanlarda vergi ve benzeri kesintiler olmaktadır. Buna göre matematik işlemlerde yapılması gereken, hesaplara bu kesinti ve eklemeleri katmaktır.</p>
+
+    <p class="normal">Hesaplama yapılırken formüldeki faiz oranı aynen alınmayacak, kredilerde KKDF, BSMV, komisyon ya da benzeri vergi ve fon maliyetleri, nominal faize eklenecektir. Mevduatta ise vergi ve benzeri oranlar, nominal mevduat faizinden düşülecektir. O hâlde, diğer tüm hesaplar aynıyken, eğer varsa, vergi fon ve benzeri kesinti ya da eklemeler nominal faize eklenmeli ya da çıkarılmalıdır. Bunun dışında bir hesaplama farkı yoktur.</p>
+  </div>
+
+  <div class="calibre1" id="calibre_pb_8"></div>
+</body>
+</html>

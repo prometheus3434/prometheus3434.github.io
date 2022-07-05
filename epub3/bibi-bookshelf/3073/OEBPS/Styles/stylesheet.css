@@ -1,0 +1,124 @@
+.block {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0 0 0 128pt
+    }
+.block3 {
+    display: block;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0 0 0 128pt
+    }
+.block4 {
+    display: block;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0 0 0 128pt
+    }
+.block5 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    display: block;
+    font-family: serif;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    display: block;
+    font-family: "Schadow Lt BT", serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 128pt
+    }
+.block9 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    display: list-item;
+    margin-left: 36pt;
+    text-align: justify
+    }
+.block11 {
+    display: list-item;
+    font-family: serif;
+    margin-left: 36pt;
+    text-align: justify
+    }
+.block12 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block13 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Californian FB", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    white-space: pre-wrap
+    }
+.list {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.text {
+    font-family: "Californian FB", serif
+    }
+.text1 {
+    font-family: "Times New Roman", serif
+    }

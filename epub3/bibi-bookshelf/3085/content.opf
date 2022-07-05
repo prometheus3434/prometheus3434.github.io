@@ -1,0 +1,40 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Elveda Gülsarı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+    <dc:publisher>Ötüken Neşriyat A.Ş.</dc:publisher>
+    <dc:date>2015-06-16T12:49:43+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fcd2170b-bac1-4388-8e4d-dcdca513cba1</dc:identifier>
+    <dc:subject>General</dc:subject>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:description>Gülsarı, cins ve ünlü bir yorga atın adıdır. Yazar, korkunç bir duygudaşlık yeteneğiyle bir yandan Gülsarı&amp;#39;nın doğumundan ölümüne kadar geçen fırtınalı hayat macerasını, diğer yandan onun biricik yetiştiricisi Tanabay&amp;#39;ın çilesini anlatır. Tanabay can çekişen sevgili atının başında geçmişiyle hesaplaşır. Kendini devrime, mutlu yarınlara adamış, ama siyasi rejim onun ömrünü mutsuzluklar ve sıkıntılar içinde geçirmesine sebep olmuştur. İçerisinde yaşadığı toplum değişim adı altında bütün değerlerini kaybetmiştir. Aytmatov, kendine özgü anlatım tarzı ve etkileyiciliği ile hikâyenin geçtiği tabiatı betimliyor, Kırgız - Kazak Türklerinin töre ve folklorunu ebedileştiriyor. [ Ötüken Neşriyat ]</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8e5c54f9-45bc-4ac5-a384-adf70625744e</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051550701</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">L5_jCQAAQBAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2010-12-27T17:45:03.020362+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Elveda Gülsarı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cengiz Aytmatov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id2" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

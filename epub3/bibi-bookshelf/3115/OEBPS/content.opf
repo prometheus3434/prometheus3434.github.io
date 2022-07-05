@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Eristik Diyalektik: Haklı Çıkma Sanatı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Schopenhauer, Arthur">Arthur Schopenhauer</dc:creator>
+    <dc:description>&lt;p&gt;19. yüzyıl felsefesinin önemli figürlerinden, Kant'ın öğrencisi, Alman filozof Arthur Schopenhauer, 1830'da kaleme aldığı bu metinde, kökleri antik Yunan felsefesine uzanan, tartışmalarda her koşulda haklı çıkma sanatı olan "Eristik Diyalektik" yöntemini tariflendiriyor. 
+
+Bir tezin objektif olarak "doğruluğu ve haklılığından" ziyade dinleyicilerin gözünde "geçerliliğine" odaklanan, savunu, tartışma ve argüman kullanımında karşı tarafı alt etmenin yollarını felsefi "hileler" ile açıklayan Schopenhauer, kaçınılmaz olarak diğer filozofların konu üzerine fikirlerini ve yöntem sorunlarını da yorumluyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Sel Yayincilik</dc:publisher>
+    <dc:date>2021-09-15T10:07:37+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:2DC39B4E-503F-4441-8EC1-736408608A4D</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-06-23</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">67838aab-6ad6-4bfa-9d3a-2843aa0b381c</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="GOOGLE">OGiTvgEACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="AMAZON">9755705503</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789755705507</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN">9789755705507</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Eristik Diyalektik: Haklı Çıkma Sanatı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Arthur Schopenhauer&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+    <item href="Images/sel_logo_fmt.png" id="sel_logo_fmt.png" media-type="image/png"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+</package>

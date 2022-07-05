@@ -1,0 +1,84 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Eşekarısı fabrikası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Banks, Iain &amp; Biçen, Aslı">Iain Banks</dc:creator>
+    <dc:creator opf:role="aut">Aslı Biçen</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:20ec75ff-a9e3-4112-99fa-9c6a83b4c0c8</dc:identifier>
+    <dc:type>Roman</dc:type>
+    <dc:date>1996-06-15T10:54:03+00:00</dc:date>
+    <dc:publisher>Ayrıntı</dc:publisher>
+    <dc:description>&lt;p&gt;Fay Weldon´ ın "çağdaş İngiliz edebiyatının büyük beyaz umudu" diyerek selamladığı İskoç yazar Iain Banks´ in ilk romanı Eşekarısı Fabrikası , 1980´ li yıllarda İngiltere´ de yayımlanan tüm romanlar arasında en çok tartışılan kitaplarından biri oldu. Gazete ve dergilerde abartılı yergi ve övgülerle sürdürülen tartışmaların harareti dindikten ve Banks yazdığı diğer romanlarla yeteneğini kanıtladıktan sonra kitaba gerçek değeri verilebildi: Metin, çocuk ve şiddet temasını işleyişindeki başarısı açısından Sineklerin Tanrısı ve Teneke Trampet gibi başyapıtlarla kıyaslanıyor artık.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Yeraltı Edebiyatı</dc:subject>
+    <dc:subject>İngiliz Edebiyatı</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Logolu</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f22b0074-b455-4245-902d-c45ce7ff6754</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:20ec75ff-a9e3-4112-99fa-9c6a83b4c0c8</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">YnASPwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755391304</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755391304</dc:identifier>
+    <meta content="0.9.2" name="Sigil version"/>
+    <meta content="Eşekarısı fabrikası" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Iain Banks&quot;: &quot;&quot;, &quot;Aslı Biçen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.xhtml" id="baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/ayrinti.jpg" id="ayrinti.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/title.png" id="title.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/baslik.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,126 @@
+.color {
+  color: #007400;
+}
+hr {
+  margin-top: 0.5em;
+  margin-right: 0;
+  border: 1px solid #7A7A7A;
+  max-width: 20em;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*----H----*/
+.part {
+  margin-top: 10em;
+}
+h1, h2 {
+  font: normal normal 1.25em/1.2em;
+  margin-bottom: 2em;
+  margin-top: 6em;
+  text-align: center;
+}
+h1 span {
+  display: block;
+}
+h2 + p {
+  text-indent: 0;
+  margin-bottom: 1.5em;
+}
+h2 + .nonchapter {
+  text-indent: 1.5em;
+  margin-bottom: 0;
+}
+/*YAZAR*/
+.aut {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.aut p {
+  font: normal normal 0.75em;
+  text-indent: 0;
+  text-align: justify;
+}
+/*----Künye----*/
+.copyright > p:last-child {
+  margin-bottom: 0;
+}
+.copyright p {
+  font: normal normal 0.751em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+  text-align: center;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: right;
+}
+.seri {
+  font: normal normal 1em;
+  margin: 1em auto 0.2em auto;
+}
+.author {
+  font: normal bold 1.3em;
+  margin: 0.5em auto 0.2em auto;
+}
+.title {
+  font: normal bold 2.5em;
+  margin: 0;
+  color: #C41A16;
+}
+.trans {
+  font: normal normal 1em;
+  margin-top: 1.5em;
+}
+.logo {
+  margin: 6em auto 0 auto;
+}
+/*Önsöz*/
+/*----Block----*/
+blockquote {
+  margin: 1em 0 1em 0;
+  text-align: justify;
+}
+blockquote p {
+  text-indent: 0;
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  text-align: justify;
+}
+.poem, .block {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.5em;
+}
+.poem p {
+  text-indent: -2em;
+  text-align: justify;
+  font: normal normal 0.851em;
+}
+.poem .right {
+  margin-top: 1em;
+  margin-left: 4em;
+}
+/*----P----*/
+p {
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.right {
+  text-align: right;
+}
+.extract {
+  margin-top: 1em;
+}
+.center {
+  text-indent: 0;
+  text-align: center;
+}
+/******FOOTNOTE******/
+/*****FONT*****/

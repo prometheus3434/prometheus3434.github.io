@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Fırat Suyu kan akıyor baksana</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kemal, Yaşar">Yaşar Kemal</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">74c86f76-9f07-4a77-8160-106d8cac03a8</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1998-06-15T10:27:44+00:00</dc:date>
+    <dc:publisher>Adam</dc:publisher>
+    <dc:description>Kurtuluş Savaşından sonra yerinden yurdundan edilen milyonlarca insanı konu alan gerçekçi bir roman. Üç ciltlik bu serinin her cilti birbirinden ayrı okunabilir</dc:description>
+    <dc:date opf:event="modification">2015-02-12</dc:date>
+    <dc:subject>Türk Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">948549e3-223f-474a-9c6e-becd01975548</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">A1sIAQAAMAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750807060</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754184648</dc:identifier>
+    <meta content="Fırat Suyu kan akıyor baksana" name="calibre:title_sort"/>
+    <meta content="2014-05-29T21:40:32.296000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta content="0.8.2" name="Sigil version"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Yaşar Kemal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="calibre:series" content="Bir Ada Hikayesi"/>
+    <meta name="calibre:series_index" content="1.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0000.html" id="Section0000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

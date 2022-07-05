@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="d12e16ed-4fcb-407c-b110-f032c3d07f9f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ezeli Maglup</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{9FB4C4A7-EC30-4D92-9D49-39DB4FD125FE}" playOrder="1">
+      <navLabel>
+        <text>Tarih, insanın denetimi altında tuttuğunu hayal ettiği mukadder bir akıştır</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{8368B0BC-E40F-4302-A507-EB479CAC2010}" playOrder="2">
+      <navLabel>
+        <text>Tarihte bir tek gerileme devirleri çekicidir</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C73CBD15-95C9-49DF-B23B-60BEB4C26B6A}" playOrder="3">
+      <navLabel>
+        <text>İnsan, zamanında durmasını engelleyen bir içgüdü yüzünden yok olacak</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{AC3C7713-867D-41C4-832F-037257340D51}" playOrder="4">
+      <navLabel>
+        <text>Bemard-Henri Levy'nin Üç Sorusu</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

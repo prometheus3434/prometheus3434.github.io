@@ -1,0 +1,55 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Elflerin Kanı</dc:title>
+    <dc:creator id="cre">Regaip Minareci</dc:creator>
+    <dc:creator id="id-2">Andrzej Sapkowski</dc:creator>
+    <dc:identifier>calibre:917</dc:identifier>
+    <dc:identifier>uuid:8333c642-ba09-45de-b202-9645dd1fd9c7</dc:identifier>
+    <dc:identifier id="uuid">Id_6E4932E5-9E2A-4F70-872F-55664675F8FA_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Pegasus Yayınları</dc:publisher>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Elflerin Kanı</opf:meta>
+    <meta property="role" refines="#cre">trl</meta>
+    <meta property="dcterms:modified">2020-12-24T17:17:41Z</meta>
+    <meta content="1.4.3" name="Sigil version"/>
+    <meta name="cover" content="Elflerin_Kanı.jpg"/>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Sapkowski, Andrzej</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Andrzej Sapkowski": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="nav" href="Text/navigation.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum1.xhtml" href="Text/bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum2.xhtml" href="Text/bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum3.xhtml" href="Text/bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum4.xhtml" href="Text/bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum5.xhtml" href="Text/bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum6.xhtml" href="Text/bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum7.xhtml" href="Text/bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id10" href="Styles/main.css" media-type="text/css"/>
+    <item id="Elflerin_Kanı.jpg" href="Images/Elflerin%20Kanı.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="id8" href="Images/main-1.jpg" media-type="image/jpeg"/>
+    <item id="id9" href="Images/main-2.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

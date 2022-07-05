@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Eve Donmenin Yollari</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zambra, Alejandro">Alejandro Zambra</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1a66c377-5928-44c3-878e-b8fc817e9675</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Notos</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Bir keresinde kayboldum. Altı ya da yedi yaşındaydım. Aklım başka yere gitmişti, birden annemle babamı kaybettim. Korktum ama sonra yolumu buldum ve eve onlardan önce vardım - ümitsizlik içinde beni arıyorlardı. Ama bence o akşamüstü esas onlar kaybolmuştu. Çünkü ben eve dönmeyi biliyordum ama onlar bilmiyordu." &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;2010 yılında Granta'nın İspanyolca yazan en iyi yirmi iki romancı arasında gösterdiği Şilili genç yazar Alejandro Zambra, üçüncü romanı Eve Dönmenin Yolları'nda belleğimizdeki lekeleri kazırken geçmiş ve şimdiki zaman arasında bocalayan insana kendine dönüş yolunu gösteriyor. Eve Dönmenin Yolları'ndaki yazar adayı anlatıcı tek başına yaşıyor, bolca sigara içiyor, kadınlarla birlikte oluyor, romanını yazmaya çalışıyor. Bu sırada da geçmişin izini sürüyor. Anlatıcıyla birlikte okur da Pinochet diktatörlüğünde yaşanan zor zamanlara, büyük 1985 depreminin acı kayıplarına, çocukluk aşklarına, hayal kırıklıklarına dönüyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9cd94981-62be-46ef-97d7-d71dca3ba5a9</dc:identifier>
+    <meta name="calibre:timestamp" content="2016-02-21T11:42:13.317000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Eve Donmenin Yollari"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alejandro Zambra&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

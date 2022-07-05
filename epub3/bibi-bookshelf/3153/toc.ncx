@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="3618440e-c799-4a11-8ef0-a7a487bbc09e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Eve Giderken</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{4DA4CBDE-1858-447C-918F-7F2050787970}" playOrder="1">
+      <navLabel>
+        <text>IŞIKÇI</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{84DD164E-4F71-4920-A858-4C63B1DB50F6}" playOrder="2">
+      <navLabel>
+        <text>DEPREM</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{30532D6A-F3B5-49A7-963E-9D6195BD741E}" playOrder="3">
+      <navLabel>
+        <text>KEDERLİ GÖZLER</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C2C9A0BB-4450-4C7C-9E42-8310C568E057}" playOrder="4">
+      <navLabel>
+        <text>UYUMSUZ EVLİLİK</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{BBF2BA4A-D76F-44E8-B83C-69A84770A97D}" playOrder="5">
+      <navLabel>
+        <text>ÖĞRETİCİ BİR HİKÂYE</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

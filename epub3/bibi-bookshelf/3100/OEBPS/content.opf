@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ender'in oyunu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Card, Orson Scott">Orson Scott Card</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">49ec68e7-d595-490c-99b0-d5371862861e</dc:identifier>
+    <dc:description>&lt;p class="description"&gt;Altıkırkbeş bu sefer bilimkurgu dünyasının en önemli iki ödülünü aynı anda alan, bilim kurgu, fantazi ve edebiyatın doruklarına uzanan, oyun ve ölüm arasında örülmüş bir seriyle tanışmanızı öneriyor. On bir yaşındaki bir çocuk, 'Kimse kendi hayatını kontrol edemez; elinden gelenin en iyisi sana iyi insanlar, sevdiğin insanlar tarafından verilen rolleri yerine getirmeyi sevmek,' diyebiliyorsa, onun Dünyayı kurtarması şaşırtıcı olmasa gerek. Elinizdeki bu kitap bilimkurgu tarihinin en önemli metinlerinden biri olarak kabul edilen Ender Serisi'nin ilk kitabıdır. Bilimkurgu edebiyatının en önemli iki ödülünü, Hugo ve Nebula ödüllerini aynı anda almış ve yayınlandığı günden bu yana çok satanlar listesindeki yerini koruyarak Tüm Zamanların Best Seller'i olarak nitelenmiştir. Altıkırkbeş Yayın sizi on bir yaşındaki bir çocuğun oyunla ölüm arasında gidip gelen hüzün dolu, sürükleyici ve kırılgan hikâyesine davet ediyor.&lt;/p&gt;</dc:description>
+    <dc:date>2013-06-15T11:42:06+00:00</dc:date>
+    <dc:publisher>Altıkırkbeș Yayın</dc:publisher>
+    <dc:date opf:event="modification">2014-04-20</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9b6cedec-bb57-4750-8f88-6df4d197e166</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750504402</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">D_gdrgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055150488</dc:identifier>
+    <meta content="Ender'in oyunu" name="calibre:title_sort"/>
+    <meta content="2014-02-06T11:07:32.421000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:series" content="Ender Serisi"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Orson Scott Card&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003_split_000.html" id="section-0003_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

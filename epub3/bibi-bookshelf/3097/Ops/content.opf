@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>En uzak sahil: yerdeniz üçlemesi III</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le">Ursula K. Le Guin</dc:creator>
+    <dc:date>2013-03-15T12:32:18+00:00</dc:date>
+    <dc:identifier id="BookId">awp2013-08-04T11:02:30Z</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Metis Yayincilik</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8113cabb-cd1a-4585-8bdd-29f6fbd63343</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753420792</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">TtrZAAAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="En uzak sahil: yerdeniz üçlemesi III"/>
+    <meta name="calibre:series" content="Yerdeniz"/>
+    <meta name="calibre:series_index" content="3.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+    <item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+    <item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+    <item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+    <item id="id005" href="005.html" media-type="application/xhtml+xml"/>
+    <item id="id006" href="006.html" media-type="application/xhtml+xml"/>
+    <item id="id007" href="007.html" media-type="application/xhtml+xml"/>
+    <item id="id008" href="008.html" media-type="application/xhtml+xml"/>
+    <item id="id009" href="009.html" media-type="application/xhtml+xml"/>
+    <item id="id010" href="010.html" media-type="application/xhtml+xml"/>
+    <item id="id011" href="011.html" media-type="application/xhtml+xml"/>
+    <item id="id012" href="012.html" media-type="application/xhtml+xml"/>
+    <item id="id013" href="013.html" media-type="application/xhtml+xml"/>
+    <item id="id014" href="014.html" media-type="application/xhtml+xml"/>
+    <item id="id015" href="015.html" media-type="application/xhtml+xml"/>
+    <item id="id016" href="016.html" media-type="application/xhtml+xml"/>
+    <item id="id017" href="017.html" media-type="application/xhtml+xml"/>
+    <item id="id018" href="018.html" media-type="application/xhtml+xml"/>
+    <item id="id019" href="019.html" media-type="application/xhtml+xml"/>
+    <item id="id020" href="020.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style" href="style.css" media-type="text/css"/>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="img1" href="images/img1.jpg" media-type="image/jpeg"/>
+    <item id="img2" href="images/img2.jpg" media-type="image/jpeg"/>
+    <item id="img3" href="images/img3.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="001.html"/>
+  </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Görüşme, kutlama, çağrı: üç oyun</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Havel, Vaclav">Vaclav Havel</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">959dff1e-4c86-4b94-bf55-75c15e8d7e11</dc:identifier>
+    <dc:publisher>Remzi</dc:publisher>
+    <dc:date>1990-06-15T11:33:52+00:00</dc:date>
+    <dc:description>&lt;p&gt;- Siz, tüm aydınlar! Soylular ve efendiler! Bol bol nutuk atarsınız ama tehlikeye düşmeksizin, dokunulmazlığınız vardır sizin. Nasıl olursa olsun, sizinle ilgilenirler. İşin içinden sıyrılırsınız hep. Sizler, sepetin üstündekilersiniz... dipte olsanız bil &lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Tiyatro Oyunu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f01f4b96-0588-48c0-9fc3-8fa26aa223f5</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">39OJvgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9751402050</dc:identifier>
+    <meta content="Görüşme, kutlama, çağrı: üç oyun" name="calibre:title_sort"/>
+    <meta content="2014-03-21T15:37:23.017000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Vaclav Havel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Gorusme Kutlama Cagri.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

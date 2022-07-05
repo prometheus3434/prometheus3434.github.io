@@ -1,0 +1,322 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    display: block;
+    font-family: serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block3 {
+    color: black;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 0.625em;
+    line-height: 13.5pt;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block4 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block6 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 0.83333em;
+    line-height: 13.5pt;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block7 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 13.5pt;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block11 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 7.2pt
+    }
+.block12 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    color: black;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    display: block;
+    text-align: justify;
+    text-indent: -18pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block18 {
+    display: block;
+    text-align: justify;
+    text-indent: 18pt;
+    padding: 0;
+    margin: 0
+    }
+.block19 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    color: #EBEBEB;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    color: #EBEBEB;
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block22 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 18pt;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: -18pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block24 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 18pt;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    display: block;
+    font-family: serif;
+    text-align: justify;
+    text-indent: -18pt;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Bookman Old Style", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre2 {
+    height: 33.2pt;
+    line-height: 1.2;
+    width: 59.1pt
+    }
+.calibre3 {
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.calibre4 {
+    display: block;
+    height: auto;
+    width: auto
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre8 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text {
+    display: block;
+    font-weight: bold;
+    padding: 0;
+    margin: 0
+    }
+.text1 {
+    font-family: "Cambria", serif;
+    line-height: 1.2
+    }
+.text2 {
+    font-family: "Book Antiqua", serif;
+    line-height: 1.2
+    }
+.text3 {
+    font-size: 2.4em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text4 {
+    font-size: 1.55em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text5 {
+    font-style: italic;
+    font-weight: bold
+    }
+.text6 {
+    color: #06C;
+    text-decoration: underline
+    }
+.text7 {
+    color: #000
+    }
+.text8 {
+    font-variant: small-caps
+    }
+.text9 {
+    font-size: 0.75em;
+    font-variant: small-caps;
+    line-height: normal;
+    vertical-align: sub
+    }
+.text10 {
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: normal;
+    vertical-align: super
+    }
+.text11 {
+    font-family: "Bookman Old Style", serif
+    }
+.text12 {
+    font-family: "MS Mincho", monospace
+    }
+.text13 {
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: normal;
+    vertical-align: sub
+    }

@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Eylembilim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Atay, Oğuz">Oğuz Atay</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c12ae27a-dc17-4616-bfa9-75f3cf9fd8fb</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1999-06-15T11:45:02+00:00</dc:date>
+    <dc:description>&lt;p&gt;Eylembilim, Oğuz Atay'ın aramızdan tamamlayamadan ayrıldığı son eseri. Geçtiğimiz yıllarda bu eserin "ulaşabildiğimiz" kadarını Günlük'e ekleyerek yayımlamıştık. Artık Oğuz Atay'ın yazdıklarının tamamına ulaştık ve Eylembilim bir kitap oldu. 12 Mart arefesindeki karışık ortamda üniversitedeki olaylar karşısında 'saflar'ını belirlemeye çalışan "akademikler"i anlatan metin, tadına doyulmaz bir kara mizah gösterisi.&lt;/p&gt;</dc:description>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2014-03-18</dc:date>
+    <dc:subject>Kara mizah</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">edb3cc24-619f-4a2d-b98d-38926380a6b0</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754706994</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9754706999</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c12ae27a-dc17-4616-bfa9-75f3cf9fd8fb</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">e43bSQAACAAJ</dc:identifier>
+    <meta content="{&quot;Oğuz Atay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2014-03-15T18:20:07.796000+00:00" name="calibre:timestamp"/>
+    <meta content="Eylembilim" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:series" content="Oğuz Atay Bütün Eserleri"/>
+    <meta name="calibre:series_index" content="7.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Mektup.xhtml" id="Mektup.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.xhtml" id="Giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1.xhtml" id="Bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2.xhtml" id="Bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3.xhtml" id="Bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4.xhtml" id="Bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Mektup.xhtml"/>
+    <itemref idref="Giris.xhtml"/>
+    <itemref idref="Bolum1.xhtml"/>
+    <itemref idref="Bolum2.xhtml"/>
+    <itemref idref="Bolum3.xhtml"/>
+    <itemref idref="Bolum4.xhtml"/>
+  </spine>
+  <guide/>
+</package>

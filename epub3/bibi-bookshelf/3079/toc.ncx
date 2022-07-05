@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="da20bce8-9a85-4e4f-9872-e991b2e7a2a4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Elin Sesi Var</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{9BD8CB54-2509-4433-89E5-F43751E6447E}" playOrder="1">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{72620288-C630-4A4B-AE93-27F3AB7C1BA5}" playOrder="2">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{B32CBB9E-38FD-429E-86F4-FAF129C981CD}" playOrder="3">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

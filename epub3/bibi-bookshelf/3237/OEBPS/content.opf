@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Gazap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Smith, Wilbur">Wilbur Smith</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3a13c3db-dbeb-4319-bafe-849e7c876077</dc:identifier>
+    <dc:publisher>Altin Kitaplar</dc:publisher>
+    <dc:description>The third novel in the second Courtney trilogy once more features Centaine, Shasa and Manfred, but the central conflict has changed. For it now includes the figure of Moses Gama whose message of militant black nationalism threatens the lifestyle and stability of both Shasa and Manfred, in fact of all white South African society.</dc:description>
+    <dc:date>2001-05-01T11:04:22+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f303b8ea-230b-489e-8b8f-e67346347548</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ColJewAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752101838</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752101838</dc:identifier>
+    <meta content="Courtney Serisi" name="calibre:series"/>
+    <meta content="2012-06-26T05:13:13+00:00" name="calibre:timestamp"/>
+    <meta content="Gazap" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="6.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Wilbur Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

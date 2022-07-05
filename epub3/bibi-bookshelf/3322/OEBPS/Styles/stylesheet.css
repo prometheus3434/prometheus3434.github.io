@@ -1,0 +1,96 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.coverpage {
+    display: block
+    }
+.heading {
+    display: block;
+    font-family: Arial;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.sgc {
+    font-family: Sylfaen
+    }
+.sgc1 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc10 {
+    font-family: Sylfaen;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc11 {
+    font-family: Sylfaen;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc12 {
+    font-family: Constantia;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc2 {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal
+    }
+.sgc3 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc4 {
+    font-style: normal
+    }
+.sgc5 {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold
+    }
+.sgc6 {
+    font-weight: normal
+    }
+.sgc7 {
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc8 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse
+    }
+.sgc9 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-weight: bold
+    }

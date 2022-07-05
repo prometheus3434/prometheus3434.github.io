@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{266E924E-BE0E-462C-BF4E-649129FD288E}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Giovanni Papini - GOG 1-2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>GOG (1. kitap)</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Gog’u Sunuş</text>
+        </navLabel>
+        <content src="Text/sunus.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Edebiyatın Şaheserleri</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Musiki</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Ford’u Ziyaret</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Evde Mucize</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Adanın Hi̇kâyesi̇</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>“İd”</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bırakılmış Şehir</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Gandi’yi Ziyaret</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Siao-Sin</text>
+        </navLabel>
+        <content src="Text/09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Maskeler</text>
+        </navLabel>
+        <content src="Text/10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Tersine Tarih</text>
+        </navLabel>
+        <content src="Text/11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Kurtuluş Havarisi</text>
+        </navLabel>
+        <content src="Text/12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Pişmanlık Duymuş Yamyam</text>
+        </navLabel>
+        <content src="Text/13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Hayaller Tröstü</text>
+        </navLabel>
+        <content src="Text/14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Ben Rubi’nin Fikirleri</text>
+        </navLabel>
+        <content src="Text/15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Suçsuzları Dava</text>
+        </navLabel>
+        <content src="Text/16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Kendine Tapmak</text>
+        </navLabel>
+        <content src="Text/17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Einstein’ı Ziyaret</text>
+        </navLabel>
+        <content src="Text/18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Yeni Heykeltıraşlık</text>
+        </navLabel>
+        <content src="Text/20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Gökyüzüne Karşı</text>
+        </navLabel>
+        <content src="Text/21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Eğlenceler</text>
+        </navLabel>
+        <content src="Text/22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Aktörsüz Tiyatro</text>
+        </navLabel>
+        <content src="Text/23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Lenin’i Ziyaret</text>
+        </navLabel>
+        <content src="Text/24.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Hiçbir Şey Benim Değil</text>
+        </navLabel>
+        <content src="Text/25.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Satılan Cumhuriyet</text>
+        </navLabel>
+        <content src="Text/26.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>İntikam</text>
+        </navLabel>
+        <content src="Text/27.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Edison’u Ziyaret</text>
+        </navLabel>
+        <content src="Text/28.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Korkuya Karşı Sigorta</text>
+        </navLabel>
+        <content src="Text/29.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Dünyayı Yeniden Yapalım</text>
+        </navLabel>
+        <content src="Text/30.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Tanrıların Sesi</text>
+        </navLabel>
+        <content src="Text/31.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Şan ve Şeref</text>
+        </navLabel>
+        <content src="Text/32.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Şiir Endüstrisi</text>
+        </navLabel>
+        <content src="Text/33.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Wells’i Ziyaret</text>
+        </navLabel>
+        <content src="Text/34.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Filomanya</text>
+        </navLabel>
+        <content src="Text/35.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Yıldızlar = İnsanlar</text>
+        </navLabel>
+        <content src="Text/36.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Şehir Cesetleri</text>
+        </navLabel>
+        <content src="Text/37.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Kakavan</text>
+        </navLabel>
+        <content src="Text/38.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Saint-Germain Kontu</text>
+        </navLabel>
+        <content src="Text/39.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Ufacıcık</text>
+        </navLabel>
+        <content src="Text/40.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bitoloji Kürsüsü</text>
+        </navLabel>
+        <content src="Text/41.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Pedokrasi</text>
+        </navLabel>
+        <content src="Text/42.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Devler Koleksiyonu</text>
+        </navLabel>
+        <content src="Text/43.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Bana Miras Kalan Ruh</text>
+        </navLabel>
+        <content src="Text/44.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Hasret Çeken Cellat</text>
+        </navLabel>
+        <content src="Text/45.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Açık Artırma</text>
+        </navLabel>
+        <content src="Text/46.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Bernard Shaw’ı Ziyaret</text>
+        </navLabel>
+        <content src="Text/47.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Manevi Cerrahlık</text>
+        </navLabel>
+        <content src="Text/48.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Sir J.-G. Frazer ve Büyü</text>
+        </navLabel>
+        <content src="Text/49.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>A.A. ve W.C.</text>
+        </navLabel>
+        <content src="Text/50.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Knut Hamsun’u Ziyaret</text>
+        </navLabel>
+        <content src="Text/51.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Hastalık İlaçtır</text>
+        </navLabel>
+        <content src="Text/52.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>İbni Kusaî’nin Dükkânı</text>
+        </navLabel>
+        <content src="Text/53.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Kâğıt</text>
+        </navLabel>
+        <content src="Text/54.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Hayvana Dönüş</text>
+        </navLabel>
+        <content src="Text/55.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Ramon ve Madenler</text>
+        </navLabel>
+        <content src="Text/56.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Hermosilla de Salvatierra Dükü</text>
+        </navLabel>
+        <content src="Text/57.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Pisagores’in Dönüşü</text>
+        </navLabel>
+        <content src="Text/58.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Yüz Kalp</text>
+        </navLabel>
+        <content src="Text/59.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Altında Yüzmek</text>
+        </navLabel>
+        <content src="Text/60.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Benzerler Koleksiyonu</text>
+        </navLabel>
+        <content src="Text/61.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Tasvir Öldürmek</text>
+        </navLabel>
+        <content src="Text/62.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Âlemin Hâkimi</text>
+        </navLabel>
+        <content src="Text/63.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Güç Temizlik</text>
+        </navLabel>
+        <content src="Text/64.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Çocuğun Ekmeği</text>
+        </navLabel>
+        <content src="Text/65.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>GOG (2. kitap)</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Okuyuculara</text>
+        </navLabel>
+        <content src="Text/okuyuculara.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Önsöz</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Ernest O. Lawrence’ı Ziyaret veyaAtom Bombası Üzerine</text>
+        </navLabel>
+        <content src="Text/66.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Bir Korkunç Eğlenti</text>
+        </navLabel>
+        <content src="Text/67.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Elektronik Mahkeme</text>
+        </navLabel>
+        <content src="Text/68.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Walt Whitman’ın İnsan Destanı</text>
+        </navLabel>
+        <content src="Text/69.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Wright’ı Ziyaret veya Geleceğin Mimarisi</text>
+        </navLabel>
+        <content src="Text/70.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Çelik Kitaplık</text>
+        </navLabel>
+        <content src="Text/71.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Astronom’un Yanılgısı</text>
+        </navLabel>
+        <content src="Text/72.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Molotov’u Ziyaret</text>
+        </navLabel>
+        <content src="Text/73.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Öteki Dünya’dan Haberler</text>
+        </navLabel>
+        <content src="Text/74.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Roman Fabrikası</text>
+        </navLabel>
+        <content src="Text/75.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Tabiat Düşmanı</text>
+        </navLabel>
+        <content src="Text/76.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Yüz Çocuk Babası</text>
+        </navLabel>
+        <content src="Text/77.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Ünlü Piyanist</text>
+        </navLabel>
+        <content src="Text/78.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Bilmezoloji</text>
+        </navLabel>
+        <content src="Text/79.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Ruh ve Kas</text>
+        </navLabel>
+        <content src="Text/80.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Lin-Yutang’ı Ziyaret veya Sarı Tehlike</text>
+        </navLabel>
+        <content src="Text/81.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Gönüllü Cellatlar</text>
+        </navLabel>
+        <content src="Text/82.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Çocuk Pazarı</text>
+        </navLabel>
+        <content src="Text/83.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Otorikuma ile Bir Görüşme</text>
+        </navLabel>
+        <content src="Text/84.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Yabanın Öcü</text>
+        </navLabel>
+        <content src="Text/85.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Gerileme Enstitüsü</text>
+        </navLabel>
+        <content src="Text/86.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Sistemli Aptallaşma</text>
+        </navLabel>
+        <content src="Text/87.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Bahadır’ın Ordusu</text>
+        </navLabel>
+        <content src="Text/88.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Gökler Münzevisi</text>
+        </navLabel>
+        <content src="Text/89.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Çirkin Venüsler</text>
+        </navLabel>
+        <content src="Text/90.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Çamura Övgü</text>
+        </navLabel>
+        <content src="Text/91.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Bir Keşiş Soruyor</text>
+        </navLabel>
+        <content src="Text/92.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Hırdavat Müzesi</text>
+        </navLabel>
+        <content src="Text/93.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Cinayet Üniversitesi</text>
+        </navLabel>
+        <content src="Text/94.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Deniz İnzivası</text>
+        </navLabel>
+        <content src="Text/95.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Adanın Ölümü</text>
+        </navLabel>
+        <content src="Text/96.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Ascenzia</text>
+        </navLabel>
+        <content src="Text/97.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Dünya Yıkıcıları Kongresi</text>
+        </navLabel>
+        <content src="Text/98.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Ölülere Ölüm</text>
+        </navLabel>
+        <content src="Text/99.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Gurur Üzerine Vaaz</text>
+        </navLabel>
+        <content src="Text/100.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Zalimlerin Sonu</text>
+        </navLabel>
+        <content src="Text/101.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Don Kişot’un Gençliği</text>
+        </navLabel>
+        <content src="Text/102.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Garcia Lorca ile Görüşme(Boğa Güreşi)</text>
+        </navLabel>
+        <content src="Text/103.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Birinci ve Sonuncu(Miguel de Unamuno)</text>
+        </navLabel>
+        <content src="Text/104.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Aktörlerin Ayaklanmaları</text>
+        </navLabel>
+        <content src="Text/105.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Salvador Dali’yi Ziyaret</text>
+        </navLabel>
+        <content src="Text/106.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Öç</text>
+        </navLabel>
+        <content src="Text/107.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Üstün Akıllı Bir Adam</text>
+        </navLabel>
+        <content src="Text/108.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Dünyada Tek Başına</text>
+        </navLabel>
+        <content src="Text/109.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Leopardi’nin İyimserliği</text>
+        </navLabel>
+        <content src="Text/110.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Markoni’yi Ziyaret(veya Hareketin Sonu)</text>
+        </navLabel>
+        <content src="Text/111.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Mermer İnsanlık</text>
+        </navLabel>
+        <content src="Text/112.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>İtalya’nın Çirkinleşmesi</text>
+        </navLabel>
+        <content src="Text/113.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Picasso’yu Ziyaret(veya Sanatın Sonu)</text>
+        </navLabel>
+        <content src="Text/114.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Voronof ile Görüşme(veya İnsanın Başkalaşımı)</text>
+        </navLabel>
+        <content src="Text/115.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Günahkâr Rahip ve Başrahip</text>
+        </navLabel>
+        <content src="Text/116.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Barışı İstiyor Musunuz?</text>
+        </navLabel>
+        <content src="Text/117.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Aşkın Öldürdüğü</text>
+        </navLabel>
+        <content src="Text/118.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Maddenin Dirilişi</text>
+        </navLabel>
+        <content src="Text/119.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Paul Valery ile Görüşme(yahut Şiir ve Felsefe)</text>
+        </navLabel>
+        <content src="Text/120.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Seksenliğin Şiiri(Victor Hugo’dan)</text>
+        </navLabel>
+        <content src="Text/121.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Kin Üzerine(Stendhal’ın)</text>
+        </navLabel>
+        <content src="Text/122.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>Yeni Baştan</text>
+        </navLabel>
+        <content src="Text/123.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Dönüş(Franz Kafka’dan)</text>
+        </navLabel>
+        <content src="Text/124.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>İhtiyarlar ve Çocuklar(Leon Tolstoy’dan)</text>
+        </navLabel>
+        <content src="Text/125.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>Karga Uçuşu Genel Dünya Tarihi</text>
+        </navLabel>
+        <content src="Text/126.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Hitler’i Ziyaret</text>
+        </navLabel>
+        <content src="Text/127.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>Tanrıların İsyanı(Wolfgang Goethe’den)</text>
+        </navLabel>
+        <content src="Text/128.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Hayat Eşit Ölüm(Kierkegaard’dan)</text>
+        </navLabel>
+        <content src="Text/129.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>Yeni Evren</text>
+        </navLabel>
+        <content src="Text/130.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Papa’nın Dönmesi(Robert Browning’den)</text>
+        </navLabel>
+        <content src="Text/131.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>Huxley’i Ziyaret(veya Ferdin Ölümü)</text>
+        </navLabel>
+        <content src="Text/132.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>Erekçilik</text>
+        </navLabel>
+        <content src="Text/133.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>Olmayacak Şey Satıcıları</text>
+        </navLabel>
+        <content src="Text/134.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>Yeniden Bulunan Cennet(William Blake’ten)</text>
+        </navLabel>
+        <content src="Text/135.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

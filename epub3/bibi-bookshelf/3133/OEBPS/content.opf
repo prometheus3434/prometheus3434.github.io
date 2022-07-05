@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Eski Türk mitolojisi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roux, Jean-Paul">Jean-Paul Roux</dc:creator>
+    <dc:identifier id="uuid">{CD8EDC8B-09FE-4F6B-B4C3-4D03B3600B30}</dc:identifier>
+    <dc:publisher>Bilge Su</dc:publisher>
+    <dc:date>2011-06-15T11:06:15+00:00</dc:date>
+    <dc:description>&lt;p&gt;Eski Türk halklarının dinlerini ve mitolojilerini kesin ve güvenilir bir biçimde ana hatlarıyla betimlemek için vakit henüz çok erken. Dinleri, tek tanrı ya da en azından diğer tanrılardan daha üstün olan bir gök tanrı inancına dayanmaktadır. Fakat ayrıca insanüstü güçlere de inanmakta, hayvanlara ilgi duymakta ve şüphesiz totemizme meyletmekteydiler. Dinleri, dünyanın başlangıcı ve sonuna fazlaca eğilmezken, daha çok büyük şahsiyetlerin doğumunu ve boyların oluşumunu açıklamaya çalışmaktadır. 
+
+Bu bağlamda, genellikle bir hayvanla bir insanın birleşmesi ya da bir ışığın müdahalesi sonucu gerçekleşen doğumlara ilişkin olağanüstü anlatılara yer verilmektedir. Dinleri, sınıflama konusunda karakteristik bir anlayışa ve zengin ritüellere sahiptir, ne var ki biz bunların ancak bir kısmını bilmekteyiz. Bu ritüellerde kurban konusuna asıl rol düşmektedir, ancak temizlik ve tabulaştırma konularına da geniş yer verilmektedir. Eski Türk halklarının bu dini, başka bir dünyada ebedi hayatı yaşamaya ya da bu dünyada kalmaya mahkûm edilen ölüleri ve ataları konu edinmektedir. Dinlerinde, kehanet ve büyü konuları yer almakta, ayıca şamanist ögelere de sıkça rastlanmaktadır
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Mitoloji</dc:subject>
+    <dc:subject>Türk Tarihi</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ce93990c-a584-4420-8834-3fd07bb4e631</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">wh6kpwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944795340</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944795340</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x373503.jpg"/>
+    <meta name="calibre:title_sort" content="Eski Türk mitolojisi"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean-Paul Roux&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Images/373503.jpg" id="x373503.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

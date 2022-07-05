@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="c4cb33ef-8ea8-43f9-975b-a5e763028c54"/>
+        <meta name="dtb:depth" content="0"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Gertrud</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Start</text>
+            </navLabel>
+            <content src="Text/titlepage.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

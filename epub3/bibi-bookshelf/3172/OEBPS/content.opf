@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Fahrenheit 451</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bradbury, Ray &amp; Hamilton, Tim">Ray Bradbury</dc:creator>
+    <dc:creator opf:role="aut">Tim Hamilton</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:67081c3b-de5c-477a-a112-c1400195f057</dc:identifier>
+    <dc:date>2018-06-15T10:51:10+00:00</dc:date>
+    <dc:publisher>Mondadori</dc:publisher>
+    <dc:description>Montag fa il pompiere in un mondo dove gli incendi anziché essere spenti vengono appiccati. Armato di lanciafiamme, fa irruzione nelle case dei sovversivi che conservano libri e li brucia. Montag però non è felice della sua esistenza alienata, fra giganteschi schermi televisivi, una moglie che gli è indifferente e un lavoro di routine. Finché, dall'incontro con una donna sconosciuta, inizia per lui la scoperta di un sentimento e di un mondo diverso. In una società in cui leggere libri e possederne è reato, riusciranno almeno le parole a salvarsi dalla distruzione, dai roghi del potere? Un raffinato graphic novel, approvato da Ray Bradbury (che ne firma la prefazione), nel quale rivivono le allucinate e poetiche atmosfere di uno dei romanzi distopici più amati.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:67081c3b-de5c-477a-a112-c1400195f057</dc:identifier>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Comics &amp; Graphic Novels</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Science Fiction</dc:subject>
+    <dc:language>it</dc:language>
+    <dc:identifier opf:scheme="calibre">7d6c24b8-f11c-446e-90ac-ba508f37f438</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9788804701200</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">hJmsuAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:67081c3b-de5c-477a-a112-c1400195f057</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053751670</dc:identifier>
+    <meta name="cover" content="ithaki_fahrenheit_451.jpg"/>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Fahrenheit 451"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ray Bradbury&quot;: &quot;&quot;, &quot;Tim Hamilton&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/ithaki_fahrenheit_451.jpg" id="ithaki_fahrenheit_451.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

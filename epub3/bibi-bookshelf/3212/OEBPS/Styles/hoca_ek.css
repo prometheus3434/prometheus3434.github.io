@@ -1,0 +1,169 @@
+.kunye {
+text-indent : 0;
+font-size : 0.85em;
+margin-bottom : 0.75em;
+}
+h1 {
+font-size : 1.4375em;
+line-height : 1.043478;
+margin-top : 1.7em;
+margin-bottom : 1.5em;
+text-align : center;
+}
+h2 {
+font-size : 1.4375em;
+line-height : 1.043478;
+margin-top : 1.7em;
+margin-bottom : 1.5em;
+text-align : center;
+}
+.dipnot {
+text-indent : 2em;
+margin-top : 0.5em;
+margin-bottom : 0.5em;
+margin-left : 2em;
+font-size : 0.85em;
+}
+.baslik {
+text-align : center;
+font-weight : bold;
+text-indent : 0;
+font-size : 3em;
+font-family : "Times New Roman";
+}
+.baslik2 {
+text-align : center;
+font-weight : bold;
+font-size : 1.5em;
+text-indent : 0;
+margin-top : 4em;
+margin-bottom : 2em;
+}
+.baslik3 {
+text-align : center;
+font-style : italic;
+text-indent : 1em;
+font-size : 1em;
+margin-top : 1em;
+margin-bottom : 1em;
+}
+img {
+max-height : 100%;
+max-width : 100%;
+}
+p.ilk-prgrf {
+font-weight : normal;
+font-style : normal;
+text-decoration : none;
+font-variant : normal;
+text-indent : 0;
+}
+span.ilk-hrf {
+font-family : "TR_Amazone";
+font-size : 5em;
+float : left;
+line-height : 1em;
+margin-top : -0.227em;
+margin-right : 0.05em;
+margin-bottom : -0.216em;
+}
+.dvm {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+text-decoration : none;
+font-variant : normal;
+line-height : 1.25;
+text-align : justify;
+text-indent : 0;
+margin-left : 20px;
+}
+a {
+text-decoration : underline;
+font-weight : bold;
+}
+table {
+display : table;
+table-layout : auto;
+border-collapse : collapse;
+border-spacing : 0;
+max-width : 100%;
+margin : 1.5em auto;
+}
+caption, .caption, .altyazi {
+caption-side : top;
+text-align : center;
+font-weight : bold;
+}
+th {
+empty-cells : show;
+padding : 0.1em 2% 0.6em 0;
+text-align : left;
+font-weight : bold;
+}
+td {
+empty-cells : show;
+padding : 0.1em 0% 0.1em 0;
+text-align : left;
+}
+.two1 {
+width : 40%;
+font-size : 0.90em;
+font-weight : bold;
+vertical-align : top;
+}
+.two2 {
+width : 60%;
+font-size : 0.90em;
+padding-right : 6px;
+vertical-align : top;
+}
+.cell35 {
+width : 35%;
+}
+.cell45 {
+width : 45%;
+font-size : 1.1em;
+padding-right : 6px;
+vertical-align : bottom;
+text-align : right;
+border : solid 1px;
+border-style : none solid none none;
+font-weight : bold;
+}
+.cell55 {
+width : 55%;
+padding-left : 4px;
+vertical-align : bottom;
+font-size : 0.85em;
+border : solid 1px;
+border-style : none none none solid;
+}
+.cell5 {
+text-align : center;
+width : 5%;
+}
+hr.line {
+width : auto;
+margin : 5% 75% 5% 5%;
+text-indent : 1.5em;
+overflow : hidden;
+}
+div + p {
+text-indent : 0;
+}
+h1 + p {
+text-indent : 0;
+}
+.a1 {
+font-size : 2.0em;
+line-height : 0.90;
+font-weight : bold;
+text-indent : 40%;
+}
+.a2 {
+font-size : 2.0em;
+line-height : 1.0;
+font-weight : bold;
+text-indent : 43%;
+}

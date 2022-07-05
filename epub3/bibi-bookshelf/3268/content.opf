@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>GencWertherinAcilari</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-12-01T12:33:32+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b9e5674e-b0cd-4fcc-b02c-b946862e6095</dc:identifier>
+    <dc:language>de</dc:language>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b1312474-0872-471a-b68c-ad1f49f972cd</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-12-02T10:50:01.302684+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="GencWertherinAcilari"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uoLOhQzBvleXBPFfHHJCkuB" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari9" href="OEBPS/GencWertherinAcilari_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari8" href="OEBPS/GencWertherinAcilari_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari7" href="OEBPS/GencWertherinAcilari_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari6" href="OEBPS/GencWertherinAcilari_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari5" href="OEBPS/GencWertherinAcilari_split_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari4" href="OEBPS/GencWertherinAcilari_split_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari3" href="OEBPS/GencWertherinAcilari_split_006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari2" href="OEBPS/GencWertherinAcilari_split_007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GencWertherinAcilari1" href="OEBPS/GencWertherinAcilari_split_008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/GencWertherinAcilari.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uoLOhQzBvleXBPFfHHJCkuB"/>
+    <itemref idref="GencWertherinAcilari9"/>
+    <itemref idref="GencWertherinAcilari8"/>
+    <itemref idref="GencWertherinAcilari7"/>
+    <itemref idref="GencWertherinAcilari6"/>
+    <itemref idref="GencWertherinAcilari5"/>
+    <itemref idref="GencWertherinAcilari4"/>
+    <itemref idref="GencWertherinAcilari3"/>
+    <itemref idref="GencWertherinAcilari2"/>
+    <itemref idref="GencWertherinAcilari1"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

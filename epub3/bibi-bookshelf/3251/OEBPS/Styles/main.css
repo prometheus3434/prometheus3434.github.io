@@ -1,0 +1,22 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+sub, sup { 
+font-size: 80%;
+line-height: 0; 
+}
+a:link {text-decoration: none;}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.logo {text-align: center; margin: 5em 0 1em;}
+
+.bos05{margin-top:0.5em;}
+.bos{margin-top:11.7em;}
+
+.sekil{text-indent:0em;text-align:center;margin-bottom:8em;}
+.baslik{text-indent:0em;text-align:center;font-weight:bold;font-size:1.3em;}
+.tarih{text-align:right;font-style:italic;margin-bottom:0.4em;}

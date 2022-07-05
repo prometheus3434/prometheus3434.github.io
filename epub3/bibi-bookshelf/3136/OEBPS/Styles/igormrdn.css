@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "Book Antiqua";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BKANT.TTF);
+  }
+@font-face {
+  font-family: "Book Antiqua";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/ANTQUAI.TTF);
+  }
+@font-face {
+  font-family: "Book Antiqua";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/ANTQUAB.TTF);
+  }
+body {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+p {
+  text-indent: 2em;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Book Antiqua", serif;
+  font-size: 127%;
+}
+.p0 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 1em;
+}
+.p1 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+}
+.p2 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 2em;
+}
+.p3 {
+  text-indent: 0.2em;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 3em;
+}
+.p4 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 10em;
+}
+.p5 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+  margin-top: 4.1em;
+}
+.p6 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+}
+.p7 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4.1em;
+  margin-bottom: 2em;
+}
+.p9 {
+  margin-top: 2em;
+}
+.p10 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 14em;
+}
+.p11 {
+  text-align: right;
+}
+.p12 {
+  text-indent: 0;
+  margin-left: 2.6em;
+  text-align: center;
+  margin-top: 4.1em;
+  margin-bottom: 2em;
+}
+.t0 {
+  font-size: 0.86em;
+}
+.t1 {
+  font-size: 1.3em;
+}
+.t2 {
+  font-size: 1.6em;
+}

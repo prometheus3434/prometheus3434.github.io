@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gölün Hanımı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sapkowski, Andrzej">Andrzej Sapkowski</dc:creator>
+    <dc:creator opf:role="trl">Regaip Minareci</dc:creator>
+    <dc:publisher>Pegasus Yayınları</dc:publisher>
+    <dc:date>2020-12-23T21:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">Id_F70D5D39-7B99-49C5-886C-8AF750E1AD44_</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">d04571d9-6497-45ac-b1e3-6c940cc17576</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-299-830-4</dc:identifier>
+    <meta content="The Witcher" name="calibre:series"/>
+    <meta content="7.0" name="calibre:series_index"/>
+    <meta content="1.4.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Gölün Hanımı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Andrzej Sapkowski&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0001.xhtml" href="Text/bolum_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0002.xhtml" href="Text/bolum_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0003.xhtml" href="Text/bolum_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0004.xhtml" href="Text/bolum_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0005.xhtml" href="Text/bolum_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0006.xhtml" href="Text/bolum_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0007.xhtml" href="Text/bolum_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0008.xhtml" href="Text/bolum_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0009.xhtml" href="Text/bolum_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0010.xhtml" href="Text/bolum_0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0011.xhtml" href="Text/bolum_0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum_0012.xhtml" href="Text/bolum_0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arkakapak.xhtml" href="Text/arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id18" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id17" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="id10" href="Images/main-1.jpg" media-type="image/jpeg"/>
+    <item id="id11" href="Images/main-2.jpg" media-type="image/jpeg"/>
+    <item id="id12" href="Images/main-3.jpg" media-type="image/jpeg"/>
+    <item id="id13" href="Images/main-4.jpg" media-type="image/jpeg"/>
+    <item id="id14" href="Images/main-5.jpg" media-type="image/jpeg"/>
+    <item id="id15" href="Images/main-6.jpg" media-type="image/jpeg"/>
+    <item id="id16" href="Images/main-7.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id18">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum_0001.xhtml"/>
+    <itemref idref="bolum_0002.xhtml"/>
+    <itemref idref="bolum_0003.xhtml"/>
+    <itemref idref="bolum_0004.xhtml"/>
+    <itemref idref="bolum_0005.xhtml"/>
+    <itemref idref="bolum_0006.xhtml"/>
+    <itemref idref="bolum_0007.xhtml"/>
+    <itemref idref="bolum_0008.xhtml"/>
+    <itemref idref="bolum_0009.xhtml"/>
+    <itemref idref="bolum_0010.xhtml"/>
+    <itemref idref="bolum_0011.xhtml"/>
+    <itemref idref="bolum_0012.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

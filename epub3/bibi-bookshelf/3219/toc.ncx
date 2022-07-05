@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="109bfdf2-1b86-4209-853e-1539d3a4bae7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fotoğraf Üzerine</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{3A4E40E0-459F-401F-A40B-3C70ABFF7FB7}" playOrder="1">
+      <navLabel>
+        <text>Avrupa fotoğrafı önemli ölçüde resimsel (yani yoks</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7F399423-1EB7-4FE2-BA7A-F6424929E7F9}" playOrder="2">
+      <navLabel>
+        <text>Çağdaş fotoğrafçıların sanat hortlağını defetme ça</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{73B2AD43-5DD7-4FA8-A7DD-B588A891138C}" playOrder="3">
+      <navLabel>
+        <text>Charis Weston (Ben Maddow'un, Edward Weston: Fifty</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

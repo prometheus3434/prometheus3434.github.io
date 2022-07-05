@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Göz</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nabokov, Vladimir Vladimirovich">Vladimir Vladimirovich Nabokov</dc:creator>
+    <dc:identifier id="uuid">{0EB300F9-69D1-42A5-840F-E68E491B412B}</dc:identifier>
+    <dc:date>2005-06-15T10:19:51+00:00</dc:date>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;“O kadınla, o Matilda’yla Berlin’deki émigré varoluşumun ilk yıllarında tanıştım, iki zaman   &lt;br&gt;diliminin yirmili yıllarının başlarında:   &lt;br&gt;bu yüzyılın ve kendi berbat hayatımın...”  &lt;br&gt;Göz, s.11 &lt;/p&gt;
+&lt;p class="description"&gt;“‘Göz’de, romancılık kariyerinde ilk kez olmak üzere Nabokov birinci tekil şahısta bir roman yazar. (...) Nabokov’un ‘Göz’de yaptığı büyük teknik yenilik, görüş açısını cüretkârca kullanışı, daha sonraki sanatının habercisidir; neredeyse delicesine benmerkezci anlatıcılarının; roman birinci ve üçüncü tekil şahıslar arasında kayarcasına yol alır. (...) ‘Göz’ün anlatıcısı ‘gerçekten’ ölür mü, yoksa öldüğünü mü sanır? Anlatıcı ve Smurov bir ve tek kişi midirler, öyle ise, ‘biri’ ‘öbürü’nün bilincinde midir?”   &lt;br&gt;Brian Boyd (Nabakov: The Russian Years)&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Rus Edebiyatı</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a28deaad-2f2d-4589-bc58-e9af923a2a29</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2D8cAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">9836682</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750503290</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750503290</dc:identifier>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="x00.jpg"/>
+    <meta name="calibre:title_sort" content="Göz"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Vladimir Vladimirovich Nabokov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-003.xhtml" id="I-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-004.xhtml" id="I-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-005.xhtml" id="I-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-006.xhtml" id="I-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-001.xhtml" id="P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Images/00.jpg" id="x00.jpg" media-type="image/jpeg"/>
+    <item href="Images/iletisim-291x300.jpg" id="iletisim-291x300.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="I-003.xhtml"/>
+    <itemref idref="I-004.xhtml"/>
+    <itemref idref="I-005.xhtml"/>
+    <itemref idref="I-006.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{13742047-080C-4FC0-B759-D7A8155F2CDF}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Golgeler_Ordusu_TekSayfa</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KAÇIŞ</text>
+      </navLabel>
+      <content src="Text/Section01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖLDÜRME İŞLEMİ</text>
+      </navLabel>
+      <content src="Text/Section02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>CEBELİTARIK YOLCULUĞU İÇİN GEMİYE BİNİŞ</text>
+      </navLabel>
+      <content src="Text/Section03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>“OLAĞANÜSTÜ İNSANLAR ONLAR”</text>
+      </navLabel>
+      <content src="Text/Section04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>PHİLİPPE GERBİER’İN NOTLARI</text>
+      </navLabel>
+      <content src="Text/Section05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>HİTLER DÖNEMİNDE BİR SON GECE</text>
+      </navLabel>
+      <content src="Text/Section06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ATIŞ ALANI</text>
+      </navLabel>
+      <content src="Text/Section07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>MATHİLDE’NİN KIZI</text>
+      </navLabel>
+      <content src="Text/Section08.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

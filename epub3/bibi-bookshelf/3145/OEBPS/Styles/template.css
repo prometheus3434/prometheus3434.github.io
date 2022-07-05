@@ -1,0 +1,778 @@
+
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+span.char-style-override-1 {
+	font-size : 3.133em;
+	float : left;
+	line-height : 1;
+	margin-top : -0.131em;
+	margin-right : 0.05em;
+	margin-bottom : -0.216em;
+}
+span.char-style-override-2 {
+	font-size : 0.95em;
+}
+span.char-style-override-3 {
+	font-size : 0.95em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-4 {
+	font-size : 1.11em;
+}
+span.char-style-override-5 {
+	font-size : 1.11em;
+	font-style : italic;
+	font-weight : normal;
+	text-transform : uppercase;
+}
+span.char-style-override-6 {
+	font-size : 1.11em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-7 {
+	font-size : 1.13em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-8 {
+	font-size : 1.25em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-9 {
+	font-size : 1.25em;
+}
+span.char-style-override-10 {
+	font-size : 0.81em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-11 {
+	font-size : 0.63em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-12 {
+	font-size : 0.75em;
+}
+span.char-style-override-13 {
+	font-size : 0.69em;
+}
+span.char-style-override-14 {
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-15 {
+	font-size : 1.33em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-16 {
+	font-style : italic;
+	font-weight : bold;
+}
+span.char-style-override-17 {
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-18 {
+	font-size : 0.76em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-19 {
+	font-size : 0.76em;
+}
+span.char-style-override-20 {
+	font-size : 1.17em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-21 {
+	font-size : 0.79em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-22 {
+	font-size : 0.83em;
+}
+span.char-style-override-23 {
+	font-size : 0.88em;
+}
+span.char-style-override-24 {
+	font-size : 0.88em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-25 {
+	font-size : 0.79em;
+}
+span.char-style-override-26 {
+	font-size : 0.67em;
+}
+span.char-style-override-27 {
+	font-size : 0.88em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-28 {
+	font-size : 0.58em;
+}
+span.char-style-override-29 {
+	color : #ffffff;
+	font-size : 1.04em;
+}
+span.char-style-override-30 {
+	font-size : 1.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-31 {
+	font-size : 1.33em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-32 {
+	font-size : 1.33em;
+	font-style : italic;
+	font-weight : bold;
+}
+span.char-style-override-33 {
+	font-size : 0.5em;
+}
+span.char-style-override-34 {
+	font-size : 0.79em;
+	font-style : italic;
+	font-weight : bold;
+}
+span.char-style-override-35 {
+	font-size : 3.29em;
+}
+span.char-style-override-36 {
+	font-size : 0.96em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-37 {
+	font-size : 0.92em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-38 {
+	font-size : 0.63em;
+}
+span.char-style-override-39 {
+	font-size : 0.9em;
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-40 {
+	font-size : 0.86em;
+}
+span.char-style-override-41 {
+	font-size : 1.4em;
+}
+span.char-style-override-42 {
+	font-size : 0.9em;
+}
+span.char-style-override-43 {
+	font-size : 1.07em;
+}
+span.char-style-override-44 {
+	font-size : 2em;
+}
+span.char-style-override-45 {
+	font-size : 1.33em;
+}
+span.char-style-override-46 {
+	font-size : 1.2em;
+}
+span.char-style-override-47 {
+	font-size : 0.93em;
+}
+span.char-style-override-48 {
+	font-size : 1.14em;
+	font-style : italic;
+	font-weight : bold;
+}
+span.char-style-override-49 {
+	font-size : 1.14em;
+}
+span.char-style-override-50 {
+	vertical-align : super;
+}
+span.char-style-override-51 {
+	font-style : italic;
+	font-weight : normal;
+	vertical-align : super;
+}
+span.char-style-override-52 {
+	font-size : 1.05em;
+}
+p.x-NS-Z {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 10px 50px 10px;
+}
+p.x3--sayfa-baslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 0.75;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.G-vde {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 10px 8px 10px;
+}
+p.x-NS-Z-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 10px 50px 10px;
+}
+p.x0-paragraf {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Metin {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.K-nye {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.G-vde-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 10px 8px 10px;
+}
+p.x-NS-Z-2 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 10px 50px 10px;
+}
+p.Metin-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 15px;
+	margin : 0px 5px 5px 0px;
+}
+p.x1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 10px 50px 10px;
+}
+p.G-vde-2 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 10px 8px 10px;
+}
+p.x2 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+
+	color : #000000;
+	text-indent : 0px;
+	margin : 210px 10px 70px 10px;
+}
+p.x3 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	
+	color : #000000;
+	text-indent : 0px;
+	margin : 70px 10px 35px 10px;
+}
+p.FOTO {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 33px 0px;
+}
+p.x-NS-Z-3 {
+	font-family : "Liberation Serif", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 250px 10px 50px 10px;
+}
+p.x0-paragraf-1 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Metin-2 {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.Baslik {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.13;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.dipnot {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 0px 14px;
+}
+p.Konu-Ba-l--- {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 8px 10px 12px 10px;
+}
+p.Normal {
+	font-family : "Liberation Serif", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	text-align : right;
+}
+p.para-style-override-3 {
+	text-indent : 0px;
+}
+p.para-style-override-4 {
+	margin-top : 6px;
+	text-indent : 0px;
+}
+p.para-style-override-5 {
+	margin-top : 9px;
+	text-indent : 0px;
+}
+p.para-style-override-6 {
+	margin-top : 3px;
+}
+p.para-style-override-7 {
+	margin-left : 14px;
+	text-indent : 0px;
+}
+p.para-style-override-8 {
+	margin-left : 14px;
+	margin-top : 6px;
+	text-indent : 0px;
+}
+p.para-style-override-9 {
+	margin-top : 6px;
+}
+p.para-style-override-10 {
+	margin-top : 11px;
+}
+p.para-style-override-11 {
+	margin-left : 128px;
+	margin-top : 6px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-12 {
+	margin-left : 133px;
+	text-align : left;
+	text-indent : 0px;
+}
+p.para-style-override-13 {
+	text-align : center;
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+p.para-style-override-14 {
+	text-align : center;
+}
+p.para-style-override-15 {
+	text-align : left;
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+p.para-style-override-16 {
+	text-align : left;
+	margin-top : 20em;
+	margin-bottom : 20em;
+}
+p.para-style-override-17 {
+	text-align : left;
+}
+p.para-style-override-18 {
+	text-indent : 48px;
+}
+p.para-style-override-19 {
+	text-indent : 77px;
+}
+p.para-style-override-20 {
+	margin-top : 9px;
+}
+p.para-style-override-21 {
+	margin-top : 14px;
+}
+p.para-style-override-22 {
+	margin-top : 11px;
+	text-indent : 0px;
+}
+p.para-style-override-23 {
+	text-indent : 108px;
+}
+p.para-style-override-24 {
+	margin-top : 9px;
+	text-indent : 26px;
+}
+p.para-style-override-25 {
+	text-indent : 26px;
+}
+p.para-style-override-26 {
+	margin-top : 3px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-27 {
+	margin-top : 14px;
+	text-indent : 0px;
+}
+p.para-style-override-28 {
+	margin-left : 34px;
+	margin-top : 9px;
+	text-indent : -14px;
+}
+p.para-style-override-29 {
+	margin-left : 34px;
+	text-indent : -14px;
+}
+p.para-style-override-30 {
+	margin-top : 6px;
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-31 {
+	margin-left : 28px;
+	margin-top : 9px;
+	text-indent : -14px;
+}
+p.para-style-override-32 {
+	margin-left : 28px;
+	text-indent : -14px;
+}
+p.para-style-override-33 {
+	margin-left : 43px;
+	margin-top : 6px;
+	text-indent : -11px;
+}
+p.para-style-override-34 {
+	margin-left : 43px;
+	text-indent : -11px;
+}
+p.para-style-override-35 {
+	text-indent : 198px;
+}
+p.para-style-override-36 {
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-37 {
+	margin-bottom : 6px;
+	margin-top : 9px;
+}
+p.para-style-override-38 {
+	margin-top : 17px;
+}
+p.para-style-override-39 {
+	margin-bottom : 6px;
+	margin-top : 11px;
+}
+p.para-style-override-40 {
+	text-indent : 17px;
+}
+p.para-style-override-41 {
+	margin-top : 6px;
+	text-indent : 85px;
+}
+p.para-style-override-42 {
+	text-indent : 85px;
+}
+p.para-style-override-43 {
+	margin-left : 20px;
+	margin-top : 11px;
+}
+p.para-style-override-44 {
+	margin-left : 20px;
+	margin-top : 9px;
+	text-indent : 11px;
+}
+p.para-style-override-45 {
+	margin-left : 20px;
+	text-indent : 11px;
+}
+p.para-style-override-46 {
+	text-indent : 142px;
+}
+p.para-style-override-47 {
+	margin-left : 17px;
+	margin-top : 9px;
+	text-indent : 9px;
+}
+p.para-style-override-48 {
+	margin-left : 28px;
+	margin-top : 9px;
+}
+p.para-style-override-49 {
+	margin-left : 45px;
+	text-indent : -11px;
+}
+p.para-style-override-50 {
+	margin-left : 43px;
+	margin-right : 43px;
+	text-indent : 0px;
+}
+p.para-style-override-51 {
+	margin-top : 3px;
+	text-indent : 156px;
+}
+p.para-style-override-52 {
+	margin-top : 3px;
+	text-indent : 0px;
+}
+p.para-style-override-53 {
+	margin-left : 14px;
+	margin-top : 6px;
+	text-indent : -14px;
+}
+p.para-style-override-54 {
+	margin-left : 14px;
+	margin-top : 9px;
+	text-indent : -14px;
+}
+p.para-style-override-55 {
+	margin-left : 14px;
+	margin-top : 3px;
+	text-indent : -14px;
+}
+p.para-style-override-56 {
+	margin-left : 31px;
+	margin-top : 9px;
+	text-indent : -14px;
+}
+p.para-style-override-57 {
+	margin-left : 31px;
+	text-indent : -14px;
+}
+div.Basic-Text-Frame {
+}
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.yildiz {
+Font-size:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+
+}
+
+  .baslik{
+text-align:center;
+  font-weight:bold;
+  font-size:2em;
+  margin-top:2em;
+  margin-bottom:2em;
+  }

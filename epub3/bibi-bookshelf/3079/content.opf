@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Bir elin sesi var</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Burgess, Anthony &amp; Hakmen, Roza">Anthony Burgess</dc:creator>
+    <dc:creator opf:role="aut">Roza Hakmen</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">da20bce8-9a85-4e4f-9872-e991b2e7a2a4</dc:identifier>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Anthony Burgess'ın 1961'de Joseph Kell müstear adıyla yayımladığı Bir Elin Sesi Var, Soğuk Savaş'ın tam ortasında kalan Britanya'da yaşanan hızlı değişim dönemine denk gelmiştir. Romanın başlığı Malay dilinde "karşılıksız aşk" anlamına gelen bir atasözüdür. Bu "karşılıksız aşk" tüketim kisvesi altında karşımıza çıkar. Oyunu kuralına göre oynayıp parayla sahip olabileceğiniz her şeyi satın alsanız da, bir "karşılık" elde edemezsiniz… &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Tıpkı "fotoğraf makinesi beyni"yle kazandığı bir TV yarışması sayesinde servete kavuşan Howard gibi... Modern hayatın entelektüel ve sanatsal değerleri hakir gören materyalizmine öfke duyan Howard, dünyanın çürümüşlüğünü bizzat uğradığı bir hakaret olarak algılamaktadır. Romanın anlatıcısı olan karısı Janet ise eğitimsiz ve sığ bir kadındır. Hayatını reklamlar, kadın dergileri ve televizyon belirler. Televizyonun amaç ve değerden yoksun hayatlara işaret eden bir metafor olarak kullanılması ise Jerzy Kosinski'nin unutulmaz yapıtı Being There'i önceler. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1989-06-15T12:44:04+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">87a155f4-6cb2-4327-90c3-996210b08968</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Y3ASPwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757650096</dc:identifier>
+    <meta name="calibre:title_sort" content="elin sesi var, Bir"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:43.218000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Anthony Burgess&quot;: &quot;&quot;, &quot;Roza Hakmen&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

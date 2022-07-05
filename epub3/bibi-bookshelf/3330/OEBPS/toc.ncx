@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{00004DFF-0CC0-1261-9915-F357D7A69E30}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Golgede ve Guneste Furbol - Galeano Eduardo</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YAZARIN İTİRAFI</text>
+      </navLabel>
+      <content src="Text/sunus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>FUTBOL</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>OYUNCU</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>KALECİ</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>YILDIZ</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>TARAFTAR</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>FANATİK</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>GOL</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>HAKEM</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>TEKNİK DİREKTÖR</text>
+      </navLabel>
+      <content src="Text/09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>TİYATRO</text>
+      </navLabel>
+      <content src="Text/10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>UZMANLAR</text>
+      </navLabel>
+      <content src="Text/11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>FUTBOL UZMANLARININ DİLİ</text>
+      </navLabel>
+      <content src="Text/12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ÖLÜM DANSI</text>
+      </navLabel>
+      <content src="Text/13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>SAVAŞIN DİLİ</text>
+      </navLabel>
+      <content src="Text/14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>STADYUM</text>
+      </navLabel>
+      <content src="Text/15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>TOP</text>
+      </navLabel>
+      <content src="Text/16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>FUTBOLUN KÖKENLERİ</text>
+      </navLabel>
+      <content src="Text/17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>OYUNUN KURALLARI</text>
+      </navLabel>
+      <content src="Text/18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>İNGİLİZ İŞGALLERİ</text>
+      </navLabel>
+      <content src="Text/19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>LATİN AMERİKA FUTBOLU</text>
+      </navLabel>
+      <content src="Text/20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>FLA İLE FLU'NUN TARİHÇESİ</text>
+      </navLabel>
+      <content src="Text/21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>TOPLUMLARIN AFYONU MU?</text>
+      </navLabel>
+      <content src="Text/22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>BAYRAK YERİNE TOP</text>
+      </navLabel>
+      <content src="Text/23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>ZENCİ FUTBOLCULAR</text>
+      </navLabel>
+      <content src="Text/24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>ZAMORA</text>
+      </navLabel>
+      <content src="Text/25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>SAMITIER</text>
+      </navLabel>
+      <content src="Text/26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>SAHADA ÖLÜM</text>
+      </navLabel>
+      <content src="Text/27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>FRIEDENREICH</text>
+      </navLabel>
+      <content src="Text/28.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>BÖLÜNMÜŞLÜKTEN BİRLİĞE</text>
+      </navLabel>
+      <content src="Text/29.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>AMERİKA'NIN İKİNCİ KEZ KEŞFİ</text>
+      </navLabel>
+      <content src="Text/30.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>ANDRADE</text>
+      </navLabel>
+      <content src="Text/31.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>FİYONK</text>
+      </navLabel>
+      <content src="Text/32.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>OLİMPİK GOL</text>
+      </navLabel>
+      <content src="Text/33.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>PIENDIBENE'NİN GOLÜ</text>
+      </navLabel>
+      <content src="Text/34.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>ROVEŞATA</text>
+      </navLabel>
+      <content src="Text/35.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>SCARONE</text>
+      </navLabel>
+      <content src="Text/36.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>SCARONE'NİN GOLÜ</text>
+      </navLabel>
+      <content src="Text/37.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>GİZLİ GÜÇLER</text>
+      </navLabel>
+      <content src="Text/38.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>NOLO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/39.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>1930 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/40.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>NASAZZI</text>
+      </navLabel>
+      <content src="Text/41.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>CAMUS</text>
+      </navLabel>
+      <content src="Text/42.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>DİZGİNLENEMEYENLER</text>
+      </navLabel>
+      <content src="Text/43.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>PROFESYONELLİK</text>
+      </navLabel>
+      <content src="Text/44.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>1934 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/45.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>RIO DE JANEIRO'DA TANRI VE ŞEYTAN</text>
+      </navLabel>
+      <content src="Text/46.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>UĞURSUZLUK GETİREN NESNELER</text>
+      </navLabel>
+      <content src="Text/47.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>TILSIMLAR VE DUALAR</text>
+      </navLabel>
+      <content src="Text/48.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>ERICO</text>
+      </navLabel>
+      <content src="Text/49.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>1938 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/50.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>MEAZZA'NIN GOLÜ</text>
+      </navLabel>
+      <content src="Text/51.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>LEÔNIDAS</text>
+      </navLabel>
+      <content src="Text/52.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>DOMINGOS</text>
+      </navLabel>
+      <content src="Text/53.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>DOMINGOS VE TOP</text>
+      </navLabel>
+      <content src="Text/54.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>ATILIO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/55.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>HER MÜKEMMEL ÖPÜCÜK TEK OLMAK İSTER</text>
+      </navLabel>
+      <content src="Text/56.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>MAKİNE</text>
+      </navLabel>
+      <content src="Text/57.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>MORENO</text>
+      </navLabel>
+      <content src="Text/58.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>PEDERNERA</text>
+      </navLabel>
+      <content src="Text/59.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>SEVERINO'NUN ATTIĞI GOL</text>
+      </navLabel>
+      <content src="Text/60.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>BOMBALAR</text>
+      </navLabel>
+      <content src="Text/61.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>DEMİRİ RÜZGÂRA DÖNÜŞTÜREN ADAM</text>
+      </navLabel>
+      <content src="Text/62.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>GRUP TERAPİSİ</text>
+      </navLabel>
+      <content src="Text/63.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>MARTINO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/64.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>HELENO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/65.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>1950 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/66.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>OBDULIO</text>
+      </navLabel>
+      <content src="Text/67.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>BARBOSA</text>
+      </navLabel>
+      <content src="Text/68.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>ZARRA'NIN GOLÜ</text>
+      </navLabel>
+      <content src="Text/69.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>ZIZINHO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/70.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>EĞLENCELER</text>
+      </navLabel>
+      <content src="Text/71.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>1954 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/72.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>RAHN'IN GOLÜ</text>
+      </navLabel>
+      <content src="Text/73.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>GEZİCİ REKLAM PANOLARI</text>
+      </navLabel>
+      <content src="Text/74.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>DI STEFANO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/75.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>DI STÉFANO</text>
+      </navLabel>
+      <content src="Text/76.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>GARRINCHA'NIN GOLÜ</text>
+      </navLabel>
+      <content src="Text/77.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>1958 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/78.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>NÍLTON'UN GOLÜ</text>
+      </navLabel>
+      <content src="Text/79.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>GARRINCHA</text>
+      </navLabel>
+      <content src="Text/80.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>DIDÍ</text>
+      </navLabel>
+      <content src="Text/81.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>DIDÍ VE TOP</text>
+      </navLabel>
+      <content src="Text/82.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>KOPA</text>
+      </navLabel>
+      <content src="Text/83.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>CARRIZO</text>
+      </navLabel>
+      <content src="Text/84.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>FORMA AŞKI</text>
+      </navLabel>
+      <content src="Text/85.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>PUŞKAŞ'IN GOLÜ</text>
+      </navLabel>
+      <content src="Text/86.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>SANFILIPPO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/87.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>1962 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/88.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>CHARLTON'IN GOLÜ</text>
+      </navLabel>
+      <content src="Text/89.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>YAŞİN</text>
+      </navLabel>
+      <content src="Text/90.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>GENTO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/91.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>SEELER</text>
+      </navLabel>
+      <content src="Text/92.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>MATTHEWS</text>
+      </navLabel>
+      <content src="Text/93.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>1966 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/94.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>GREAVES</text>
+      </navLabel>
+      <content src="Text/95.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>BECKENBAUER'İN GOLÜ</text>
+      </navLabel>
+      <content src="Text/96.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>EUSEBIO</text>
+      </navLabel>
+      <content src="Text/97.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>KALECİLERE DE NAZAR DEĞEBİLİR</text>
+      </navLabel>
+      <content src="Text/98.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>PEÑAROL'ÜN ALTIN YILLARI</text>
+      </navLabel>
+      <content src="Text/99.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>ROCHA'NIN GOLÜ</text>
+      </navLabel>
+      <content src="Text/100.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>ANAYA SAYGI</text>
+      </navLabel>
+      <content src="Text/101.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>GÖZYAŞLARI MENDİLDEN DÖKÜLMÜYOR</text>
+      </navLabel>
+      <content src="Text/102.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>PELÉ</text>
+      </navLabel>
+      <content src="Text/103.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>PELÉ</text>
+      </navLabel>
+      <content src="Text/104.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>1970 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/105.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>JAIRZINHO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/106.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>FİESTA</text>
+      </navLabel>
+      <content src="Text/107.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>GENERALLER VE FUTBOL</text>
+      </navLabel>
+      <content src="Text/108.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>KAŞLA GÖZ ARASINDA</text>
+      </navLabel>
+      <content src="Text/109.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>MARADONA'NIN GOLÜ</text>
+      </navLabel>
+      <content src="Text/110.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>1974 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/111.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>CRUYFF</text>
+      </navLabel>
+      <content src="Text/112.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>MÜLLER</text>
+      </navLabel>
+      <content src="Text/113.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>HAVELANGE</text>
+      </navLabel>
+      <content src="Text/114.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>TOPUN DEREBEYLERİ</text>
+      </navLabel>
+      <content src="Text/115.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>JESÚS</text>
+      </navLabel>
+      <content src="Text/116.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>1978 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/117.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>MUTLULUK TABLOSU</text>
+      </navLabel>
+      <content src="Text/118.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>GEMMILL'İN GOLÜ</text>
+      </navLabel>
+      <content src="Text/119.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>BETTEGA'NIN GOLÜ</text>
+      </navLabel>
+      <content src="Text/120.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>SUNDERLAND'IN GOLÜ</text>
+      </navLabel>
+      <content src="Text/121.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>1982 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/122.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>HER ZAMAN DEVLER ÜSTÜN GELMEZ</text>
+      </navLabel>
+      <content src="Text/123.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>PLATİNİ</text>
+      </navLabel>
+      <content src="Text/124.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>FUTBOL KURBANLARI</text>
+      </navLabel>
+      <content src="Text/125.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>1986 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/126.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>TELEVİZYONUN HÂKİMİYETİ</text>
+      </navLabel>
+      <content src="Text/127.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>ATAK YA DA ÜRKEK FUTBOL</text>
+      </navLabel>
+      <content src="Text/128.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>SAHADA KOŞAN ECZA DOLAPLARI</text>
+      </navLabel>
+      <content src="Text/129.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>ŞARKILARDA IRKÇILIK</text>
+      </navLabel>
+      <content src="Text/130.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>HER ŞEY MÜBAH</text>
+      </navLabel>
+      <content src="Text/131.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-133" playOrder="133">
+      <navLabel>
+        <text>DOYUMA ULAŞMA</text>
+      </navLabel>
+      <content src="Text/132.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-134" playOrder="134">
+      <navLabel>
+        <text>1990 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/133.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>RINCÓN'UN GOLÜ</text>
+      </navLabel>
+      <content src="Text/134.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-136" playOrder="136">
+      <navLabel>
+        <text>HUGO SÁNCHEZ</text>
+      </navLabel>
+      <content src="Text/135.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>CIRCIRBÖCEĞİ İLE KARINCA</text>
+      </navLabel>
+      <content src="Text/136.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-138" playOrder="138">
+      <navLabel>
+        <text>GULLIT</text>
+      </navLabel>
+      <content src="Text/137.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>BABA KATİLLERİ</text>
+      </navLabel>
+      <content src="Text/138.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>ZICO'NUN GOLÜ</text>
+      </navLabel>
+      <content src="Text/139.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>VERGİ KAÇIRMA SPORU</text>
+      </navLabel>
+      <content src="Text/140.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>1994 DÜNYA KUPASI</text>
+      </navLabel>
+      <content src="Text/141.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>ROMARIO</text>
+      </navLabel>
+      <content src="Text/142.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>BAGGIO</text>
+      </navLabel>
+      <content src="Text/143.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>İSTATİSTİKLER</text>
+      </navLabel>
+      <content src="Text/144.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>KAYBETME ZORUNLULUĞU</text>
+      </navLabel>
+      <content src="Text/145.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>YENİLMEK EN BÜYÜK GÜNAH</text>
+      </navLabel>
+      <content src="Text/146.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-148" playOrder="148">
+      <navLabel>
+        <text>MARADONA</text>
+      </navLabel>
+      <content src="Text/147.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-149" playOrder="149">
+      <navLabel>
+        <text>NE UZARLAR, NE KISALIRLAR</text>
+      </navLabel>
+      <content src="Text/148.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>FUTBOLCU İHRACATI</text>
+      </navLabel>
+      <content src="Text/149.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>MAÇIN SONU</text>
+      </navLabel>
+      <content src="Text/150.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>1998 Dünya Kupası</text>
+      </navLabel>
+      <content src="Text/1998.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-153" playOrder="153">
+      <navLabel>
+        <text>2002 Dünya Kupası</text>
+      </navLabel>
+      <content src="Text/2002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-154" playOrder="154">
+      <navLabel>
+        <text>2006 Dünya Kupası</text>
+      </navLabel>
+      <content src="Text/2006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-155" playOrder="155">
+      <navLabel>
+        <text>2010 Dünya Kupası</text>
+      </navLabel>
+      <content src="Text/2010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/arkakapak.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

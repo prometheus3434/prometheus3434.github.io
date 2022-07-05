@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Godot'yu beklerken: 2 perdelik trajikomedi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Beckett, Samuel">Samuel Beckett</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:43c7022b-68f7-4b6b-8db9-741d45e405e2</dc:identifier>
+    <dc:date>2012-06-15T11:43:42+00:00</dc:date>
+    <dc:description>&lt;p&gt;Godot'yu Beklerken 1948 yılında Fransızca olarak yazıldı ve 1953'te Paris'de sahneye kondu. Zamanla ülke çapında bir ün kazandı. 1954 yılında Beckett tarafından bazı değişikliklerle İngilizceye çevrildi ve başka ülkelerde de sahnelenmeye başladı. Avangard olarak nitelenmesine karşın hızla klasikleşti.
+
+Oyunun varoluş sancıları çeken kahramanları, yolları kesiştiğinde birbirleriyle iletişim kurmaya çalışırlar. Her gün yinelenen bu ritüelde bellek işlevinin yerine getiremeyince de gerçekliğin kesinliğinden uzaklaşmaya başlarlar.
+
+Kimilerine göre tüm zamanların en iyisi olan bu oyun, 21. yüzyılda da kafamızda soru işaretleri bırakmaya devam ediyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Kabalcı Yayınevi</dc:publisher>
+    <dc:type>Tiyatro</dc:type>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Absürd</dc:subject>
+    <dc:subject>Dram</dc:subject>
+    <dc:subject>Oyun</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1a45cd18-cd0d-4361-ad4b-b5b09305558a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758240074</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:43c7022b-68f7-4b6b-8db9-741d45e405e2</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">vIl2vgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758240074</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_Image_001.jpg"/>
+    <meta name="calibre:title_sort" content="Godot'yu beklerken: 2 perdelik trajikomedi"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Samuel Beckett&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.html" id="copyright.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bilgi.html" id="bilgi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.html" id="onsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/_Image_001.jpg" id="_Image_001.jpg" media-type="image/jpeg"/>
+    <item href="Images/3stars.gif" id="x3stars.gif" media-type="image/gif"/>
+    <item href="Images/Image_003.jpg" id="Image_003.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_004.png" id="Image_004.png" media-type="image/png"/>
+    <item href="Images/Image_005.gif" id="Image_005.gif" media-type="image/gif"/>
+    <item href="Images/Image_006.jpg" id="Image_006.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_007.gif" id="Image_007.gif" media-type="image/gif"/>
+    <item href="Images/Image_008.gif" id="Image_008.gif" media-type="image/gif"/>
+    <item href="Images/Image_009.jpg" id="Image_009.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_010.jpg" id="Image_010.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_011.jpg" id="Image_011.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_012.gif" id="Image_012.gif" media-type="image/gif"/>
+    <item href="Images/Image_013.jpg" id="Image_013.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_014.gif" id="Image_014.gif" media-type="image/gif"/>
+    <item href="Images/Image_015.gif" id="Image_015.gif" media-type="image/gif"/>
+    <item href="Images/Image_016.jpg" id="Image_016.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_017.gif" id="Image_017.gif" media-type="image/gif"/>
+    <item href="Images/Image_018.jpg" id="Image_018.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_019.jpg" id="Image_019.jpg" media-type="image/jpeg"/>
+    <item href="Images/kabalci.jpg" id="kabalci.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.html"/>
+    <itemref idref="copyright.html"/>
+    <itemref idref="bilgi.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="notlar.xhtml" linear="no"/>
+  </spine>
+  <guide/>
+</package>

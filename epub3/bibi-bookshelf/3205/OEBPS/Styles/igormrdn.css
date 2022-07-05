@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "Book Antiqua";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/ANTQUAB.TTF);
+  }
+@font-face {
+  font-family: "Book Antiqua";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BKANT.TTF);
+  }
+@font-face {
+  font-family: "Book Antiqua";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/ANTQUAI.TTF);
+  }
+body {
+  margin:0em 0.4em;
+}
+
+.kunye {margin-left:1em;}
+.kunye p {margin-top:.8em;font-size:0.75em;text-indent:0em;text-align:left;}
+
+p {
+  text-indent: 1.4em;
+  text-align: justify;
+  margin:0em 0em;
+  font-family: "Book Antiqua", serif;
+  font-size: 0.95em;
+}
+.p0 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 2.4em;
+}
+.p1 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 1.2em;
+}
+.p2 {
+  text-indent: 0;
+  margin-left: 0;
+}
+.p3 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 2.4em;
+}
+.p4 {
+  text-indent: 0;
+  margin-left: 0;
+  margin-top: 0.71em;
+}
+.p5 {
+  text-indent: 0;
+  margin-left: 0.71em;
+  margin-top: 0.71em;
+}
+.p6 {
+  text-indent: 0;
+  margin-left: 0.71em;
+}
+.p7 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 3.5em;
+}
+.p8 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4.7em;
+}
+.p9 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 7.1em;
+}
+.p10 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 4.7em;
+  margin-bottom: 3.5em;
+}
+.p12 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+}
+.p13 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+  margin-top: 3.5em;
+}
+.p14 {
+  text-indent: 0;
+  margin-left: 0;
+  text-align: right;
+  margin-top: 12em;
+}
+.p15 {
+  margin-top: 1.2em;
+}
+.t0 {
+  font-size: 1.3em;
+}
+.t3 {
+  font-size: 0.83em;
+}
+.t5 {
+  font-size: 1.7em;
+  letter-spacing: 0.16em;
+}
+.t6 {
+  font-size: 2em;
+  letter-spacing: 0.083em;
+}
+.t7 {
+  font-size: 1.2em;
+}

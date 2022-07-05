@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Girdap</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cussler, Clive">Clive Cussler</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:09953c47-de66-4092-a112-bfba83894e5f</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1999-06-15T11:40:37+00:00</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>Fully armed and with all hands on board, the nuclear submarine Starbuck sailed into the calm Pacific Ocean for sea trials - and vanished. No wreckage, no signals, no survivors: nothing ... until ace maritime troubleshooter, Dirk Pitt, finds a single, chilling clue in the shark-torn surf off Hawaii - the log of the Starbuck.</dc:description>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Aksiyon</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7526374f-8c53-4310-96c8-4fd437edadb9</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">o2tAAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:09953c47-de66-4092-a112-bfba83894e5f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754058338</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754058338</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="cover" content="Girdap.jpg"/>
+    <meta content="Girdap" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:rating" content="8.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.htm" id="x1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/2.htm" id="x2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/3.htm" id="x3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/4.htm" id="x4.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/5.htm" id="x5.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/6.htm" id="x6.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/7.htm" id="x7.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/8.htm" id="x8.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/9.htm" id="x9.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/10.htm" id="x10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/11.htm" id="x11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/12.htm" id="x12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/13.htm" id="x13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/14.htm" id="x14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/15.htm" id="x15.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/16.htm" id="x16.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/17.htm" id="x17.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/18.htm" id="x18.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/19.htm" id="x19.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/20.htm" id="x20.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/21.htm" id="x21.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stil.css" id="stil.css" media-type="text/css"/>
+    <item href="Images/Girdap.jpg" id="Girdap.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.htm"/>
+    <itemref idref="x2.htm"/>
+    <itemref idref="x3.htm"/>
+    <itemref idref="x4.htm"/>
+    <itemref idref="x5.htm"/>
+    <itemref idref="x6.htm"/>
+    <itemref idref="x7.htm"/>
+    <itemref idref="x8.htm"/>
+    <itemref idref="x9.htm"/>
+    <itemref idref="x10.htm"/>
+    <itemref idref="x11.htm"/>
+    <itemref idref="x12.htm"/>
+    <itemref idref="x13.htm"/>
+    <itemref idref="x14.htm"/>
+    <itemref idref="x15.htm"/>
+    <itemref idref="x16.htm"/>
+    <itemref idref="x17.htm"/>
+    <itemref idref="x18.htm"/>
+    <itemref idref="x19.htm"/>
+    <itemref idref="x20.htm"/>
+    <itemref idref="x21.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

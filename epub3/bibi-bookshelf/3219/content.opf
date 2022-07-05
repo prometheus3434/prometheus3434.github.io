@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Fotoğraf üzerine</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sontag, Susan &amp; Akınhay, Osman">Susan Sontag</dc:creator>
+    <dc:creator opf:role="aut">Osman Akınhay</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;'Herhangi bir insanın vahşetin en amansız boyutlarını gösteren fotoğraflarla ilk defa karşılaşması, bir tür ifşadır, prototipik açıdan da modern ifşadır. Benim kendi payıma bu ifşayı yaşadığım an, Temmuz 1945'te Santa Monica'daki bir kitapçıda tesadüfen gördüğüm Bergen-Belsen ve Dachau fotoğraflarıydı. O güne değin -fotoğraflarda ya da gerçek hayatta- görmüş olduğum hiçbir şey, içimi bu denli keskince, derinden ve anında deşmemişti. Gerçekten de, tam olarak ne hakkında olduklarını kavramam yılları alsa bile, hayatımı o fotoğrafları gördüğümden önceki dönemim (o zaman henüz on iki yaşındaydım) ile sonraki dönemim olarak ikiye ayırdığımı söylersem abartıya kaçmış olmam. Onları görmem neye yaramıştı? Kaldı ki, fotoğraftan başka bir şey değildi onlar -o güne değin hemen hiç haberim olmamış ve etkilemek için de hiçbir şey yapamayacağım bir olayın, hemen hiç tasavvur edemeyeceğim ve dindirmek için de elimden en ufak bir şey gelmeyecek olan bir ıstırabın fotoğrafları. Fakat o fotoğraflara baktığımda içimde bir şey kırılmıştı. Bir sınıra dayanmıştım ve bu salt dehşetin sınırı değildi; tesellisi mümkün olmayan bir kedere düşmüş, yaralanmıştım, ama duygularımın bir kısmının katılaşmaya başladığını da hissetmiyor değildim; içimde bir şey ölürken, bir şey de hâlâ feryat edip duruyordu.'&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Agora Kitaplığı</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">109bfdf2-1b86-4209-853e-1539d3a4bae7</dc:identifier>
+    <dc:date>2008-06-15T12:05:41+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2884a402-9121-45d2-9366-dc6e62a6342f</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">43DuZwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051030166</dc:identifier>
+    <meta name="calibre:title_sort" content="Fotoğraf üzerine"/>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:47.989000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Susan Sontag&quot;: &quot;&quot;, &quot;Osman Akınhay&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-10.png" id="id10" media-type="image/png"/>
+    <item href="main-11.png" id="id11" media-type="image/png"/>
+    <item href="main-12.png" id="id12" media-type="image/png"/>
+    <item href="main-13.png" id="id13" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-8.png" id="id8" media-type="image/png"/>
+    <item href="main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Geçmişe mazi (meşrutiyet kıraathanesi): roman</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ilgaz, Rıfat">Rıfat Ilgaz</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4a75b2a0-3d01-410c-b40e-92b38552cf68</dc:identifier>
+    <dc:date>1992-06-15T10:32:22+00:00</dc:date>
+    <dc:publisher>Çınar Yayınları</dc:publisher>
+    <dc:type>Mizah</dc:type>
+    <dc:description>&lt;p&gt;Bizleri her eserinde farklı dünyalar, yaşamlar ve mekânlarda buluşturan Rıfat Ilgaz'ın bu romanındaki durağı bir İstanbul kıraathanesi. Dönemin siyasi ve kültürel ortamını, Meşrutiyet Kıraathanesi'nin müdavimleri olan emeklilerin hikâyeleriyle yansıttığı Geçmişe Mazi'de kimler yok ki… Emekli öğretmen, jandarma, vali, malmüdürü, topçu, tarım müdürü, hâkim… Bütün gün bu kıraathanede okudukları gazete haberleri üzerinden memleketin gidişatına ilişkin yorumlar yapıp vakit geçiren, toplumsal ve siyasi meselelerde birbirine zıt görüşlerdeki bu insanların tek bir ortak yanları vardır: Her gün bir araya geldikleri, Meşrutiyet Kıraathanesi. Onlar için adeta buradan başka bir yerde hayat yokmuş gibidir. Oysa partiler kurup kapattıkları, yollar, köprüler yapıp yıktıkları, astıkları kestikleri kısacası hiçbir zaman yapamayacakları ne varsa "yaptıkları" bu mekânın dışında kaldıkları gün, yaşam onları tüm gerçekliği ve çıplaklığıyla karşılayacaktır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:4a75b2a0-3d01-410c-b40e-92b38552cf68</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Mizah</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b8225cda-a8e8-4ea8-bed5-12f4d446b5ed</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:4a75b2a0-3d01-410c-b40e-92b38552cf68</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753480192</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">6hO5XwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753480192</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Geçmişe mazi (meşrutiyet kıraathanesi): roman"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Rıfat Ilgaz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet1.css" id="stylesheet1.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

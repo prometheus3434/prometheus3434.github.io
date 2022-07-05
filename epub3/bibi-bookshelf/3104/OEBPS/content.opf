@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Entelektüel Sürgün, Marjinal, Yabancı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Said, Edward W.">Edward W. Said</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dc4a9548-c448-4982-8755-3c2b32b4a30f</dc:identifier>
+    <dc:date>2013-04-03T21:00:00+00:00</dc:date>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Düşünceyle arası zaten hiçbir zaman hoş olmamış bu topraklarda,
+düşünceyi ve onu cisimleştiren entelektüeli “terörize ederek etkisizleş-
+tirmeyi amaçlayan”, doğrudan doğruya “vatan hainliği” ile damga-layacak
+kadar pervasızlaşan bir zihniyet iyice egemenliğini kurmuş durumda.
+Milliyetçi ve dinsel fanatizm kendisinden başkasına düşüncesini ifade bir
+yana, yaşama hakkı bile tanımıyor. Bu toprakları “sevme hakkı”nı kendi
+tekeline almak istiyor. Batı'nın İslam anlayışının ikiyüzlü önyargılarına karşı
+koymasıyla ünlendiği halde, Salman Rushdie'nin ifade özgürlüğünü sonuna
+kadar savunarak gerçek bir entelektüel tavrı sergileyen Edward Said'in bu
+önemli kitabının Türkiye bağlamında son derece ayrıştırıcı bir yere
+oturduğunu düşünüyoruz. Said, entelektüeli öncelikle otorite ve iktidara
+hizmet etmeyi reddedişiyle, sonra da milliyeti, dini, ge-leneği ile arasına
+koyduğu mesafe ile tanımlıyor. “Artık kişinin evinde, kendini evinde
+hissetmemesi bir ahlâk meselesidir” diyen Adorno'yu yankılayarak
+entelektüeli metaforik bir sürgün, bir evsizlik konumuna yerleştiriyor.
+Sürgün içinde yaşadığı toplumun (ve hatta dünyanın) yerlilerinden
+olmamayı, orada hep tedirgin, rahatsız ve başkalarını da rahatsız eden
+bir yabancı olmayı içeren bir konum ona göre. Ama geçmişinin, dilinin, milliyetinin sunduğu ucuz kesinliklerin ötesine geçip evrensellik idealinde
+ısrar eden entelektüel, hep marjinal kalmayı bir yoksunluk olarak değil, bir
+özgürlük, bir keşif süreci olarak yaşar. Entelektüel, eskiden olduğu gibi,
+toplumda bir uzlaşma oluşturacak genel simgeleri yaratan biri değil, bu
+simgeleri sorgulayan, kutsal sayılan gelenek ve değerlerin ikiyüzlülüğünü,
+ırkçılığını, cinsiyetçiliğini teşhir eden; hiçbir fikir ayrılığına tahammülleri
+olmayan kutsal metin gardiyanlarıyla mücadeleden çekinmeyen kişidir.
+Profesyonelleşmenin baskısı giderek artarken, amatör kalıp kamusal alanda
+yoksullar, yok sayılanlar, güçsüzler adına kendi görüşünü ve tavrını temsil
+etmekte ısrar eden bireydir entelektüel. Hiçbir kahramana ve siyasi hiçbir
+tanrıya inanmaz.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">c81ef002-40ec-4017-b6e9-1122f8d74261</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755390949</dc:identifier>
+    <meta content="Entelektüel Sürgün, Marjinal, Yabancı" name="calibre:title_sort"/>
+    <meta content="2012-07-25T10:59:31+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Edward W. Said&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Entelektuel__Surgun__Marjinal___split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Entelektuel__Surgun__Marjinal___split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/Entelektuel__Surgun__Marjinal___split_001.html#filepos251093" title="Table of Contents" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

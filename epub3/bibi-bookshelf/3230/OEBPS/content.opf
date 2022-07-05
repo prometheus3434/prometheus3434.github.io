@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gaius Julius Caesar - Gallia Savaşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Akderin, Furkan">Furkan Akderin</dc:creator>
+    <dc:date>2014-01-03T22:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-55688A8F-D651-402D-8306-C35A3EC963F5</dc:identifier>
+    <dc:date>2014-01-03T21:00:00+00:00</dc:date>
+    <dc:publisher>Alfa Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Gaius Julius Caesar belki de Roma Çağı'nın günümüzde en çok bilinen kişisidir. Onun Gallia'yı fethinin anısı günümüzde dahi hâlâ popüler çizgi romanlarda yaşatılmaktadır. İşte elinizde tuttuğunuz bu eser Caesar'ı ve onun Gallia Savaşı'nı öğrendiğimiz esas kaynaktır. Gaius Julius Caesar'ın Gallia Savaşı notları yalın diliyle Eskiçağ'dan beri Latince eğitiminde kullanıaln başlıca kaynak olmuştur. Caesar, ünlü rakibi Pompeius'u mağlup edip Roma'nın bir numaralı adamı olmadan önce ona asıl ününü kazandıran Gallia'da yaptıklarıydı. GAllia Savaşı içeriksel olarak ele alındığında da daha Eskiçağ'da popüler olmuştu. Gallia Savaşı, Caesar'ın askeri dehasını olduğu kadar Eskiçağ Gallia'sıyla Gal ve Germen kabilelerinin yaşayış kültür ve tarihini anlatan temel bir eserdir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">358fcce2-e11c-4b5c-832a-bf9b24a03d88</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Gaius Julius Caesar - Gallia Savaşı"/>
+    <meta name="calibre:series" content="Antik Çağ Dizisi"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Furkan Akderin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/calibrib.ttf" id="idfont1" media-type="application/vnd-ms-opentype"/>
+    <item href="Fonts/cambriab.ttf" id="idfont2" media-type="application/vnd-ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/003.html#a4" title="Table of Contents" type="toc"/>
+    <reference href="Text/003.html#a1" title="Beginning" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

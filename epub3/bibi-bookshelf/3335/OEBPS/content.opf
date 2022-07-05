@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gölgelerin Şövalyesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zelazny, Roger">Roger Zelazny</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f27a507b-d39a-4899-81f9-ea4556b00590</dc:identifier>
+    <dc:date opf:event="modification">2014-08-10</dc:date>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="trl">Niran Elçi</dc:contributor>
+    <dc:contributor opf:role="dsr">eldkaan</dc:contributor>
+    <dc:description>&lt;p&gt;Bir tek gerçek dünya var. Diğerleri - yaşadığımız dünya da dahil gölgelerden ibaret...
+
+Uzun zamandır peşinde olan düşmanlarıyla artık uzlaştığını ve hayatının kolaylaşacağını düşünen Kaos Prensi ve Amber Lordu Merlin, Coral'ı ele geçiren güçten kaçarken kendisini gölgeler arsında, ne Logrus ne de Desen'in doğrudan müdahale edemediği, tuhaf bir negatif mekanda bulur. Burada, kafasını kurcalmaya devam eden sorulara yanıt arayacak, ölümcül düşmanı ve kardeşi Jurt ile uzlaşmaya çalışacak, ilgi çekici ve tuhaf karakterlerle karşılaşacaktır.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">520289ae-a934-451c-9936-8fd51e8923a8</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:f27a507b-d39a-4899-81f9-ea4556b00590</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758725526</dc:identifier>
+    <meta name="cover" content="golge.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Gölgelerin Şövalyesi"/>
+    <meta name="calibre:series" content="Amber Yıllıkları"/>
+    <meta name="calibre:series_index" content="9.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Roger Zelazny&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icbaslik.html" id="icbaslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Cilt ismi.html" id="Cilt_ismi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0001.html" id="Golgelerin_sovalyesi_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0002.html" id="Golgelerin_sovalyesi_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0003.html" id="Golgelerin_sovalyesi_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0004.html" id="Golgelerin_sovalyesi_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0005.html" id="Golgelerin_sovalyesi_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0006.html" id="Golgelerin_sovalyesi_0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0007.html" id="Golgelerin_sovalyesi_0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0008.html" id="Golgelerin_sovalyesi_0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0009.html" id="Golgelerin_sovalyesi_0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0010.html" id="Golgelerin_sovalyesi_0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0011.html" id="Golgelerin_sovalyesi_0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0012.html" id="Golgelerin_sovalyesi_0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Golgelerin sovalyesi_0013.html" id="Golgelerin_sovalyesi_0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayinevi.html" id="Yayinevi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Yazar Hakkinda.html" id="Yazar_Hakkinda.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ogz.css" id="ogz.css" media-type="text/css"/>
+    <item href="Images/golge.jpg" id="golge.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="icbaslik.html"/>
+    <itemref idref="Cilt_ismi.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0001.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0002.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0003.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0004.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0005.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0006.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0007.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0008.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0009.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0010.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0011.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0012.html"/>
+    <itemref idref="Golgelerin_sovalyesi_0013.html"/>
+    <itemref idref="Yayinevi.html"/>
+    <itemref idref="Yazar_Hakkinda.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

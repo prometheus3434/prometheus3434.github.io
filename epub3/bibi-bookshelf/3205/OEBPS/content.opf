@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Filin Yolculuğu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Saramago, Jose">Jose Saramago</dc:creator>
+    <dc:publisher>Kırmızı Kedi Yayınevi</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">awp2016-06-12T16:21:38Z</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d63ab953-7807-408e-b994-6a81cf4e7ee4</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Filin Yolculuğu"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jose Saramago&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="Yazar-Cevirmen.html" href="Text/Yazar-Cevirmen.html" media-type="application/xhtml+xml"/>
+    <item id="Kunye.html" href="Text/Kunye.html" media-type="application/xhtml+xml"/>
+    <item id="ickapak.html" href="Text/ickapak.html" media-type="application/xhtml+xml"/>
+    <item id="cevirmen-notu.html" href="Text/cevirmen-notu.html" media-type="application/xhtml+xml"/>
+    <item id="yazar-onsoz.html" href="Text/yazar-onsoz.html" media-type="application/xhtml+xml"/>
+    <item id="ithaf1.html" href="Text/ithaf1.html" media-type="application/xhtml+xml"/>
+    <item id="Prolog.html" href="Text/Prolog.html" media-type="application/xhtml+xml"/>
+    <item id="id008" href="Text/008.html" media-type="application/xhtml+xml"/>
+    <item id="id009" href="Text/009.html" media-type="application/xhtml+xml"/>
+    <item id="id010" href="Text/010.html" media-type="application/xhtml+xml"/>
+    <item id="id011" href="Text/011.html" media-type="application/xhtml+xml"/>
+    <item id="id012" href="Text/012.html" media-type="application/xhtml+xml"/>
+    <item id="id013" href="Text/013.html" media-type="application/xhtml+xml"/>
+    <item id="id014" href="Text/014.html" media-type="application/xhtml+xml"/>
+    <item id="id015" href="Text/015.html" media-type="application/xhtml+xml"/>
+    <item id="id016" href="Text/016.html" media-type="application/xhtml+xml"/>
+    <item id="id017" href="Text/017.html" media-type="application/xhtml+xml"/>
+    <item id="id018" href="Text/018.html" media-type="application/xhtml+xml"/>
+    <item id="id019" href="Text/019.html" media-type="application/xhtml+xml"/>
+    <item id="id020" href="Text/020.html" media-type="application/xhtml+xml"/>
+    <item id="id021" href="Text/021.html" media-type="application/xhtml+xml"/>
+    <item id="id022" href="Text/022.html" media-type="application/xhtml+xml"/>
+    <item id="id023" href="Text/023.html" media-type="application/xhtml+xml"/>
+    <item id="id024" href="Text/024.html" media-type="application/xhtml+xml"/>
+    <item id="id025" href="Text/025.html" media-type="application/xhtml+xml"/>
+    <item id="DiPNOTLAR.xhtml" href="Text/DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item id="backcover.xhtml" href="Text/backcover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="igormrdn.css" href="Styles/igormrdn.css" media-type="text/css"/>
+    <item id="backcover.jpg" href="Images/backcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="img1" href="Images/img1.png" media-type="image/png"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="ANTQUAB.TTF" href="Fonts/ANTQUAB.TTF" media-type="application/x-font-ttf"/>
+    <item id="ANTQUAI.TTF" href="Fonts/ANTQUAI.TTF" media-type="application/x-font-ttf"/>
+    <item id="BKANT.TTF" href="Fonts/BKANT.TTF" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Yazar-Cevirmen.html"/>
+    <itemref idref="Kunye.html"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="cevirmen-notu.html"/>
+    <itemref idref="yazar-onsoz.html"/>
+    <itemref idref="ithaf1.html"/>
+    <itemref idref="Prolog.html"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="id024"/>
+    <itemref idref="id025"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+    <itemref idref="backcover.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

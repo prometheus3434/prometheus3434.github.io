@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gençlerle Başbaşa</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Başgil, Ali Fuad">Ali Fuad Başgil</dc:creator>
+    <dc:description>&lt;p&gt;Ali Fuad Başgil´in bu eseri, yayınlandığı günden bu yana defalarca basılmış ve her nesile ayrı ayrı seslenmiştir. Büyük-küçük her insana verdiği ve vermeye devam edeceği şeyler şimdi olduğu gibi, nesiller boyu da devam edecektir. 
+
+Kendisinin de belirttiği gibi "Bu kitap, sadece fikri çalışma atölyesinin genç ve tecrübesiz çırakları için faydalı olabilecek bir rehberdir." Gerçi her ne kadar kendisi böyle söylese de, bu kitap genç ve tecrübesiz çıraklara da rehber olmakla beraber, yaşlı ve tecrübeli ustaların da rehberi olabilecek kıvamdadır. 
+
+Özellikle, seçilen konuların ve yazarının dostane üslubuyla bu nadide eser, nesillere daima ilham olabilecek yapıdadır. 
+
+Yine yazarın deyimiyle: "Geleceğin ümidi olan gençleri, bunalımdan, iradesiz ve cesaretsiz yaşamaktan kurtaracak olan bu kitap; başarılı olmanın sırlarını göstermektedir." Bu doğrultuda güzel de bir rehber olacaktır.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{E81E815F-3941-445B-9BFC-3E195F4A4FA7}</dc:identifier>
+    <dc:date>2017-10-15T10:53:40+00:00</dc:date>
+    <dc:publisher>Kubbealti Publishing</dc:publisher>
+    <dc:date opf:event="modification">2015-05-17</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Deneme</dc:subject>
+    <dc:subject>Derleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">059bc030-8a50-42be-9057-15e68c3d6fa7</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757663430</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789757747116</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">-NFOuFG_g7YC</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Gençlerle Başbaşa" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Ali Fuad Başgil&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/main-3.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/main-4.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/main-5.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/main-6.jpg" id="id6" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

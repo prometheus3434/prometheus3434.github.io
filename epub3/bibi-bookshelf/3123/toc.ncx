@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="2131f78f-c41d-4006-9391-9e43652bb2d9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ermiş Antonius ve Şeytan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="afc57bdf-4181-4ae9-8d80-f421530c35d1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="metin_split_003.html"/>
+    </navPoint>
+    <navPoint id="e713d472-389e-4bdb-99f4-42ac603ec888" playOrder="2">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="metin_split_004.html"/>
+    </navPoint>
+    <navPoint id="95cc890c-7647-4863-b5ab-306eecd32add" playOrder="3">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="metin_split_005.html"/>
+    </navPoint>
+    <navPoint id="fc0d3d03-ed36-484f-89a7-50465fae9ae2" playOrder="4">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="metin_split_006.html"/>
+    </navPoint>
+    <navPoint id="87a02e05-5e87-433c-9d0d-cec65424e96c" playOrder="5">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="metin_split_007.html"/>
+    </navPoint>
+    <navPoint id="b88203ca-530b-4da8-97ed-806b9e21ccd9" playOrder="6">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="metin_split_008.html"/>
+    </navPoint>
+    <navPoint id="b906827e-7674-4dd2-a326-0abf3ec69d60" playOrder="7">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="metin_split_009.html"/>
+    </navPoint>
+    <navPoint id="73a2a1a3-2507-4f7e-ae9b-c74a1b59b8b8" playOrder="8">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="metin_split_010.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

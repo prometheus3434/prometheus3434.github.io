@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{CD8EDC8B-09FE-4F6B-B4C3-4D03B3600B30}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>jean-paul roux - eski türk mitolojisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>A. Giriş</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>B. Eski Türk Dini ve Mitolojisi Üzerine Kaynaklar</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>C. Literatür</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>F. Çevriyazı ve Telaffuz</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

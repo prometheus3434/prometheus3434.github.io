@@ -1,0 +1,87 @@
+body {margin: 10% 10pt;font-family: Palatino, Georgia, serif;}
+p {text-indent: 1.5em;text-align:justify;margin:0.3em;line-height:1.3em}
+h1,h2,h3,h5,h6 {text-indent: 0px;text-align:center;}
+
+h4 {text-indent: 0px;
+    text-align:center; 
+    padding-top:1em;
+    padding-bottom:0em;}
+
+
+.ickapak {margin-top:2em}
+.ickapak p {text-indent:0em;text-align:center}
+.yazar {font-size:1.3em;margin-bottom:1em;}
+.yazarb {font-size:1.9em;margin-bottom:1em;}
+.kitap {font-size:3em;margin-bottom:0.5em}
+.cevirmen {font-size:0.85em}
+.logo {margin-top:6em}
+.tur {margin-top:0em;font-size:0.9em;margin-bottom:2em}
+.ickapak span {font-weight:normal;font-size:0.9em}
+
+.kunya p {
+          font-family :"Garamond";
+	      font-weight : normal;
+	      font-style : normal;
+	      font-size : 0.67em;
+	      text-decoration : none;
+	      font-variant : normal;
+	      line-height : 1.38;
+	      text-align:center;
+	      color : #000000;
+	      text-indent : 0px;
+	      margin : 3px 30px 0px 30px;
+          }
+
+.bosluk {
+         padding-top:4em;
+         padding-bottom:4em;
+         }
+
+.bosluk1 {
+         padding-top:0.5em;
+         padding-bottom:0.5em;
+         }
+.bosluk2 {
+         padding-top:1em;
+         padding-bottom:1em;
+         }
+.n p {text-indent: 0em;text-align:justify;margin:0;line-height:1.3em}
+
+.n {text-indent: 0em;text-align:justify;margin:0;line-height:1.3em}
+
+
+.ithaf {
+       text-indent:0em;
+       text-align:right;
+       font-family:"Liberation Serif",Times;
+       font-size:0.99em;
+       margin-right:0.5in;
+       font-weight:normal;
+       font-style: italic;
+       margin-top:0em;
+       margin-bottom:0em;
+       }
+
+div.b{margin-left: 2em;margin-bottom:2em;}
+
+.arayazi {text-indent:0em;
+           text-align:justify;
+           margin:0;
+           line-height:1.3em;
+           font-size : 0.95em;
+}
+
+div.arayazi {text-indent:0em;
+           text-align:justify;
+           margin:0.75em;
+           line-height:1.3em;
+           font-size : 0.88em;
+}
+
+div.r{margin-left: 2em;margin-bottom:0.5em;}
+
+a {
+   text-decoration: none;
+   color: #d10202;
+   font-size:0.9em;
+   }

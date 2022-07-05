@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="2ae239e4-98cc-4197-9547-e3b90afa7a96" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gece Ana</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{3A1AAF50-8F94-44F7-BB37-57333F356785}" playOrder="1">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{10A0EAD8-9927-4EF3-9900-7362444A6CA0}" playOrder="2">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{96ADF2DB-7BE6-490D-A766-9E914BAE2209}" playOrder="3">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{08454A4B-CA82-4AE7-8CAE-4F544709F38A}" playOrder="4">
+      <navLabel>
+        <text>43</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

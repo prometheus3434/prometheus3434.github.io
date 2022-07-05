@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>GÖÇÜP GİDENLER KOLEKSİYONCUSU</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">ŞERMİN YAŞAR</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c6c9ddab-3822-458c-bcc8-fde2d5b98eb9</dc:identifier>
+    <dc:date>2019-01-17T05:39:09+00:00</dc:date>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.</dc:rights>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d0a97670-ea95-497a-a7d7-7021969bda31</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050955910</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-11-12T11:32:26.971488+00:00"/>
+    <meta name="calibre:title_sort" content="GÖÇÜP GİDENLER KOLEKSİYONCUSU"/>
+    <meta name="calibre:author_link_map" content="{&quot;ŞERMİN YAŞAR&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="on_kapak" href="OEBPS/on_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye" href="OEBPS/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="perde" href="OEBPS/perde.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1" href="OEBPS/1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-2" href="OEBPS/1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-3" href="OEBPS/1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-4" href="OEBPS/1-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-5" href="OEBPS/1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-6" href="OEBPS/1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-7" href="OEBPS/1-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-8" href="OEBPS/1-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-9" href="OEBPS/1-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-10" href="OEBPS/1-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-11" href="OEBPS/1-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-12" href="OEBPS/1-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-13" href="OEBPS/1-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-14" href="OEBPS/1-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-15" href="OEBPS/1-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-16" href="OEBPS/1-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-17" href="OEBPS/1-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-18" href="OEBPS/1-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-19" href="OEBPS/1-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arka_kapak" href="OEBPS/arka_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="x1.png" href="OEBPS/image/1.png" media-type="image/png"/>
+    <item id="arkakapak.png" href="OEBPS/image/arkakapak.png" media-type="image/png"/>
+    <item id="onkapak.png" href="OEBPS/image/onkapak.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="on_kapak"/>
+    <itemref idref="kunye"/>
+    <itemref idref="perde"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+    <itemref idref="x1-12"/>
+    <itemref idref="x1-13"/>
+    <itemref idref="x1-14"/>
+    <itemref idref="x1-15"/>
+    <itemref idref="x1-16"/>
+    <itemref idref="x1-17"/>
+    <itemref idref="x1-18"/>
+    <itemref idref="x1-19"/>
+    <itemref idref="arka_kapak"/>
+  </spine>
+</package>

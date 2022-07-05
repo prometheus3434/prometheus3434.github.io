@@ -1,0 +1,852 @@
+ul, ol { margin:0em; padding:0em; }
+th, td { vertical-align:top; text-align:left; }
+
+h1 {
+font-weight: bold;
+font-style: normal;
+font-size: 1.33em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: center;
+margin-top: 0.80em;
+margin-bottom: 2.40em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h2 {
+font-weight: bold;
+font-style: normal;
+font-size: 1.17em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: center;
+margin-top: 0.80em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h3 {
+font-weight: bold;
+font-style: normal;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h4 {
+font-weight: bold;
+font-style: italic;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h5 {
+font-weight: bold;
+font-style: normal;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h6 {
+font-weight: bold;
+font-style: normal;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Normal {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Body_Text {
+font-size: 0.92em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Body_Text_First_Indent {
+font-size: 0.92em;
+margin-top: 0.20em;
+margin-bottom: 0.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 1.20em;
+}
+
+h1.P_Heading_1, h2.P_Heading_1, h3.P_Heading_1, h4.P_Heading_1, h5.P_Heading_1, h6.P_Heading_1 {
+font-weight: bold;
+font-size: 1.33em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: center;
+margin-top: 0.80em;
+margin-bottom: 2.40em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h1.P_Heading_2, h2.P_Heading_2, h3.P_Heading_2, h4.P_Heading_2, h5.P_Heading_2, h6.P_Heading_2 {
+font-weight: bold;
+font-style: normal;
+font-size: 1.17em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: center;
+margin-top: 0.80em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h1.P_Heading_3, h2.P_Heading_3, h3.P_Heading_3, h4.P_Heading_3, h5.P_Heading_3, h6.P_Heading_3 {
+font-weight: bold;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h1.P_Heading_4, h2.P_Heading_4, h3.P_Heading_4, h4.P_Heading_4, h5.P_Heading_4, h6.P_Heading_4 {
+font-weight: bold;
+font-style: italic;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h1.P_Heading_5, h2.P_Heading_5, h3.P_Heading_5, h4.P_Heading_5, h5.P_Heading_5, h6.P_Heading_5 {
+font-weight: bold;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+h1.P_Heading_6, h2.P_Heading_6, h3.P_Heading_6, h4.P_Heading_6, h5.P_Heading_6, h6.P_Heading_6 {
+font-weight: bold;
+font-size: 1.00em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Comment {
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Headers {
+font-size: 1.00em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Footers {
+font-size: 1.00em;
+text-align: right;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_HTML {
+font-size: 0.83em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Preformatted {
+font-size: 0.83em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Centre {
+font-size: 0.92em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Right {
+font-size: 0.83em;
+text-align: right;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Heading {
+font-weight: bold;
+font-size: 1.33em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Entry_1 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 1.20em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Entry_2 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 2.40em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Entry_3 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 3.60em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Entry_4 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 4.80em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Entry_5 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 6.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_TOC_Entry_6 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 7.20em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Index_Heading {
+font-weight: bold;
+font-size: 1.33em;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Index_Group_Heading {
+font-weight: bold;
+font-size: 1.17em;
+margin-top: 1.20em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Index_Entry_1 {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 1.20em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Index_Entry_2 {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 2.40em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Index_Entry_3 {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 3.60em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Endnotes_Heading {
+font-weight: bold;
+font-size: 1.33em;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Footnote {
+font-style: italic;
+font-size: 0.75em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Endnotes_Group {
+font-size: 1.17em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_Epub {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_Mobipocket {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_OpenDocument {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_Text {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_HTB {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_MP3 {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_HTML {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_Smashwords_OpenDocument {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Standard {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Heading {
+font-weight: bold;
+font-size: 1.33em;
+adobe-hyphenate: none;
+hyphens: none;
+-moz-hyphens: none;
+-webkit-hyphens: none;
+margin-top: 0.84em;
+margin-bottom: 0.42em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Text_body {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_First_line_indent {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.98em;
+}
+
+p.P_Scene_spacer {
+font-size: 1.00em;
+text-align: center;
+margin-top: 2.00em;
+margin-bottom: 2.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Chapter_Subheading {
+font-weight: bold;
+font-size: 0.92em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Pause {
+font-size: 1.00em;
+text-align: center;
+margin-top: 1.40em;
+margin-bottom: 1.40em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Non-Smashwords_Formats {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Title {
+font-weight: bold;
+font-size: 1.50em;
+text-align: center;
+margin-top: 1.20em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Author {
+font-weight: bold;
+font-size: 1.17em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 0.80em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Only_Lulu_Epub {
+font-size: 1.00em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Picture_Caption {
+font-style: italic;
+font-size: 1.00em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Table_Caption {
+font-style: italic;
+font-size: 1.00em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Bibliography_Heading {
+font-weight: bold;
+font-size: 1.33em;
+margin-top: 0.00em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Bibliography_Group {
+font-size: 1.17em;
+margin-top: 1.20em;
+margin-bottom: 1.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Bibliography_Entry {
+font-size: 0.83em;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 1.80em;
+margin-right: 0.00em;
+text-indent: -1.80em;
+}
+
+p.P_Body_Text__And__Centre_Alignment {
+font-size: 0.92em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Normal__And__Centre_Alignment {
+font-size: 1.00em;
+text-align: center;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+p.P_Body_Text_First_Indent__And__Right_Alignment {
+font-size: 0.92em;
+text-align: right;
+margin-top: 0.20em;
+margin-bottom: 0.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 1.20em;
+}
+
+p.P_Body_Text_First_Indent__And__Justification {
+font-size: 0.92em;
+text-align: justify;
+margin-top: 0.20em;
+margin-bottom: 0.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 1.20em;
+}
+
+p.P_Body_Text_First_Indent__And__Centre_Alignment {
+font-size: 0.92em;
+text-align: center;
+margin-top: 0.20em;
+margin-bottom: 0.20em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 1.20em;
+}
+
+p.P_Normal__And__Justification {
+font-size: 1.00em;
+text-align: justify;
+margin-top: 0.00em;
+margin-bottom: 0.00em;
+margin-left: 0.00em;
+margin-right: 0.00em;
+text-indent: 0.00em;
+}
+
+.C_Citation {
+}
+
+.C_URL {
+text-decoration: underline !important;
+color: #0000FF;
+}
+
+.C_HTML_Text {
+color: #808080;
+}
+
+.C_Drop_Caps {
+line-height: 90%;
+height: 0.75em;
+font-size: 280%;
+margin-right: 0.075em;
+float:left;
+}
+.C_Small_Caps {
+font-size: 8pt;
+}
+
+.C_Comment_Text {
+background-color: #FEFFBB;
+}
+
+.C_Comment_Content {
+background-color: #D9DAFF;
+}
+
+.C_Current__And__Bold {
+font-weight: bold;
+}
+
+.C_T8__And__Blue_Text__And__Times_New_Roman__And__Underline {
+text-decoration: underline !important;
+color: #0000FF;
+}
+
+.C_Current__And__Blue_Text__And__Underline {
+text-decoration: underline !important;
+color: #0000FF;
+}
+
+.C_Current__And__12pt {
+font-size: 12pt;
+}
+
+.C_Current__And__12pt__And__Bold {
+font-weight: bold;
+font-size: 12pt;
+}
+
+.C_Current__And__12pt__And__Italic {
+font-style: italic;
+font-size: 12pt;
+}
+
+.C_Current__And__11pt {
+font-size: 11pt;
+}
+
+.C_Current__And__11pt__And__Bold {
+font-weight: bold;
+font-size: 11pt;
+}
+
+.C_Current__And__11pt__And__Italic {
+font-style: italic;
+font-size: 11pt;
+}
+
+.C_Current__And__14pt__And__Bold {
+font-weight: bold;
+font-size: 14pt;
+}
+
+.C_Current__And__Superscript {
+font-size: 9pt;
+vertical-align: super;
+}
+
+.C_Current__And__11pt__And__Superscript {
+font-size: 8pt;
+vertical-align: super;
+}
+
+.C_Current__And__14pt {
+font-size: 14pt;
+}
+
+.C_Current__And__Bookerly__And__11pt__And__Bold {
+font-weight: bold;
+font-size: 11pt;
+}
+
+.C_Current__And__Bookerly__And__11pt {
+font-size: 11pt;
+}
+
+.C_Current__And__Bookerly__And__14pt__And__Bold {
+font-weight: bold;
+font-size: 14pt;
+}
+
+.C_Current__And__Bookerly__And__12pt {
+font-size: 12pt;
+}
+
+.C_Current__And__Bookerly__And__12pt__And__Italic {
+font-style: italic;
+font-size: 12pt;
+}
+
+.C_Current__And__Bookerly {
+}
+

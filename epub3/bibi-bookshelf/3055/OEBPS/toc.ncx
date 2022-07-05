@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:cafa5af0-f83b-4e7e-a2df-dd0ea3754b37" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/Kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Giris.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bölüm 1</text>
+      </navLabel>
+      <content src="Text/BOLUM1.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>1. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>2. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>3. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>4. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>5. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>6. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>7. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>8. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>9. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>10. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>11. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>12. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>13. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>14. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/june7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>15. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>16. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>17. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day9.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>18. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>19. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>20. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>21. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>22. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June11.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bölüm 2</text>
+      </navLabel>
+      <content src="Text/BOLUM2.xhtml"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>23. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>24. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>25. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>26. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>27. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>28. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>29. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>30. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>31. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>32. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>33. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>34. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>35. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>36. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>37. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>38. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>39. Kısım DAY</text>
+        </navLabel>
+        <content src="Text/Day0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>40. Kısım JUNE</text>
+        </navLabel>
+        <content src="Text/June0009.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>TEŞEKKÜRLER</text>
+      </navLabel>
+      <content src="Text/Tesekkurler.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
