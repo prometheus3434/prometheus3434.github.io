@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Phil'in Dehşet Verici Kısa Saltanatı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Saunders, George">George Saunders</dc:creator>
+    <dc:publisher>Tudem Yayın Grubu</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:8ab39a4c-24ab-4205-9033-2b36b1740c37</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">1a8d22d6-8d8c-41e1-9199-a2cc45c09066</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="calibre:title_sort" content="Phil'in Dehşet Verici Kısa Saltanatı"/>
+    <meta name="calibre:author_link_map" content="{&quot;George Saunders&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="philin_dehset_verici_kisa_saltanati_ebook.xhtml" id="philin_dehset_verici_kisa_saltanati_ebook" media-type="application/xhtml+xml"/>
+    <item href="philin_dehset_verici_kisa_saltanati_ebook-1.xhtml" id="philin_dehset_verici_kisa_saltanati_ebook-1" media-type="application/xhtml+xml"/>
+    <item href="philin_dehset_verici_kisa_saltanati_ebook-2.xhtml" id="philin_dehset_verici_kisa_saltanati_ebook-2" media-type="application/xhtml+xml"/>
+    <item href="philin_dehset_verici_kisa_saltanati_ebook-3.xhtml" id="philin_dehset_verici_kisa_saltanati_ebook-3" media-type="application/xhtml+xml"/>
+    <item href="philin_dehset_verici_kisa_saltanati_ebook-4.xhtml" id="philin_dehset_verici_kisa_saltanati_ebook-4" media-type="application/xhtml+xml"/>
+    <item href="philin_dehset_verici_kisa_saltanati_ebook-5.xhtml" id="philin_dehset_verici_kisa_saltanati_ebook-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/philin_dehset_verici_kisa_saltanati_ebook.css" id="philin_dehset_verici_kisa_saltanati_ebook.css" media-type="text/css"/>
+    <item href="image/48020.jpg" id="x48020.jpg" media-type="image/jpeg"/>
+    <item href="image/49234.jpg" id="x49234.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="philin_dehset_verici_kisa_saltanati_ebook"/>
+    <itemref idref="philin_dehset_verici_kisa_saltanati_ebook-1"/>
+    <itemref idref="philin_dehset_verici_kisa_saltanati_ebook-2"/>
+    <itemref idref="philin_dehset_verici_kisa_saltanati_ebook-3"/>
+    <itemref idref="philin_dehset_verici_kisa_saltanati_ebook-4"/>
+    <itemref idref="philin_dehset_verici_kisa_saltanati_ebook-5"/>
+  </spine>
+</package>

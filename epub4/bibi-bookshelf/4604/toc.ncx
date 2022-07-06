@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="a078c47a-ca61-4a50-9a84-bcd020a6dee5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Paralı Asker</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{200DED78-47FD-4992-A7F2-32918D6EB9B9}" playOrder="1">
+      <navLabel>
+        <text>.D</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{0E6EAA0A-2AC8-4CDA-B8C0-13023F6A23F0}" playOrder="2">
+      <navLabel>
+        <text>“Çok rahat bir yaşam sürüyordun ama ... ”</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

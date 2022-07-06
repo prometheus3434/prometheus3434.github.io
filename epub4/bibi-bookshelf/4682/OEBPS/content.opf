@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Profesör ve Hizmetçi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ogawa, Yoko">Yoko Ogawa</dc:creator>
+    <dc:identifier id="uuid">{E58C6736-7DE0-40B5-9AB5-1F87E3828DE6}</dc:identifier>
+    <dc:date>2014-11-18T22:00:00+00:00</dc:date>
+    <dc:publisher>Pegasus Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Zeki bir matematikçi olan Profesör, yıllar önce ciddi bir trafik kazası geçirir. Bu yüzden kısa süreli belleği sadece son seksen dakikayı kaydedebilir. Profesör, ona bakmakla yükümlü genç bir bakıcı ve küçük oğlundan başka hiç kimseyle iletişim kuramamaktadır. Seksen dakikadan öncesini hatırlayamayan Profesör her sabah bakıcısıyla yeniden tanışır ve her seferinde aralarında naif bir ilişki filizlenir.&lt;/p&gt;
+&lt;p&gt;Profesör kahvaltıda ne yediğini hatırlamıyor olsa da söz konusu matematiksel denklemler olduğunda beyni mucizevi bir şekilde çalışmaktadır. Bu denklemler Profesör’ün Kök ismini verdiği, bakıcının on yaşındaki oğlu ile kadına şiirsel ve korunaklı bir dünyanın kapılarını açmaktadır. Bu sıra dışı evde, üç kayıp ruh arasında soyut sayılardan daha da gizemli bir duygusal bağ kurulur.&lt;/p&gt;
+&lt;p&gt;Sayıların sihirli dünyasının karakterlerin trajedileriyle kesiştiği bu roman, farklı bir tat sunmakla kalmayıp bizlere büyük yalnızlıkların büyük umutlara gebe dünyasından güzel ve dokunaklı bir parça sunuyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-05-17</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fd1ec354-4e19-41c5-b8a9-9ad6fd86cf81</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053434238</dc:identifier>
+    <meta content="Profesör ve Hizmetçi" name="calibre:title_sort"/>
+    <meta content="{&quot;Yoko Ogawa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id22"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ekdg.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye1.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/b1.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/b2.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/b3.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/b4.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/b5.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/b6.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/b7.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/b8.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/b9.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/b10.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/b11.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id1" media-type="text/css"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="Images/ekdg.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/mat0001.png" id="id20" media-type="image/png"/>
+    <item href="Images/mat0002.png" id="id24" media-type="image/png"/>
+    <item href="Images/mat0003.png" id="id21" media-type="image/png"/>
+    <item href="Images/mat0004.png" id="id25" media-type="image/png"/>
+    <item href="Images/mat0005.png" id="id23" media-type="image/png"/>
+    <item href="Images/mat0006.png" id="id26" media-type="image/png"/>
+    <item href="Images/mat0007.png" id="id27" media-type="image/png"/>
+    <item href="Images/mat0008.png" id="id28" media-type="image/png"/>
+    <item href="Images/mat0009.png" id="id29" media-type="image/png"/>
+    <item href="Images/mat0010.png" id="id30" media-type="image/png"/>
+    <item href="Images/mat0011.png" id="id32" media-type="image/png"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id2"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id31"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

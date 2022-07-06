@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Pargalı İbrahim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tektaş, Nazım">Nazım Tektaş</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:801214a2-ba02-407e-af80-8a5da056860c</dc:identifier>
+    <dc:publisher>Çatı Kitapları</dc:publisher>
+    <dc:date>2011-02-24T10:26:54+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-03-07</dc:date>
+    <dc:description>&lt;p&gt;Cins bir tay olarak çıktığı sahnede, nerede nefesleneceğini bilmeyen bir küheylan gibidir Pargalı İbrahim. Osmanlı'da yükselebilmenin sırrı, adeta bu Rum asıllı paşada vücut bulmuştur. Devlet içinde üstlendiği vazifeler, buralarda gösterdiği başarılar ve başarısızlıklar çok önemlidir. 
+İmparatorluk doludizgin yoluna devam edip, dünyayı titretirken, Pargalı İbrahim Paşa'nın işleri yürütüşündeki farklı usulü ve kendisine biçtiği rol çoğu zaman hayretle karşılanacak, Hürrem Sultan'la aralarındaki geçimsizlik, ikisinden de vazgeçemeyen Kanuni'yi zor durumda bıraksa da her ikisi de bildiğinden şaşmayacaktır.
+Aşağıdaki sözler Pargalı'ya aittir:
+"Bu büyük devleti idare eden benim; her ne yaparsam, yapılmış olarak kalır, zîrâ bütün kudret benim elimdedir; memuriyetleri ben veririm, eyâletleri ben tevzi ederim; verdiğim verilmiş, reddettiğim reddedilmiştir. Büyük Padişah bir şey ihsan etmek istediği yahut ihsan ettiği zaman bile eğer ben onun kararını tasdik etmeyecek olursam, gayr-i vaki' gibi kalır; çünkü her şey; harb, sulh, servet kuvvet benim elimdedir. .."&lt;/p&gt;</dc:description>
+    <dc:subject>Tarihi Kurgu</dc:subject>
+    <dc:subject>Öykü</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">15ffb8a5-2b8f-43ab-a64d-264c0ca46d45</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:801214a2-ba02-407e-af80-8a5da056860c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054337293</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2011-02-24T10:26:54.415000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Pargalı İbrahim"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nazım Tektaş&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/PARGALIIbrahim_split_000.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/PARGALIIbrahim_split_001.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/PARGALIIbrahim_split_002.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/PARGALIIbrahim_split_003.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/PARGALIIbrahim_split_004.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/PARGALIIbrahim_split_005.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{00EAEBEC-E764-446F-BD54-E1C8A50B6CB8}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.12.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Elfriede Jelinek - Piyanist</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/main.xhtml#u83dd9e20-847f-4772-9120-e4c8714b653b"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Bölümler</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#u8c64a181-185b-43a1-a760-568a55094a65"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#u26af6704-5ab0-4335-bd77-fe697bf3d47e"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#u2f27315a-8c68-4a41-9d0a-494572c1c923"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

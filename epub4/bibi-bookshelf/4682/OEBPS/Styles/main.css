@@ -1,0 +1,22 @@
+p {
+	margin-top:0.1em;
+  margin-bottom:0.1em;
+  text-indent:1.5em;
+  text-align:justify;
+}
+.dipnot_sayi{font-size:0.6em;}
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.bolum_adi {
+    font-size:1.2em;
+    margin-top:1em;
+    margin-bottom:6em;
+    text-indent:0em;
+    text-align:center;
+}
+.ilk_p{text-indent:0em;}
+.ortali_mat{text-indent:0em;text-align:center;margin-top:1em;margin-bottom:1em;}
+.mat_azaralik{margin-left:1.5em;text-indent:0em;letter-spacing:-0.08em;}
+.mat_1aralik{margin-left:1.5em;text-indent:0em;letter-spacing:1em;}
+.mat_3girinti{letter-spacing:-0.08em;text-indent:0em;margin-left:4em;}
+

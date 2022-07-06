@@ -1,0 +1,15 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+h1{
+text-align:center;
+font-size:1.5em;
+
+}
+p {
+text-align:justify;
+text-indent:2em;
+
+}

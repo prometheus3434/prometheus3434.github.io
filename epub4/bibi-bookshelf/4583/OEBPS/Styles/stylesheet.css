@@ -1,0 +1,153 @@
+.baslik {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 15pt
+    }
+.calibre1 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    color: #000
+    }
+.calibre4 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre5 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre7 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre8 {
+    text-decoration: underline
+    }
+.chapter {
+    display: block
+    }
+.dipnot {
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    margin: 0.7em 0
+    }
+.dipnotlink {
+    color: #727272;
+    font-weight: bold;
+    text-decoration: none
+    }
+.h {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.h1 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0 3em
+    }
+.h2 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.h3 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.kunye {
+    font-size: 0.75em;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    text-align: center
+    }
+.kunye1 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    margin: 4px 0
+    }
+.librobold {
+    font-weight: bold
+    }
+.librobold1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.librobolditalik {
+    font-style: italic;
+    font-weight: bold
+    }
+.libroitalik {
+    font-style: italic
+    }
+.metin {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    margin: 0.7em 0
+    }
+.ortabold {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    margin: 1em 0
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    text-align: center;
+    margin: 1em 0
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    text-align: right;
+    margin: 1em 0
+    }
+.tablo {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }

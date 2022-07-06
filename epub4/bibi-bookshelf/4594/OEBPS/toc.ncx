@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{40B8E661-4005-436E-9890-6556FC080DF9}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Özgürlük Yolları 3 Yıkılış</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>New York, 15 Haziran 1940, Cumartesi, Sabah, Saat 09.00</text>
+      </navLabel>
+      <content src="Text/chapter_1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Padoux, Pazar, 16 Haziran</text>
+      </navLabel>
+      <content src="Text/chapter_2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Marsilya, 16 Haziran, Saat 14.00</text>
+      </navLabel>
+      <content src="Text/chapter_3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Padoux, Saat 15.00</text>
+      </navLabel>
+      <content src="Text/chapter_4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Paris, Saat 16.00</text>
+      </navLabel>
+      <content src="Text/chapter_5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Pazartesi, 17 Haziran</text>
+      </navLabel>
+      <content src="Text/chapter_6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Salı, 18 Haziran, Sabah, Saat 05.45</text>
+      </navLabel>
+      <content src="Text/chapter_7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Sabah, Saat 6</text>
+      </navLabel>
+      <content src="Text/chapter_8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/chapter_9.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

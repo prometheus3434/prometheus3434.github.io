@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Poetika</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aristoteles">Aristoteles</dc:creator>
+    <dc:date>2021-11-15T11:46:02+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b775217e-bf3d-41ec-922b-c5e57e49e768</dc:identifier>
+    <dc:date opf:event="modification">2014-05-27</dc:date>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:description>&lt;p&gt;İlhan Berk Logos'tan (1996, YKY) sonra bu kez "Poetika" kitabıyla şiir üstüne düşünmeyi sürdürüyor.Valery, Ahmet Haşim, Rimbaud, Yahya Kemal, Mallarme, dil, gerçeklik, anlam-anlamsızlık, dize, yapı vd. üzerine örneklerle modern şiirin poetikasını çevreliyor.Tüm gün şiirde dolaşan bir şairden, şiirin ve dilin sıfır noktasına bir serüven: Poetika.
+&lt;/p&gt;</dc:description>
+    <dc:subject>Eleştiri</dc:subject>
+    <dc:subject>İlkçağ Felsefesi</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ddc242d8-e771-47b9-8466-5dc59f531a8c</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751418937</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">bEC9zgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751403957</dc:identifier>
+    <meta content="Poetika" name="calibre:title_sort"/>
+    <meta content="2014-05-12T19:50:41.585000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Aristoteles&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Aristoteles - Poetika_split_000.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Aristoteles - Poetika_split_001.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Aristoteles - Poetika_split_002.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Aristoteles - Poetika_split_003.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Aristoteles - Poetika_split_004.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Aristoteles - Poetika_split_005.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/aristoteles - poetika-3.png" id="added3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

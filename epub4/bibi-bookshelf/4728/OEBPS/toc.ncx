@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Önsöz</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Köken 
+1871–1888</text>
+			</navLabel>
+			<content src="Text/7.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Yola Koyuluş
+1889–1897</text>
+			</navLabel>
+			<content src="Text/8.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Karar
+1898/1899</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Meydan Okuma
+1900–1904</text>
+			</navLabel>
+			<content src="Text/10.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Gelişme
+1905-1909</text>
+			</navLabel>
+			<content src="Text/11.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Hiddet
+1910-1913</text>
+			</navLabel>
+			<content src="Text/12.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Savunma
+1914</text>
+			</navLabel>
+			<content src="Text/13.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Başkaldırı
+1915-1918</text>
+			</navLabel>
+			<content src="Text/14.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Ayaklanma
+Kasım 1918 – Ocak 1919</text>
+			</navLabel>
+			<content src="Text/15.html#toc_marker-10"/>
+		</navPoint>
+	</navMap>
+</ncx>

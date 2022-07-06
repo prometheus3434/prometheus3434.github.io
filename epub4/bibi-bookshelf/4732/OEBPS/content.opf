@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Roverandom</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tolkien, J. R. R.">J. R. R. Tolkien</dc:creator>
+    <dc:date>2022-06-01T10:01:04+00:00</dc:date>
+    <dc:identifier id="BookId">awp2013-07-14T17:15:53Z</dc:identifier>
+    <dc:date opf:event="modification">2014-03-29</dc:date>
+    <dc:publisher>Werner Söderström Ltd</dc:publisher>
+    <dc:description>Tarutaituri Tolkienin riemastuttava fantasiasatu.J. R. R. Tolkienin omille lapsilleen 1920-luvulla sepittämä satu kertoo huiman tarinan pienestä lelukoirasta, joka herää henkiin ja matkustaa Kuuhun asti.Roverandom sai alkunsa kesällä 1925, kun J. R. R. Tolkienin poika Michael hukkasi hiekkarannalle rakkaimman lelunsa, mustavalkoisen lyijykoiran. Poikaansa lohduttaakseen Tolkien sepitti tarinan leikkisästä pikku koirasta nimeltä Rover, joka tulee puraisseeksi äkkipikaisen velhon housunlahjetta. Kiukustunut velho taikoo Roverin lelukoiraksi, joka päätyy erään pienen pojan haltuun. Poika kuitenkin kadottaa Lelu-Roverin hiekkarannalle, josta sen löytää vanha hiekkatietäjä. Tästä alkavat Roverin ihmeelliset seikkailut. Valloittava satu on tolkienmaiseen tapaan täynnä kielellistä leikittelyä sekä viitauksia myytteihin ja historiaan. Mukana on kirjan toimittajien laatima johdanto ja kulttuurihistoriallisia viitteitä valaiseva selitysosa. Kuvitus on Tolkienin itsensä käsialaa, ja suomennoksesta vastaa Kersti Juva. Oxfordin yliopiston professori, filologi John Ronald Reuel Tolkien (1892–1973) tunnetaan nykyaikaisen fantasiakirjallisuuden isänä, joka teki varsinaisen kirjallisen läpimurtonsa 1960-luvulla. Tuolloin hänen Hobitti-esikoisromaaninsa (1937) jatkoksi kirjoittamansa fantasiajärkäle Taru Sormusten herrasta (1954–55) herätti poikkeuksellista vastakaikua amerikkalaisilla yliopistokampuksilla. Tämä nykykirjallisuudessa ainutlaatuinen teos on säilyttänyt suosionsa lukijapolvelta toiselle ja se on valittu lukuisissa äänestyksissä vuosisatansa kirjaksi.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Masal</dc:subject>
+    <dc:language>fi</dc:language>
+    <dc:identifier opf:scheme="calibre">3e3d2500-ae75-4145-a176-140d75c63310</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752733930</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789510478509</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">1TpxEAAAQBAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Roverandom"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+  </guide>
+</package>

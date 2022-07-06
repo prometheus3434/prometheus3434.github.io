@@ -1,0 +1,20 @@
+p {
+  font-size:0.7em;
+	margin-top:0em;
+  margin-bottom:0em;
+  text-indent:0em;
+  text-align:center;
+}
+.sayfa_kes{page-break-before: always;}
+
+.kunye0{font-size:0.9em;text-align:justify;}
+.kunye1{font-size:1em;}
+.kunye2{margin-top:1.2em;font-size:1.2em;font-weight:bold;letter-spacing:0.02em;}
+.kunye3{margin-top:0.5em;font-size:1.4em;font-weight:bold;letter-spacing:0.02em;}
+.kunye4{margin-top:1.4em;font-size:0.9em;}
+
+.kunye5{margin-top:0.7em;}
+.kunye6{margin-top:0.5em;}
+.kunye7{margin-top:1.1em;}
+.kunye8{margin-top:1.5em;}
+.kunye9{letter-spacing:-0.07em;}

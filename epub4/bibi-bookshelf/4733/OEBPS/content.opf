@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Rönesans İngiltere'sinde Türkler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aksoy, Nazan">Nazan Aksoy</dc:creator>
+    <dc:publisher>İstanbul Bilgi Üniversitesi Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;i&gt;Rönesans İngiltere'sinde Türkler&lt;/i&gt; kitabında Prof. Dr. Nazan Aksoy, 16. yüzyılda İngiltere'de yazılmış Türkleri konu alan oyunların anlamını tarihi açıdan yorumlarken, bu oyunların yazıldıkları dönemi bütün özellikleri ile değerlendirip, tarihsel arkaplanlarını eleştirel bir yorumla ele alıyor.&lt;/p&gt;
+
+&lt;p&gt;Batı edebiyatı ve tiyatro sanatında çeşitli dönemlerde farklı biçimlerde kendini gösteren Türk imgesinin, her dönemin değişik özelliklerine, Osmanlı Devleti'nin gücüne, her ülkenin koşullara göre değişen değer yargılarına bağlı olduğunu savunan Aksoy, İngiltere ile Osmanlı Devleti arasındaki ilişkileri yorumlarken bunların siyasi, ekonomik ve diplomatik alanlardaki gelişmelere göre şekillendiğini belirtir.&lt;/p&gt;
+
+&lt;p&gt;Nazan Aksoy, Osmanlı-İngiliz ilişkilerinde dinin de önemli bir etken olduğu ve Türk imgesinin biçimlenmesinde rol oynadığını açıklıyor ve kendisini bu alanda çalışmaya özendiren, hocası Berna Moran'ı da minnetle anıyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2004-06-15T11:00:07+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Logolu</dc:subject>
+    <dc:subject>Türkler</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2256230c-4886-40f4-8f3f-c73e85f31ff6</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">OkcgAQAAIAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756857823</dc:identifier>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta content="Rönesans İngiltere'sinde Türkler" name="calibre:title_sort"/>
+    <meta content="{&quot;Nazan Aksoy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.htm" id="title.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.htm" id="kunye.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.htm" id="ithaf.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz2.xhtml" id="onsoz2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.htm" id="onsoz.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynaklar.htm" id="kaynaklar.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/logo.jpg" id="logo.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="BerlingLTStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="BerlingLTStd-Roman.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Meta-Bold.ttf" id="Meta-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Meta-CapsTR.ttf" id="Meta-CapsTR.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/MetaBoldCaps.ttf" id="MetaBoldCaps.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="title.htm"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="ithaf.htm"/>
+    <itemref idref="onsoz2.xhtml"/>
+    <itemref idref="onsoz.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="kaynaklar.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

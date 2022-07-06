@@ -1,0 +1,116 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.55em;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-family: "Bodoni MT Black", "serif";
+    font-size: 2.4em;
+    line-height: 115%
+    }
+.calibre9 {
+    height: 69px;
+    line-height: 1.2;
+    width: 107px
+    }
+.calibre10 {
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.calibre11 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre12 {
+    height: 786px;
+    line-height: 1.2;
+    width: 488px
+    }
+.msonormal {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: center;
+    margin: 0 0 10pt
+    }
+.msonormal1 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    margin: 0 0 10pt
+    }
+.msonormal2 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: center;
+    text-indent: 13.5pt;
+    margin: 0 0 6pt
+    }
+.msonormal3 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: center;
+    margin: 0 0 6pt
+    }
+.msonormal4 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: justify;
+    text-indent: 13.5pt;
+    margin: 0 0 6pt
+    }
+.msonormal5 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: center;
+    text-indent: 4.5pt;
+    margin: 0 0 6pt
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }

@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Robotların Yükselişi: Yapay Zeka ve İşsiz Bir Gelecek Tehlikesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ford, Martin">Martin Ford</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">79c215ce-69d7-4661-ac8e-72fdb4e00225</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1f96160b-615d-45bd-9ea7-87029a4ee2e3</dc:identifier>
+    <meta name="calibre:series" content="OzetKitap.com"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:series_index" content="8.0"/>
+    <meta name="calibre:title_sort" content="Robotların Yükselişi: Yapay Zeka ve İşsiz Bir Gelecek Tehlikesi"/>
+    <meta name="calibre:timestamp" content="2019-05-27T14:19:39.447279+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Martin Ford&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

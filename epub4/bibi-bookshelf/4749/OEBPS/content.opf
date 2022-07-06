@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Rüyanın öte yakası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Guin, Ursula K. Le &amp; Ülçer, Aylin">Ursula K. Le Guin</dc:creator>
+    <dc:creator opf:role="aut">Aylin Ülçer</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:85427f8f-935d-4ad2-ab67-424b89c56d3f</dc:identifier>
+    <dc:description>In a future world racked by violence and environmental catastrophes, George Orr wakes up one day to discover that his dreams have the ability to alter reality. He seeks help from Dr. William Haber, a psychiatrist who immediately grasps the power George wields. Soon George must preserve reality itself as Dr. Haber becomes adept at manipulating George's dreams for his own purposes.</dc:description>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:date>2018-06-15T10:36:22+00:00</dc:date>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0ca72987-42e8-4196-842f-1dfd89333785</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:85427f8f-935d-4ad2-ab67-424b89c56d3f</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">OgHWXwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753427913</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753427913</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;, &quot;Aylin Ülçer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-03-04T17:44:11.562000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Rüyanın öte yakası" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/chapter.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
