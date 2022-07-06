@@ -1,0 +1,59 @@
+.calibre {
+  display: block;
+  font-size: 0.83333em;
+  padding-left: 0;
+  padding-right: 0;
+ 
+  margin: 0 5pt;
+}
+.calibre1 {
+  color: black;
+  font-family: "Times New Roman TUR", serif;
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+.calibre2 {
+  color: black;
+  font-family: "Times New Roman TUR", serif;
+  font-size: 1.2em;
+}
+.calibre3 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre4 {
+  line-height: 1.2;
+}
+.calibre5 {
+  display: block;
+  line-height: 1.2;
+}
+.msonormal {
+  display: block;
+  font-family: "Calibri", sans-serif;
+  font-size: 1em;
+  line-height: normal;
+ 
+  margin: 0 0 0.0001pt;
+}
+.msonormal1 {
+  display: block;
+  font-family: "Calibri", sans-serif;
+  font-size: 1em;
+  line-height: normal;
+  text-align: center;
+ 
+  margin: 0 0 0.0001pt;
+}
+.msonormal2 {
+  display: block;
+  font-family: "Calibri", sans-serif;
+  font-size: 1em;
+  line-height: 115%;
+
+  margin: 0 0 10pt;
+}
+.wordsection {
+  display: block;
+  page: WordSection1;
+}

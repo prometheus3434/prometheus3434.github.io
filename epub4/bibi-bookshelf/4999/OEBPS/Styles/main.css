@@ -1,0 +1,198 @@
+ @page
+    {margin: 5pt;}
+body
+    {font-family: "100 %", serif, sansserif;}
+p
+    {
+    margin:0pt;
+    text-indent:1.5em;
+    line-height: 1.3em;
+    text-align: justify;
+    font-size: 1em;
+    widows: 2;
+    orphans: 2;
+    }
+.kunye, .kunye p	{
+	text-indent:0em; 	
+font-size:0.85em;
+    line-height: 1.3em;
+	margin: 0em 0em 10px 10px; 	
+	text-align: left;}
+
+.arabaslik {
+margin: 1.5em auto 1.5em auto;
+line-height: 1.3em;font-size:1.1em;
+font-weight: bold;
+text-align: center;
+text-indent:0em;
+}
+
+.alinti {margin: 1em auto 1em 1.5em;}
+.alinti p {
+  text-indent: 1.5em;
+  font-size:0.95em;
+text-align: justify;
+line-height: 1.2em;
+}
+.liste {margin: 1em auto 1em 3em;}
+.liste p {
+  text-indent: -1.5em;
+  font-size:1em;
+text-align: justify;
+line-height: 1.3em;
+}
+.left-em, .left-em p {
+margin-left: 5em;
+font-size: 0.95em;
+text-align: left;
+line-height: 1.2em;
+}
+
+.big {font-size:120%}
+.small {font-size:90%}
+
+a
+    {
+  text-decoration: none;
+    color:#999;
+    }
+
+.yildiz
+	{
+	font-size:1.2em;
+	margin-top:1em;
+	margin-bottom:1em;
+	text-align:center;
+	}
+
+h1
+    {
+margin: 1em auto 2em auto;
+    font-size: 1.2em;
+font-weight: bold;
+    text-align: center;
+text-indent:0em;
+    }
+h2
+    {
+    margin-top: 2em;
+    margin-bottom:5em;
+    font-size: 1.2em;
+font-weight: bold;
+    text-align: center;
+text-indent:0em;
+    }
+.gecis {text-indent:1.5em; margin-top: 1.5em;}
+
+.nonindent {text-indent:0em;}
+
+.left, .left p 
+    {
+    text-align: left;
+    }
+.center, .center p 
+    {
+    text-align: center;
+    text-indent:0em;
+    }
+.right,.right p
+    {
+    text-align: right;
+    }
+.bold
+    {
+    font-weight: bold;
+    }
+.italic, i
+    {
+    font-style: italic;
+    font-size: 0.98em;
+    }
+.underline
+    {
+    text-decoration:underline;
+    }
+
+
+/*==Titlepage==*/
+.title1
+    {
+    margin-top:2em;
+    margin-bottom:1em;
+    font-size: 1.5em;
+    text-align: center;
+    text-indent:0em;
+    }
+.title2
+    {
+     margin-bottom:4em;
+    font-size: 1.3em;
+    text-align: center;
+    text-indent:0em;
+    }
+.title3
+    {
+     margin-bottom:1.5em;
+    font-size: 1em;
+    text-align: center;
+    text-indent:0em;
+    }
+
+.logo{
+  margin-top:30%;
+ text-align: center;
+height: 70%;}
+.fig{
+margin: 1em auto 1em auto;
+ text-align: center;
+height: 100%;
+}
+
+h2, .title1, .title2, .kunye p, .chapter {-epub-hyphens:none; -webkit-hyphens:none;}
+
+.footnote
+{
+	font:normal normal .875em Berkeley;
+	margin-bottom:.25em;
+	margin-left:1em;
+	text-align:justify;
+	text-indent:0;
+}
+
+.footnotelabel
+{
+	width:2.5em;
+	float:left;
+	font-size:.93em;
+	line-height:165%;
+}
+
+.footnoteref,.footnotetarget
+{
+	border:1px solid #999;
+	font-size:90%;
+	padding:1px;
+	padding-top:3px;
+}
+
+.footnotecontent
+{
+	padding-left:3em;
+	margin-bottom:10px;
+}
+
+.footnotecontent p
+{
+	text-indent:0;
+	margin-left:5px;
+	vertical-align:middle;
+	page-break-before:avoid;
+	margin-top:1px;
+}
+
+.bosluk1{margin-top:1em}
+.bosluk2{margin-top:2em}
+.bosluk3{margin-top:3em}
+.bosluk4{margin-top:25%}
+.bosluk5{margin-top:50%}
+.bosluk7{margin-top:70%}

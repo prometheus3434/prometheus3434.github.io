@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Solaris</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lem, Stanislaw &amp; Aközen, Mehmet">Stanislaw Lem</dc:creator>
+    <dc:creator opf:role="aut">Mehmet Aközen</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">01850ebd-ba46-4df3-ae4b-e242ca5f1f8e</dc:identifier>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:date>1997-06-15T10:24:05+00:00</dc:date>
+    <dc:description>&lt;p&gt;20. yüzyıl bilimkurgu edebiyatının başyapıtlarından sayılan Solaris, insanlığın bilimle ve başka gezegenlerle ilişkisini ele alıyor. Kris Kelvin, Solaris'in yüzeyindeki okyanus üzerinde araştırma yapmak ve evreni anlamak üzere bu gezegene gelir. Çalışmalarına başlayınca, bastırılmış anılarla yüklendiği acılı bir deneyim yaşamaya başlar. Bir süre sonra, yalnız olmadığını, diğer araştırmacıların da benzer şeyler yaşadığını görür. Okyanusun, kimsenin kaynağını ve sebebini bilmediği bu anıları yaratan canlı bir organizma olduğu fark edilince, bilim insanları araştırmalarının odağını değiştirerek kendi içlerine yönelirler... Solaris, Freud'dan Jung'a uzanan süreçte farklı psikanalitik kuramları üstü örtülü bir biçimde tartışırken, insanoğlunun başka dünyalara dair duyduğu merakı ve bilimsel-teknolojik hırsını sorguluyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-02-20</dc:date>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Polonya</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">db2b7317-1e78-45a0-9987-248445716243</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754706253</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">filNPgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">888e6d7c-8a35-46e9-b47e-422d4b4fab11</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">0156027607</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754706253</dc:identifier>
+    <meta content="Solaris" name="calibre:title_sort"/>
+    <meta content="2014-02-18T22:17:30.306000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Stanislaw Lem&quot;: &quot;&quot;, &quot;Mehmet Aközen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_000.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_001.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_002.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_003.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_004.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_005.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_006.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_007.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_008.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_009.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Solaris_split_010.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

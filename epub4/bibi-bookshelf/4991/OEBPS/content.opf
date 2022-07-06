@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sovyetler Birliği'nin çözülüşü üzerine anti-tezler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Okuyan, Kemal">Kemal Okuyan</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:15c4a3e5-5fe9-4879-8ef4-57db125a61ba</dc:identifier>
+    <dc:publisher>Nâzım Kitaplığı</dc:publisher>
+    <dc:description>Sovyetler Birliği kimilerinin iddia ettiği gibi dış düşmanlar tarafından çökertilmedi. Ama Sovyetler Birliği, birçok kişinin düşündüğü gibi, kendi kendine de yıkılmadı. Sovyetler Birliği, kapitalizmle giriştiği zorlu mücadelede yenildi. Bu mücadelenin tarafları vardı, bu mücadelenin kuralları vardı. Onlar yok sayılarak Sovyetler Birliği'nde sosyalizmin çözülüşü kavranamaz. Bu yaklaşımı temel alan "Anti-Tezler"de, Sovyetler Birliği'nin yıkılmasına neden olan gelişmelere ilişkin şu ana kadar ileri sürülen birçok tez ele alınıp, sorgulanıyor. Çözülüş üzerine bugüne kadar yapılan değerlendirmelerin önemli bölümünde emperyalist propagandanın küçümsenmeyecek bir etkisi olduğunu, bazı örneklerde ise fazlasıyla kolaycı formüllere bel bağlandığını gösteren kitapta Sovyet deneyimine dostça sahip çıkılmakla birlikte, keskin bir eleştiri de yönetiliyor. Temel kriter ise şöyle ifade ediliyor: Sovyetler Birliği'ne eleştirel bakış kapitalizme karşı eleştiri ve öfkenin üzerine örtmemelidir. Bütün bu söylenenleri en iyi özetleyen ise, kitabın sınıfsız sömürüsüz bir toplum idealine inananlara çağrısıdır: Daha iyi, daha gelişkin ve yenilmez bir sosyalizm kurma irademiz, Sovyetler Birliği'nden utanmamız için bir neden değildir. Utanç verici olan, kapitalizmin kendisidir.</dc:description>
+    <dc:date>2005-06-15T10:18:41+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:15c4a3e5-5fe9-4879-8ef4-57db125a61ba</dc:identifier>
+    <dc:subject>Markizm</dc:subject>
+    <dc:subject>Sol</dc:subject>
+    <dc:subject>Devrim</dc:subject>
+    <dc:subject>Sovyetler Birliği</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">0e500275-0aae-4390-bc45-5712c5da2e1b</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055892234</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758271825</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">6055892235</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:15c4a3e5-5fe9-4879-8ef4-57db125a61ba</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">cM2GAAAACAAJ</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover.jpg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Sovyetler Birliği'nin çözülüşü üzerine anti-tezler" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Kemal Okuyan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ISIM.xhtml" id="ISIM.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3B-ONSOZ.xhtml" id="x3B-ONSOZ.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2B-ONSOZ.xhtml" id="x2B-ONSOZ.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ONSOZ.xhtml" id="ONSOZ.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM1.xhtml" id="BOLUM1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM2.xhtml" id="BOLUM2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM3.xhtml" id="BOLUM3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BOLUM4.xhtml" id="BOLUM4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/DIPNOT.xhtml" id="DIPNOT.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.gif" id="logo.gif" media-type="image/gif"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="ISIM.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="x3B-ONSOZ.xhtml"/>
+    <itemref idref="x2B-ONSOZ.xhtml"/>
+    <itemref idref="ONSOZ.xhtml"/>
+    <itemref idref="BOLUM1.xhtml"/>
+    <itemref idref="BOLUM2.xhtml"/>
+    <itemref idref="BOLUM3.xhtml"/>
+    <itemref idref="BOLUM4.xhtml"/>
+    <itemref idref="DIPNOT.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

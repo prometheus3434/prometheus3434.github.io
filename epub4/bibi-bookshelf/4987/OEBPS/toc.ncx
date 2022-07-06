@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:4803cfcf-2de6-4aab-bd36-2a788bfd6945" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>SOSYAL BİLİMLERİ AÇIN</text>
+      </navLabel>
+      <content src="Text/part.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I. Onsekizinci Yüzyıldan 1945'e Kadar Sosyal Bilimlerin Tarihsel Kuruluşu</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>II. 1945'ten Günümüze Sosyal Bilimler içinde Yapılagelen Tartışmalar</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>1. Sosyal Bilimler Arasındaki Ayrımların Geçerliliği</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>2. Mirasın Ne Kadar Yerel Görüşlü Olduğu 9</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>3. "İki Kültür” Arasındaki Ayrımın Gerçekliği ve Geçerliliği</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>III. Şimdi Nasıl Bir Sosyal Bilim Kurmalıyız?</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>1. İnsanlar ve Doğa</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>2. Analitik Bir Yapı Taşı Olarak Devlet</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>3. Evrensel ve Tekil</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>4. Nesnellik</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>IV. Sonuç: Sosyal Bilimlerin Yeniden Yapılandırılması</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Katılımcılar</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

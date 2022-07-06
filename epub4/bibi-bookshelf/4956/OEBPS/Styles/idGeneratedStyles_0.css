@@ -1,0 +1,188 @@
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/LiberationSerif.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/LiberationSerif-Bold.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../Fonts/LiberationSerif-BoldItalic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../Fonts/LiberationSerif-BoldItalic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/LiberationSerif-Italic.ttf");
+}
+@font-face {
+	font-family:"Liberation Serif";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/LiberationSerif-Italic.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.anabaslik {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1.25em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:40px;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.kunye {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.444;
+	margin-bottom:0;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:1px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.paragraf {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:0;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:1;
+}
+p.resim {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.556;
+	margin-bottom:20px;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:20px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.split {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1.25em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1;
+	margin-bottom:0;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:100px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.yildiz {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Liberation Serif", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.083;
+	margin-bottom:15px;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:15px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}

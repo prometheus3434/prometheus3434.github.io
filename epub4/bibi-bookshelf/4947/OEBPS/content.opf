@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sokaktaki adam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roth, Philip &amp; Genç, Kaya">Philip Roth</dc:creator>
+    <dc:creator opf:role="aut">Kaya Genç</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7fa0bb7c-0bd3-4813-93ed-6b46a5878d56</dc:identifier>
+    <dc:date>2010-06-15T10:10:18+00:00</dc:date>
+    <dc:publisher>YKY</dc:publisher>
+    <dc:description>&lt;p&gt;Amerikan edebiyatının yaşayan en büyük ustası Philip Roth'tan yaşlılık, hastalık ve insanın ölüm karşısındaki çaresizliği üzerine son derece içten, yoğun ve büyüleyici bir kitap. 
+Fuentes ve García Márquez'le birlikte dünyanın en iyi üç romancısından biri olan Philip Roth için yaşlılığa rağmen cinsellik arzusunun artışı, insanın kendi yaratısına, ölüme karşı koyması anlamına geliyor... Georg Lukacs yazarın, hayatın bütününü kapsamasının imkânsız olduğuna hükmetmişti, Philip Roth Sokaktaki Adam'da bu tezi görkemli bir biçimde çürütüyor."
+Nadine Gordimer, The New York Times
+
+New York'ta bir reklam ajansından emekli olan Sokaktaki Adam görünüşte güzel bir hayat sürmüştür: Ödüllü bir sanat yönetmeni olarak, genç ve güzel kadınların ilgisini çekmiştir, kızı ona hayrandır, bir finans dehası olan ağabeyi zor zamanlarında hep yanında olmuştur. Ancak Sokaktaki Adam artık yaklaşan ölümün sesini duymaktadır; cenaze töreninde başlayan roman boyunca çocukluğundan itibaren hastaneye yattığı, ameliyat olduğu, kalp damar hastalıklarının ortaya çıktığı günleri ve 11 Eylül saldırılarından sonra taşındığı bir sahil kasabasında emeklilere resim dersi vererek geçirdiği anları 
+hatırlar. Hatırladıkça, aklında mutlu geçmişi kadar, başarısız evlilikleri, sevdiği insanlara ihanet edişi, ressamlık hayalinin peşinden gitmeyişi, artık asla telafi edemeyeceği pişmanlıkları da canlanır.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Amerikan Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">60799dda-29c3-4241-885a-d4ad0944b406</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750819483</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">0sksnwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:7fa0bb7c-0bd3-4813-93ed-6b46a5878d56</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750819483</dc:identifier>
+    <meta name="cover" content="yky_sokaktaki_adam.jpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sokaktaki adam"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Philip Roth&quot;: &quot;&quot;, &quot;Kaya Genç&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/yky_sokaktaki_adam.jpg" id="yky_sokaktaki_adam.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Sonsuz Gece</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gray, Cladia">Cladia Gray</dc:creator>
+    <dc:publisher>Pegasus Yayınları</dc:publisher>
+    <dc:date>2014-09-08T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">058f451f-7476-435a-904d-91d5befca2ae</dc:identifier>
+    <dc:date>2014-08-31T21:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Bianca'nın hayatı hiç de istediği gibi değildir. Gotik ve ürpertici Evernight Akademisi'nin öğrencileri güzel, zeki, hatta neredeyse yırtıcıdır ama Bianca onlardan biri olmadığının farkındadır. Yakışıklı ve gizemli Lucas'la tanıştığında ise genç adam ona dikkatli olması gerektiğini söyler: Bianca kalbini ona kaptırmamalıdır. Bu uyarıya rağmen aralarındaki güçlü çekime karşı koyamayan genç kız, Lucas'la birlikte olabilmek için her riski göze almaya hazırdır. Onları ayırmak ve Bianca'ya inandığı her şeyi sorgulatmak için fırsat kollayan karanlık güçler, bu aşka engel olabilecek midir?
+
+"Romeo ve Juliet tarzında işlenmiş gençlik aşkı ve asırlardır süren düşmanlıkla örülü, birinci sınıf, güçlü bir roman." 
+-Romantic Times Book Reviews-
+
+"Okurlar, Evernight Akademisi ve öğrencileri hakkında yeni şeyler öğrenmek için sabırsızlanacak." 
+-Kliatt-
+
+"Gray'in tarzı okuru daha ilk sayfada yakalıyor ve beklenmedik gelişmelerle iyice kendine çekiyor. Kitabın yoruma açık sonuysa bir sonraki kitabın heyecanla beklenmesini sağlıyor. Vampir hikâyelerini sevenler kaçırmasın." 
+-School Library Journal-
+
+"Romantik öykülere, yatılı okullara ve vampirli maceralara meraklı genç okurlar ustaca yazılmış bu romana bayılacak." 
+-Children's Literature- 
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:subject>Vampir</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Aşk</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8d7ff756-feb5-47c8-90f4-6e3b8815c869</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053432753</dc:identifier>
+    <meta content="Sonsuz Gece" name="calibre:title_sort"/>
+    <meta content="2014-07-17T22:45:39.990000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:series" content="Evernight Akademisi"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cladia Gray&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image-1.jpeg" id="id3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

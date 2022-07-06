@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="b5e1b5d4-1eb6-41af-b8ff-45d72deaa27e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Son Adım</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{5139787E-BAFC-4087-B5B8-818F1003C8BA}" playOrder="1">
+      <navLabel>
+        <text>"Yürüyebilecek misin?" deyip kaldırıyorsun babaann</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{A056C91F-EB45-47DF-9824-EDDDB05E1689}" playOrder="2">
+      <navLabel>
+        <text>Ne saçmalık, diyorsun, hayal gücü ne saçmalık.</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{EA9771B8-0EAE-4578-9DD9-0032854E9FD8}" playOrder="3">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{40AAB301-DA7B-44AA-A51F-C6BE71A6B49F}" playOrder="4">
+      <navLabel>
+        <text>Uzun olanın, suratına var gücüyle tekmeyi geçireni</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

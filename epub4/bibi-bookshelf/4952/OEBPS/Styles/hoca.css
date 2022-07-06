@@ -1,0 +1,1460 @@
+@charset "UTF-8";
+
+/*  eKDG.css — Hızlıca eKitap hazırlamak için bir CSS kütüphanesi
+    Sürüm 0.2 (alpha) by iz                           
+    Lisans: MIT (https://opensource.org/licenses/MIT)   */
+
+@namespace h "http://www.w3.org/1999/xhtml/";
+html {
+    /* Biçimlendirme olarak kullanılmadı. Yukarıda herhangi bir şey yanlış giderse; 
+  ilk darbeyi buranın alması için yazıldı.  */
+}
+
+
+/* CSS: Başlangıç */
+
+
+/* SIFIRLAMA: Başlangıç */
+
+
+/*  Bir takım sorunları bir kerede ve tamamen çözebilmek için
+    varsayılan biçimlendirmeleri sıfırlamamız gerekiyor:
+
+  - ePub 3 de düşünülerek hazırlandı (sadece sıfırlama kısmı)
+  - Geriye dönük HTML5 uyumluluğu (ePub 2 okuyabilen programda ePub 3 dosyası); 
+  - Kullanıcı ayarları (Ör.: Kobo ve Kindle'daki satır yüksekliği); 
+  - İleride tanımlacak sınıflardaki tekrarlamaları azaltmak için (DRY Prensibi)
+  - gibi ...
+
+  Her şey bir çeşit standardlaştırma olarak başladı fakat işin 
+  büyüklüğü göz önüne alındığında sıfırlama oldu.
+*/
+
+article,
+address,
+aside,
+blockquote,
+canvas,
+dd,
+details,
+div,
+dl,
+dt,
+figure,
+figcaption,
+footer,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hr,
+li,
+main,
+nav,
+ol,
+p,
+pre,
+section,
+summary,
+ul {
+    margin: 0;
+    padding: 0;
+    /* Okuma Sistemi <p> gibi elemanlara içten yatay boşluk (vertical-padding) uygulayabilir */
+    font-size: 1em;
+    /* Pixel biriminde yazı büyüklüğü bazı eski RMSDK'lerde kullanıcı ayarını devre dışı bırakıyor */
+    line-height: inherit;
+    /* Kindle görmezden geliyor, Kobo gereksinim duruyor. "inherit" kullanılmadığında bazı Kobo cihazlarda kullanıcı ayarı devre dışı kalabilir. */
+    text-indent: 0;
+font-style: normal;
+    font-weight: normal;
+    }
+
+
+/* Geriyi dönük HTML5 uyumluluğu için kesinlikle gerekli */
+
+article,
+aside,
+figure,
+figcaption,
+footer,
+header,
+main,
+nav,
+section {
+    display: block;
+}
+
+[hidden] {
+    display: none;
+}
+
+
+/* Okuma Sisteminin bu elemanları varsayılan olarak (iki yana) yaslamasını engelle  */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dt,
+pre {
+    text-align: left;
+}
+
+a,
+abbr,
+b,
+bdi,
+bdo,
+cite,
+code,
+data,
+del,
+dfn,
+em,
+i,
+ins,
+kbd,
+mark,
+q,
+rp,
+rt,
+rtc,
+ruby,
+s,
+samp,
+small,
+span,
+strong,
+sub,
+sup,
+time,
+var {
+    font-size: inherit;
+    vertical-align: baseline;
+    font-style: inherit;
+    /* Satıriçi (inline) elemanların iç içe yazılmasını hesaba kat (Ör.: <em> içindeki <sup>) */
+    font-weight: inherit;
+    /* Satıriçi (inline) elemanların iç içe yazılmasını hesaba kat (Ör.: <em> içindeki <strong>) */
+    color: inherit;
+    text-decoration: none;
+}
+
+q {
+    quotes: none;
+}
+
+
+/* xHTML dosyasının sonunda dıştan aşağı boşluğa (margin-bottom) sahip bir eleman olduğunda boş sayfayı engellemek için */
+
+body> :last-child,
+body>section> :last-child {
+    margin-bottom: 0;
+}
+
+
+/* SIFIRLAMA: Son */
+
+
+/* SAYFA DÜZENİ: Başlangıç */
+
+@page {
+    margin: 30px 30px 20px 30px;
+    /* Şuradaki eski bir dökümanda Barnes & Noble tarafından tavsiye ediliyor: 
+       https://simg1.imagesbn.com/pimages/pubit/support/pubit_epub_formatting_guide.pdf */
+    padding: 0;
+}
+
+body {
+    font-size: 100%;
+    line-height: 1.5;
+    margin: 0;
+    /* Okuma sistemi kenar boşluklarını her hâlükârda geçersiz bırakacak */
+    padding: 0;
+    widows: 2;
+    /* iBooks ve Kobo "widows" ve "orphans" destekliyor */
+    orphans: 2;
+}
+
+
+/* SAYFA DÜZENİ: Son */
+
+
+/* TİPOGRAFİ: Başlangıç */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote p cite,
+dt,
+pre,
+address,
+table,
+caption,
+th,
+td,
+.align-left, .yasla-sol,
+.align-center, .yasla-orta,
+.align-right, .yasla-sag,
+.caption, .altyazi,
+.no-hyphens, .tiresiz {
+    adobe-hyphenate: none;
+    /* Eski RMSDK'lere özel */
+    -ms-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -epub-hyphens: none;
+    hyphens: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dt,
+hr {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+h1 {
+    font-size: 1.4375em;
+    line-height: 1.04347826;
+    margin-top: 1.14285714em;
+    margin-bottom: 2.08695652em;
+}
+
+h2 {
+    font-size: 1.3125em;
+    line-height: 1.14285714;
+    margin-top: 2.28571429em;
+    margin-bottom: 1.14285714em;
+}
+
+h3 {
+    font-size: 1.125em;
+    line-height: 1.33333333;
+    margin-top: 1.33333333em;
+    margin-bottom: 1.33333333em;
+}
+
+h4 {
+    font-size: 1em;
+    line-height: 1.5;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+h5 {
+    font-size: 0.75001875em;
+    line-height: 1.5em;
+    margin-top: 1.12528132em;
+    margin-bottom: 1.12528132em;
+}
+
+h6 {
+    font-size: 0.562654726em;
+    line-height: 1.12528132em;
+    margin-top: 0.844172033em;
+    margin-bottom: 0.844172033em;
+}
+
+p {
+    text-indent: 1em;
+}
+
+.footnote, .dipnot {
+    font-size: 0.9375em;
+    line-height: 1.6;
+    text-indent: 0;
+}
+
+blockquote {
+    margin: 1.5em 5%;
+}
+
+blockquote p {
+    text-indent: 0;
+    font-style: italic;
+}
+
+blockquote p i,
+blockquote p em,
+blockquote p cite {
+    font-style: normal;
+}
+
+a {
+    text-decoration: underline;
+    /* Note: KF8 formatı şu şekilde kullanılmadığı sürece bunu kullanmaya zorlar: "eleman.sinif a" */
+    font-weight: bold;
+    color: inherit;
+    -webkit-text-fill-color: inherit;
+    /* iBooks geçersiz bırakıyor (Gece modunda iOS 9 ve El Capitan) */
+    /* inherit = metin rengi */
+}
+
+i,
+cite,
+dfn,
+em {
+    font-style: italic;
+}
+
+
+/* Eğik yazının içinde eğik yazı kullanılırsa düz yazıya dön */
+
+i i,
+i cite,
+i dfn,
+i em,
+cite i,
+cite cite,
+cite dfn,
+cite em,
+dfn i,
+dfn cite,
+dfn dfn,
+dfn em,
+em i,
+em cite,
+em dfn,
+em em {
+    font-style: normal;
+}
+
+b,
+strong {
+    font-weight: bold;
+}
+
+del,
+s {
+    text-decoration: line-through;
+}
+
+mark {
+    background-color: yellow;
+    color: inherit;
+}
+
+ins {
+    text-decoration: line-through;
+}
+
+small {
+    font-size: 0.8125em;
+}
+
+
+/* <sub>'un satır yüksekliğinden (line-height) etkilenmemesi için eklemeler */
+
+sub {
+    font-size: 75%;
+    line-height: 1.2;
+    vertical-align: sub;
+    /* Son Çare */
+    vertical-align: -20%;
+}
+
+
+/* <sup>'un satır yüksekliğinden (line-height) etkilenmemesi için eklemeler */
+
+sup {
+    font-size: 75%;
+    line-height: 1.2;
+    vertical-align: super;
+    /* Son Çare */
+    vertical-align: 33%;
+}
+
+
+/* TİPOGRAFİ: Son */
+
+
+/* ŞEKİLLER + GÖRÜNTÜLER: Başlangıç  */
+
+figure, .figure, .sekil {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    margin: 1.5em 0;
+}
+
+figcaption, .figcaption, .sekil-altyazisi,
+.caption, .altyazi {
+    font-size: 0.9375em;
+    line-height: 1.6;
+    text-indent: 0;
+}
+
+img {
+    width: auto;
+    max-width: 100%;
+    /* Not: KF8 "max-width" desteklemediği için son çare olarak "width: auto;" kullanılıyor */
+    height: auto;
+    object-fit: contain;
+}
+
+
+/* Not: Tam sayfa resim ve altyazı biçimlerdirme çok sorunlu */
+
+
+/* Kullanılan CSS tekniğini incelemek için: https://github.com/jstallent/ImagesSingleFile */
+
+img.portrait, img.tam-sayfa-resim {
+    width: auto;
+    max-width: 100%;
+    /* Not: KF8 "max-width" desteklemediği için son çare olarak "width: auto;" kullanılıyor */
+    height: 100%;
+    /* Sonrasında çıkabilen boş sayfayı engellemeye çalışıyoruz */
+    max-height: 95%;
+    /* iBooks'un istediği değer */
+}
+
+.float-left img, .hizala-sol img,
+.float-right img, .hizala-sag img {
+    width: 100%;
+    /* Kobo iOS ve Kindle'da "auto" olduğunda, resim içinde bulunduğu elemanın (container) dışına taşıyor */
+}
+
+@supports (height: 99vh) {
+    img.portrait, img.tam-sayfa-resim {
+        height: 99vh;
+    }
+}
+
+
+/* ŞEKİLLER + GÖRÜNTÜLER: Son  */
+
+
+/* LİSTELEME: Başlangıç */
+
+ul,
+ol {
+    margin: 1.5em 0;
+    padding-left: 5%;
+}
+
+ul {
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+ul ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: decimal;
+    list-style-position: outside;
+}
+
+ol ol {
+    list-style-type: lower-roman;
+}
+
+dl {
+    margin: 1.5em 0 1.5em 5%;
+}
+
+dt {
+    margin: 1.5em 0 0 0;
+    font-weight: bold;
+}
+
+dt>dfn {
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+/* LİSTELEME: Son */
+
+
+/* YATAY ÇİZGİ — KONU DEĞİŞİKLİĞİ: Başlangıç */
+
+hr {
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 1.4375em;
+    margin-bottom: 1.4375em;
+    height: 0;
+    border: none;
+    border-top: 0.125em solid currentColor;
+    /* currentColor = metnin rengi (geçe moduna geçerken) */
+    opacity: 0.5;
+    /* Şeffaflık -> Gri Tonlama. Bir xHTML dosyasında çok fazla eleman için şeffaflık (opacity) tanımlanırsa, eski RMSDK'larda performans kaybı yaşanıyor */
+}
+
+hr.transition, hr.gecis {
+    width: 100%;
+    margin: 0;
+    height: 1.5em;
+    border: none;
+    background: none;
+}
+
+
+/*  SVG dosyalı arkaplan ile aşıra kafa patlatılmış yıldız.
+    Eski RMSDK'lerle ve gece moduyla uyumlu, yazı ile birlikte akabiliyor (reflow)
+*/
+
+hr.asterism, hr.yildiz {
+    width: auto;
+    border: none;
+    margin: 1.5em 0;
+    height: 1.5em;
+    text-indent: 0;
+    text-align: center;
+    background: transparent url(../Images/yildiz.svg)no-repeat center center;
+    background-size: 2.5em 1.25em;
+    /* RMSDK desteklemiyor -> yeniden ölçeklendirilemeyecek fakat büyük ölçekte farklı yazı tipi boyutları ile sorunsuz çalışıyor */
+    overflow: hidden;
+    /* <hr>'den önceki içeriğin görünmemesi ile ilgili eski bir RMSDK hatasını düzeltir */
+    opacity: 0.7;
+    /* Gece modunda daha iyi renk kenar rengi eşleşmesi (daha az rahatsız edici) */
+}
+
+
+/* YATAY ÇİZGİ — KONU DEĞİŞİKLİĞİ: Son */
+
+
+/* TABLOLAR: Başlangıç */
+
+table {
+    display: table;
+    table-layout: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    max-width: 100%;
+    margin: 1.5em auto;
+    font-feature-settings: "tnum" 1;
+    font-variant-numeric: tabular-nums;
+}
+
+caption, .caption, .altyazi {
+    caption-side: top;
+    /* Not: Eski RMSDK'lerin desteklediği tek değer */
+    text-align: center;
+    font-weight: bold;
+}
+
+th {
+    empty-cells: show;
+    border-bottom: 0.125em solid currentColor;
+    /* currentColor = metnin rengi (gece modunda tersine çevrilir) */
+    padding: 0.6875em 2% 0.6875em 0;
+    text-align: left;
+    font-weight: bold;
+}
+
+td {
+    empty-cells: show;
+    border-bottom: 0.0625em solid currentColor;
+    /* currentColor = metnin rengi (gece modunda tersine çevrilir) */
+    padding: 0.75em 2% 0.6875em 0;
+    text-align: left;
+}
+
+.table-fixed, .tablo-sabit {
+    table-layout: fixed;
+}
+
+
+/* TABLOLAR: Son */
+
+
+/* KODLAR: Başlangıç */
+
+pre {
+    margin: 1.5em 0 1.5em 5%;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    -ms-tab-size: 3;
+    -moz-tab-size: 3;
+    -webkit-tab-size: 3;
+    tab-size: 3;
+}
+
+code,
+kbd,
+samp,
+var {
+    font-family: monospace;
+    /* Kobo eşaralıklı (monospace) bir yazı tipine sahip olmadığından dasyaya bir yazı tipi gömün */
+}
+
+
+/* KODLAR: Son */
+
+
+/* ALANLAR: Başlangıç */
+
+.wrap-100, .sar-100 {
+    width: auto;
+    /* Kenarlıkları da hesaba katarak, varsayılan olarak %100 = "box-sizing"e güvenemediğimiz için büyük kazanım  */
+    margin: 1.5em 0;
+}
+
+.wrap-90, .sar-90 {
+    width: 90%;
+    margin: 1.5em 5%;
+    /* (Eski RMSDK'lerde 0) "auto" kullanamadığımız için % kullanarak ortalamak zorundayız */
+}
+
+.wrap-80, .sar-80 {
+    width: 80%;
+    /* width: 80% -> KF8 hatası, düzeltme için amzn-kf8 media query'ye bakın */
+    margin: 1.5em 10%;
+}
+
+.wrap-70, .sar-70 {
+    width: 70%;
+    margin: 1.5em 15%;
+}
+
+.wrap-60, .sar-60 {
+    width: 60%;
+    margin: 1.5em 20%;
+}
+
+.wrap-50, .sar-50 {
+    width: 50%;
+    margin: 1.5em 25%;
+}
+
+.wrap-40, .sar-40 {
+    width: 40%;
+    margin: 1.5em 30%;
+}
+
+.wrap-30, .sar-30 {
+    width: 30%;
+    margin: 1.5em 35%;
+}
+
+.wrap-20, .sar-20 {
+    width: 20%;
+    margin: 1.5em 40%;
+}
+
+.wrap-10, .sar-10 {
+    width: 10%;
+    margin: 1.5em 45%;
+}
+
+
+/* Genişlikler */
+
+.w-100, .g-100 {
+    width: 100%;
+}
+
+.w-90, .g-90 {
+    width: 90%;
+}
+
+.w-80, .g-80 {
+    width: 80%;
+}
+
+.w-70, .g-70 {
+    width: 70%;
+}
+
+.w-60, .g-60 {
+    width: 60%;
+}
+
+.w-50, .g-50 {
+    width: 50%;
+}
+
+.w-40, .g-40 {
+    width: 40%;
+}
+
+.w-30, .g-30 {
+    width: 30%;
+}
+
+.w-20, .g-20 {
+    width: 20%;
+}
+
+.w-10, .g-10 {
+    width: 10%;
+}
+
+
+/* Yükseklikler */
+
+.h-100, .y-100 {
+    height: 99%;
+    /* 99.8% çünkü eski RMSDK'ler %100'den sonra boş sayfa ekliyor */
+}
+
+.h-90, .y-90 {
+    height: 90%;
+}
+
+.h-80, .y-80 {
+    height: 80%;
+}
+
+.h-70, .y-70 {
+    height: 70%;
+}
+
+.h-60, .y-60 {
+    height: 60%;
+}
+
+.h-50, .y-50 {
+    height: 50%;
+}
+
+.h-40, .y-40 {
+    height: 40%;
+}
+
+.h-30, .y-30 {
+    height: 30%;
+}
+
+.h-20, .y-20 {
+    height: 20%;
+}
+
+.h-10, .y-10 {
+    height: 10%;
+}
+
+@supports (height: 100vh) {
+    /* Alanlar ve resimler için kullanılabilir. Fakat resimler için kullanıldığında .tam-sayfa-resim sınıfı ile birlikte kullanılmalıdır */
+    .h-100, .y-100 {
+        height: 99vh;
+        /* Sonrasında boş sayfa gelmesini engellemek için 99vh */
+    }
+    .h-90, .y-90 {
+        height: 90vh;
+    }
+    .h-80, .y-80 {
+        height: 80vh;
+    }
+    .h-70, .y-70 {
+        height: 70vh;
+    }
+    .h-60, .y-60 {
+        height: 60vh;
+    }
+    .h-50, .y-50 {
+        height: 50vh;
+    }
+    .h-40, .y-40 {
+        height: 40vh;
+    }
+    .h-30, .y-30 {
+        height: 30vh;
+    }
+    .h-20, .y-20 {
+        height: 20vh;
+    }
+    .h-10, .y-10 {
+        height: 10vh;
+    }
+}
+
+
+/* ALANLAR: Son */
+
+
+/* HİZALAMALAR: Başlangıç */
+
+
+/* Bir xHTML dosyasında çok fazla hizalanan eleman mevcutsa eski, 
+   RMSDK'lerde ciddi performans kaybı yaşanıyor (eInk cihazlarda bir
+   sayfayı göstermek için yaklaşık ± 4)                           */
+
+.float-left, .hizala-sol {
+    float: left;
+    margin: 0 1.5% 0 0;
+}
+
+.float-right, .hizala-sag {
+    float: right;
+    margin: 0 0 0 1.5%;
+}
+
+
+/* HİZALAMALAR: Son */
+
+
+/* YARDIMCI SINIFLAR: Başlangıç */
+
+
+/* Blok */
+
+.block, .blok {
+    display: block;
+}
+
+.inline-block, .blok-satirici {
+    display: inline-block;
+}
+
+
+/* Temizlemeler */
+
+.clear, .temizle {
+    /* may be useful if an element is floating in a container */
+    clear: both;
+}
+
+.clear-left, .temizle-sol {
+    clear: left;
+}
+
+.clear-right, .temizle-sag {
+    clear: right;
+}
+
+
+/* Kenarlıklar */
+
+.boxed, .kutu {
+    border: 0.0625em solid currentColor;
+    /* currentColor = metnin rengi (gece modunda tersine çevrilir) */
+    padding: 0.6875em;
+}
+
+
+/* Boşluklar */
+
+.no-margin, .bosluk-yok {
+    margin: 0;
+}
+
+.no-margin-top, .bosluk-ust-yok {
+    margin-top: 0;
+}
+
+.no-margin-bottom, .bosluk-alt-yok {
+    margin-bottom: 0;
+}
+
+.no-margin-left, .bosluk-sol-yok {
+    margin-left: 0;
+}
+
+.no-margin-right, .bosluk-sag-yok {
+    margin-right: 0;
+}
+
+.margin-top-3xs, .bosluk-ust-3xs {
+    margin-top: 0.1em;
+}
+
+.margin-top-2xs, .bosluk-ust-2xs {
+    margin-top: 0.25em;
+}
+
+.margin-top-xs, .bosluk-ust-xs {
+    margin-top: 0.5em;
+}
+
+.margin-top-s, .bosluk-ust-s {
+    margin-top: 0.75em;
+}
+
+.margin-top-m, .bosluk-ust-m {
+    margin-top: 1.5em;
+}
+
+.margin-top-l, .bosluk-ust-l {
+    margin-top: 3em;
+}
+
+.margin-top-xl, .bosluk-ust-xl {
+    margin-top: 4.5em;
+}
+
+.margin-top-2xl, .bosluk-ust-2xl {
+    margin-top: 6em;
+}
+
+.margin-top-3xl, .bosluk-ust-3xl {
+    margin-top: 10em;
+}
+
+.margin-bottom-3xs, .bosluk-alt-3xs {
+    margin-bottom: 0.1em;
+}
+
+.margin-bottom-2xs, .bosluk-alt-2xs {
+    margin-bottom: 0.25em;
+}
+
+.margin-bottom-xs, .bosluk-alt-xs {
+    margin-bottom: 0.5em;
+}
+
+.margin-bottom-s, .bosluk-alt-s {
+    margin-bottom: 0.75em;
+}
+
+.margin-bottom-m, .bosluk-alt-m {
+    margin-bottom: 1.5em;
+}
+
+.margin-bottom-l, .bosluk-alt-l {
+    margin-bottom: 3em;
+}
+
+.margin-bottom-xl, .bosluk-alt-xl {
+    margin-bottom: 4.5em;
+}
+
+.margin-bottom-2xl, .bosluk-alt-2xl {
+    margin-bottom: 6em;
+}
+
+.margin-bottom-3xl, .bosluk-alt-3xl {
+    margin-bottom: 10em;
+}
+
+.margin-left-3xs, .bosluk-sol-3xs {
+    margin-left: 0.1%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-left-2xs, .bosluk-sol-2xs {
+    margin-left: 0.5%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-left-xs, .bosluk-sol-xs {
+    margin-left: 1%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-left-s, .bosluk-sol-s {
+    margin-left: 2.5%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-left-m, .bosluk-sol-m {
+    margin-left: 5%;
+}
+
+.margin-left-l, .bosluk-sol-l {
+    margin-left: 7.5%;
+}
+
+.margin-left-xl, .bosluk-sol-xl {
+    margin-left: 10%;
+}
+
+.margin-left-2xl, .bosluk-sol-2xl {
+    margin-left: 15%;
+}
+
+.margin-left-3xl, .bosluk-sol-3xl {
+    margin-left: 25%;
+}
+
+.margin-right-3xs, .bosluk-sag-3xs {
+    margin-right: 0.1%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-right-2xs, .bosluk-sag-2xs {
+    margin-right: 0.5%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-right-xs, .bosluk-sag-xs {
+    margin-right: 1%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-right-s, .bosluk-sag-s {
+    margin-right: 2.5%;
+    /* % kullanıcı tarafından ayarlanmış yazı büyüklüğü ile kaymıyor */
+}
+
+.margin-right-m, .bosluk-sag-m {
+    margin-right: 5%;
+}
+
+.margin-right-l, .bosluk-sag-l {
+    margin-right: 7.5%;
+}
+
+.margin-right-xl, .bosluk-sag-xl {
+    margin-right: 10%;
+}
+
+.margin-right-2xl, .bosluk-sag-2xl {
+    margin-right: 15%;
+}
+
+.margin-right-3xl, .bosluk-sag-3xl {
+    margin-right: 25%;
+}
+
+
+/* Yazı Tipleri */
+
+.sans {
+    /* Genelde başlıklarda kullanılır */
+    font-family: sans-serif;
+}
+
+.serif {
+    font-family: serif;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+
+/* Okuma Sistemleri ile gelen yazı tiplerini temel aldığımız için bu kadar yazı tipi ismi yazılı */
+
+.humanist {
+    font-family: "Myriad Pro", Seravek, "Trebuchet MS", "BN Trebuchet MS", "PT Sans", "Frutiger Neue", Roboto, sans-serif;
+}
+
+
+/* Okuma Sistemleri ile gelen yazı tiplerini temel aldığımız için bu kadar yazı tipi ismi yazılı */
+
+.oldstyle, .klasik {
+    font-family: "Minion Pro", "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino Nova", "BN Amasis", Cambria, FreeSerif, "Times New Roman", serif;
+}
+
+
+/* Metin Hizalama */
+
+.justified, .yasla-iki-yana {
+    /* <body> için hazırlandı — Kullanıcı ayarı > CSS olduğundan zorlayamıyoruz */
+    text-align: justify;
+    adobe-hyphenate: auto;
+    /* Eski RMSDK'lere özel */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -epub-hyphens: auto;
+    hyphens: auto;
+    /* "before" ve "after" dökümantasyonunda yok fakat iBooks üçünü de destekliyor (-webkit-) */
+    -ms-hyphenate-limit-lines: 3;
+    -moz-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-lines: 3;
+    hyphenate-limit-lines: 3;
+    /* Trident (Windows) ve Webkit (eski önerilmeyen sözdizim) dışında desteklenmiyor  */
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -moz-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-before: 3;
+    -webkit-hyphenate-limit-after: 2;
+    hyphenate-limit-chars: 6 3 2;
+    /* Trident (Windows) dışında desteklenmiyor */
+    -ms-hyphenate-limit-zone: 10%;
+    -moz-hyphenate-limit-zone: 10%;
+    -webkit-hyphenate-limit-zone: 10%;
+    hyphenate-limit-zone: 10%;
+    /* destek yok */
+    -ms-hyphenate-limit-last: always;
+    -moz-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-last: always;
+    hyphenate-limit-last: always;
+}
+
+.align-left, .yasla-sol {
+    text-align: left;
+}
+
+.align-center, .yasla-orta {
+    text-indent: 0;
+    /* Okuma sistemi <p> için "text-indent" uygulayabildiği için gerekli */
+    text-align: center;
+}
+
+.align-right, .yasla-sag {
+    text-indent: 0;
+    /* Okuma sistemi <p> için "text-indent" uygulayabildiği için gerekli */
+    text-align: right;
+}
+
+
+/* Girintiler */
+
+.indent-s, .girinti-s {
+    text-indent: 0.5em;
+}
+
+.indent, .girinti {
+    text-indent: 1em;
+}
+
+.indent-m, .girinti-m {
+    text-indent: 2em;
+}
+
+
+/* Daha fazla girinti için, sar veya boşluk sınıfları kullanılabilir */
+
+.no-indent, .girinti-yok {
+    text-indent: 0;
+}
+
+.hanging-indent-s, .girinti-devamli-s {
+    text-indent: -2.5%;
+    margin-left: 2.5%;
+    /* Since em will reflow with font-size user setting, we’re using % */
+}
+
+.hanging-indent-m, .girinti-devamli-m {
+    text-indent: -10%;
+    margin-left: 10%;
+    /* Since em will reflow with font-size user setting, we’re using % */
+}
+
+
+/* Font sizes */
+
+.fs-4xs, .yb-4xs {
+    font-size: 0.5em;
+    line-height: 1.65;
+}
+
+.fs-3xs, .yb-3xs {
+    font-size: 0.75em;
+    line-height: 1.80;
+}
+
+.fs-2xs, .yb-2xs {
+    font-size: 0.8125em;
+    line-height: 1.84615385;
+}
+
+.fs-xs, .yb-xs {
+    font-size: 0.875em;
+    line-height: 1.71428571;
+}
+
+.fs-s, .yb-s {
+    font-size: 0.9375em;
+    line-height: 1.6;
+}
+
+.fs-m, .yb-m {
+    font-size: 1em;
+    line-height: inherit;
+}
+
+.fs-l, .yb-l {
+    font-size: 1.125em;
+    line-height: 1.33333333;
+}
+
+.fs-xl, .yb-xl {
+    font-size: 1.3125em;
+    line-height: 1.14285714;
+}
+
+.fs-2xl, .yb-2xl {
+    font-size: 1.4375em;
+    line-height: 1.04347826;
+}
+
+.fs-3xl, .yb-3xl {
+    font-size: 1.625em;
+    line-height: 0.92307692;
+}
+
+.fs-4xl, .yb-4xl {
+    font-size: 2em;
+    line-height: 1.1em;
+}
+
+
+/* Yazı Biçimleri */
+
+.bold, .kalin {
+    /* <b> veya <strong> kullanabiliyorsanız bunu <span> ile kullanmayın */
+    font-weight: bold;
+}
+
+.italic, .egik {
+    /* <i>, <cite>, <dfn> <em> kullanabiliyorsanız bunu <span> ile kullanmayın */
+    font-style: italic;
+}
+
+.bold-italic, .kalin-egik {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.small-caps, .kucuk-harfler {
+    text-transform: lowercase;
+    /* Bu özelliği tamamen güvenmeyin, yazılar büyük harfle yazılmalı (Eski RMSDK'ler) */
+    font-variant: small-caps;
+    letter-spacing: 0.0625em;
+    /* Eski RMSDK'lerde yukarıdaki iki özellik desteklenmiyor */
+}
+
+.dropcaps, .ilk-buyuk-harf {
+    font-weight: normal;
+    font-size: 320%;
+    float: left;
+    margin-top: -0.3225em;
+    margin-bottom: -0.3245em;
+    margin-right: 0.1245em;
+}
+
+.underline, .alti-cizili {
+    text-decoration: underline;
+}
+
+.strikethrough, .ustu-cizili {
+    text-decoration: line-through;
+}
+
+
+/* Diğer */
+
+.no-list-type, .liste-isareti-yok {
+    /* Genellikle İçindekiler kısmındaki liste numaralarını kaldırmak için kullanılır */
+    list-style-type: none;
+}
+
+
+/* SAYFA SONLARI (KESME) */
+
+.break-before, .kesme-once {
+    page-break-before: always;
+    break-before: always;
+    /* Mozilla'ya göre gelecek: https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-before */
+}
+
+
+/* Aynı nedenle, öncesine göre daha iyi desteklendiği için (Google, Kobo, v.s.) */
+
+.break-after, .kesme-sonra {
+    page-break-after: always;
+    break-after: always;
+}
+
+.break-inside, .kesme-icinde {
+    page-break-inside: auto;
+    break-inside: auto;
+}
+
+
+/* Destekleniyormuş gibi davranalım (eski RMSDK destekliyor, diğerleri pek değil) */
+
+.no-break-before, .kesme-once-yok {
+    page-break-before: avoid;
+    break-before: avoid;
+}
+
+
+/* Destekleniyormuş gibi davranalım (eski RMSDK destekliyor, diğerleri pek değil) */
+
+.no-break-after, .kesme-sonra-yok {
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+
+/* Bu iBooks'da çalışıyor, şekillerde veya 2 elemanı bir arada tutmak için kullanışlı */
+
+.no-break-inside, .kesme-icinde-yok {
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+
+/* KINDLE */
+
+@media amzn-kf8 {
+    body {
+        font-weight: normal;
+        /* Sayısal yazı tipi ölçüleri KindleGen için sorun çıkarıyor, CSS üzerine başka bir yerde sayısal bir değer kullanıldıysa sıfırladığımızdan emin oluyoruz. */
+    }
+
+    b,
+    strong,
+    .bold, .kalin {
+        font-weight: bold;
+    }
+
+    h1,
+    h2 {
+        line-height: 1.2;
+        /* Kindle'ın desteklediği min. değer */
+    }
+
+    .w-80, .g-80 {
+        width: 78%;
+        /* Çünkü ben Kindle'ın a... */
+        margin: 1.5em 11%;
+    }
+
+    .dropcaps, .ilk-buyuk-harf {
+        font-weight:normal;
+        font-size:320%;
+        float:left;
+        margin-top:-0.3225em;
+        margin-bottom:-0.3245em;
+    }
+}
+
+@media amzn-mobi {
+    body {
+        font-weight: normal;
+    }
+
+    h1 {
+        font-size: xx-large;
+        /* sayısal değer kullanmamak daha doğru sonuç veriyor */
+        margin: 0 0 3em 0;
+        /* mobi7 virgüllü değerleri desteklemiyor */
+    }
+
+    h2 {
+        font-size: x-large;
+        margin: 2em 0 1em 0;
+    }
+
+    h3 {
+        font-size: large;
+        margin: 1em 0;
+    }
+
+    h4 {
+        font-size: medium;
+        margin: 1em 0 0 0;
+    }
+
+    b {
+        font-weight: bold;
+    }
+
+    strong {
+        font-weight: bold;
+    }
+
+    .bold, .kalin {
+        font-weight: bold;
+    }
+
+    small {
+        font-size: small;
+    }
+
+    .small-caps, .kucuk-harfler {
+        font-size: small;
+    }
+
+    sub {
+        font-size: x-small;
+    }
+
+    sup {
+        font-size: x-small;
+    }
+
+    hr {
+        margin: 1em 0;
+    }
+
+    .margin-top-s, .bosluk-ust-s {
+        margin-top: 1em;
+    }
+
+    .margin-top-m, .bosluk-ust-m {
+        margin-top: 2em;
+    }
+
+    .margin-top-l, .bosluk-ust-l {
+        margin-top: 3em;
+    }
+
+    .margin-top-xl, .bosluk-ust-xl {
+        margin-top: 5em;
+    }
+
+    .margin-top-2xl, .bosluk-ust-2xl {
+        margin-top: 6em;
+    }
+
+    .hanging-indent, .girinti-devamli {
+        margin-left: 0;
+        /* negatif "text-indent" için */
+    }
+
+    .footnote, .dipnot {
+        font-size: medium;
+    }
+
+    ul {
+        margin: 1em 0;
+    }
+
+    ol {
+        margin: 1em 0;
+    }
+
+    blockquote {
+        margin: 1em 5%;
+    }
+
+    dl {
+        margin: 1em 5%;
+    }
+
+    dt {
+        margin-top: 1em;
+    }
+
+    pre {
+        margin: 1em 0;
+    }
+
+    table {
+        margin: 1em 0;
+    }
+
+    .float-left, .hizala-sol {
+        float: none;
+        /* Mobi 7 "float" desteklemiyor */
+        margin: 1em 0;
+        text-align: center;
+    }
+
+    .float-right, .hizala-sag {
+        float: none;
+        margin: 1em 0;
+        text-align: center;
+    }
+
+    .dropcaps, .ilk-buyuk-harf {
+        font-size:3em;
+        font-weight: bold;
+    }
+}
+
+
+/* CSS: Son */

@@ -1,0 +1,122 @@
+@font-face {  
+font-family: "TR_Amazone";  
+font-weight: normal;  
+font-style: normal;  
+src: url("../Fonts/TR_Amazone.ttf");}
+
+.kunye{
+text-indent:0em;
+font-size:0.75em;
+margin-bottom:0.75em; 
+}
+
+h1 {
+    font-size: 1.4375em;
+    line-height: 1.04347826;
+    margin-top: 1.7em;
+    margin-bottom: 4.5em;
+	text-align:center;
+}
+
+h2 {
+    font-size: 1.1em;
+    line-height: 1.04347826;
+    margin-top: 1.7em;
+	text-align:right;
+}
+
+.dipnot
+	{
+	text-align:align-left;
+	text-indent:2em;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	font-size: .85em;
+	}
+
+.baslik
+	{
+	text-align:center;	
+	font-weight:bold;	
+	text-indent:0em;	
+	font-size:3.0em;	
+	Font-Family:"Times New Roman";
+	}
+
+.baslik2
+	{
+	text-align:center;	
+	font-weight:bold;	
+	font-size:1.5em;	
+	text-indent:0em;	
+	margin-top:4em;	
+	margin-bottom:2em;
+	}
+
+.baslik3
+	{
+	text-align:center;	
+	font-style:italic;	
+	text-indent:1em;	
+	font-size:1em; 	
+	margin-top:1em;	
+	margin-bottom:1em;
+	}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+p.ilk-prgrf {
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	font-variant : normal;
+	text-indent : 0px;
+}
+
+
+span.ilk-hrf {
+	font-family : "TR_Amazone";
+	font-size : 5.0em;
+	float : left;
+	line-height : 1;
+	margin-top : -0.127em;
+	margin-right : 0.05em;
+	margin-bottom : -0.216em;
+}
+
+.dvm {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : justify;
+	text-indent : 0px;
+	margin-left : 20px;
+}
+
+a {
+    text-decoration: underline;
+    /* Note: KF8 formatı şu şekilde kullanılmadığı sürece bunu kullanmaya zorlar: "eleman.sinif a" */
+    font-weight: bold;
+    color: brown;
+    -webkit-text-fill-color: brown;
+    /* iBooks geçersiz bırakıyor (Gece modunda iOS 9 ve El Capitan) */
+    /* inherit = metin rengi */
+}
+
+table.mytable{width:100%;height:100%;display:table;}
+.myrow{width:100%;min-height:1px;height:auto;margin:0;}
+.mycell{float:left;margin:0;padding:0;}
+.mycell-nf{margin:0;padding:0;}
+.singlecell{widht:100%;}
+.twocells{widht:50%;}
+.fourcells{widht:25%;}
+.cell35{width:35%;}
+.cell45{width:45%;}
+.cell5{width:5%;}

@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Son bakışta aşk: Seçme yazılar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Walter Benjamin">Walter Benjamin</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1d49b1a2-deb7-4fc9-b9f8-f6544b2a5e04</dc:identifier>
+    <dc:date opf:event="modification">2013-04-14</dc:date>
+    <dc:date>1993-06-15T09:56:51+00:00</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Walter Benjamin geçmişi sonraki kuşaklara aktarılacak bir hazine olarak değil, bir enkaz olarak görüyordu. Kültürün sürekliliğini oluşturan değerleri değil; tüketilmiş, bir lkenara atılmış nesneleri, külterel artıkları toplamayı, "tarihin imgesini, tarihin en silik nesnelerinde bulmayı" amaçlıyordu. Maddi temelini yitirmelerine rağmen ---tam da bu yüzden---çevrelerine son kez ışık saçan, bu ışığın aydınlığında bütün inkânlarıyla son bir kez beliriveren şeyler... Onu cezbeden bunlardı. Kötümser, çileci bir bakış. Aynı zamanda bir inanç; miyadını doldurmuş şeyleri etrafını lsaran halede, bu bir anlık ışımada, hakikatin belireceğine duyulan inanç;olağanüstü bir aydınlanma beklentisi, düşüncenin ufkunda birden belirecek bir mutluluk vaadi. "Büyük şehir insanını büyüleyen aşktır," diyebilecektir Benjamin, "ama ilk bakışta değil,son bakışta aşk."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:1d49b1a2-deb7-4fc9-b9f8-f6544b2a5e04</dc:identifier>
+    <dc:subject>Deneme</dc:subject>
+    <dc:subject>Derleme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5ec7cf80-f90e-43e4-96ac-666bef7ffad6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753420105</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:1d49b1a2-deb7-4fc9-b9f8-f6544b2a5e04</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9753420102</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">hsaNvgEACAAJ</dc:identifier>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Son bakışta aşk: Seçme yazılar"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Walter Benjamin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.xhtml" id="copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tekyoncover.xhtml" id="tekyoncover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/CevirenNot.xhtml" id="CevirenNot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/section1.jpg" id="section1.jpg" media-type="image/jpeg"/>
+    <item href="Images/titlepage.jpg" id="titlepage.jpg" media-type="image/jpeg"/>
+    <item href="Images/walter-2.jpg" id="walter-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/walter-3.jpg" id="walter-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/walter-4.jpg" id="walter-4.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="tekyoncover.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="CevirenNot.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+    <reference href="Text/copyright.xhtml" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/titlepage.xhtml" title="Baş sayfa" type="start"/>
+    <reference href="Text/Section0004.xhtml" title="Yayın bilgisi" type="colophon"/>
+    <reference href="Text/Section0001.xhtml" title="Kaynakça" type="bibliography"/>
+    <reference href="Text/Section0006.xhtml" title="Önsöz" type="foreword"/>
+    <reference href="Text/CevirenNot.xhtml" title="Notlar" type="notes"/>
+  </guide>
+</package>

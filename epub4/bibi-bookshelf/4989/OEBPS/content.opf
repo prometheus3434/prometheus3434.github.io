@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sosyal Zeka: Insan Iliskilerinin Yeni Bilimi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Goleman, Daniel">Daniel Goleman</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:description>Bağlantı Kurmak İçin Donatılmış Beyin Kopan Bağlar Deneyimlerin Doğaya Etkisi Sevginin Farklı Türleri Sağlıklı Bağlantılar Sosyal Netice.</dc:description>
+    <dc:publisher>Varlik Yayinlari</dc:publisher>
+    <dc:date>2016-12-15T10:37:21+00:00</dc:date>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Psikoloji</dc:subject>
+    <dc:subject>Orjinal</dc:subject>
+    <dc:subject>Kişisel Gelişim</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">5a737290-c490-4094-91e7-b0f953e561b2</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="GOOGLE">cOtiPwAACAAJ</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789754343304</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Sosyal Zeka: Insan Iliskilerinin Yeni Bilimi" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Daniel Goleman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="x276211.jpg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/276211.jpg" id="x276211.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo_fmt.jpeg" id="logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Screen Shot 2012-07-30 _fmt.png" id="Screen-20Shot-202012-07-30-20_fmt.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-07-30_fmt1.png" id="Screen-20Shot-202012-07-30_fmt1.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-07-31 _fmt.png" id="Screen-20Shot-202012-07-31-20_fmt.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-07-31_fmt1.png" id="Screen-20Shot-202012-07-31_fmt1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

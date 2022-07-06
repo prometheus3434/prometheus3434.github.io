@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sofist</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Platon, Platoneflatun">Platoneflatun Platon(eflatun)</dc:creator>
+    <dc:identifier id="BookId">AWP-A495901A-E7F4-4E5D-B53E-3E81C2AE92B7</dc:identifier>
+    <dc:publisher>Iletisim Yayinlari</dc:publisher>
+    <dc:date>2021-02-15T10:12:12+00:00</dc:date>
+    <dc:date opf:event="modification">2015-05-28</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Platon, hiç kuşku yok ki düşünce tarihinin en önemli ve etkili fi-ozoflarından biridir. Felsefenin kurumsallaşmasına ve felsefede yazılı geleneğin oluşmasına katkıda bulunmuş, iki dünyalı metafiziğiyle bütün bir Ortaçağ düşüncesini belirleyecek olan idealist felsefe geleneğinin başlatıcısı olmuştur. Hıristiyan Ortaçağ felsefesine ve Islam düşüncesine etkisi bakımından da ayrıca önem taşıyan Platon, düşünce tarihi boyunca tartışılan tüm problemleri yüzlerce yıl öncesinden ele almış ve ilk büyük felsefi sistemi inşa etmiştir.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Sofist diyaloğu, Parmenides, Theaetetos ve Devlet Adamı diyaloglarıyla yakından ilişkilidir. Çoğu diyaloğun aksine bu kez Sokrates'in yerine konuşan, Elealı bir yabancıdır. Bu yabancı aracılığıyla Platon, Parmenides'in "var olmayanın düşünülemeyeceği ve söylenemeyeceği"ni dile getiren görüşünü eleştirir. Eserin temel fikri varlığın olumsuzlanmasını yokluktan ayırt etmek ve doğru ile yanlış yargı veya inancı tanımlamaktır. Sokrates'in yerini Elealı bir yabancıya bırakması, gençlik diyaloglarına özgü Sokratik çürütme yönteminin yerine yeni bir yöntem olarak toplama-bölme yönteminin ikame edilmesi üzerinden ifade edilir. Platon bu diyalogda ayrıca üç farklı insan daha doğrusu uzman tipinden birisi olarak sofisti değişik açılardan tanımlar. Diğer iki uzman tipi ise, devlet adamı ve filozoftur.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Platon'un olgunluk dönemi diyaloglarından biri olan Sofist, metafiziksel ve epistemolojik konulara yönelmesi açısından temel eserlerden biridir.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4c8f6246-7d13-4f10-9f3e-e64c10d6a5a4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750519024</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">yXLvjwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050201321</dc:identifier>
+    <meta name="cover" content="Platon_-_Sofist.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sofist"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Platoneflatun Platon(eflatun)&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/Platon - Sofist.jpg" id="Platon_-_Sofist.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

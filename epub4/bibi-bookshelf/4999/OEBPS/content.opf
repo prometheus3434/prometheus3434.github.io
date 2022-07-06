@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Sputnik Sevgilim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Murakami, Haruki">Haruki Murakami</dc:creator>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2016-10-14T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2020-06-20</dc:date>
+    <dc:identifier id="uuid">{C69BB0A3-C2D2-492E-B030-F30D3083912A}</dc:identifier>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:subject>okundu</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">3125f2fd-5a43-44ed-b407-b5b389f73f1c</dc:identifier>
+    <meta name="Sigil version" content="0.9.10"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Sputnik Sevgilim"/>
+    <meta name="calibre:author_link_map" content="{&quot;Haruki Murakami&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ekunye.xhtml" href="Text/ekunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilog.xhtml" href="Text/epilog.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm1.xhtml" href="Text/blm1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm2.xhtml" href="Text/blm2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm3.xhtml" href="Text/blm3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm4.xhtml" href="Text/blm4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm5.xhtml" href="Text/blm5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm6.xhtml" href="Text/blm6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm7.xhtml" href="Text/blm7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm8.xhtml" href="Text/blm8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm9.xhtml" href="Text/blm9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm10.xhtml" href="Text/blm10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm11.xhtml" href="Text/blm11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm12.xhtml" href="Text/blm12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm13.xhtml" href="Text/blm13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm14.xhtml" href="Text/blm14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm15.xhtml" href="Text/blm15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blm16.xhtml" href="Text/blm16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id12" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="dogan.png" href="Images/dogan.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id13">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekunye.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="epilog.xhtml"/>
+    <itemref idref="blm1.xhtml"/>
+    <itemref idref="blm2.xhtml"/>
+    <itemref idref="blm3.xhtml"/>
+    <itemref idref="blm4.xhtml"/>
+    <itemref idref="blm5.xhtml"/>
+    <itemref idref="blm6.xhtml"/>
+    <itemref idref="blm7.xhtml"/>
+    <itemref idref="blm8.xhtml"/>
+    <itemref idref="blm9.xhtml"/>
+    <itemref idref="blm10.xhtml"/>
+    <itemref idref="blm11.xhtml"/>
+    <itemref idref="blm12.xhtml"/>
+    <itemref idref="blm13.xhtml"/>
+    <itemref idref="blm14.xhtml"/>
+    <itemref idref="blm15.xhtml"/>
+    <itemref idref="blm16.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kapak" href="Text/cover.xhtml"/>
+  </guide>
+</package>

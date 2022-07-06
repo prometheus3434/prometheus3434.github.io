@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Son ahit</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gibbins, David J. L. &amp; Öcal, Pınar">David J. L. Gibbins</dc:creator>
+    <dc:creator opf:role="aut">Pınar Öcal</dc:creator>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;div&gt;Tarih, binlerce yil sakli kalan gizemlerle doludur ve bizler, birilerinin onlari açiga çikarmasini bekleriz. Iste ünlü Arkeolog Jack Howard ve arkadaslari da ayni merak ve inançla hayatlarini bu bilinmezlere adamis insanlardir. Arastirmalari onlari; Sicilya açiklarindaki St. Paul batigindan Vezüv'ün patlamasiyla yok olan eski bir kütüphaneye, Roma sehrinin altindaki kanallardan Kudüs' ün kutsal bölgelerine kadar uzanan bir zaman tüneline sürükler. Aslinda ekibin önüne çikan gerçekler bilinen resmi tarih ve Kilise merkezli Hiristiyan inancini temellerinden sarsacak türdedir. Acaba?; - Ilk Hiristiyanlar pagan inançlara daha mi yakindi? - Ilk dönemlerde kadin merkezli Hiristiyan kültürünün varligi Kilise ve eski imparatorluk tarafindan bastirilmis miydi? - Hiristiyanligin kökenlerini arastiran bilim insanlari Kilise ve mafya tarafindan engelleniyor mu? - Eski Roma Kilisesi ve Vatikan, Isa'nin elyazmalarinin bulunmasini istemiyor muydu? Tüm bu sorularin cevaplari Son Ahit'in heyecan dolu satirlarinda kesfedilmeyi bekliyor!&lt;br&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2008-06-15T12:33:36+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dd0ef9a5-631f-4ab8-91b8-822a332e903f</dc:identifier>
+    <dc:date opf:event="modification">2015-07-01</dc:date>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Tarihi</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b8a5e150-c345-4a85-8f5e-cb70a886e9f6</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">PKdStwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752110298</dc:identifier>
+    <meta content="Son ahit" name="calibre:title_sort"/>
+    <meta content="2015-06-30T13:00:36.787000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;David J. L. Gibbins&quot;: &quot;&quot;, &quot;Pınar Öcal&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

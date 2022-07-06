@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Son Siginak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Güntekin, Reşat Nuri">Reşat Nuri Güntekin</dc:creator>
+    <dc:date>2000-06-15T12:31:17+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">053ad651-9364-4f45-9262-406a19ee20af</dc:identifier>
+    <dc:publisher>İnkılâp</dc:publisher>
+    <dc:description>Roman gezici bir tiyatro kumpanyasının kuruluşunu, ilden ile gezişini ve sonunda dağılışını anlatıyor</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">59d138d2-27a0-4797-9a44-077a93267415</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">abesQwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751000149</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-12-04T20:10:39.937000+00:00"/>
+    <meta name="cover" content="cover1"/>
+    <meta name="calibre:title_sort" content="Son Siginak"/>
+    <meta name="calibre:author_link_map" content="{&quot;Reşat Nuri Güntekin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Ops/001_split_000.html" id="id0012" media-type="application/xhtml+xml"/>
+    <item href="Ops/001_split_001.html" id="id0011" media-type="application/xhtml+xml"/>
+    <item href="Ops/002_split_000.html" id="id0022" media-type="application/xhtml+xml"/>
+    <item href="Ops/002_split_001.html" id="id0021" media-type="application/xhtml+xml"/>
+    <item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="cover1.jpeg" id="cover1" media-type="image/jpeg"/>
+    <item href="Ops/fonts/ARIAL.TTF" id="idfont2" media-type="application/vnd-ms-opentype"/>
+    <item href="Ops/fonts/ARIALBD.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0012"/>
+    <itemref idref="id0011"/>
+    <itemref idref="id0022"/>
+    <itemref idref="id0021"/>
+    <itemref idref="id003"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
