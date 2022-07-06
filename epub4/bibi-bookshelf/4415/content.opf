@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ninni</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Palahniuk, Chuck">Chuck Palahniuk</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Dil uzaydan gelme bir virüstür! Chuck Palahniuk Ninni'de William Burroughs'un bu sözlerinin devamını getiriyor:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Sallanmakta olan bir gevezelik kulesinde yaşıyoruz. Doğal yaşam katledildiği için yalnızca dilin kargaşa dolu dünysı kaldı elimizde.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Ve bir de ölüm şarkısı...&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Gazeteci Carl Streator, ani bebek ölümleri üzerine bir yazı dizisi hazırlamakla görevlendirilir. Araştırmaları sırasında, ölümler arasında meşum bir bağ keşfeder: Ölüm Şarkısı.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Aklından geçirildiğinde bile ölümcül bir silahtır bu. Şarkının hakimiyetine giren Streator, istemese de bir seri katildir artık. Amacı ise daha fazla insanı öldürmek değil, şarkının yayılmasını engellemektir. Hayaletli evlerin emlakçısı Helen Hoover Boyle ile birlikte, şarkıyı avlamak için ülke çapında bir yolculuğa çıkarlar.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2002-06-15T12:12:52+00:00</dc:date>
+    <dc:publisher>Ayrıntı</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">11cc5b83-3e72-4169-af8c-bed378d4818e</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7395184d-cf6b-4262-a3e1-2116ffb9c68c</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Fe8BugEACAAJ</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-11-11T16:09:26.004000+00:00"/>
+    <meta name="calibre:title_sort" content="Ninni"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Chuck Palahniuk&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

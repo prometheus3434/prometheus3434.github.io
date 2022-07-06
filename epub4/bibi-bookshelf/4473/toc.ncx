@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{7432976E-4622-48B6-8F7F-AA827C860175}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.18.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Romain Gary (Emile Ajar) - Onca Yoksulluk Varken</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Emile Ajar</text>
+      </navLabel>
+      <content src="main-emileajar.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Onca Yoksulluk Varken</text>
+      </navLabel>
+      <content src="main-epig.xhtml#ucd047c81-360a-4642-bbf5-bb9588a71dba"/>
+    </navPoint>
+  </navMap>
+</ncx>

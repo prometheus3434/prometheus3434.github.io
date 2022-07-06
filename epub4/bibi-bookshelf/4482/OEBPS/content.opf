@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ordinaryusun Fahiş Yanlışları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nazım Hikmetof Yoldaşa.">Nazım Hikmetof Yoldaşa.</dc:creator>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:DC965AE5-0516-4F55-B4FD-BC10BB9458C8</dc:identifier>
+    <dc:date>2016-12-08T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b643589d-cc94-41a6-9639-fecb16f3eb3a</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:DC965AE5-0516-4F55-B4FD-BC10BB9458C8</dc:identifier>
+    <meta name="Lighten PDF Converter version" content="5.2.0"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Ordinaryusun Fahiş Yanlışları"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nazım Hikmetof Yoldaşa.&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="x1.html" href="Text/1.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="x1.jpg" href="Images/1.jpg" media-type="image/jpeg"/>
+    <item id="x10.jpg" href="Images/10.jpg" media-type="image/jpeg"/>
+    <item id="x11.jpg" href="Images/11.jpg" media-type="image/jpeg"/>
+    <item id="x12.jpg" href="Images/12.jpg" media-type="image/jpeg"/>
+    <item id="x13.jpg" href="Images/13.jpg" media-type="image/jpeg"/>
+    <item id="x14.jpg" href="Images/14.jpg" media-type="image/jpeg"/>
+    <item id="x15.jpg" href="Images/15.jpg" media-type="image/jpeg"/>
+    <item id="x16.jpg" href="Images/16.jpg" media-type="image/jpeg"/>
+    <item id="x17.jpg" href="Images/17.jpg" media-type="image/jpeg"/>
+    <item id="x18.jpg" href="Images/18.jpg" media-type="image/jpeg"/>
+    <item id="x19.jpg" href="Images/19.jpg" media-type="image/jpeg"/>
+    <item id="x2.jpg" href="Images/2.jpg" media-type="image/jpeg"/>
+    <item id="x20.jpg" href="Images/20.jpg" media-type="image/jpeg"/>
+    <item id="x21.jpg" href="Images/21.jpg" media-type="image/jpeg"/>
+    <item id="x22.jpg" href="Images/22.jpg" media-type="image/jpeg"/>
+    <item id="x23.jpg" href="Images/23.jpg" media-type="image/jpeg"/>
+    <item id="x24.jpg" href="Images/24.jpg" media-type="image/jpeg"/>
+    <item id="x25.jpg" href="Images/25.jpg" media-type="image/jpeg"/>
+    <item id="x26.jpg" href="Images/26.jpg" media-type="image/jpeg"/>
+    <item id="x27.jpg" href="Images/27.jpg" media-type="image/jpeg"/>
+    <item id="x28.jpg" href="Images/28.jpg" media-type="image/jpeg"/>
+    <item id="x3.jpg" href="Images/3.jpg" media-type="image/jpeg"/>
+    <item id="x4.jpg" href="Images/4.jpg" media-type="image/jpeg"/>
+    <item id="x5.jpg" href="Images/5.jpg" media-type="image/jpeg"/>
+    <item id="x6.jpg" href="Images/6.jpg" media-type="image/jpeg"/>
+    <item id="x7.jpg" href="Images/7.jpg" media-type="image/jpeg"/>
+    <item id="x8.jpg" href="Images/8.jpg" media-type="image/jpeg"/>
+    <item id="x9.jpg" href="Images/9.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

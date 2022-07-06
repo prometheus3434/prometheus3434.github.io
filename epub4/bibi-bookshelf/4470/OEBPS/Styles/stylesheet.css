@@ -1,0 +1,38 @@
+
+h1 {
+    margin: 2em;
+    text-indent: 0;
+    font-weight: normal;
+    text-align: center;
+}
+h3 {
+    margin: 1em;
+    text-indent: 0;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+@font-face {font-family:Jenson;src : url('../Fonts/Alegreya.otf')}
+a:link, a:link * {text-decoration: none !important;}
+body {margin: 2em 1em;font-family:Georgia,serif;}
+p {text-indent: 1.5em;text-align:justify;margin:0;line-height:1.3em}
+sup, sub {line-height: 0;}
+.kunye p {text-indent:0;font-size:.8em;}
+.baslik {margin: 1em 0em .5em 0em;font-size:2em;}
+.baslik2 {margin: 0 0 3em 0;color: #c1a13c;font-size:1em;}
+.yazar {font-size:1.5em;margin: 2em 0px;}
+.dipnot p {text-indent:0;margin:1em 3em}
+
+body.quote {display: table-cell;vertical-align: middle;
+height: 100%;}
+
+blockquote p {font-size: .9em;text-indent:1.5em;}
+
+.italik {font-style: italic;}
+.orta p {text-align: center;text-indent:0;}
+.sag p {text-align: right;margin-right: 3em;}
+
+.dikey1 {margin:1em 0;}
+.dikey2 {margin:2em 0;}
+

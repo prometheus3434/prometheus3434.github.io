@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Oğlak dönencesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Miller, Henry">Henry Miller</dc:creator>
+    <dc:identifier id="BookId">AWP-63DA16E4-D0A4-4440-A0D9-D96C527299ED</dc:identifier>
+    <dc:date>1991-06-15T10:20:41+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2015-03-08</dc:date>
+    <dc:description>&lt;p&gt;Ölmeden önce okumanız gereken 1001 kitaptan biri!
+
+Arkadaşlığın gerçek anlamını kavrayabilmek için insanın arkadaşlarından kopması gereken zamanlar vardır. Bunu söylemek biraz tuhaf kaçacak ama bu kitabın keşfi etrafımda bulunan ve benim için artık bir şey ifade etmeyen arkadaşlarımı yaralayabileceğim bir silah, bir aygıt keşfetmekten farksızdı. Bu kitap dostum oldu çünkü bana arkadaşa ihtiyacım olmadığını öğretti. Bana tek başıma durma cesareti verdi ve yalnızlığın kıymetini bilmemi sağladı.
+
+Sözünü sakınmayan dev bir yazardan, isyanla haykıran bir klasik: Oğlak Dönencesi. Dünyaya biçili koordinatlara, medeniyet adı altında savaş, silah ve beton üreten düzene, insanı yok etmek pahasına köleleştiren sisteme karşı bir çığlık, gemlenemeyen bir ezgi ya da çağdaş yaşamın çarklarına atılan sert bir tekme... Henry Miller, Oğlak Dönencesi'nde rahimden mezara, kasıklardan zihne uzanıyor, benzersiz bir atlasın sayfalarını kendi renklerine boyayarak bambaşka bir dünya resmi ortaya koyuyor. Burada savaş saçma, yaşam beyhude; burada aşk siyah bir yıldızın gölgesinde ve ekmek aslanın ağzında... Burada kölelik özgürlüğü, yalanlar gerçekleri ve sürü bireyleri ezip geçiyor; burası Amerika, ama başka bir yer de olabilir; kitlelerin günbegün topluca cephelere veya işe yürüdüğü herhangi bir yer... Ve Henry Miller, akıntının tersine doğru gitmekte, kendi şarkısını haykırmakta kararlı. Yayımlandığı günden bu yana yasaklarla boğuşan Oğlak Dönencesi, bir açıdan Henry Miller'ın yaşam öyküsü... Rahme düşmesinden aşka yuvarlanmasına, sürüye katılmasından kendi yazgısını ele geçirmesine ve dünyanın başlangıcından geleceğin müziğine varan bir öykü. Yaşam adı verilen sonsuz döngünün her zerresine uzanan bir varoluş çığlığı bu ve şiddeti dünyayı yerinden sarsmaya yetiyor. 
+
+Tek başına duracak, kendi doğrularınca yaşayacak cesareti olanlar için.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Amerikan Edebiyatı</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cb06aa6f-ebfd-4612-b1b7-c3d4c7af8a3a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755103815</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055903503</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">ZFYxAAAACAAJ</dc:identifier>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Oğlak dönencesi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Henry Miller&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

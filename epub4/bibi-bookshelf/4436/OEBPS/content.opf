@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Oblomov</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gonçarov, İvan">İvan Gonçarov</dc:creator>
+    <dc:identifier id="uuid">{39DAEFE5-2C91-4F3C-8DB1-BC40DFC545E3}</dc:identifier>
+    <dc:publisher>Yordam Kitap</dc:publisher>
+    <dc:description>Oblomov, tıpkı Don Kişot ve Godot’yu Beklerken gibi, ünü yazarını aşmış yapıtlardandır. Oblomov sadece bir roman kahramanı değil, bir kavramdır. O, ataletin, aylaklığın, tembelliğin, üşengeçliğin, hayalciliğin, uykuculuğun cisimleşmiş halidir. Yatağında hayal kurarak uyuklamaktan başka bir emeli olmayan Oblomov’un, önce taşınma derdiyle boğuşmak, sonra çiftliğini denetlemek zorunda kalmakla altüst olan dünyası, eşine az rastlanır bir mizahla anlatılır. Her biri unutulmaz birer kahraman olan Zahar, Ştoltz ve Olga, Oblomov’u tek karakter etrafında örülen bir roman olmaktan çıkararak, bir dönem romanı kılar. Aristokrat yetiştirme tarzının kanatlarını yolduğu Oblomov’un yanı sıra, en az efendisi kadar tembel olan Zahar ile, tek meselesinin aristokrasi olmadığını ifade eder Gonçarov. Ştoltz ile “kapitalist işadamı” resmedilirken; akıllı, meraklı, ince ruhlu Olga ile modern Rus kadınının müjdesi veriliyor gibidir.Oblomov, çok boyutlu, ince ayrıntı ve sembollerle, psikolojik analizlerle dolu destansı bir romandır, onu sadece toprak aristokrasisinin tembelliğini, asalaklığını anlatan bir kitap olarak görmek eseri eksik anlamak olur. Bu büyük eser, Rus insanının ulusal mizacını, genlerine işlemiş özelliklerini gün ışığına çıkarmakta, Rus toprağından evrenselliğe uzanmaktadır...“Oblomov, muazzam bir şey! Çoktan beri böylesi görülmedi... Oblomov’un yakaladığı başarı tesadüfi, gelip geçici cinsten değil, sağlam, esaslı, kalıcı bir başarıdır.” Lev Tolstoy“Dünyada tek bir Rus kaldığı sürece Oblomov hatırlanacaktır.” İvan Turgenyev</dc:description>
+    <dc:date>2017-12-15T10:37:06+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:subject>Rus Edebiyatı</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bd123b75-76ab-4886-98ca-302550115dea</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">7ll9DwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051722405</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750509827</dc:identifier>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="main-1.jpg"/>
+    <meta name="calibre:title_sort" content="Oblomov"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;İvan Gonçarov&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum01.xhtml" id="bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum02.xhtml" id="bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum03.xhtml" id="bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum04.xhtml" id="bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.xhtml" id="sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id25" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Images/iletisim-291x300.jpg" id="iletisim-291x300.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/main-1.jpg" id="main-1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id25">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

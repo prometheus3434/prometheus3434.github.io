@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="11cc5b83-3e72-4169-af8c-bed378d4818e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ninni</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{A0C8D93A-310F-422E-B633-1A279EA66EBB}" playOrder="1">
+      <navLabel>
+        <text>vıı</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{8C9BB495-6B5D-4903-84DC-90D3B3998313}" playOrder="2">
+      <navLabel>
+        <text>Arkada uzanmakta olan Mona’yla İstiridye doğrulup</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{D9A83F3E-E1AA-42AD-AEB5-8480F2758552}" playOrder="3">
+      <navLabel>
+        <text>Tek kural ise büyünün düğümlenmesi gerektiğidir. N</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{251F6806-BF45-4EFD-8150-CAA37A8504AE}" playOrder="4">
+      <navLabel>
+        <text>xLIV</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

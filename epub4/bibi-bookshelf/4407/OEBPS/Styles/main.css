@@ -1,0 +1,83 @@
+p{
+
+	  margin-top:0.7em;
+	  margin-bottom:0.7em;
+	  text-indent:10px;
+	
+
+} 
+.ilk{
+  	  text-indent:0px;
+}	
+.aralik_orta{
+  text-align:center;
+}
+
+.b_sayfa_k_adi{
+  font-weight:bold;
+text-indent:0px;
+text-align:center;
+font-size:2.5em;
+margin-bottom:1em;
+margin-top:1em;
+ 
+}
+
+.b_sayfa_k_adi2{
+  font-weight:bold;
+text-indent:0px;
+text-align:center;
+font-size:1.5em;
+margin-bottom:1em;
+ 
+}
+
+.b_sayfa_soz{
+text-indent:0px;
+text-align:center;
+margin-bottom:2em;
+
+ }
+ 
+.b_sayfa_y_adi{
+text-indent:0px;
+text-align:center;
+font-size:1.8em;
+margin-bottom:1em;
+
+ }
+ .b_sayfa_y_resim{
+text-indent:0px;
+text-align:center;
+font-size:2em;
+ }
+ 
+ .ceviri{
+ text-align:center; 
+ margin-top:1.5em;
+}
+
+ .yayin_evi{
+   font-size:0.8em;
+ text-align:center; 
+ margin-top:2em;
+}
+
+.dipnot{
+    font-size:0.8em; 
+    text-align:right;
+    font-style:italic;
+}
+.dipnot_sayi{
+    font-size:0.8em; 
+}
+
+.kisim_adi{
+font-weight:bold;
+text-align:center;
+ 
+}
+.ortali{
+      font-size:1.2em;
+text-align:center; 
+}
