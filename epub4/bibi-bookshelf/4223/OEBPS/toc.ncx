@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720154" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Anılar, Düşler, Düşünceler</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Önsöz</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>İç Konuşma</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Çocukluk Dönemi</text>
+         </navLabel>
+         <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Okul Yılları</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Üniversite Yılları</text>
+         </navLabel>
+         <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Psikiyatrik Çalışmalar</text>
+         </navLabel>
+         <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Sigmund Freud</text>
+         </navLabel>
+         <content src="Text/chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Bilinçdışını İrdeleme</text>
+         </navLabel>
+         <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>Yapıtların Oluşumu</text>
+         </navLabel>
+         <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Kule</text>
+         </navLabel>
+         <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Geziler</text>
+         </navLabel>
+         <content src="Text/chapter10.xhtml"/>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>Kuzey Afrika</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml#subchapter1"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Pueblo Yerlileri</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml#subchapter2"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>Kenya ve Uganda</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml#subchapter3"/>
+         </navPoint>
+         <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+               <text>Hindistan</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml#subchapter4"/>
+         </navPoint>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>Ravenna ve Roma</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml#subchapter5"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+         <navLabel>
+            <text>İmgeler</text>
+         </navLabel>
+         <content src="Text/chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+         <navLabel>
+            <text>Ölümden Sonra Yaşam Üzerine</text>
+         </navLabel>
+         <content src="Text/chapter12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+         <navLabel>
+            <text>Son Dönem Düşünceleri</text>
+         </navLabel>
+         <content src="Text/chapter13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+         <navLabel>
+            <text>Geçmişe Bakış</text>
+         </navLabel>
+         <content src="Text/chapter14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+         <navLabel>
+            <text>Açıklamalar/ İris Kantemir</text>
+         </navLabel>
+         <content src="Text/notice.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

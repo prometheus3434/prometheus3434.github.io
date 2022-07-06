@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mısır'a Doğru</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bahadıroğlu, Yavuz">Yavuz Bahadıroğlu</dc:creator>
+    <dc:date>2000-05-01T12:48:54+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7de3b173-1ef7-4f22-91a7-5202958d9925</dc:identifier>
+    <dc:publisher>Nesil Basım Yayın Gıda Ticaret ve Sanayi A.Ş</dc:publisher>
+    <dc:subject>Juvenile Fiction</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:subject>Middle East</dc:subject>
+    <dc:description>Tih Sahrası... Cengiz'i, Timur'u Büyük İskender'i dize getiren uçsuz bucaksız çöl... Gündüzleri kemikleri eriten sıcaklık, geceleri ilikleri donduran soğuk... Deriyi delerek ciğerlere dolan ince kum taneleri. Fırtınalar... fırtınalar! Ve bu dünya Cehenneminin içinde bir ordu: Orduyu Hümayun. Başlarında "Ya alırım, ya ölürüm" andı ile Dersaadet'ten kopup gelen bir çığ: Yavuz Sultan Selim!... Mihnet, meşekkat, acı, zahmet! Saadete açılan kapının aşılması en zor fakat en son eşiği. İdeal yolcuları bunu aşıyorlar, Konstantiniyye surlarını aştıkları gibi. Mercidabık'a düşüyorlar. Çaldıran'a düştükleri gibi. Zafer... zafer... zafer! Ardından tevazu tümseğinin en tepe yerinde yine o padişah: Yavuz Sultan Selim. - Ben Harem-i Şerif'in hakimi değil, hadimiyim!"</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">58bb3e95-bcd7-4d7c-ab77-e1de8baec9d0</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Cf_IAwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051319704</dc:identifier>
+    <meta name="calibre:title_sort" content="Mısır'a Doğru"/>
+    <meta name="calibre:timestamp" content="2011-07-30T15:31:06+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yavuz Bahadıroğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Metafizik Nedir?</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Heidegger, Martin">Martin Heidegger</dc:creator>
+    <dc:date>2017-05-15T11:33:31+00:00</dc:date>
+    <dc:identifier id="BookId">awp2012-05-02T00:31:42Z</dc:identifier>
+    <dc:publisher>Kaknüs Yayinlari</dc:publisher>
+    <dc:description>&lt;p&gt;Havf hiçliği ifşa eder.
+Havf içinde boşlukta yüzüyoruz. Daha açıkça: Varlık bütünlüğü ile kayıp eridiği için havf bizi boşlukta dolaştırıyor. Biz de birlikte kendimizden sıyrılıyoruz. Bu suretle bizzat biz -varolan insanlar- varolanın ortasında kendimizden geçip eriyoruz. Bunun içindir ki esas bakımdan, 'sana' ve 'bana' değil, 'birisine' birşeyler olur. Hiçbir şeye tutunulması mümkün olmayan boşlukta kalmanın sarsıntısı içinde yalnız varolmak, daha mevcuttur.
+Havf içinde dil tutulur. Çünkü varolan, bütünlüğü içinde erir ve hiçliğin baskısı kendini hissettirir. Ve onun varlığı karşısında 'dır' demek susar. Havf içinde bize birşeyler olduğu zaman, çok vakit boş sükutu, gayesiz kelimelerle ihlal etmeyi aramaklığımız sadece hiçliğin etmeyi aramaksızlığımız sadece hiçliğin mevcudiyetinin bir delilidir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-04-25</dc:date>
+    <dc:subject>Varoluşçuluk</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">7b81718c-ffd5-47ba-a811-00ebee5c68e9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756963296</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">jNphYgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756963296</dc:identifier>
+    <meta content="Metafizik Nedir?" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Martin Heidegger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="img1"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id001"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
