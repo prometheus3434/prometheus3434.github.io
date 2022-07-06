@@ -1,0 +1,244 @@
+.block_ {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_1 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_2 {
+    display: block;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.block_3 {
+    display: block;
+    letter-spacing: 0;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_5 {
+    display: block;
+    letter-spacing: 0;
+    text-align: right;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_6 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_7 {
+    color: #365F91;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.25em;
+    line-height: 1.2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block_8 {
+    color: black;
+    display: block;
+    font-family: "Cambria", serif;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0 5pt
+    }
+.block_9 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_10 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_11 {
+    display: block;
+    font-weight: bold;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 8.5pt;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 12pt 0 3pt
+    }
+.block_12 {
+    display: block;
+    letter-spacing: 0;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_13 {
+    display: block;
+    text-align: right;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_14 {
+    display: block;
+    letter-spacing: 0;
+    text-align: left;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_15 {
+    display: block;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_16 {
+    display: block;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_17 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_18 {
+    display: block;
+    font-style: italic;
+    letter-spacing: 0;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block_19 {
+    display: block;
+    font-weight: bold;
+    letter-spacing: 0;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 8.5pt;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 12pt 0 3pt
+    }
+.block_20 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0;
+    margin: 6pt 0
+    }
+.block_21 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre2 {
+    white-space: pre-wrap
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    font-style: italic
+    }
+.text_ {
+    color: #000
+    }
+.text_1 {
+    color: #06C;
+    text-decoration: underline
+    }
+.text_2 {
+    letter-spacing: 0
+    }
+.text_3 {
+    font-style: italic;
+    letter-spacing: 0
+    }
+.text_4 {
+    color: #000;
+    font-style: italic
+    }
+.text_5 {
+    color: black;
+    font-style: italic
+    }
+.text_6 {
+    font-style: italic;
+    font-weight: bold
+    }

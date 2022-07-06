@@ -1,0 +1,37 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Mustafa Necati Sepetçioğlu - Geçitteki Ülke 8</dc:title>
+    <dc:creator id="id-2">Mustafa Necati Sepetçioğlu</dc:creator>
+    <dc:identifier>calibre:2979</dc:identifier>
+    <dc:identifier>uuid:1dce71aa-2772-4853-94f3-526326224679</dc:identifier>
+    <dc:identifier id="uuid">Id_D25339B6-FAB8-442B-BAD9-32BA6ACF7CB0_</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-1">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Mustafa Necati Sepetçioğlu - Geçitteki Ülke 8</opf:meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2020-07-23T20:57:20Z</meta>
+    <opf:meta refines="#id-1" property="role" scheme="marc:relators">bkp</opf:meta>
+    <opf:meta refines="#id-2" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id-2" property="file-as">Mustafa Necati Sepetçioğlu</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Mustafa Necati Sepetçioğlu": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main.css" id="id6" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+</package>

@@ -1,0 +1,173 @@
+.author-name {
+  display: block;
+  font-size: 1.83333em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.25em 0;
+}
+.author-name-foot {
+  display: block;
+  font-size: 1em;
+  text-align: center;
+  margin: 0.25em 0;
+}
+.author-name1 {
+  font-size: 1.83333em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.25em 0;
+}
+.book-name {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.25em 0;
+}
+.book-name-foot {
+  display: block;
+  font-size: 1.66667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.25em 0;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 15pt;
+}
+.calibre1 {
+  height: auto;
+  width: auto;
+}
+.calibre2 {
+  display: block;
+}
+.calibre3 {
+  color: #000;
+}
+.calibre4 {
+  font-size: 0.75em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre5 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre6 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre7 {
+  font-size: 0.9em;
+  line-height: normal;
+  vertical-align: super;
+}
+.center-parapraphy {
+  display: block;
+  font-style: normal;
+  text-align: center;
+  margin: 1em 0;
+}
+.center-parapraphy-foot {
+  display: block;
+  font-size: 0.83333em;
+  font-style: normal;
+  text-align: center;
+  margin: 1em 0;
+}
+.chapter {
+  display: block;
+}
+.copyright {
+  display: block;
+  font-size: 0.75em;
+  text-align: left;
+  margin: 4px 0;
+}
+.footnote {
+  display: block;
+  font-size: 0.83333em;
+  text-align: justify;
+  margin: 0.7em 0;
+}
+.footnote-link {
+  color: #727272;
+  font-weight: bold;
+  text-decoration: none;
+}
+.h {
+  display: block;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.67em 0 1em;
+}
+.h2bold {
+  display: block;
+  font-size: 1.29167em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.83em 0;
+}
+.header {
+  display: block;
+  font-size: 1.66667em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.image {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+.indent {
+  display: block;
+  font-size: 0.83333em;
+  font-style: italic;
+  text-align: justify;
+  margin: 0.25em 0 0.25em 3em;
+}
+.left-header {
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  text-align: justify;
+  margin: 0.25em 0;
+}
+.left-header1 {
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  text-align: justify;
+  text-indent: 20px;
+  margin: 0.25em 0;
+}
+.librobold {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.librobold1 {
+  font-weight: bold;
+}
+.libroitalic {
+  font-style: italic;
+}
+.paragraph {
+  display: block;
+  font-size: 1em;
+  text-align: justify;
+  text-align-last: left;
+  text-indent: 20px;
+  margin: 0.5em 0;
+}

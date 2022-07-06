@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{7F52D9AA-5FD7-4CB5-B2BE-CC2C5D7BA727}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kurtların Savaşı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Harita</text>
+      </navLabel>
+      <content src="Text/harita.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Öndeyiş: Toprağın Belleği</text>
+      </navLabel>
+      <content src="Text/ondeyis.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1. Bölüm: Lugnasad</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>2. Bölüm: Sid Kapıları Önünde</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>3. Bölüm: Dişi Kurdun Yolu</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>4. Bölüm: Akingia Savaşı</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>5. Bölüm: Karanlığın Ortasında</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>6. Bölüm: İhanet</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>7. Bölüm: Karanlık Kaplasın Her Yeri!</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>8. Bölüm: Sablon Tepesi</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>9. Bölüm: Kara Drüid</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/Sonsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>MOÏRA'daki siyasal kahramanlar</text>
+      </navLabel>
+      <content src="Text/karakterler.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,113 @@
+p	{
+    display: block;
+    margin:0;
+    text-indent:30px;
+    text-align: justify;
+    }
+
+h1,h2,h3,h4,h5,h6 {
+	text-indent: 0px;
+	text-align:center;
+	margin-bottom:10px;
+	margin-top:30px
+}
+
+.altbaslik{
+	text-indent: 0px;
+	text-align:center;
+	font-size:.9em;
+	font-style:italic;
+	font-weight:bold
+}
+
+.il {
+	float: left; margin: 3px;
+}
+.ir {
+	float: right; margin: 3px;
+}
+
+.chapterHeader {
+  height:60px;
+  border:1px solid #659;
+  display:block;
+  margin-bottom:20px;
+  background-color:#fcfff6;
+}
+  
+.chapterHeader .translation {
+  float:left;
+  font-weight: normal;
+  margin-top:38px;
+  margin-left: -8px;
+  margin-bottom: 0px;
+  padding-right: 16px;
+  padding-left: 5px ;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-size:26px;
+  background-color:#fcfff6;
+  line-spacing: 1.2em;
+}
+                             
+.chapterHeader .count {
+  line-height: 100%;
+  font-family:Times, serif;
+  font-style:normal;
+  font-weight: normal;
+  text-transform:uppercase;
+  font-size:94px;
+  margin-right:18px;
+  margin-top:-14px;
+  margin-bottom: -20px;
+  float:left;
+  padding:0px;
+  background-color:#fcfff6;}
+
+blockquote {
+  padding: 0px;
+  margin-left: 40px;
+  margin-right:0px;
+  margin-top:10px;
+  margin-bottom:10px;
+  border: 0px;
+  }
+
+blockquote p {
+  font-size: 80%;
+  font-style: normal;
+  text-indent: 0px;
+  }
+
+blockquote.classy {
+  font-size: 100%;
+  font-style: normal;
+  text-indent: 0px;
+  padding: 8px;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 15px;
+  background-image: url(../Images/quoteopen.gif);
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
+  }
+  
+blockquote.classy div {
+    	display: block;
+    	background-image: url(../Images/quoteclose.gif);
+    	background-repeat: no-repeat;
+    	background-position: bottom right;
+  	}
+
+blockquote.modern {
+  font-size: 100%;
+  font-style: normal;
+  text-indent: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  padding-left: 10px;
+  border-left: 3px solid #ccc;
+} 
