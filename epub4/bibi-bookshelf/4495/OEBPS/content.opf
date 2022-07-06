@@ -1,0 +1,111 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Osman</dc:title>
+    <dc:creator id="id-1">Ayfer Tunc</dc:creator>
+    <dc:identifier>google:5MrUzQEACAAJ</dc:identifier>
+    <dc:identifier>isbn:9789750745522</dc:identifier>
+    <dc:identifier>calibre:384</dc:identifier>
+    <dc:identifier>uuid:8238ea12-a22d-464b-a7f4-2d597de3e199</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:640e2a52-bd0d-4106-8ef7-ecabd0af7845</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:contributor id="id-2">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2020-06-15T12:00:25+00:00</dc:date>
+    <dc:publisher>Can Yayinlari</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Osman</meta>
+    <meta content="Adobe InDesign 14.0.3" name="generator"/>
+    <meta content="Osman_kapakLR.jpg" name="cover"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2020-09-23T17:59:59Z</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Tunc, Ayfer</meta>
+    <meta property="calibre:author_link_map">{"Ayfer Tunc": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="Osman.xhtml" id="Osman" media-type="application/xhtml+xml"/>
+    <item href="Osman-1.xhtml" id="Osman-1" media-type="application/xhtml+xml"/>
+    <item href="Osman-2.xhtml" id="Osman-2" media-type="application/xhtml+xml"/>
+    <item href="Osman-3.xhtml" id="Osman-3" media-type="application/xhtml+xml"/>
+    <item href="Osman-4.xhtml" id="Osman-4" media-type="application/xhtml+xml"/>
+    <item href="Osman-5.xhtml" id="Osman-5" media-type="application/xhtml+xml"/>
+    <item href="Osman-6.xhtml" id="Osman-6" media-type="application/xhtml+xml"/>
+    <item href="Osman-7.xhtml" id="Osman-7" media-type="application/xhtml+xml"/>
+    <item href="Osman-8.xhtml" id="Osman-8" media-type="application/xhtml+xml"/>
+    <item href="Osman-9.xhtml" id="Osman-9" media-type="application/xhtml+xml"/>
+    <item href="Osman-10.xhtml" id="Osman-10" media-type="application/xhtml+xml"/>
+    <item href="Osman-11.xhtml" id="Osman-11" media-type="application/xhtml+xml"/>
+    <item href="Osman-12.xhtml" id="Osman-12" media-type="application/xhtml+xml"/>
+    <item href="Osman-13.xhtml" id="Osman-13" media-type="application/xhtml+xml"/>
+    <item href="Osman-14.xhtml" id="Osman-14" media-type="application/xhtml+xml"/>
+    <item href="Osman-15.xhtml" id="Osman-15" media-type="application/xhtml+xml"/>
+    <item href="Osman-16.xhtml" id="Osman-16" media-type="application/xhtml+xml"/>
+    <item href="Osman-17.xhtml" id="Osman-17" media-type="application/xhtml+xml"/>
+    <item href="Osman-18.xhtml" id="Osman-18" media-type="application/xhtml+xml"/>
+    <item href="Osman-19.xhtml" id="Osman-19" media-type="application/xhtml+xml"/>
+    <item href="Osman-20.xhtml" id="Osman-20" media-type="application/xhtml+xml"/>
+    <item href="Osman-21.xhtml" id="Osman-21" media-type="application/xhtml+xml"/>
+    <item href="Osman-22.xhtml" id="Osman-22" media-type="application/xhtml+xml"/>
+    <item href="Osman-23.xhtml" id="Osman-23" media-type="application/xhtml+xml"/>
+    <item href="Osman-24.xhtml" id="Osman-24" media-type="application/xhtml+xml"/>
+    <item href="Osman-25.xhtml" id="Osman-25" media-type="application/xhtml+xml"/>
+    <item href="Osman-26.xhtml" id="Osman-26" media-type="application/xhtml+xml"/>
+    <item href="Osman-27.xhtml" id="Osman-27" media-type="application/xhtml+xml"/>
+    <item href="Osman-28.xhtml" id="Osman-28" media-type="application/xhtml+xml"/>
+    <item href="Osman-29.xhtml" id="Osman-29" media-type="application/xhtml+xml"/>
+    <item href="Osman-30.xhtml" id="Osman-30" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/canlogosiyah.png" id="canlogosiyah.png" media-type="image/png"/>
+    <item href="image/Osman_kapakLR.jpg" id="Osman_kapakLR.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="font/BerlingLTStd-Bold.ttf" id="BerlingLTStd-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/BerlingLTStd-Italic.ttf" id="BerlingLTStd-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/BerlingLTStd-Medium.ttf" id="BerlingLTStd-Medium.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="BerlingLTStd-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/GillSansStd-Italic.ttf" id="GillSansStd-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/GillSansStd.ttf" id="GillSansStd.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/GoudyCatTReg.ttf" id="GoudyCatTReg.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/Helvetica-NormalTr.otf" id="Helvetica-NormalTr.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/JansonTextRoman.ttf" id="JansonTextRoman.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="Osman"/>
+    <itemref idref="Osman-1"/>
+    <itemref idref="Osman-2"/>
+    <itemref idref="Osman-3"/>
+    <itemref idref="Osman-4"/>
+    <itemref idref="Osman-5"/>
+    <itemref idref="Osman-6"/>
+    <itemref idref="Osman-7"/>
+    <itemref idref="Osman-8"/>
+    <itemref idref="Osman-9"/>
+    <itemref idref="Osman-10"/>
+    <itemref idref="Osman-11"/>
+    <itemref idref="Osman-12"/>
+    <itemref idref="Osman-13"/>
+    <itemref idref="Osman-14"/>
+    <itemref idref="Osman-15"/>
+    <itemref idref="Osman-16"/>
+    <itemref idref="Osman-17"/>
+    <itemref idref="Osman-18"/>
+    <itemref idref="Osman-19"/>
+    <itemref idref="Osman-20"/>
+    <itemref idref="Osman-21"/>
+    <itemref idref="Osman-22"/>
+    <itemref idref="Osman-23"/>
+    <itemref idref="Osman-24"/>
+    <itemref idref="Osman-25"/>
+    <itemref idref="Osman-26"/>
+    <itemref idref="Osman-27"/>
+    <itemref idref="Osman-28"/>
+    <itemref idref="Osman-29"/>
+    <itemref idref="Osman-30"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

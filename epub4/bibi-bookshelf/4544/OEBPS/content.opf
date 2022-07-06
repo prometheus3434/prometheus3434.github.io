@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ölü kelebeklerin dansı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Arkan, Hüsnü">Hüsnü Arkan</dc:creator>
+    <dc:identifier id="uuid">{EE2F5E6F-42B4-4DFE-A333-F7581D9E4560}</dc:identifier>
+    <dc:date>1998-06-15T12:52:03+00:00</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1c32c11f-b06b-49d0-b0f9-ec02a4847bc8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753422130</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">orRWywAACAAJ</dc:identifier>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Ölü kelebeklerin dansı"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hüsnü Arkan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.html" id="main.html" media-type="application/xhtml+xml"/>
+    <item href="Text/00.html" id="x00.html" media-type="text/html"/>
+    <item href="Text/16.html" id="x16.html" media-type="text/html"/>
+    <item href="Text/17.html" id="x17.html" media-type="text/html"/>
+    <item href="Text/18.html" id="x18.html" media-type="text/html"/>
+    <item href="Text/19.html" id="x19.html" media-type="text/html"/>
+    <item href="Text/22.html" id="x22.html" media-type="text/html"/>
+    <item href="Text/23.html" id="x23.html" media-type="text/html"/>
+    <item href="Text/24.html" id="x24.html" media-type="text/html"/>
+    <item href="Text/25.html" id="x25.html" media-type="text/html"/>
+    <item href="Text/26.html" id="x26.html" media-type="text/html"/>
+    <item href="Text/27.html" id="x27.html" media-type="text/html"/>
+    <item href="Text/30.html" id="x30.html" media-type="text/html"/>
+    <item href="Text/31.html" id="x31.html" media-type="application/xhtml+xml"/>
+    <item href="Text/33.html" id="x33.html" media-type="application/xhtml+xml"/>
+    <item href="Text/34.html" id="x34.html" media-type="application/xhtml+xml"/>
+    <item href="Text/35.html" id="x35.html" media-type="application/xhtml+xml"/>
+    <item href="Text/36.html" id="x36.html" media-type="application/xhtml+xml"/>
+    <item href="Text/37.html" id="x37.html" media-type="application/xhtml+xml"/>
+    <item href="Text/38.html" id="x38.html" media-type="text/html"/>
+    <item href="Text/45.html" id="x45.html" media-type="text/html"/>
+    <item href="Text/epilog.html" id="epilog.html" media-type="text/html"/>
+    <item href="toc.ncx" id="id19" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id18" media-type="text/css"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id19">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.html"/>
+    <itemref idref="x00.html"/>
+    <itemref idref="x16.html"/>
+    <itemref idref="x17.html"/>
+    <itemref idref="x18.html"/>
+    <itemref idref="x19.html"/>
+    <itemref idref="x22.html"/>
+    <itemref idref="x23.html"/>
+    <itemref idref="x24.html"/>
+    <itemref idref="x25.html"/>
+    <itemref idref="x26.html"/>
+    <itemref idref="x27.html"/>
+    <itemref idref="x30.html"/>
+    <itemref idref="x31.html"/>
+    <itemref idref="x33.html"/>
+    <itemref idref="x34.html"/>
+    <itemref idref="x35.html"/>
+    <itemref idref="x36.html"/>
+    <itemref idref="x37.html"/>
+    <itemref idref="x38.html"/>
+    <itemref idref="x45.html"/>
+    <itemref idref="epilog.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

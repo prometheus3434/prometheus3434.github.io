@@ -1,0 +1,237 @@
+.kunye {
+  text-indent: 0;
+  font-size: 0.85em;
+  margin-bottom: 0.75em;
+  text-align: center;
+}
+/* HEADINGS */
+h1 {
+  font-size: 5em;
+  line-height: 2.043478;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+  font-weight: bold;
+  background: url(../Images/fon.jpg) no-repeat center;
+  background-size: 230px 120px;
+  color: white;
+}
+h2 {
+  font-size: 1.1375em;
+  line-height: 0.4em;
+  margin-top: 1em;
+  text-indent: 2em;
+}
+/* HEADINGS Son */
+/* DİPNOTLAR */
+.dip-ciz {
+  display: block;
+  border-bottom: 1px solid black;
+  width: 35%;
+  margin-top: 2.5em;
+  margin-left: 2em;
+  margin-bottom: 0.5em;
+}
+.dipnot {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 3em;
+  font-size: 0.85em;
+}
+.dipnot1 {
+  font-size: 0.85em;
+  text-indent: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  page-break-before: always;
+  margin-left: 2em;
+}
+.dipnot1 p {
+  text-indent: 0;
+  margin-left: 5px;
+  vertical-align: middle;
+  page-break-before: avoid;
+  margin-top: 1px;
+}
+a {
+  text-decoration: underline;
+  /* Note: KF8 formatı şu şekilde kullanılmadığı sürece bunu kullanmaya zorlar: "eleman.sinif a" */
+  font-weight: bold;
+  color: brown;
+  -webkit-text-fill-color: blue;
+  /* iBooks geçersiz bırakıyor (Gece modunda iOS 9 ve El Capitan) */
+  /* inherit = metin rengi */
+}
+/* DİPNOTLAR SON */
+h1 + p {
+  text-indent: 0;
+}
+hr + p {
+  text-indent: 0;
+}
+div + p {
+  text-indent: 0;
+}
+/* BASLIKLAR */
+.baslik {
+  text-align: center;
+  font-weight: bold;
+  text-indent: 0;
+  font-size: 3em;
+  font-family: "Times New Roman";
+}
+.baslik2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-indent: 0;
+  margin-top: 4em;
+  margin-bottom: 2em;
+}
+.baslik3 {
+  text-align: center;
+  font-style: italic;
+  text-indent: 1em;
+  font-size: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+/* BASLIKLAR SON*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/* İLKHARF */
+p.ilk-prgrf {
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-variant: normal;
+  text-indent: 0;
+}
+span.ilk-hrf {
+  font-family: serif;
+  font-size: 5em;
+  float: left;
+  line-height: 1em;
+  margin-top: -0.227em;
+  margin-right: 0.05em;
+  margin-bottom: -0.216em;
+}
+.dvm {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.25;
+  text-align: justify;
+  text-indent: 0;
+  margin-left: 20px;
+}
+/* İLKHARF SON */
+/* TABLOLAR: Başlangıç */
+table {
+  display: table;
+  table-layout: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+  max-width: 100%;
+  margin: 1em auto;
+  font-feature-settings: "tnum" 1;
+  font-variant-numeric: tabular-nums;
+}
+caption, .caption, .altyazi {
+  caption-side: top;
+  /* Not: Eski RMSDK'lerin desteklediği tek değer */
+  text-align: center;
+  font-weight: bold;
+}
+th {
+  empty-cells: show;
+  border-bottom: 0 solid currentColor;
+  /* currentColor = metnin rengi (gece modunda tersine çevrilir) */
+  padding: 0.1em 2% 0.6em 0;
+  text-align: left;
+  font-weight: bold;
+}
+td {
+  empty-cells: show;
+  border-bottom: 0 solid currentColor;
+  /* currentColor = metnin rengi (gece modunda tersine çevrilir) */
+  padding: 0 0% 0 0;
+  text-align: left;
+}
+.two1 {
+  width: 50%;
+  vertical-align: top;
+  text-align: right;
+}
+.two2 {
+  width: 50%;
+  vertical-align: top;
+  text-align: left;
+}
+.cell35 {
+  width: 35%;
+}
+.cell45 {
+  width: 45%;
+  font-size: 1em;
+  vertical-align: top;
+  border: solid 1px;
+  border-style: none solid none none;
+  font-weight: bold;
+  text-align: right;
+padding-right:6px;
+}
+.cell55 {
+  width: 55%;
+  padding-left: 4px;
+  vertical-align: bottom;
+  font-size: 0.85em;
+  border: solid 1px;
+  border-style: none none none solid;
+}
+.cell5 {
+  text-align: center;
+  width: 5%;
+}
+.cell4 {
+  width: 45%;
+  font-size: 1.1em;
+  padding-right: 6px;
+  vertical-align: bottom;
+  text-align: right;
+  border: solid 1px;
+  border-style: none solid none none;
+  font-weight: bold;
+}
+.cell5 {
+  width: 55%;
+  padding-left: 4px;
+  vertical-align: bottom;
+  font-size: 0.85em;
+  border: solid 1px;
+  text-align: left;
+  border-style: none none none solid;
+}
+/* TABLOLAR: Son */
+hr.line {
+  width: auto;
+  margin: 0 25% 0 25%;
+  text-indent: 0;
+  text-align: center;
+  overflow: hidden;
+}
+.yildiz {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+.fig {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+  font-size: small;
+}

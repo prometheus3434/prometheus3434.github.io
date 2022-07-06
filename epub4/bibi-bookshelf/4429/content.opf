@@ -1,0 +1,503 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<ns0:package xmlns:ns0="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <ns0:metadata>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Nutuk</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="aut" ns0:file-as="Atatürk, Kemal &amp; Meclisi, Turkey. Büyük Millet">Kemal Atatürk</dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="aut">Turkey. Büyük Millet Meclisi</dc:creator>
+    <ns1:date xmlns:ns1="http://purl.org/dc/elements/1.1/">2011-06-15T12:50:59+00:00</ns1:date>
+    <ns1:contributor xmlns:ns1="http://purl.org/dc/elements/1.1/" ns0:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</ns1:contributor>
+    <ns1:identifier xmlns:ns1="http://purl.org/dc/elements/1.1/" id="uuid_id" ns0:scheme="uuid">c43b57dd-5652-4960-99fc-0dc313c01151</ns1:identifier>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Yapı Kredi Yayınları</dc:publisher>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">An address delivered to the National assembly by Gâzi Mustafa Kemal, president of the Turkish republic, October 15-20, 1927.</dc:description>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">tr</dc:language>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="calibre">88fdd097-8366-44a6-a965-1a036e53fbf2</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="ISBN">9789750820038</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:scheme="GOOGLE">hrFDygAACAAJ</dc:identifier>
+    <ns0:meta content="1" name="calibre:series_index"/>
+    <ns0:meta content="2010-11-23T20:45:30.125000+00:00" name="calibre:timestamp"/>
+    <ns0:meta name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" name="calibre:title_sort" content="Nutuk"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" name="calibre:author_link_map" content="{&quot;Kemal Atatürk&quot;: &quot;&quot;, &quot;Turkey. Büyük Millet Meclisi&quot;: &quot;&quot;}"/>
+  </ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/001_split_000.html" id="id0012" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/001_split_001.html" id="id0011" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/004_split_000.html" id="id0042" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/004_split_001.html" id="id0041" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/005_split_000.html" id="id0052" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/005_split_001.html" id="id0051" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/006_split_000.html" id="id0062" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/006_split_001.html" id="id0061" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/007_split_000.html" id="id0072" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/007_split_001.html" id="id0071" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/008_split_000.html" id="id0082" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/008_split_001.html" id="id0081" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/009_split_000.html" id="id0092" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/009_split_001.html" id="id0091" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/010_split_000.html" id="id0102" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/010_split_001.html" id="id0101" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/011_split_000.html" id="id0112" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/011_split_001.html" id="id0111" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/012_split_000.html" id="id0122" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/012_split_001.html" id="id0121" media-type="application/xhtml+xml"/>
+    <ns0:item href="Ops/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <ns0:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <ns0:item href="stylesheet.css" id="css" media-type="text/css"/>
+    <ns0:item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img10.jpg" id="img10" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img100.jpg" id="img100" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img101.jpg" id="img101" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img102.jpg" id="img102" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img103.jpg" id="img103" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img104.jpg" id="img104" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img105.jpg" id="img105" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img106.jpg" id="img106" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img107.jpg" id="img107" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img108.jpg" id="img108" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img109.jpg" id="img109" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img11.jpg" id="img11" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img110.jpg" id="img110" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img111.jpg" id="img111" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img112.jpg" id="img112" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img113.jpg" id="img113" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img114.jpg" id="img114" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img115.jpg" id="img115" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img116.jpg" id="img116" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img117.jpg" id="img117" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img118.jpg" id="img118" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img119.jpg" id="img119" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img12.jpg" id="img12" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img120.jpg" id="img120" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img121.jpg" id="img121" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img122.jpg" id="img122" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img123.jpg" id="img123" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img124.jpg" id="img124" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img125.jpg" id="img125" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img126.jpg" id="img126" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img127.jpg" id="img127" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img128.jpg" id="img128" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img129.jpg" id="img129" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img13.jpg" id="img13" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img130.jpg" id="img130" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img131.jpg" id="img131" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img132.jpg" id="img132" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img133.jpg" id="img133" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img134.jpg" id="img134" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img135.jpg" id="img135" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img136.jpg" id="img136" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img137.jpg" id="img137" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img138.jpg" id="img138" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img139.jpg" id="img139" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img14.jpg" id="img14" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img140.jpg" id="img140" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img141.jpg" id="img141" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img142.jpg" id="img142" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img143.jpg" id="img143" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img144.jpg" id="img144" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img145.jpg" id="img145" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img146.jpg" id="img146" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img147.jpg" id="img147" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img148.jpg" id="img148" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img149.jpg" id="img149" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img15.jpg" id="img15" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img150.jpg" id="img150" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img151.jpg" id="img151" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img152.jpg" id="img152" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img153.jpg" id="img153" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img154.jpg" id="img154" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img155.jpg" id="img155" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img156.jpg" id="img156" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img157.jpg" id="img157" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img158.jpg" id="img158" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img159.jpg" id="img159" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img16.jpg" id="img16" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img160.jpg" id="img160" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img161.jpg" id="img161" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img162.jpg" id="img162" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img163.jpg" id="img163" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img164.jpg" id="img164" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img165.jpg" id="img165" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img166.jpg" id="img166" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img167.jpg" id="img167" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img168.jpg" id="img168" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img169.jpg" id="img169" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img17.jpg" id="img17" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img170.jpg" id="img170" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img171.jpg" id="img171" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img172.jpg" id="img172" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img173.jpg" id="img173" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img174.jpg" id="img174" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img175.jpg" id="img175" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img176.jpg" id="img176" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img177.jpg" id="img177" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img178.jpg" id="img178" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img179.jpg" id="img179" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img18.jpg" id="img18" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img180.jpg" id="img180" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img181.jpg" id="img181" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img182.jpg" id="img182" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img183.jpg" id="img183" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img184.jpg" id="img184" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img185.jpg" id="img185" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img186.jpg" id="img186" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img187.jpg" id="img187" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img188.jpg" id="img188" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img189.jpg" id="img189" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img19.jpg" id="img19" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img190.jpg" id="img190" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img191.jpg" id="img191" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img192.jpg" id="img192" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img193.jpg" id="img193" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img194.jpg" id="img194" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img195.jpg" id="img195" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img196.jpg" id="img196" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img197.jpg" id="img197" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img198.jpg" id="img198" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img199.jpg" id="img199" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img2.jpg" id="img2" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img20.jpg" id="img20" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img200.jpg" id="img200" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img201.jpg" id="img201" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img202.jpg" id="img202" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img203.jpg" id="img203" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img204.jpg" id="img204" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img205.jpg" id="img205" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img206.jpg" id="img206" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img207.jpg" id="img207" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img208.jpg" id="img208" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img209.jpg" id="img209" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img21.jpg" id="img21" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img210.jpg" id="img210" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img211.jpg" id="img211" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img212.jpg" id="img212" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img213.jpg" id="img213" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img214.jpg" id="img214" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img215.jpg" id="img215" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img216.jpg" id="img216" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img217.jpg" id="img217" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img218.jpg" id="img218" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img219.jpg" id="img219" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img22.jpg" id="img22" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img220.jpg" id="img220" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img221.jpg" id="img221" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img222.jpg" id="img222" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img223.jpg" id="img223" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img224.jpg" id="img224" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img225.jpg" id="img225" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img226.jpg" id="img226" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img227.jpg" id="img227" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img228.jpg" id="img228" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img229.jpg" id="img229" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img23.jpg" id="img23" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img230.jpg" id="img230" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img231.jpg" id="img231" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img232.jpg" id="img232" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img233.jpg" id="img233" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img234.jpg" id="img234" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img235.jpg" id="img235" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img236.jpg" id="img236" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img237.jpg" id="img237" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img238.jpg" id="img238" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img239.jpg" id="img239" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img24.jpg" id="img24" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img240.jpg" id="img240" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img241.jpg" id="img241" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img242.jpg" id="img242" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img243.jpg" id="img243" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img244.jpg" id="img244" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img245.jpg" id="img245" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img246.jpg" id="img246" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img247.jpg" id="img247" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img248.jpg" id="img248" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img249.jpg" id="img249" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img25.jpg" id="img25" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img250.jpg" id="img250" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img251.jpg" id="img251" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img252.jpg" id="img252" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img253.jpg" id="img253" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img254.jpg" id="img254" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img255.jpg" id="img255" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img256.jpg" id="img256" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img257.jpg" id="img257" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img258.jpg" id="img258" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img259.jpg" id="img259" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img26.jpg" id="img26" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img260.jpg" id="img260" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img261.jpg" id="img261" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img262.jpg" id="img262" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img263.jpg" id="img263" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img264.jpg" id="img264" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img265.jpg" id="img265" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img266.jpg" id="img266" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img267.jpg" id="img267" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img268.jpg" id="img268" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img269.jpg" id="img269" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img27.jpg" id="img27" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img270.jpg" id="img270" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img271.jpg" id="img271" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img272.jpg" id="img272" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img273.jpg" id="img273" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img274.jpg" id="img274" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img275.jpg" id="img275" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img276.jpg" id="img276" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img277.jpg" id="img277" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img278.jpg" id="img278" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img279.jpg" id="img279" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img28.jpg" id="img28" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img280.jpg" id="img280" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img281.jpg" id="img281" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img282.jpg" id="img282" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img283.jpg" id="img283" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img284.jpg" id="img284" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img285.jpg" id="img285" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img286.jpg" id="img286" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img287.jpg" id="img287" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img288.jpg" id="img288" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img289.jpg" id="img289" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img29.jpg" id="img29" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img290.jpg" id="img290" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img291.jpg" id="img291" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img292.jpg" id="img292" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img293.jpg" id="img293" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img294.jpg" id="img294" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img295.jpg" id="img295" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img296.jpg" id="img296" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img297.jpg" id="img297" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img298.jpg" id="img298" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img299.jpg" id="img299" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img3.jpg" id="img3" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img30.jpg" id="img30" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img300.jpg" id="img300" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img301.jpg" id="img301" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img302.jpg" id="img302" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img303.jpg" id="img303" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img304.jpg" id="img304" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img305.jpg" id="img305" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img306.jpg" id="img306" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img307.jpg" id="img307" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img308.jpg" id="img308" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img309.jpg" id="img309" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img31.jpg" id="img31" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img310.jpg" id="img310" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img311.jpg" id="img311" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img312.jpg" id="img312" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img313.jpg" id="img313" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img314.jpg" id="img314" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img315.jpg" id="img315" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img316.jpg" id="img316" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img317.jpg" id="img317" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img318.jpg" id="img318" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img319.jpg" id="img319" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img32.jpg" id="img32" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img320.jpg" id="img320" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img321.jpg" id="img321" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img322.jpg" id="img322" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img323.jpg" id="img323" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img324.jpg" id="img324" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img325.jpg" id="img325" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img326.jpg" id="img326" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img327.jpg" id="img327" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img328.jpg" id="img328" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img329.jpg" id="img329" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img33.jpg" id="img33" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img330.jpg" id="img330" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img331.jpg" id="img331" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img332.jpg" id="img332" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img333.jpg" id="img333" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img334.jpg" id="img334" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img335.jpg" id="img335" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img336.jpg" id="img336" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img337.jpg" id="img337" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img338.jpg" id="img338" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img339.jpg" id="img339" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img34.jpg" id="img34" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img340.jpg" id="img340" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img341.jpg" id="img341" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img342.jpg" id="img342" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img343.jpg" id="img343" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img344.jpg" id="img344" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img345.jpg" id="img345" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img346.jpg" id="img346" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img347.jpg" id="img347" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img348.jpg" id="img348" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img349.jpg" id="img349" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img35.jpg" id="img35" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img350.jpg" id="img350" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img351.jpg" id="img351" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img352.jpg" id="img352" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img353.jpg" id="img353" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img354.jpg" id="img354" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img355.jpg" id="img355" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img356.jpg" id="img356" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img357.jpg" id="img357" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img358.jpg" id="img358" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img359.jpg" id="img359" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img36.jpg" id="img36" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img360.jpg" id="img360" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img361.jpg" id="img361" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img362.jpg" id="img362" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img363.jpg" id="img363" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img364.jpg" id="img364" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img365.jpg" id="img365" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img366.jpg" id="img366" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img367.jpg" id="img367" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img368.jpg" id="img368" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img369.jpg" id="img369" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img37.jpg" id="img37" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img370.jpg" id="img370" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img371.jpg" id="img371" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img372.jpg" id="img372" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img373.jpg" id="img373" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img374.jpg" id="img374" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img375.jpg" id="img375" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img376.jpg" id="img376" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img377.jpg" id="img377" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img378.jpg" id="img378" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img379.jpg" id="img379" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img38.jpg" id="img38" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img380.jpg" id="img380" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img381.jpg" id="img381" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img382.jpg" id="img382" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img383.jpg" id="img383" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img384.jpg" id="img384" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img385.jpg" id="img385" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img386.jpg" id="img386" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img387.jpg" id="img387" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img388.jpg" id="img388" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img389.jpg" id="img389" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img39.jpg" id="img39" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img390.jpg" id="img390" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img391.jpg" id="img391" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img392.jpg" id="img392" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img393.jpg" id="img393" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img394.jpg" id="img394" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img395.jpg" id="img395" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img396.jpg" id="img396" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img397.jpg" id="img397" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img398.jpg" id="img398" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img399.jpg" id="img399" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img4.jpg" id="img4" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img40.jpg" id="img40" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img400.jpg" id="img400" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img401.jpg" id="img401" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img402.jpg" id="img402" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img403.jpg" id="img403" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img404.jpg" id="img404" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img405.jpg" id="img405" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img406.jpg" id="img406" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img407.jpg" id="img407" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img408.jpg" id="img408" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img409.jpg" id="img409" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img41.jpg" id="img41" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img410.jpg" id="img410" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img411.jpg" id="img411" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img412.jpg" id="img412" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img413.jpg" id="img413" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img414.jpg" id="img414" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img415.jpg" id="img415" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img416.jpg" id="img416" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img417.jpg" id="img417" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img42.jpg" id="img42" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img43.jpg" id="img43" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img44.jpg" id="img44" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img45.jpg" id="img45" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img46.jpg" id="img46" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img47.jpg" id="img47" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img48.jpg" id="img48" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img49.jpg" id="img49" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img5.jpg" id="img5" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img50.jpg" id="img50" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img51.jpg" id="img51" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img52.jpg" id="img52" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img53.jpg" id="img53" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img54.jpg" id="img54" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img55.jpg" id="img55" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img56.jpg" id="img56" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img57.jpg" id="img57" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img58.jpg" id="img58" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img59.jpg" id="img59" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img6.jpg" id="img6" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img60.jpg" id="img60" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img61.jpg" id="img61" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img62.jpg" id="img62" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img63.jpg" id="img63" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img64.jpg" id="img64" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img65.jpg" id="img65" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img66.jpg" id="img66" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img67.jpg" id="img67" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img68.jpg" id="img68" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img69.jpg" id="img69" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img7.jpg" id="img7" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img70.jpg" id="img70" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img71.jpg" id="img71" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img72.jpg" id="img72" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img73.jpg" id="img73" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img74.jpg" id="img74" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img75.jpg" id="img75" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img76.jpg" id="img76" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img77.jpg" id="img77" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img78.jpg" id="img78" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img79.jpg" id="img79" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img8.jpg" id="img8" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img80.jpg" id="img80" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img81.jpg" id="img81" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img82.jpg" id="img82" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img83.jpg" id="img83" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img84.jpg" id="img84" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img85.jpg" id="img85" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img86.jpg" id="img86" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img87.jpg" id="img87" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img88.jpg" id="img88" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img89.jpg" id="img89" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img9.jpg" id="img9" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img90.jpg" id="img90" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img91.jpg" id="img91" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img92.jpg" id="img92" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img93.jpg" id="img93" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img94.jpg" id="img94" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img95.jpg" id="img95" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img96.jpg" id="img96" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img97.jpg" id="img97" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img98.jpg" id="img98" media-type="image/jpeg"/>
+    <ns0:item href="Ops/images/img99.jpg" id="img99" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="id4" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="id3" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Italic.ttf" id="id2" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Regular.ttf" id="id1" media-type="application/octet-stream"/>
+    <ns0:item href="Ops/fonts/ARIAL.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+    <ns0:item href="Ops/fonts/ARIALBD.TTF" id="idfont2" media-type="application/vnd-ms-opentype"/>
+  </ns0:manifest>
+  <ns0:spine toc="ncx">
+    <ns0:itemref idref="titlepage"/>
+    <ns0:itemref idref="id0012"/>
+    <ns0:itemref idref="id0011"/>
+    <ns0:itemref idref="id002"/>
+    <ns0:itemref idref="id003"/>
+    <ns0:itemref idref="id0042"/>
+    <ns0:itemref idref="id0041"/>
+    <ns0:itemref idref="id0052"/>
+    <ns0:itemref idref="id0051"/>
+    <ns0:itemref idref="id0062"/>
+    <ns0:itemref idref="id0061"/>
+    <ns0:itemref idref="id0072"/>
+    <ns0:itemref idref="id0071"/>
+    <ns0:itemref idref="id0082"/>
+    <ns0:itemref idref="id0081"/>
+    <ns0:itemref idref="id0092"/>
+    <ns0:itemref idref="id0091"/>
+    <ns0:itemref idref="id0102"/>
+    <ns0:itemref idref="id0101"/>
+    <ns0:itemref idref="id0112"/>
+    <ns0:itemref idref="id0111"/>
+    <ns0:itemref idref="id0122"/>
+    <ns0:itemref idref="id0121"/>
+    <ns0:itemref idref="id013"/>
+  </ns0:spine>
+  <ns0:guide>
+    <ns0:reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </ns0:guide>
+</ns0:package>

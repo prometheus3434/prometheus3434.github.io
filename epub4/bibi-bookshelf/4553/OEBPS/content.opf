@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ölüm büyüsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha &amp; Öztekin, Çiğdem">Agatha Christie</dc:creator>
+    <dc:creator opf:role="aut">Çiğdem Öztekin</dc:creator>
+    <dc:date>2006-06-15T12:42:25+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">717c5b47-4e99-4ea4-8274-044439b8dfc7</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">932ee3f9-134d-4de5-a33c-6f4feb6c50d4</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">h47RtgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752107373</dc:identifier>
+    <meta content="Ölüm büyüsü" name="calibre:title_sort"/>
+    <meta content="2011-07-25T15:32:46+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.4.0" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;, &quot;Çiğdem Öztekin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/index-1_1.png" id="id2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

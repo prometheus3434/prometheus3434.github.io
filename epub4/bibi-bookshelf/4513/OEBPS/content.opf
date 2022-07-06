@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>OSMANLIDAN GÜNÜMÜZE EDEBİYAT VE TOPLUM</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="KARPAT, KEMAL H.">PROF. DR. KEMAL H. KARPAT</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>2011-10-24T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:87a8ca5e-d3a2-40fa-bdce-607843d398ce</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">ba622e88-98cf-48a7-bb8b-a8bdfa625f72</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="osmanlidangunumuzeedebiyatvetoplum-dis.jpg"/>
+    <meta name="calibre:title_sort" content="OSMANLIDAN GÜNÜMÜZE EDEBİYAT VE TOPLUM"/>
+    <meta name="calibre:author_link_map" content="{&quot;PROF. DR. KEMAL H. KARPAT&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="osmanlidangunumuzeedebiyatvetoplum-kapak.html" id="osmanlidangunumuzeedebiyatvetoplum-kapak" media-type="application/xhtml+xml"/>
+    <item href="osmanlidangunumuzeedebiyatvetoplum-epub.html" id="osmanlidangunumuzeedebiyatvetoplum-epub" media-type="application/xhtml+xml"/>
+    <item href="osmanlidangunumuzeedebiyatvetoplum-epub-1.html" id="osmanlidangunumuzeedebiyatvetoplum-epub-1" media-type="application/xhtml+xml"/>
+    <item href="osmanlidangunumuzeedebiyatvetoplum-epub-2.html" id="osmanlidangunumuzeedebiyatvetoplum-epub-2" media-type="application/xhtml+xml"/>
+    <item href="osmanlidangunumuzeedebiyatvetoplum-epub-3.html" id="osmanlidangunumuzeedebiyatvetoplum-epub-3" media-type="application/xhtml+xml"/>
+    <item href="osmanlidangunumuzeedebiyatvetoplum-epub-4.html" id="osmanlidangunumuzeedebiyatvetoplum-epub-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/395.jpg" id="x395.jpg" media-type="image/jpeg"/>
+    <item href="images/osmanlidangunumuzeedeb_fmt.jpeg" id="osmanlidangunumuzeedeb_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/osmanlidangunumuzeedebiyatvetoplum-dis.jpg" id="osmanlidangunumuzeedebiyatvetoplum-dis.jpg" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="osmanlidangunumuzeedebiyatvetoplum-kapak"/>
+    <itemref idref="osmanlidangunumuzeedebiyatvetoplum-epub"/>
+    <itemref idref="osmanlidangunumuzeedebiyatvetoplum-epub-1"/>
+    <itemref idref="osmanlidangunumuzeedebiyatvetoplum-epub-2"/>
+    <itemref idref="osmanlidangunumuzeedebiyatvetoplum-epub-3"/>
+    <itemref idref="osmanlidangunumuzeedebiyatvetoplum-epub-4"/>
+  </spine>
+</package>

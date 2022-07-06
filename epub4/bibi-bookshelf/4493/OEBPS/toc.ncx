@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{92AFC3BE-6013-40C1-8389-6B9C5ECE995E}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>wao</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİR</text>
+      </navLabel>
+      <content src="Text/I.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I VAROŞ İNEĞİ[7] DÜNYANIN SONUNDA 1974 — 1987</text>
+        </navLabel>
+        <content src="Text/01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II WILDWOOD 1982 — 1985</text>
+        </navLabel>
+        <content src="Text/02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III BELICIA CABRAL’IN ÜÇ HÜSRANI 1955 — 1962</text>
+        </navLabel>
+        <content src="Text/03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV DUYGUSAL EĞİTİM 1988 — 1992</text>
+        </navLabel>
+        <content src="Text/04.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İKİ</text>
+      </navLabel>
+      <content src="Text/II.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>V ZAVALLI ABELARD 1944 — 1946</text>
+        </navLabel>
+        <content src="Text/05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>6 YİTİKLERİN ÜLKESİ 1992 — 1995</text>
+        </navLabel>
+        <content src="Text/06.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ÜÇ</text>
+      </navLabel>
+      <content src="Text/III.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>7 SON YOLCULUK</text>
+        </navLabel>
+        <content src="Text/07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>8 ÖYKÜNÜN SONU</text>
+        </navLabel>
+        <content src="Text/08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>SON MEKTUP</text>
+        </navLabel>
+        <content src="Text/5.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

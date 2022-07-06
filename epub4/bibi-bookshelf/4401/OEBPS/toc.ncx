@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="e305ca28-6265-4d49-ad11-20da06cad211" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Nefeste Dünya Mitolojisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1. Bölüm Avustralya Ve Aborjin Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Avustralyalı Aborjinlerin Mitolojisi</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>MAORİ MİTOLOJİSİ</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>2. Bölüm Sümer Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>SÜMERLER KİMLERDİ?</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Tanrılar Ve Kahramanlar</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>3. Bölüm Mısır Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>MISIRLILAR KİMLERDİ?</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>4. Bölüm Çin Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ANTİK ÇİN</text>
+        </navLabel>
+        <content src="Text/main.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Hayvanlar Ve Yaratıklar</text>
+        </navLabel>
+        <content src="Text/main.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>5. Bölüm Amerika Yerlilerinin Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>AMERİKA YERLİLERİ KİMLERDİ?</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Ruhlar Ve Ayİnler</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>6 .Bölüm Güney Ve Orta Amerika Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Mayalar</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Aztekler</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>İNKALAR</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>7. Bölüm Yunan Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>YUNANLILAR KİMLERDİ?</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Kahramanlar,Caniler Ve Canavarlar</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>8. Bölüm Roma Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>ROMALILAR KİMLERDİ?</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>ROMANIN KÖKENLERİ:HİKAYELERDEN HİKAYE BEĞENİN</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Burçlar</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Kahramanlar</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>9. Bölüm Nors Mitolojisi</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml"/>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Nors Halkı Kimlerdi?</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>TANRILAR VE TANRIÇALAR</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>SEÇİLMİŞ Kaynakça</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>İNDEX</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

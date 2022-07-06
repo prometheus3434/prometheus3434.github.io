@@ -1,0 +1,517 @@
+body, div, p {
+    margin: 0;
+    padding: 0;
+    border-width: 0
+    }
+body {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto
+    }
+@page {
+    margin: 0.5px 0.5px 0.5px 0.5px
+    }
+p.Basic-Paragraph {
+    color: #000;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+p.anabaslik {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 1.25em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.333;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+p.bos {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 0.917em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.364;
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 15px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+p.dipnot {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.444;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 30px;
+    widows: 1
+    }
+p.paragraf {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 0.917em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.364;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 20px;
+    widows: 1
+    }
+p.resim {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.333;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+p.resim_alyazili {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 0.75em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.556;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 30px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+p.resimalti_italik {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 0.75em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.556;
+    margin-bottom: 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+p.split {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    color: #000;
+    font-size: 1.083em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.077;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 100px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    widows: 1
+    }
+span.dipnot {
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal
+    }
+span.dipp {
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    vertical-align: super
+    }
+p.ParaOverride-1 {
+    text-align: center;
+    text-indent: 0
+    }
+p.ParaOverride-2 {
+    margin-top: 25px;
+    text-align: center;
+    text-indent: 0
+    }
+p.ParaOverride-3 {
+    margin-bottom: 0;
+    text-align: center;
+    text-indent: 0
+    }
+p.ParaOverride-4 {
+    margin-top: 70px;
+    text-align: center
+    }
+p.ParaOverride-5 {
+    text-align: center
+    }
+p.ParaOverride-6 {
+    margin-bottom: 15px;
+    text-align: center
+    }
+p.ParaOverride-7 {
+    margin-top: 10px;
+    text-align: center
+    }
+p.ParaOverride-8 {
+    margin-top: 20px
+    }
+p.ParaOverride-9 {
+    margin-top: 10px
+    }
+p.ParaOverride-10 {
+    text-indent: 20px
+    }
+p.ParaOverride-12 {
+    text-align: right;
+    text-indent: 20px
+    }
+p.ParaOverride-13 {
+    margin-top: 15px;
+    text-align: right;
+    text-indent: 20px
+    }
+p.ParaOverride-14 {
+    margin-top: 0
+    }
+p.ParaOverride-15 {
+    margin-left: 200px;
+    text-indent: 20px
+    }
+p.ParaOverride-16 {
+    margin-top: 15px;
+    text-indent: 20px
+    }
+p.ParaOverride-18 {
+    margin-top: 15px;
+    text-align: right;
+    text-indent: 28px
+    }
+p.ParaOverride-19 {
+    text-align: right;
+    text-indent: 14px
+    }
+p.ParaOverride-20 {
+    text-indent: 14px
+    }
+p.ParaOverride-21 {
+    margin-top: 15px;
+    text-align: right;
+    text-indent: 14px
+    }
+p.ParaOverride-22 {
+    text-align: right
+    }
+p.ParaOverride-24 {
+    margin-top: 15px
+    }
+p.ParaOverride-26 {
+    margin-top: 15px;
+    text-align: right
+    }
+p.ParaOverride-27 {
+    text-indent: 0
+    }
+p.ParaOverride-28 {
+    margin-top: 15px;
+    text-indent: 0
+    }
+span.CharOverride-1 {
+    font-size: 1.667em;
+    font-style: normal;
+    font-weight: normal
+    }
+span.CharOverride-2 {
+    font-size: 1.889em;
+    font-style: normal;
+    font-weight: bold
+    }
+span.CharOverride-4 {
+    font-size: 1.333em;
+    font-style: normal;
+    font-weight: normal
+    }
+span.CharOverride-6 {
+    color: #000;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+span.CharOverride-7 {
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal
+    }
+span.CharOverride-9 {
+    color: #00f;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal
+    }
+span.CharOverride-11 {
+    font-size: 1.273em;
+    font-style: italic;
+    font-weight: normal
+    }
+span.CharOverride-12 {
+    font-size: 1.091em
+    }
+span.CharOverride-13 {
+    font-style: normal;
+    font-weight: bold
+    }
+span.CharOverride-15 {
+    font-size: 1.091em;
+    font-style: normal;
+    font-weight: bold
+    }
+span.CharOverride-16 {
+    font-style: italic;
+    font-weight: normal
+    }
+span.CharOverride-19 {
+    font-size: 0.909em
+    }
+span.CharOverride-20 {
+    font-size: 0.583em;
+    vertical-align: super
+    }
+span.CharOverride-21 {
+    font-size: 1em
+    }
+span.CharOverride-22 {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: normal
+    }
+span.CharOverride-23 {
+    font-size: 1.182em
+    }
+span.CharOverride-24 {
+    font-size: 0.818em
+    }
+span._idGenCharOverride-1 {
+    font-size: 1em
+    }
+img._idGenPageitem-3 {
+    height: 44px;
+    width: 110px
+    }
+img._idGenPageitem-4 {
+    height: 116px;
+    width: 360px
+    }
+img._idGenPageitem-5 {
+    height: 83px;
+    width: 381px
+    }
+img._idGenPageitem-6 {
+    height: 78px;
+    width: 87px
+    }
+img._idGenPageitem-7 {
+    height: 435px;
+    width: 309px
+    }
+img._idGenPageitem-8 {
+    height: 482px;
+    width: 312px
+    }
+img._idGenPageitem-9 {
+    height: 482px;
+    width: 313px
+    }
+img._idGenPageitem-10 {
+    height: 482px;
+    width: 308px
+    }
+img._idGenPageitem-11 {
+    height: 417px;
+    width: 309px
+    }
+img._idGenPageitem-12 {
+    height: 482px;
+    width: 315px
+    }
+img._idGenPageitem-13 {
+    height: 482px;
+    width: 316px
+    }
+img._idGenPageitem-14 {
+    height: 423px;
+    width: 311px
+    }
+img._idGenPageitem-15 {
+    height: 482px;
+    width: 318px
+    }
+img._idGenPageitem-16 {
+    height: 482px;
+    width: 310px
+    }
+img._idGenPageitem-17 {
+    height: 417px;
+    width: 310px
+    }
+img._idGenPageitem-18 {
+    height: 482px;
+    width: 321px
+    }
+img._idGenPageitem-19 {
+    height: 437px;
+    width: 310px
+    }
+img._idGenPageitem-20 {
+    height: 482px;
+    width: 317px
+    }
+img._idGenPageitem-21 {
+    height: 482px;
+    width: 325px
+    }
+img._idGenPageitem-22 {
+    height: 436px;
+    width: 313px
+    }
+img._idGenPageitem-23 {
+    height: 482px;
+    width: 311px
+    }
+img._idGenPageitem-24 {
+    height: 450px;
+    width: 326px
+    }
+img._idGenPageitem-25 {
+    height: 449px;
+    width: 315px
+    }
+img._idGenPageitem-26 {
+    height: 374px;
+    width: 315px
+    }
+img._idGenPageitem-27 {
+    height: 441px;
+    width: 311px
+    }
+img._idGenPageitem-28 {
+    height: 489px;
+    width: 314px
+    }
+img._idGenPageitem-29 {
+    height: 442px;
+    width: 319px
+    }
+img._idGenPageitem-30 {
+    height: 482px;
+    width: 314px
+    }
+img._idGenPageitem-31 {
+    height: 177px;
+    width: 140px
+    }
+img._idGenPageitem-32 {
+    height: 428px;
+    width: 298px
+    }
+img._idGenPageitem-33 {
+    height: 480px;
+    width: 282px
+    }
+img._idGenPageitem-34 {
+    height: 409px;
+    width: 298px
+    }
+img._idGenPageitem-35 {
+    height: 437px;
+    width: 298px
+    }
+img._idGenPageitem-36 {
+    height: 431px;
+    width: 298px
+    }

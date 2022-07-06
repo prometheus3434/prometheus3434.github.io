@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Osmanlı'dan günümüze asker ve siyaset</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Karpat, Kemal H.">Kemal H. Karpat</dc:creator>
+    <dc:publisher>Timaş</dc:publisher>
+    <dc:date>2010-06-15T12:25:45+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:bae63ba1-6058-4e4c-b8fc-8dc7bb77e131</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">54b4d0c2-3043-44b8-b0b4-56a81cddf76d</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="GOOGLE">9YlPAQAAIAAJ</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786051141695</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="calibre:title_sort" content="Osmanlı'dan günümüze asker ve siyaset"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kemal H. Karpat&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="askervesiyaset600_fmt.jpeg"/>
+  </metadata>
+  <manifest>
+    <item href="osmanlidengu.askervesiyas-kapak.html" id="osmanlidengu.askervesiyas-kapak" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu.-askervesiyas-metin.html" id="osmanlidengu.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu-1.-askervesiyas-metin.html" id="osmanlidengu-1.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu-2.-askervesiyas-metin.html" id="osmanlidengu-2.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu-3.-askervesiyas-metin.html" id="osmanlidengu-3.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu-4.-askervesiyas-metin.html" id="osmanlidengu-4.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu-5.-askervesiyas-metin.html" id="osmanlidengu-5.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="osmanlidengu-6.-askervesiyas-metin.html" id="osmanlidengu-6.-askervesiyas-metin" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/3039.jpg" id="x3039.jpg" media-type="image/jpeg"/>
+    <item href="images/askervesiyaset600_fmt.jpeg" id="askervesiyaset600_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="osmanlidengu.askervesiyas-kapak"/>
+    <itemref idref="osmanlidengu.-askervesiyas-metin"/>
+    <itemref idref="osmanlidengu-1.-askervesiyas-metin"/>
+    <itemref idref="osmanlidengu-2.-askervesiyas-metin"/>
+    <itemref idref="osmanlidengu-3.-askervesiyas-metin"/>
+    <itemref idref="osmanlidengu-4.-askervesiyas-metin"/>
+    <itemref idref="osmanlidengu-5.-askervesiyas-metin"/>
+    <itemref idref="osmanlidengu-6.-askervesiyas-metin"/>
+  </spine>
+  <guide>
+    <reference href="images/askervesiyaset600_fmt.jpeg" type="cover"/>
+  </guide>
+</package>

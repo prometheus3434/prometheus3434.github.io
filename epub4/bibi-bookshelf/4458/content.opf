@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Olgunluk: Kendin Olma Sorumlulugu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Osho (bhagman Shree Rajneesh)">Osho (bhagman Shree Rajneesh)</dc:creator>
+    <dc:date>2004-06-15T10:17:42+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7038ed5e-590e-427d-9494-ae3552a6447c</dc:identifier>
+    <dc:publisher>Ganj Kitap</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Yaslanmak bilge olmak demek degildir. Eger gencken bir aptalsan ve artik yaslandiysan, sadece yasli bir aptal olursun, hepsi bu! Olgunluk bir kisi asla ayni hatayi defalarca ve defalarca tekrar eder durur. O bir cemberin icinde yasar; hicbir zaman bir sey ogrenmez. Surekli baskalarinin fikirlerini hesaba katan insanlar olgunlamamistir. Onlar baskalarinin ne dusundugune bagimlidir. Onlar hicbir seyi ozgun bir bicimde yapamazlar, durustce soylemek istediklerini soyleyemezler; baskalarinin duymak istediklerini soylerler.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Ruhsal</dc:subject>
+    <dc:subject>Kişisel Gelişim</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">350cff5e-044b-42d9-b82c-29f4c49a290f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758817085</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">0Zz4MgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758817085</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9758817086</dc:identifier>
+    <meta name="calibre:title_sort" content="Olgunluk: Kendin Olma Sorumlulugu"/>
+    <meta name="calibre:timestamp" content="2013-08-30T10:58:20.990000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Osho (bhagman Shree Rajneesh)&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Ops/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Ops/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Ops/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Ops/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Ops/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Ops/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Ops/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Ops/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Ops/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Ops/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Öfke</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Rushdie, Salman">Salman Rushdie</dc:creator>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>Hayat öfkedir. Cinsel, ödipal, siyasi, büyülü, hayvanca öfke bizi en yüksek doruklarımıza çıkarır ve en bayağı derinliklerimize indirir. Yaratıcılık, esin, özgünlük, tutku gibi, şiddet, acı, saf korkusuz yıkım; vurduğumuz ve yediğimiz, acısı asla geçmeyen darbeler de öfkeden beslenir.Malik Solanka, Hint asıllı bir felsefecidir. Oyuncak bebeklerin felsefe tartıştığı bir TV programıyla ün ve para kazanır. Bir gün, hiçbir açıklama yapmadan, ailesini ve Londra’yı terk ederek New York’a kaçar. Yüreğinde müthiş bir öfke vardır ama sevdiklerine zarar vermekten de korkmaktadır. Ne ki, New York’ta da korkunç bir öfke çemberinin içinde bulur kendini...Geceyarısı Çocukları, Şeytan Ayetleri, Utanç, Soytarı Şalimar gibi her biri geniş yankı uyandıran, tartışmalar yaratan romanların yazarı Salman Rushdie, New York’un içini dışına çıkaran Öfke’de, 21. yüzyıl başlarının Amerikan toplumuna en sert taşlamalardan birini yöneltiyor. Öfke, baş döndürücü tempoda ilerleyen bir trajikomedi. New York,New York olalı böyle anlatılmadı.</dc:description>
+    <dc:date>2008-01-01T10:09:29+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">48188513-0232-422a-9519-381db8e4ad0f</dc:identifier>
+    <dc:date opf:event="modification">2014-06-01</dc:date>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Çağdaş Edebiyat</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:subject>Hindistan Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">59a6b768-a646-47a7-822c-9d3f92d088cb</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Pb90EAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750749674</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750709333</dc:identifier>
+    <meta content="Öfke" name="calibre:title_sort"/>
+    <meta content="2014-06-01T07:49:49.829000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Salman Rushdie&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/image.png" id="id4" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
