@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Minos: Nouvelle édition augmentée</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Platon">Platon</dc:creator>
+    <dc:identifier id="BookId">AWP-856624C8-92CC-417E-BF48-42B18032F90A</dc:identifier>
+    <dc:publisher>Arvensa editions</dc:publisher>
+    <dc:date>2014-02-18T10:12:38+00:00</dc:date>
+    <dc:date opf:event="modification">2015-05-28</dc:date>
+    <dc:description>Nouvelle édition de Minos de Platon augmentée d'annexes (Biographie). L'ouvrage a été spécifiquement mis en forme pour votre liseuse.— Naviguez par simple clic de chapitre à chapitre ou de livre à livre.— Accédez instantanément à la table des matières hyperliée globale.— Une table des matières est placée également au début de chaque titre. A PROPOS DE L'ÉDITEUR : Les éditions Arvensa sont les leaders de la littérature classique numérique. Leur objectif est de vous faire connaître les oeuvres des grands auteurs de la littérature classique en langue française à un prix abordable tout en vous fournissant la meilleure expérience de lecture sur votre liseuse. Tous les titres sont produits avec le plus grand soin. Le service qualité des éditions Arvensa s’engage à vous répondre dans les 48h. Retrouvez tous les titres sur le site internet des éditions Arvensa.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:language>fr</dc:language>
+    <dc:identifier opf:scheme="calibre">0b450554-d0e5-49c3-b1ff-beffedf14b99</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">_-PeAgAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9782368414859</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054177806</dc:identifier>
+    <meta name="cover" content="Platon_-_Minos.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Minos: Nouvelle édition augmentée"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Platon&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/Platon - Minos.jpg" id="Platon_-_Minos.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

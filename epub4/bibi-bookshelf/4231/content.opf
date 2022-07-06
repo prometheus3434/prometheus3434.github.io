@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Bir matematikçinin savunması</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hardy, Godfrey Harold &amp; Arık, Nermin">Godfrey Harold Hardy</dc:creator>
+    <dc:creator opf:role="aut">Nermin Arık</dc:creator>
+    <dc:date>1993-06-15T12:30:02+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5c594ad9-b1a8-4b53-86ec-848f0d484af0</dc:identifier>
+    <dc:publisher>Tübitak</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">05d58b1c-9b9b-4f42-a2c4-8554cab88d11</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">LyZQcAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754030020</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">bacdee93-cab7-4711-8a6a-d30d8f0acf11</dc:identifier>
+    <meta name="calibre:title_sort" content="matematikçinin savunması, Bir"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:28:35.775000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Godfrey Harold Hardy&quot;: &quot;&quot;, &quot;Nermin Arık&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Bir_Matematikcinin_Savunmasi.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,12 @@
+p {font-size: 1em; text-align: justify; font-weight: normal; margin: 0.4em 0; text-indent: 1em;}
+h1 {font-size: 2em; text-align: center; font-weight: normal; margin: 1em 0;}
+h2 {font-size: 1.7em; text-align: center; font-weight: normal; margin: 1em 0;}
+a {text-decoration: none;}
+
+.logo {margin-top:5em;text-align:center; text-indent:0em}
+
+#alignl {text-align: right; text-indent: 0em; margin-right: 50%;}
+#alignr {text-align: left; text-indent: 0em; margin-left: 50%;}
+#aligncr {text-align: left; text-indent: 0em; margin-left: 50%; font-size: 0.65em;}
+#aligncl {text-align: right; text-indent: 0em; margin-right: 50%; font-size: 0.65em;}
+#aligncc {text-align: center; text-indent: 0em; font-size: 0.65em;}

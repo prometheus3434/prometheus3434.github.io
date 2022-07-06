@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Mazisiz Adam</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Harnilton, Edmond">Edmond Harnilton</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:468c0643-00ae-4bf6-842a-8c01a8ff52b8</dc:identifier>
+    <dc:date>1955-08-20T21:00:00+00:00</dc:date>
+    <dc:publisher>Çağlayan Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;8.Kitap, "Edmond HAMILTON"ın BK dergilerinde tefrika edilen "Starman Come Home" (1954) eserinin "Mazisiz Adam" olarak yayınlanmasıdır (Şubat 1955). 
+
+Romanın tekrar basımında adı "The Sun Smasher" olarak değiştirilmiştir (1959).&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="UUID">urn:uuid:468c0643-00ae-4bf6-842a-8c01a8ff52b8</dc:identifier>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">974a2d75-184d-4f38-9e23-d4234f39ee36</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:468c0643-00ae-4bf6-842a-8c01a8ff52b8</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="image001.jpg"/>
+    <meta name="calibre:title_sort" content="Mazisiz Adam"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Edmond Harnilton&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.htm" id="Section0010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.htm" id="Section0011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.htm" id="Section0012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.htm" id="Section0013.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/image001.jpg" id="image001.jpg" media-type="image/jpeg"/>
+    <item href="Images/image002.jpg" id="image002.jpg" media-type="image/jpeg"/>
+    <item href="Images/image003.jpg" id="image003.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="Section0010.htm"/>
+    <itemref idref="Section0011.htm"/>
+    <itemref idref="Section0012.htm"/>
+    <itemref idref="Section0013.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

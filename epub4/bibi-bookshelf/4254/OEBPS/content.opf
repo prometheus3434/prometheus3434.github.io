@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Meleklerin Kanı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nalini Singh">Nalini Singh</dc:creator>
+    <dc:identifier id="uuid">{8F1C0A98-D652-42E9-8CAD-2193F764D03A}</dc:identifier>
+    <dc:date>2015-12-28T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">4beb2142-a0be-4949-aea5-6e85e86b28c9</dc:identifier>
+    <meta name="cover" content="Nalini_Singh_-_Meleklerin_Kanı_Lonca_Avcısı_serisi_1.jpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Meleklerin Kanı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nalini Singh&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id41" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id40" media-type="text/css"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-15.png" id="id15" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-17.png" id="id17" media-type="image/png"/>
+    <item href="Images/main-18.png" id="id18" media-type="image/png"/>
+    <item href="Images/main-19.png" id="id19" media-type="image/png"/>
+    <item href="Images/main-20.png" id="id20" media-type="image/png"/>
+    <item href="Images/main-21.png" id="id21" media-type="image/png"/>
+    <item href="Images/main-22.png" id="id22" media-type="image/png"/>
+    <item href="Images/main-23.png" id="id23" media-type="image/png"/>
+    <item href="Images/main-24.png" id="id24" media-type="image/png"/>
+    <item href="Images/main-25.png" id="id25" media-type="image/png"/>
+    <item href="Images/main-26.png" id="id26" media-type="image/png"/>
+    <item href="Images/main-3.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/main-4.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/main-5.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+    <item href="Images/Nalini Singh - Meleklerin Kanı Lonca Avcısı serisi 1.jpg" id="Nalini_Singh_-_Meleklerin_Kanı_Lonca_Avcısı_serisi_1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id41">
+    <itemref idref="id0"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+  </spine>
+</package>

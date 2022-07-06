@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Mihail</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Istrati, Panait">Panait Istrati</dc:creator>
+    <dc:publisher>Türkiye İş Bankası</dc:publisher>
+    <dc:description>&lt;p&gt;"Yeryüzünde, yalnızca, herkesin kendi hesabını ödediği meyhane
+dostluğundan başka dostluk yok mu yani? 
+İnsan alırken de, verirken de, karşılıklı olarak aynı sevinci duymaz mı?
+"Pekii, neden acaba adamın birine, hiç tanımadığımız birine -hatta, kimi zaman kafacaa hiç uyuşamadığımız bir yabancıya- tutuluruz? Neden onsuz yaşayamayacak kadar sevmeye başlarız bu insanı? Gözlerine bakarsınız, sizinkilerin aynıdır ve Alev alev yanan yüzünü ellerinizin arasına alıp uzun uzun bağrınıza basmak istersiniz. Ve sevimli bir köpeğin kocaman patileri gibi masa üstünde yatan ellerine kimi zaman yanağınızı, kimi zaman ateş gibi yanan alnınızı dayamamak için kendinizi güç tutarsınız, çünkü sevginin bu türlüsü, yaşamın bütün fırtınalarına kafa tutan, Tanrı'nın hiçbir 'kötülük' düşünmeden yarattığı yağla beslenen sönmez bir meşaledir."&lt;/p&gt;</dc:description>
+    <dc:date>2013-06-15T10:31:54+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a95106c2-cfd3-483b-8f3f-8f8c88e68e92</dc:identifier>
+    <dc:date opf:event="modification">2014-08-25</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Romanya Edebiyatı</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d315fddb-5bf2-4e7a-af6e-d80e76f5f88d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053608516</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">975705609X</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">YHHlswEACAAJ</dc:identifier>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2014-06-10T18:58:53+00:00" name="calibre:timestamp"/>
+    <meta content="Mihail" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{&quot;Panait Istrati&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id003"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

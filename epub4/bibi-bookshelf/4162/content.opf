@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Leonardo Patrignani</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hafıza">Hafıza</dc:creator>
+    <dc:date>2015-10-05T13:04:13+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5a606abc-b5a8-47e0-9940-1ac3f569cb23</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">58bb8095-c84d-4bba-909d-e59d3bb144a0</dc:identifier>
+    <meta name="calibre:title_sort" content="Leonardo Patrignani"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2017-05-01T12:23:46.725000+00:00"/>
+    <meta name="calibre:user_categories" content="{&quot;Düzenlenecekler&quot;: [[&quot;Hafıza&quot;, &quot;authors&quot;]]}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hafıza&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id1115" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id1114" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id1113" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id1112" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id1111" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id1110" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id1109" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id1108" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id1107" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id1106" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id1105" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id1104" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id1103" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id1102" media-type="application/xhtml+xml"/>
+    <item href="index_split_014.html" id="id1101" media-type="application/xhtml+xml"/>
+    <item href="index_split_015.html" id="id1100" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1115"/>
+    <itemref idref="id1114"/>
+    <itemref idref="id1113"/>
+    <itemref idref="id1112"/>
+    <itemref idref="id1111"/>
+    <itemref idref="id1110"/>
+    <itemref idref="id1109"/>
+    <itemref idref="id1108"/>
+    <itemref idref="id1107"/>
+    <itemref idref="id1106"/>
+    <itemref idref="id1105"/>
+    <itemref idref="id1104"/>
+    <itemref idref="id1103"/>
+    <itemref idref="id1102"/>
+    <itemref idref="id1101"/>
+    <itemref idref="id1100"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
