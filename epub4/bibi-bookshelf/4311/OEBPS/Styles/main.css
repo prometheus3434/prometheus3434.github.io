@@ -1,0 +1,224 @@
+.ekdg-logo {
+  text-align: center;
+  margin: 5em 0 1em;
+}
+
+a {
+  text-decoration: none;
+  -webkit-text-fill-color: #7A7A7A;
+  color: #7A7A7A;
+}
+/*----H----*/
+h1 {
+  font: normal normal 1.25em/1.2em "Interstate";
+  margin-bottom: 10em;
+  text-align: center;
+}
+.num {
+  font: normal normal 1.5em/1.2em "Interstate";
+  text-align: center;
+  margin-bottom: 0;
+}
+hr {
+  margin: -0.5em auto;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: url(../Images/line.jpg);
+}
+.part {
+  margin-top: 8em;
+  margin-bottom: 0;
+}
+.part span {
+  font: normal normal 0.6em "FrutigerTR";
+}
+h2 {
+  font: normal normal 1em/1.2em "Interstate";
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+h2 + h2 {
+  margin-top: 0;
+}
+h3 {
+  font: italic normal 1em/1.2em "Interstate";
+  margin-bottom: 1em;
+}
+.reference {
+  margin-left: 1em;
+}
+.reference .kisi p {
+  font-family: "Optima";
+  font-size: 0.85em;
+  text-indent: -1em;
+  text-align: justify;
+  margin-top: 1em;
+}
+p.reference {
+  font-family: "Berkeley";
+  font-size: 0.751em;
+  text-indent: -1em;
+  text-align: justify;
+  margin-top: 0.3em;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 4em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  text-indent: 0;
+}
+p.crt1 {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 1.5em;
+  text-indent: -1.5em;
+}
+.topmargin {
+  margin-top: 1em;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: center;
+}
+.author {
+  font: normal bold 1.13em "Berkeley";
+  margin: 0 auto 0.2em auto;
+}
+.title {
+  font: normal bold 2.5em "Berkeley";
+  margin: 0;
+}
+.desc {
+  font: normal normal 0.85em "Optima";
+  margin-top: 2em;
+}
+.trans {
+  font: normal normal 0.85em "Berkeley";
+  margin-top: 2em;
+}
+.orginaltitle {
+  font-family: "Berkeley";
+  font-size: 1em;
+  margin-top: 1em;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+/*Önsöz*/
+.kaynakca p, .onsoz p {
+  font-family: "Optima";
+  font-size: 0.85em;
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.kaynakca h1, .onsoz h1 {
+  font: normal normal 1em/1.2em "Optima";
+  margin-bottom: 10em;
+}
+.onsoz .right, .cev .right {
+  margin-top: 0.5em;
+  text-align: right;
+}
+.kaynakca h1 + p, .kaynakca h2 + p, .onsoz h1 + p {
+  text-indent: 0;
+}
+.kaynakca h2 {
+  font: normal bold 0.85em "Optima";
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+/*----Block----*/
+/* ---- Tables ---- */
+/******FOOTNOTE******/
+.footnote {
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  margin-left: 1em;
+  text-align: justify;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #00688B;
+  color: #DC143C;
+  font-size: 0.66em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Optima";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/OptimaTr-Normal.ttf);
+  }
+@font-face {
+  font-family: "Optima";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/OptimaTr-Italic.ttf);
+  }
+@font-face {
+  font-family: "Optima";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/OptimaBold.ttf);
+  }
+@font-face {
+  font-family: "Interstate";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Interstate-RegularCondensed.ttf);
+  }

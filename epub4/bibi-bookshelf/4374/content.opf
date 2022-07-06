@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Nana</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zola, Émile">Émile Zola</dc:creator>
+    <dc:publisher>Penguin Random House Grupo Editorial</dc:publisher>
+    <dc:date>2016-07-26T11:48:08+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b97183be-020e-444f-a34b-1fbce35a9fc8</dc:identifier>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:description>Hija mía, donde hay mujeres, hay bofetadas.  Corre el año 1867, el año de la Exposición Universal. Mientras la Ville Lumière se llena de una élite cosmopolita que se pasea por sus majestuosos bulevares, el destino fatal de Nana, la hija de la lavandera de La taberna y cortesana de belleza provocadora que triunfa en el teatro de variedades, es el de la burguesía decadente.  Esta novela, incluida en el ciclo de los Rougon-Macquart, y enmarcada en la crítica a la hipocresía y la corrupción moral de finde-siècle que vertebra la obra de Zola, se ganó la admiración de Flaubert, entre otros: ¡Capítulo XIV, insuperable...! ¡Sí...! ¡Dios Todopoderoso...! ¡Incomparable!....  Esta edición incluye, como material adicional, una introducción de Henri Mitterand, catedrático emérito de las universidades de la Sorbona y Columbia, y reconocido experto en Zola; el cierre, a modo de epílogo, es un largo perfil del autor escrito por Guy de Maupassant.  ENGLISH DESCRIPTION  Émile Zola is one of the greatest writers of the 19th century, and one of France's best known citizens. In his life, Zola was the most important exemplar of the literary school of naturalism and a major figure in the political liberalization of France. Around the end of his life, Zola was instrumental in helping secure the exoneration of the falsely accused and convicted army officer Alfred Dreyfus, a victim of anti-Semitism. The Dreyfus Affair was encapsulated in the renowned newspaper headline J'Accuse.  More than half of Zola's novels were part of this set of 20 collectively known as Les Rougon-Macquart. Unlike Honore de Balzac, who compiled his works into La Comedie Humaine midway through, Zola mapped out a complete layout of his series. Set in France's Second Empire, the series traces the "environmental" influences of violence, alcohol and prostitution which became more prevalent during the second wave of the Industrial Revolution. The series examines two branches of a family: the respectable Rougons and the disreputable Macquarts for five generations. Zola explained, "I want to portray, at the outset of a century of liberty and truth, a family that cannot restrain itself in its rush to possess all the good things that progress is making available and is derailed by its own momentum, the fatal convulsions that accompany the birth of a new world."</dc:description>
+    <dc:language>es</dc:language>
+    <dc:identifier opf:scheme="calibre">0805ae8f-87d8-4f51-9afd-ad6952c0ac74</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">t9eHDAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786073143554</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-11-02T15:11:44.574545+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Nana"/>
+    <meta name="calibre:author_link_map" content="{&quot;Émile Zola&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

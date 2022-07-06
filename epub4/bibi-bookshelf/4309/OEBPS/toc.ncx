@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:123456" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Modern Türk Şiirinin Doğası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Telif Sayfası</text>
+      </navLabel>
+      <content src="Text/copyright.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Geleneğin Tek Katmanı</text>
+      </navLabel>
+      <content src="Text/Section0001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Modern Türk Şiirinin Doğası Üstüne</text>
+      </navLabel>
+      <content src="Text/Section0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>MODERN TÜRK ŞİİRİNİN DOĞASI ÜSTÜNE BİR DENEME:</text>
+      </navLabel>
+      <content src="Text/Section0003.html"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>1. 1900'lerin İki Eşiği</text>
+        </navLabel>
+        <content src="Text/Section0004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>2. Ritmin Zaferi ve Çeşitlenme</text>
+        </navLabel>
+        <content src="Text/Section0005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>3. Modernleşmenin Tarif Edilebilir Atmosferi</text>
+        </navLabel>
+        <content src="Text/Section0006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>4. Modernleşmenin İçi ve Ertesi</text>
+        </navLabel>
+        <content src="Text/Section0007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>5. Yüzyılın Son Çeyreği: Karmaşa ve Sancı</text>
+        </navLabel>
+        <content src="Text/Section0008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Modernizm'e Kuşbakışı</text>
+      </navLabel>
+      <content src="Text/Section0009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Şiir, Gençlik, Yaşlılık, vs.</text>
+      </navLabel>
+      <content src="Text/Section0011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/AboutToAuthor.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

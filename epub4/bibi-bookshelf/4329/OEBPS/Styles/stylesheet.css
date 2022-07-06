@@ -1,0 +1,124 @@
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 15pt;
+}
+.calibre1 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre2 {
+  height: auto;
+  width: auto;
+}
+.calibre3 {
+  display: block;
+}
+.calibre4 {
+  color: #000;
+}
+.chapter {
+  display: block;
+}
+.copyright {
+  display: block;
+  font-size: 0.75em;
+  text-align: left;
+  margin: 0.25em 0;
+}
+.h {
+  display: block;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.67em 0 3em;
+}
+.indentmetin {
+  display: block;
+  font-size: 1em;
+  text-align: justify;
+  margin: 0.1em 0 0.1em 4em;
+}
+.indentmetin1 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: bold;
+  text-align: center;
+  margin: 0.5em 0;
+}
+.indentmetin2 {
+  display: block;
+  font-size: 1em;
+  text-align: justify;
+  margin: 0.5em 0 0.5em 8em;
+}
+.kitapadi {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.25em 0;
+}
+.left-header {
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  text-align: justify;
+  margin: 0.25em 0;
+}
+.left-header1 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: normal;
+  text-align: justify;
+  margin: 0.25em 0;
+}
+.librobold {
+  font-weight: bold;
+}
+.libroitalik {
+  font-style: italic;
+}
+.metin {
+  display: block;
+  font-size: 1em;
+  text-align: justify;
+  text-align-last: left;
+  text-indent: 1.25em;
+  margin: 0.5em 0;
+}
+.metin1 {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: justify;
+  margin: 0.7em 0;
+}
+.ortayazi {
+  display: block;
+  font-style: normal;
+  text-align: center;
+  margin: 1em 0;
+}
+.resim {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+.sagnormal {
+  display: block;
+  font-style: normal;
+  text-align: right;
+  margin: 1em 0;
+}
+.yazaradi {
+  display: block;
+  font-size: 1.83333em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.25em 0;
+}

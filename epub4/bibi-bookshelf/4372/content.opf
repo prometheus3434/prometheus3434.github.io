@@ -1,0 +1,28 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Namık Kemal - İntibah</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="yazar, Bilinmeyen">Bilinmeyen yazar</dc:creator>
+    <dc:identifier id="uuid">{16349E00-4E44-4D6E-8D9B-709F30866EB6}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">1b42895f-ee43-4862-a94d-21aa8f1e0df3</dc:identifier>
+    <meta name="calibre:title_sort" content="Namık Kemal - İntibah"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bilinmeyen yazar&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id3" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+</package>

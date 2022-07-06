@@ -1,0 +1,32 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Murebbiye_epub</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-10-12T11:51:59+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">06ba6b96-6a79-4407-ae6c-ea5711677858</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b4b5bf41-03c1-49c0-9571-68929d533c62</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-11-17T08:37:53.657927+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Murebbiye_epub"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uJBtMz46mQQUJog2l9xDHs6" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Murebbiye-8-2.Bas_m" href="OEBPS/Murebbiye-8-2.Bas_m.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/Murebbiye.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uJBtMz46mQQUJog2l9xDHs6"/>
+    <itemref idref="Murebbiye-8-2.Bas_m"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>
