@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Köle</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Parlakyıldız, Işıl">Işıl Parlakyıldız</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:285cb002-cd0c-4ca2-8fe2-4c6967beea02</dc:identifier>
+    <dc:date>2013-06-15T12:12:28+00:00</dc:date>
+    <dc:publisher>Sokak Kitapları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">84f02f2f-0468-4f0f-9286-5eac3a68f000</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051480022</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:285cb002-cd0c-4ca2-8fe2-4c6967beea02</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">Z1bdnQEACAAJ</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Köle"/>
+    <meta name="calibre:author_link_map" content="{&quot;Işıl Parlakyıldız&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_01.xhtml" id="kole_01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_02.xhtml" id="kole_02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_03.xhtml" id="kole_03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_04.xhtml" id="kole_04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_05.xhtml" id="kole_05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_06.xhtml" id="kole_06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_07.xhtml" id="kole_07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_08.xhtml" id="kole_08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_09.xhtml" id="kole_09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kole_10.xhtml" id="kole_10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kole_01.xhtml"/>
+    <itemref idref="kole_02.xhtml"/>
+    <itemref idref="kole_03.xhtml"/>
+    <itemref idref="kole_04.xhtml"/>
+    <itemref idref="kole_05.xhtml"/>
+    <itemref idref="kole_06.xhtml"/>
+    <itemref idref="kole_07.xhtml"/>
+    <itemref idref="kole_08.xhtml"/>
+    <itemref idref="kole_09.xhtml"/>
+    <itemref idref="kole_10.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

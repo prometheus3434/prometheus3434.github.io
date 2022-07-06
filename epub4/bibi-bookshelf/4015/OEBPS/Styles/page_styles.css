@@ -1,0 +1,22 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-weight: normal;
+    font-style: normal;
+    src: url(OEBPS/Fonts/times.ttf)
+    }
+@font-face {
+    font-family: Constantia;
+    font-weight: normal;
+    font-style: normal;
+    src: url(OEBPS/Fonts/CONSTAN.TTF)
+    }
+@font-face {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-weight: bold;
+    font-style: normal;
+    src: url(OEBPS/Fonts/timesbd.ttf)
+    }

@@ -1,0 +1,124 @@
+body {
+  font-family: "Liberation Serif", serif;
+}
+span.Footnoteanchor {
+  font-size: 58%;
+  vertical-align: super;
+}
+a:link {
+  color: #000080;
+  text-decoration: underline;
+}
+p.Contents1 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: none;
+  padding: 0;
+}
+p.Footnote {
+  margin-left: 22.601576px;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: none;
+  padding: 0;
+  text-indent: -22.601576px;
+  font-size: 83%;
+}
+p.Standard {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: none;
+  padding: 0;
+}
+p.ContentsHeading {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 15.987401px;
+  margin-bottom: 8.012598px;
+  border: none;
+  padding: 0;
+  font-family: "Liberation Sans", sans-serif;
+  font-size: 117%;
+}
+h1 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 15.987401px;
+  margin-bottom: 8.012598px;
+  border: none;
+  padding: 0;
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 233%;
+  clear: left;
+}
+.listlevel1WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: disc;
+  clear: left;
+}
+.listlevel2WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: bullet;
+  clear: left;
+}
+.listlevel3WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: square;
+  clear: left;
+}
+.listlevel4WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: disc;
+  clear: left;
+}
+.listlevel5WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: bullet;
+  clear: left;
+}
+.listlevel6WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: square;
+  clear: left;
+}
+.listlevel7WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: disc;
+  clear: left;
+}
+.listlevel8WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: bullet;
+  clear: left;
+}
+.listlevel9WWNum1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: square;
+  clear: left;
+}
+hr.footnoterule {
+  margin-top: 3.817323px;
+  margin-bottom: 3.817323px;
+  height: 1px;
+  width: 100%;
+  color: #000;
+  background-color: #000;
+  margin-left: 0;
+  margin-right: auto;
+}

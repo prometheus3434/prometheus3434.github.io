@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>"Komando..."</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Terzioğlu, Ahmet Haldun">Ahmet Haldun Terzioğlu</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-06-15T12:01:54+00:00</dc:date>
+    <dc:publisher>Bilgeoğuz</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d74903e0-f7a6-46a8-9989-7bb01e51c245</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f006977f-e7d6-4a4c-a616-17731575f930</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054200948</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8jhnMwEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2019-01-05T15:26:44.653000+00:00"/>
+    <meta name="calibre:title_sort" content="Komando...&quot;"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Haldun Terzioğlu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/image.png" id="id4" media-type="image/png"/>
+    <item href="fonts/Arial-Narrow-Bold.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="fonts/Arial-Narrow.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="fonts/Calibri.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="fonts/Garamond.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

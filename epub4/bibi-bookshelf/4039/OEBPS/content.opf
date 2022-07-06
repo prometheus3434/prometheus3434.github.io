@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Korkunun Kanatları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Higgins, Jack">Jack Higgins</dc:creator>
+    <dc:identifier id="BookId">AWP-958E05E5-0EA3-4008-9D85-C6D6AA76BF86</dc:identifier>
+    <dc:date>1980-03-14T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-03-26</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div align="justify" style="text-align: start; text-indent: 0px; "&gt;Bütün dünyanın soluğunu kesen bir felaket yaşanıyordu. Her an herkes öldürmeyi ya da öldürülmeyi bekliyordu. Bütün bu dehşet içinde birkaç kişi başbaşa vermiş iki önemli kişinin kaçırılış planını hazırlamaktaydılar. Niçin dünyayı ateşe atıyorlardı? Amaçları neydi?&lt;/div&gt;&lt;br class="Apple-interchange-newline"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Aksiyon</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">4292fc28-f4b6-43dd-bc05-b2d876916202</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Korkunun Kanatları"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jack Higgins&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.html" id="Section0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.html" id="Section0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.html" id="Section0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.html" id="Section0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.html" id="Section0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.html" id="Section0016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.html" id="Section0017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.html" id="Section0018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.html" id="Section0019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.html" id="Section0020.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0011.html"/>
+    <itemref idref="Section0012.html"/>
+    <itemref idref="Section0013.html"/>
+    <itemref idref="Section0014.html"/>
+    <itemref idref="Section0015.html"/>
+    <itemref idref="Section0016.html"/>
+    <itemref idref="Section0017.html"/>
+    <itemref idref="Section0018.html"/>
+    <itemref idref="Section0019.html"/>
+    <itemref idref="Section0020.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Knulp</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hesse, Hermann">Hermann Hesse</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+    <dc:description>First published in 1915, Knulp was Hesse's most popular book in the years before Demian. This is the first edition in English.Knulp is an amiable vagabond who wanders from town to town, staying with friends who feed and shelter him. Consistently refusing to tie himself down to any trade, place, or person, he even deserts the companion who might be considered Hermann Hesse himself the summer they go tramping together.Knulp's exile is blissful, gentle, self-absorbed. But hidden beneath the light surface of these "Tales from the Life of Knulp" is the conscience of an artist who suspects that his liberation is worthless, even immoral. As he lies dying in a snowstorm, Knulp has an interview with God in which he reproaches himself for his wasted life. But it is revealed to Knulp that the whole purpose of his life has been to bring "a little homseickness for freedom" into the lives of ordinary men.</dc:description>
+    <dc:date>2013-01-22T10:34:10+00:00</dc:date>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Germany</dc:subject>
+    <dc:subject>World Literature</dc:subject>
+    <dc:subject>20th Century</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">cd73f5bd-22ce-4b61-bd65-f288f7a00b65</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750807893</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">DFEUgsZGracC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781466835115</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Knulp" name="calibre:title_sort"/>
+    <meta content="{&quot;Hermann Hesse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ceviren.xhtml" id="ceviren.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/knulp1.xhtml" id="knulp1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/knulp2.xhtml" id="knulp2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="ceviren.xhtml"/>
+    <itemref idref="knulp1.xhtml"/>
+    <itemref idref="knulp2.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/onsoz.xhtml" title="Preface" type="preface"/>
+  </guide>
+</package>

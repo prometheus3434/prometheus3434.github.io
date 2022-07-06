@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{A241039E-C4DE-43A8-A42A-5F36B0ED5762}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Kötülüğün Sıradanlığı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Okura Not</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Adalet Evi</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Sanık</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Yahudi Meselesi Uzmanı</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Birinci Çözüm: Sürmek</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İkinci Çözüm: Toplamak</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Nihai Çözüm: Öldürme</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Wannsee Toplantısı veya Pontius Pilatus</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Yasalara Bağlı Bir Vatandaşın Görevleri</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Reich - Almanya, Avusturya ve Protektora</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Batı Avrupa - Fransa, Belçika, Hollanda Danimarka, İtalya</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Balkanlar - Yugoslavya, Bulgaristan, Yunanistan, Romanya</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Orta Avrupa - Macaristan ve Slovakya</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Doğu’daki Katliam Merkezleri</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Kanıtlar ve Tanıklar</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Hüküm, Temyiz, İnfaz</text>
+      </navLabel>
+      <content src="Text/main-9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/main-10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Ek</text>
+      </navLabel>
+      <content src="Text/main-11.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

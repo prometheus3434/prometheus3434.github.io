@@ -1,0 +1,153 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre3 {
+    font-family: "Century Gothic", "sans-serif";
+    font-size: 0.625em
+    }
+.calibre4 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre5 {
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-family: "Book Antiqua", serif;
+    font-size: 0.625em
+    }
+.calibre7 {
+    font-weight: bold
+    }
+.calibre8 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre9 {
+    font-family: Arial, sans-serif;
+    font-size: 0.83333em
+    }
+.calibre10 {
+    font-family: Arial, sans-serif;
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre11 {
+    font-family: Cambria, serif;
+    font-size: 1em
+    }
+.calibre12 {
+    font-style: italic
+    }
+.calibre13 {
+    font-family: "Book Antiqua", serif;
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre14 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0.83em 0
+    }
+.calibre15 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre16 {
+    display: block;
+    text-align: justify;
+    margin: 1em 0
+    }
+.calibre17 {
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    margin: 1.33em 0
+    }
+.calibre18 {
+    text-decoration: underline
+    }
+.calibre19 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre20 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre21 {
+    display: block;
+    text-align: justify
+    }
+.calibre22 {
+    display: block;
+    font-weight: bold;
+    margin: 1.33em 0
+    }
+.calibre23 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 1em 0
+    }
+.calibre24 {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre25 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.33em 0
+    }
+.MsoNoSpacing {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.p {
+    display: block;
+    text-align: center;
+    margin: 0 0 7.2pt
+    }
+.p1 {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 7.2pt
+    }
+.p2 {
+    display: block;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.p3 {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.t {
+    line-height: 1.2
+    }

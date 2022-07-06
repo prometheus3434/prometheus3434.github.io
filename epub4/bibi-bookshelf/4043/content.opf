@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Kosmak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Echenoz, Jean">Jean Echenoz</dc:creator>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Şimdi, açıkçası, bu Echenoz büyük yazar; hakikaten büyük yazar. Bence, Fransız romanının son büyük temsilcisi; müthiş bir üslûpçu, harika bir hikâye anlatıcısı. Cidden, bu dediklerime kalpten inanıyorum. Ondan başka hangi yazar, Çekoslovakya Çekoslovakya iken, 19 Eylül 1922'de Koprivnice'de doğmuş, fakir bir ailenin altıncı çocuğu olan, on altı yaşında Zlin'deki ayakkabı fabrikası Bata'da çalışmaya başlayıp, bir gün fabrikanın spor danışmanının üç-beş çocuğu zorla uzun mesafe yarışında koşturması üzerine ikinci olup içinde "yahu madem koştuk, niye birinci olmadım" duygusu doğan, koştuğu her zaman o güne kadarki koşu üsluplarını yerle bir eden, onlarca altın madalya kazanıp, 1952 Helsinki olimpiyatlarında beş bin metre, on bin metre ve maratonun her birinde altın madalya alıp bir de her birinde rekor kıran "Çek Lokomotifi" lakaplı Emil Zatopek hakkında bir kitap yazar ki?&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">69b09dc0-5c86-4751-9e0d-2814e0622923</dc:identifier>
+    <dc:publisher>Helikopter</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">760a9bc5-b7f3-4967-a6a0-1b9cdc128249</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kosmak"/>
+    <meta name="calibre:timestamp" content="2016-01-16T14:58:33.910000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean Echenoz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
