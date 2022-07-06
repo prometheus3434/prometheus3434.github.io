@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Korku_epub</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-10-12T11:57:11+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">04e5cd8b-c992-473b-95dd-5c00679b0c24</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2f1103a2-b5f0-4062-beae-d3463a5ff69d</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-11-17T08:37:11.527671+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Korku_epub"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uHjj8HZYC8fzdubdN72ayU8" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Korku-3bs4" href="OEBPS/Korku-3bs_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Korku-3bs3" href="OEBPS/Korku-3bs_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Korku-3bs2" href="OEBPS/Korku-3bs_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Korku-3bs1" href="OEBPS/Korku-3bs_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/Korku.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uHjj8HZYC8fzdubdN72ayU8"/>
+    <itemref idref="Korku-3bs4"/>
+    <itemref idref="Korku-3bs3"/>
+    <itemref idref="Korku-3bs2"/>
+    <itemref idref="Korku-3bs1"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

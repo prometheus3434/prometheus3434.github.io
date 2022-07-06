@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{DCCC1508-769D-4ECB-A080-52AA1955D29C}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nurdan Gürbilek - Kötü Çocuk Türk</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Ben de İsterem</text>
+      </navLabel>
+      <content src="Text/bendeisterem.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yabancının Ölümü</text>
+      </navLabel>
+      <content src="Text/yabancininolumu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Acıların Çocuğu</text>
+      </navLabel>
+      <content src="Text/acilarincocugu1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Azgelişmiş Babalar</text>
+      </navLabel>
+      <content src="Text/azgelismisbabalar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Kötü Çocuk Türk</text>
+      </navLabel>
+      <content src="Text/kotucocukturk1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Orijinal Türk Ruhu</text>
+      </navLabel>
+      <content src="Text/orijinalturkruhu.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Yakın Taşra</text>
+      </navLabel>
+      <content src="Text/yakintasra.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,92 @@
+.calibre {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.calibre1 {
+    display: block
+    }
+.heading {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.main {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.main1 {
+    -webkit-line-break: after-white-space;
+    -webkit-nbsp-mode: space;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    word-wrap: break-word
+    }
+.sgc {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-weight: bold
+    }
+.sgc1 {
+    font-family: Constantia;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc2 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-family: Constantia
+    }
+.sgc3 {
+    font-family: Constantia
+    }
+.sgc4 {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-weight: bold
+    }
+.sgc5 {
+    font-family: Times_avs_space_New_avs_space_Roman;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc6 {
+    display: block;
+    font-family: Times_avs_space_New_avs_space_Roman
+    }
+.sgc7 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse;
+    font-weight: bold
+    }
+.sgc8 {
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-collapse: collapse
+    }

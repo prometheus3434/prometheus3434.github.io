@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Korku ve Titreme</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kierkegaard, Soren">Soren Kierkegaard</dc:creator>
+    <dc:publisher>Ketebe Yayinlari</dc:publisher>
+    <dc:date>2022-02-15T10:27:06+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-1EAA1021-F32B-450B-A312-37F4C037BCB8</dc:identifier>
+    <dc:description>&lt;p&gt;Korku ve Titreme, Varoluşçuluk akımının ilham aldığı yazarlar arasında yer alan Danimarkalı filozof Søren Kierkegaard'ın en önemli yapıtlarından biridir. İnce bir kitap olmasına karşın tartıştığı iman ve ahlak sorunlarını farklı ve çarpıcı bir bakış açısıyla, derinlemesine ve evrensel boyutta ele almıştır. Kitabın ana konusunu İbrahim'in Tanrı'nın buyruğu ile oğlu İshak'ı kurban etmek için yaptığı yolculuk oluşturur. Tanrı, İbrahim'den oğlu İshak'ı kurban etmesini isteyerek, aslında onu evrensel ahlakı terk etmeye zorlar. Bu isteği yerine getirmek üzere hazırlık yapan İbrahim ise Tanrı'ya imanı dolayısıyla bu buyruğu yerine getirmekle, ahlakını muhafaza etmek arasında gelgitler yaşar. Bu gelgitlerden beslenen Kierkegaard, İbrahim'in meseli üzerinden evrensel ahlak yasasının bir kere de olsa Tanrı'nın buyruğu için bertaraf edilip edilmeyeceği tartışarak, okuyucuyu ahlak felsefesinin temel sorunlarını irdelemeye iter.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ed3c304f-bb6f-40c9-8790-ff5162d5ee02</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055752552</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">i5nozgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786257587402</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Korku ve Titreme"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Soren Kierkegaard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+    <item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+    <item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+    <item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+    <item id="id005" href="005.html" media-type="application/xhtml+xml"/>
+    <item id="id006" href="006.html" media-type="application/xhtml+xml"/>
+    <item id="id007" href="007.html" media-type="application/xhtml+xml"/>
+    <item id="id008" href="008.html" media-type="application/xhtml+xml"/>
+    <item id="id009" href="009.html" media-type="application/xhtml+xml"/>
+    <item id="id010" href="010.html" media-type="application/xhtml+xml"/>
+    <item id="id011" href="011.html" media-type="application/xhtml+xml"/>
+    <item id="id012" href="012.html" media-type="application/xhtml+xml"/>
+    <item id="id013" href="013.html" media-type="application/xhtml+xml"/>
+    <item id="id014" href="014.html" media-type="application/xhtml+xml"/>
+    <item id="id015" href="015.html" media-type="application/xhtml+xml"/>
+    <item id="id016" href="016.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="coverstyle" href="cover.css" media-type="text/css"/>
+    <item id="style" href="style.css" media-type="text/css"/>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="img1" href="images/img1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="001.html"/>
+    <reference type="toc" title="Table of Contents" href="006.html#a2"/>
+    <reference type="text" title="Beginning" href="007.html#a15"/>
+  </guide>
+</package>

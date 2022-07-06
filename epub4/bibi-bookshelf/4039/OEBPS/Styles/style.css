@@ -1,0 +1,81 @@
+@font-face{font-family:"MiddleSaxonyText";font-style:normal;font-weight:normal;}
+@font-face{font-family:"ornaments labels and frames";font-style:normal;font-weight:normal;}
+@font-face{font-family:"SLBookArts";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Times New Roman";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Times New Roman";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Times New Roman";font-style:italic;font-weight:bold;}
+@font-face{font-family:"Times New Roman";font-style:italic;font-weight:normal;}
+@font-face{font-family:"Top Secret";font-style:normal;font-weight:normal;}
+@font-face{font-family:"TR 00347";font-style:normal;font-weight:normal;}
+@font-face{font-family:"TR Mariage";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Zymbols";font-style:normal;font-weight:normal;}
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.5em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.46em;margin-bottom:.46em;font-family:"Times New Roman",serif;font-size:118%}
+.p0{text-indent:1.5em;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p2{text-indent:1.5em;margin-left:3.3em;line-height:100%;margin-top:4.2em;margin-bottom:0}
+.p3{text-indent:1.5em;margin-left:3.3em;line-height:100%;margin-bottom:0}
+.p4{text-indent:1.5em;line-height:100%;margin-top:2.8em;margin-bottom:0}
+.p5{text-indent:1.5em;line-height:100%;margin-bottom:0}
+.p6{text-indent:1.5em;margin-left:3.3em;line-height:100%;margin-top:3.7em}
+.p7{text-indent:1.5em;margin-left:3.3em;line-height:100%}
+.p8{text-indent:1.5em;line-height:100%;text-align:center;margin-top:3.7em;margin-bottom:0}
+.p9{text-indent:1.5em;line-height:100%;text-align:center;margin-bottom:0}
+.p10{text-indent:1.5em;text-align:center;margin-top:2.3em;margin-bottom:1.8em}
+.p11{text-indent:1.5em;text-align:center;margin-top:1.8em;margin-bottom:1.8em}
+.p12{text-indent:1.5em;line-height:100%;text-align:center;margin-top:.23em;margin-bottom:.23em}
+.p13{text-indent:1.5em;text-align:center;margin-top:1.4em}
+.p14{text-indent:1.5em;text-align:center;margin-bottom:1.8em}
+.p15{text-indent:1.5em;line-height:2.8em;page-break-after:avoid;margin-top:0;margin-bottom:0}
+.p16{text-indent:0;margin-left:0}
+.p17{text-indent:1.5em;text-align:center}
+.p18{text-indent:1.5em;text-align:center;margin-top:1.4em;margin-bottom:1.4em}
+.p19{text-indent:1.5em;line-height:3.7em;page-break-after:avoid;margin-top:0;margin-bottom:0}
+.p20{text-indent:0;margin-left:2.2em;margin-right:2.2em}
+.p21{text-indent:1.5em;margin-left:2.2em;margin-right:2.2em;text-align:center}
+.p22{text-indent:1.5em;margin-left:2.2em;margin-right:2.2em}
+.p23{text-indent:1.5em;margin-left:2.2em;margin-right:2.2em;text-align:right}
+.p24{text-indent:1.5em;line-height:2.8em;page-break-after:avoid;margin-top:0;margin-bottom:0}
+.p25{text-indent:0;margin-left:2.2em;margin-right:2.2em;text-align:right}
+.p26{text-indent:0;margin-left:0;text-align:center;margin-top:1.4em}
+.p27{text-indent:0}
+.p28{text-indent:0;margin-left:0;text-align:center;margin-top:1.6em}
+h1{text-indent:.71em;margin-left:1.5em;line-height:120%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:.21em;margin-bottom:.86em;font-family:"TR Mariage";font-size:200%;font-weight:normal}
+.h11{text-indent:0}
+span.dropcap {font-size: 250%;font-weight: normal;float: left;margin: -0.1em 0.125em -0.2em 0em;text-indent: 0em;line-height: 1em;height: 1em;}
+.t3{font-size:2.8em;line-height:100%;font-weight:bold}
+.t4{font-family:SLBookArts;font-size:6.5em;line-height:100%}
+.t5{font-family:"TR Mariage";font-size:1.7em;line-height:100%}
+.t6{font-family:MiddleSaxonyText;font-size:1.7em;line-height:120%}
+.t7{font-family:MiddleSaxonyText;font-size:3.7em;line-height:100%}
+.t8{font-weight:bold;font-style:italic}
+.t9{font-family:"ornaments labels and frames";font-size:2.2em;line-height:120%}
+.t10{font-family:"TR Mariage";font-size:1.8em;line-height:120%}
+.t11{font-family:"TR Mariage";vertical-align:.19em}
+.t12{font-family:"TR 00347";font-size:1.4em;line-height:120%}
+.t13{font-family:Zymbols;font-size:1.4em;line-height:120%}
+.t14{font-family:"TR Mariage";font-size:2.7em;vertical-align:.085em}
+.t15{font-family:"TR 00347"}
+.t16{font-family:"TR Mariage";font-size:2.9em;vertical-align:.29em}
+.t17{font-style:italic}
+.t18{font-family:"TR Mariage";font-size:2em;vertical-align:.15em}
+.t19{font-family:"TR Mariage";font-size:3.8em;vertical-align:-.02em}
+.t20{font-family:"Soft Ornaments Five";font-size:3.7em;line-height:120%}
+.t21{font-family:"TR 00347";font-size:1.1em;line-height:120%}
+.t22{font-family:"TR 00347";font-size:1.2em;line-height:120%;letter-spacing:.063em}
+.t23{font-family:"TR 00347";font-size:1.2em;line-height:120%}
+.t24{font-family:"Top Secret";font-size:1.2em;line-height:120%}
+.t25{font-family:"Trebuchet MS",sans-serif;font-size:1.2em;line-height:120%}
+.t26{font-family:"TR Mariage";font-size:2.6em;vertical-align:.12em}
+.t27{font-family:"Top Secret"}
+.t28{font-family:"Trebuchet MS",sans-serif}
+.t29{font-family:"TR Mariage";font-size:3.2em;vertical-align:.19em}
+.t30{font-family:"TR Mariage";font-size:3.2em}
+.t31{font-family:"TR Mariage";font-size:3.8em;vertical-align:.06em}
+.t32{font-family:"TR Mariage";font-size:2em;vertical-align:.19em}
+.t33{font-family:"TR Mariage";font-size:2.4em;vertical-align:.19em}
+.t34{font-family:"TR 00347";font-size:2.4em;vertical-align:.19em}
+.t35{font-family:"TR Mariage";font-size:3.3em;vertical-align:.16em}
+.t36{font-size:.65em;line-height:120%;vertical-align:super}
+.t37{font-family:Zymbols;font-size:2em;line-height:120%;vertical-align:-0.18em}
+.t38{font-size:2em;line-height:120%}

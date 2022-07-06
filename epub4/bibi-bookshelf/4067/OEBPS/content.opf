@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kötü çocuk Türk</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gürbilek, Nurdan">Nurdan Gürbilek</dc:creator>
+    <dc:identifier id="uuid">{DCCC1508-769D-4ECB-A080-52AA1955D29C}</dc:identifier>
+    <dc:date>2001-06-15T10:35:38+00:00</dc:date>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>Turkish literature; selections.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">583b59f8-1652-4c4e-9a4f-10c2b5db8b32</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">V9zyAQAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753423427</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753423427</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kotu-cocuk-turk201110031119.gif"/>
+    <meta name="calibre:title_sort" content="Kötü çocuk Türk"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nurdan Gürbilek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazarbilgi.xhtml" id="yazarbilgi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.xhtml" id="baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/butunyapitlari.xhtml" id="butunyapitlari.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bendeisterem.xhtml" id="bendeisterem.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yabancininolumu.xhtml" id="yabancininolumu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/acilarincocugu1.xhtml" id="acilarincocugu1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/acilarincocuguresim.xhtml" id="acilarincocuguresim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/acilarincocugu2.xhtml" id="acilarincocugu2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/azgelismisbabalar.xhtml" id="azgelismisbabalar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kotucocukturk1.xhtml" id="kotucocukturk1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/orijinalturkruhu.xhtml" id="orijinalturkruhu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yakintasra.xhtml" id="yakintasra.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id14" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/1stylesheet.css" id="x1stylesheet.css" media-type="text/css"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/main.css" id="id13" media-type="text/css"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Styles/stylesheet1.css" id="stylesheet1.css" media-type="text/css"/>
+    <item href="Styles/stylesheetyeni.css" id="stylesheetyeni.css" media-type="text/css"/>
+    <item href="Images/kotu-cocuk-turk201110031119.gif" id="kotu-cocuk-turk201110031119.gif" media-type="image/gif"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.jpg" id="id3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazarbilgi.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="butunyapitlari.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bendeisterem.xhtml"/>
+    <itemref idref="yabancininolumu.xhtml"/>
+    <itemref idref="acilarincocugu1.xhtml"/>
+    <itemref idref="acilarincocuguresim.xhtml"/>
+    <itemref idref="acilarincocugu2.xhtml"/>
+    <itemref idref="azgelismisbabalar.xhtml"/>
+    <itemref idref="kotucocukturk1.xhtml"/>
+    <itemref idref="orijinalturkruhu.xhtml"/>
+    <itemref idref="yakintasra.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
