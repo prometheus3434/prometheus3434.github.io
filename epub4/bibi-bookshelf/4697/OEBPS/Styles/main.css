@@ -1,0 +1,52 @@
+p {
+margin-top:0.1em;
+margin-bottom:0.1em;
+text-indent:1.5em;
+text-align:justify;}
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.9em;}
+.ilk{text-indent: 0em;}
+.yildiz{text-indent: 0em;text-align:center;margin-bottom:0.2em;}
+
+.ithaf1{text-indent: 0em; margin-top: 8em;text-align:center;}
+.ithaf2{text-indent: 0em; margin-top: 1em;text-align:center;}
+
+.resim{text-indent: 0em;text-align:center;}
+.resim_yazi{text-indent: 0em;margin-top:1em;text-align:center;}
+
+.tablo{text-indent: 0em;margin-left:1.5em;margin-top:0.8em;margin-bottom:0.8em;}
+.tablo_text{text-indent: 0em;text-align:left;font-size:85%;}
+
+.not1{text-indent: 0em;margin-left:1em;margin-right:1em;}
+.baslik1{text-indent: 0em; margin-top: 8em;text-align:center;margin-bottom:1em;}
+.baslik2{text-indent: 0em; margin-top: 7em;text-align:center;margin-bottom:2em;font-weight:bold;font-size: 1.1em;}
+
+.baslik3{text-indent: 0em; text-align:center;margin-bottom:1em;font-weight:bold;font-size:105%;}
+.baslik4{text-indent: 0em; text-align:center;margin-bottom:1em;font-style:italic;font-size:105%;}
+.baslik5{text-indent: 0em; text-align:center;margin-bottom:2em;margin-top:2em;font-style:italic;font-size:105%;}
+
+.bos_p1{text-indent: 0em;margin-top:0.8em;margin-bottom:0.8em;}
+
+.gir0{text-indent: 0em;font-size:90%;margin-left:1.5em;margin-top:0.8em;margin-bottom:0.8em;}
+
+.gir1{text-indent: 0em;font-size:90%;margin-left:1.5em;margin-top:0.8em;}
+.gir2{text-indent: 0em;font-size:90%;margin-left:1.5em;}
+.gir3{text-indent: 0em;font-size:90%;margin-left:1.5em;margin-bottom:0.8em;}
+
+.gir4{text-indent: 0em;margin-left:3em;margin-top:0.8em;}
+.gir5{text-indent: 0em;margin-left:3em;}
+.gir6{text-indent: 0em;margin-left:3em;margin-bottom:0.8em;}
+
+.gir7{text-indent: 0em;margin-left:4em;}
+.gir8{text-indent: 0em;margin-left:4em;margin-bottom:0.8em;}
+.gir9{text-indent: 0em;margin-left:5em;}
+
+.gir10{text-indent: 0em;margin-left:1.5em;margin-top:0.8em;}
+.gir11{text-indent: 0em;margin-left:1.5em;}
+.gir12{text-indent: 0em;margin-left:1.5em;margin-bottom:0.8em;}

@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{950667F9-11F3-47E7-97FC-D766E7FC279D}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pardayan ve Fausto</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>PARDAYAN ve FAUSTA</text>
+      </navLabel>
+      <content src="Text/ic_kapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Bölüm A</text>
+      </navLabel>
+      <content src="Text/giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BAŞLANGIÇ</text>
+      </navLabel>
+      <content src="Text/giris.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bölüm 1</text>
+      </navLabel>
+      <content src="Text/Bolum_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>VIOLETTA</text>
+      </navLabel>
+      <content src="Text/Bolum_0001.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Bölüm 2</text>
+      </navLabel>
+      <content src="Text/Bolum_0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>GRÈVE MEYDANI</text>
+      </navLabel>
+      <content src="Text/Bolum_0002.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Bölüm 3</text>
+      </navLabel>
+      <content src="Text/Bolum_0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>PARDAİLLAN</text>
+      </navLabel>
+      <content src="Text/Bolum_0003.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Bölüm 4</text>
+      </navLabel>
+      <content src="Text/Bolum_0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>CELLÂT CLAUDE USTA</text>
+      </navLabel>
+      <content src="Text/Bolum_0004.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Bölüm 5</text>
+      </navLabel>
+      <content src="Text/Bolum_0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ÖLÜM EVİ</text>
+      </navLabel>
+      <content src="Text/Bolum_0005.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bölüm 6</text>
+      </navLabel>
+      <content src="Text/Bolum_0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ESKİ DOSTLAR</text>
+      </navLabel>
+      <content src="Text/Bolum_0006.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Bölüm 7</text>
+      </navLabel>
+      <content src="Text/Bolum_0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>GÖKTEN KADIN YAĞIYOR</text>
+      </navLabel>
+      <content src="Text/Bolum_0007.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Bölüm 8</text>
+      </navLabel>
+      <content src="Text/Bolum_0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>ELDEN KAÇAN AV</text>
+      </navLabel>
+      <content src="Text/Bolum_0008.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Bölüm 9</text>
+      </navLabel>
+      <content src="Text/Bolum_0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>BİR KIZ VE İKİ BABA</text>
+      </navLabel>
+      <content src="Text/Bolum_0009.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Bölüm 10</text>
+      </navLabel>
+      <content src="Text/Bolum_0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>FAUSTA VE PARDAİLLAN</text>
+      </navLabel>
+      <content src="Text/Bolum_0010.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Bölüm 11</text>
+      </navLabel>
+      <content src="Text/Bolum_0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>ANA KRALİÇE</text>
+      </navLabel>
+      <content src="Text/Bolum_0011.xhtml#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bölüm 12</text>
+      </navLabel>
+      <content src="Text/Bolum_0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>SAÏZUMA</text>
+      </navLabel>
+      <content src="Text/Bolum_0012.xhtml#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Bölüm 13</text>
+      </navLabel>
+      <content src="Text/Bolum_0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>JACQUES CLÉMENTE GÖRÜNEN MELEK</text>
+      </navLabel>
+      <content src="Text/Bolum_0013.xhtml#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Bölüm 14</text>
+      </navLabel>
+      <content src="Text/Bolum_0014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>SAINT-ROCH DEĞİRMENİ</text>
+      </navLabel>
+      <content src="Text/Bolum_0014.xhtml#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Bölüm 15</text>
+      </navLabel>
+      <content src="Text/Bolum_0015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>EVDEKİ HESAP ÇARŞIYA UYMAZ</text>
+      </navLabel>
+      <content src="Text/Bolum_0015.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Bölüm 16</text>
+      </navLabel>
+      <content src="Text/Bolum_0016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>FAUSTA’NIN KALBİ</text>
+      </navLabel>
+      <content src="Text/Bolum_0016.xhtml#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Bölüm 17</text>
+      </navLabel>
+      <content src="Text/Bolum_0017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>HORTLAK</text>
+      </navLabel>
+      <content src="Text/Bolum_0017.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Bölüm 18</text>
+      </navLabel>
+      <content src="Text/Bolum_0018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>CROASSE VE BELGODÈRE</text>
+      </navLabel>
+      <content src="Text/Bolum_0018.xhtml#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Bölüm 19</text>
+      </navLabel>
+      <content src="Text/Bolum_0019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>FARNÉSE’NlN AŞKI</text>
+      </navLabel>
+      <content src="Text/Bolum_0019.xhtml#sigil_toc_id_20"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Bölüm 20</text>
+      </navLabel>
+      <content src="Text/Bolum_0020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>PAYLAŞILAMAYAN AV</text>
+      </navLabel>
+      <content src="Text/Bolum_0020.xhtml#sigil_toc_id_21"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Bölüm 21</text>
+      </navLabel>
+      <content src="Text/Bolum_0021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>FOURCAUD'LAR</text>
+      </navLabel>
+      <content src="Text/Bolum_0021.xhtml#sigil_toc_id_22"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Bölüm 22</text>
+      </navLabel>
+      <content src="Text/Bolum_0022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>BELGODÈRE’NiN SIRRI</text>
+      </navLabel>
+      <content src="Text/Bolum_0022.xhtml#sigil_toc_id_23"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Bölüm 23</text>
+      </navLabel>
+      <content src="Text/Bolum_0023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>DİŞİ ŞÖVALYE</text>
+      </navLabel>
+      <content src="Text/Bolum_0023.xhtml#sigil_toc_id_24"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Bölüm 24</text>
+      </navLabel>
+      <content src="Text/Bolum_0024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>BABALAR VE EVLÂTLAR</text>
+      </navLabel>
+      <content src="Text/Bolum_0024.xhtml#sigil_toc_id_25"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Bölüm 25</text>
+      </navLabel>
+      <content src="Text/Bolum_0025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>CESARETİN MUCİZESİ</text>
+      </navLabel>
+      <content src="Text/Bolum_0025.xhtml#sigil_toc_id_26"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Bölüm 26</text>
+      </navLabel>
+      <content src="Text/Bolum_0026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>STELLA NEREDE?</text>
+      </navLabel>
+      <content src="Text/Bolum_0026.xhtml#sigil_toc_id_27"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Bölüm 27</text>
+      </navLabel>
+      <content src="Text/Bolum_0027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>CLAUDE’NİN DERTLERİ</text>
+      </navLabel>
+      <content src="Text/Bolum_0027.xhtml#sigil_toc_id_28"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Bölüm 28</text>
+      </navLabel>
+      <content src="Text/Bolum_0028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>GİZLİ MAHKEME</text>
+      </navLabel>
+      <content src="Text/Bolum_0028.xhtml#sigil_toc_id_29"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Bölüm 29</text>
+      </navLabel>
+      <content src="Text/Bolum_0029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>FAUSTA’NIN PLÂNLARI</text>
+      </navLabel>
+      <content src="Text/Bolum_0029.xhtml#sigil_toc_id_30"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Bölüm 30</text>
+      </navLabel>
+      <content src="Text/Bolum_0030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>MÜTHİŞ NİKÂH</text>
+      </navLabel>
+      <content src="Text/Bolum_0030.xhtml#sigil_toc_id_31"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Bölüm 31</text>
+      </navLabel>
+      <content src="Text/Bolum_0031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>PARDAİLLAN’IN KARARI</text>
+      </navLabel>
+      <content src="Text/Bolum_0031.xhtml#sigil_toc_id_32"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Bölüm 32</text>
+      </navLabel>
+      <content src="Text/Bolum_0032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>BİR GECE GEZİNTİSİ</text>
+      </navLabel>
+      <content src="Text/Bolum_0032.xhtml#sigil_toc_id_33"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Bölüm 33</text>
+      </navLabel>
+      <content src="Text/Bolum_0033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>PARDAILLANI ZİYARET</text>
+      </navLabel>
+      <content src="Text/Bolum_0033.xhtml#sigil_toc_id_34"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Bölüm 34</text>
+      </navLabel>
+      <content src="Text/Bolum_0034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>BASTILLE’NİN ZAPTI</text>
+      </navLabel>
+      <content src="Text/Bolum_0034.xhtml#sigil_toc_id_35"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Bölüm 35</text>
+      </navLabel>
+      <content src="Text/Bolum_0035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>İNTİKAM KORKUSU</text>
+      </navLabel>
+      <content src="Text/Bolum_0035.xhtml#sigil_toc_id_36"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Bölüm 36</text>
+      </navLabel>
+      <content src="Text/Bolum_0036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>«PRESSOIR-DE-FER» LOKANTASI</text>
+      </navLabel>
+      <content src="Text/Bolum_0036.xhtml#sigil_toc_id_37"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Bölüm 37</text>
+      </navLabel>
+      <content src="Text/Bolum_0037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>CROASSE, PİCOUİC VE PIPEAU</text>
+      </navLabel>
+      <content src="Text/Bolum_0037.xhtml#sigil_toc_id_38"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Bölüm 38</text>
+      </navLabel>
+      <content src="Text/Bolum_0038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>GİZLİ KAPININ SIRRI</text>
+      </navLabel>
+      <content src="Text/Bolum_0038.xhtml#sigil_toc_id_39"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Bölüm 39</text>
+      </navLabel>
+      <content src="Text/Bolum_0039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>PARDAİLLAN ve FAUSTA YİNE KARŞI KARŞIYA</text>
+      </navLabel>
+      <content src="Text/Bolum_0039.xhtml#sigil_toc_id_40"/>
+    </navPoint>
+  </navMap>
+</ncx>

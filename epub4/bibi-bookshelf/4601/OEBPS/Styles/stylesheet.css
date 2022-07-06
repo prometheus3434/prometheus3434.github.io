@@ -1,0 +1,1196 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: -1pt;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block2 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    padding: 0;
+    margin: 0
+    }
+.block5 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: black;
+    text-decoration: none
+    }
+.block9 {
+    color: black;
+    display: block;
+    font-size: 0.625em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block11 {
+    color: black;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block12 {
+    color: black;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    color: black;
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.block14 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    color: black;
+    display: block;
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block17 {
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block18 {
+    color: black;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block19 {
+    color: black;
+    display: block;
+    font-style: italic;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block22 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 18pt
+    }
+.block23 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    color: black;
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    color: black;
+    display: block;
+    font-weight: bold;
+    padding: 0;
+    margin: 0
+    }
+.block26 {
+    color: black;
+    display: block;
+    font-weight: bold;
+    text-align: right;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Palatino Linotype", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre2 {
+    height: 47.2pt;
+    width: 137pt
+    }
+.calibre3 {
+    height: 85.7pt;
+    width: 134pt
+    }
+.calibre4 {
+    height: 218pt;
+    width: 276pt
+    }
+.calibre5 {
+    height: 166pt;
+    width: 223pt
+    }
+.calibre6 {
+    height: 37.2pt;
+    width: 123pt
+    }
+.calibre7 {
+    height: 43.5pt;
+    width: 210pt
+    }
+.calibre8 {
+    height: 48.4pt;
+    width: 137pt
+    }
+.calibre9 {
+    height: 132pt;
+    width: 122pt
+    }
+.calibre10 {
+    height: 60.9pt;
+    width: 289pt
+    }
+.calibre11 {
+    height: 34.8pt;
+    width: 124pt
+    }
+.calibre12 {
+    height: 49.6pt;
+    width: 155pt
+    }
+.calibre13 {
+    height: 42.2pt;
+    width: 186pt
+    }
+.calibre14 {
+    height: 128pt;
+    width: 120pt
+    }
+.calibre15 {
+    height: 90.6pt;
+    width: 271pt
+    }
+.calibre16 {
+    height: 33.5pt;
+    width: 117pt
+    }
+.calibre17 {
+    height: 262pt;
+    width: 310pt
+    }
+.calibre18 {
+    height: 44.7pt;
+    width: 209pt
+    }
+.calibre19 {
+    height: 41pt;
+    width: 245pt
+    }
+.calibre20 {
+    height: 127pt;
+    width: 120pt
+    }
+.calibre21 {
+    height: 120pt;
+    width: 284pt
+    }
+.calibre22 {
+    height: 48.4pt;
+    width: 156pt
+    }
+.calibre23 {
+    height: 60.9pt;
+    width: 235pt
+    }
+.calibre24 {
+    height: 33.5pt;
+    width: 115pt
+    }
+.calibre25 {
+    height: 54.6pt;
+    width: 199pt
+    }
+.calibre26 {
+    height: 137pt;
+    width: 128pt
+    }
+.calibre27 {
+    height: 96.8pt;
+    width: 230pt
+    }
+.calibre28 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre29 {
+    height: 41pt;
+    width: 124pt
+    }
+.calibre30 {
+    height: 24.9pt;
+    width: 161pt
+    }
+.calibre31 {
+    height: 256pt;
+    width: 289pt
+    }
+.calibre32 {
+    height: 94.3pt;
+    width: 207pt
+    }
+.calibre33 {
+    height: 125pt;
+    width: 119pt
+    }
+.calibre34 {
+    height: 93.1pt;
+    width: 273pt
+    }
+.calibre35 {
+    height: 46pt;
+    width: 128pt
+    }
+.calibre36 {
+    font-style: italic
+    }
+.calibre37 {
+    height: 33.5pt;
+    width: 184pt
+    }
+.calibre38 {
+    height: 137pt;
+    width: 245pt
+    }
+.calibre39 {
+    height: 96.8pt;
+    width: 232pt
+    }
+.calibre40 {
+    height: 104pt;
+    width: 246pt
+    }
+.calibre41 {
+    height: 295pt;
+    width: 309pt
+    }
+.calibre42 {
+    height: 122pt;
+    width: 130pt
+    }
+.calibre43 {
+    height: 99.3pt;
+    width: 290pt
+    }
+.calibre44 {
+    height: 107pt;
+    width: 197pt
+    }
+.calibre45 {
+    height: 34.8pt;
+    width: 123pt
+    }
+.calibre46 {
+    height: 120pt;
+    width: 112pt
+    }
+.calibre47 {
+    height: 88.2pt;
+    width: 228pt
+    }
+.calibre48 {
+    height: 90.6pt;
+    width: 254pt
+    }
+.calibre49 {
+    height: 37.2pt;
+    width: 129pt
+    }
+.calibre50 {
+    height: 125pt;
+    width: 120pt
+    }
+.calibre51 {
+    height: 94.3pt;
+    width: 262pt
+    }
+.calibre52 {
+    height: 104pt;
+    width: 214pt
+    }
+.calibre53 {
+    height: 36pt;
+    width: 128pt
+    }
+.calibre54 {
+    height: 38.5pt;
+    width: 246pt
+    }
+.calibre55 {
+    height: 120pt;
+    width: 110pt
+    }
+.calibre56 {
+    height: 110pt;
+    width: 293pt
+    }
+.calibre57 {
+    height: 269pt;
+    width: 302pt
+    }
+.calibre58 {
+    height: 59.6pt;
+    width: 240pt
+    }
+.calibre59 {
+    height: 90.6pt;
+    width: 240pt
+    }
+.calibre60 {
+    height: 37.2pt;
+    width: 130pt
+    }
+.calibre61 {
+    height: 57.1pt;
+    width: 187pt
+    }
+.calibre62 {
+    height: 43.5pt;
+    width: 256pt
+    }
+.calibre63 {
+    height: 123pt;
+    width: 115pt
+    }
+.calibre64 {
+    height: 57.1pt;
+    width: 278pt
+    }
+.calibre65 {
+    height: 38.5pt;
+    width: 133pt
+    }
+.calibre66 {
+    height: 39.7pt;
+    width: 286pt
+    }
+.calibre67 {
+    height: 120pt;
+    width: 113pt
+    }
+.calibre68 {
+    height: 89.4pt;
+    width: 268pt
+    }
+.calibre69 {
+    height: 37.2pt;
+    width: 128pt
+    }
+.calibre70 {
+    height: 250pt;
+    width: 297pt
+    }
+.calibre71 {
+    height: 48.4pt;
+    width: 279pt
+    }
+.calibre72 {
+    height: 132pt;
+    width: 123pt
+    }
+.calibre73 {
+    height: 74.5pt;
+    width: 303pt
+    }
+.calibre74 {
+    height: 37.2pt;
+    width: 127pt
+    }
+.calibre75 {
+    height: 122pt;
+    width: 115pt
+    }
+.calibre76 {
+    height: 83.2pt;
+    width: 235pt
+    }
+.calibre77 {
+    height: 104pt;
+    width: 223pt
+    }
+.calibre78 {
+    height: 95.6pt;
+    width: 283pt
+    }
+.calibre79 {
+    height: 115pt;
+    width: 297pt
+    }
+.calibre80 {
+    font-weight: bold
+    }
+.calibre81 {
+    height: 49.6pt;
+    width: 109pt
+    }
+.calibre82 {
+    height: 138pt;
+    width: 129pt
+    }
+.calibre83 {
+    height: 104pt;
+    width: 289pt
+    }
+.calibre84 {
+    height: 33.5pt;
+    width: 119pt
+    }
+.calibre85 {
+    height: 127pt;
+    width: 289pt
+    }
+.calibre86 {
+    height: 69.5pt;
+    width: 254pt
+    }
+.calibre87 {
+    height: 33.5pt;
+    width: 114pt
+    }
+.calibre88 {
+    height: 95.6pt;
+    width: 324pt
+    }
+.calibre89 {
+    height: 83.2pt;
+    width: 257pt
+    }
+.calibre90 {
+    height: 38.5pt;
+    width: 128pt
+    }
+.calibre91 {
+    height: 281pt;
+    width: 315pt
+    }
+.calibre92 {
+    height: 63.3pt;
+    width: 304pt
+    }
+.calibre93 {
+    height: 129pt;
+    width: 122pt
+    }
+.calibre94 {
+    height: 114pt;
+    width: 277pt
+    }
+.calibre95 {
+    height: 37.2pt;
+    width: 125pt
+    }
+.calibre96 {
+    height: 49.6pt;
+    width: 241pt
+    }
+.calibre97 {
+    height: 33.5pt;
+    width: 96.8pt
+    }
+.calibre98 {
+    height: 84.4pt;
+    width: 305pt
+    }
+.calibre99 {
+    height: 36pt;
+    width: 125pt
+    }
+.calibre100 {
+    height: 47.1pt;
+    width: 300pt
+    }
+.calibre101 {
+    height: 43.5pt;
+    width: 228pt
+    }
+.calibre102 {
+    height: 84.4pt;
+    width: 250pt
+    }
+.calibre103 {
+    height: 38.5pt;
+    width: 129pt
+    }
+.calibre104 {
+    height: 79.5pt;
+    width: 294pt
+    }
+.calibre105 {
+    height: 48.4pt;
+    width: 246pt
+    }
+.calibre106 {
+    height: 120pt;
+    width: 114pt
+    }
+.calibre107 {
+    height: 59.6pt;
+    width: 266pt
+    }
+.calibre108 {
+    height: 271pt;
+    width: 287pt
+    }
+.calibre109 {
+    height: 41.8pt;
+    width: 242pt
+    }
+.calibre110 {
+    height: 44.7pt;
+    width: 176pt
+    }
+.calibre111 {
+    height: 129pt;
+    width: 120pt
+    }
+.calibre112 {
+    height: 64.5pt;
+    width: 195pt
+    }
+.calibre113 {
+    height: 36pt;
+    width: 123pt
+    }
+.calibre114 {
+    height: 47.7pt;
+    width: 272pt
+    }
+.calibre115 {
+    height: 46pt;
+    width: 114pt
+    }
+.calibre116 {
+    height: 94.3pt;
+    width: 326pt
+    }
+.calibre117 {
+    height: 34.8pt;
+    width: 120pt
+    }
+.calibre118 {
+    height: 34.8pt;
+    width: 122pt
+    }
+.calibre119 {
+    height: 132pt;
+    width: 127pt
+    }
+.calibre120 {
+    height: 59.6pt;
+    width: 293pt
+    }
+.calibre121 {
+    height: 34.8pt;
+    width: 125pt
+    }
+.calibre122 {
+    height: 281pt;
+    width: 298pt
+    }
+.calibre123 {
+    height: 54.6pt;
+    width: 259pt
+    }
+.calibre124 {
+    height: 46pt;
+    width: 144pt
+    }
+.calibre125 {
+    height: 137pt;
+    width: 130pt
+    }
+.calibre126 {
+    height: 99.3pt;
+    width: 254pt
+    }
+.calibre127 {
+    height: 38.5pt;
+    width: 135pt
+    }
+.calibre128 {
+    height: 52.1pt;
+    width: 163pt
+    }
+.calibre129 {
+    height: 33.5pt;
+    width: 129pt
+    }
+.calibre130 {
+    height: 124pt;
+    width: 118pt
+    }
+.calibre131 {
+    height: 110pt;
+    width: 227pt
+    }
+.calibre132 {
+    height: 33.5pt;
+    width: 120pt
+    }
+.calibre133 {
+    height: 88.2pt;
+    width: 196pt
+    }
+.calibre134 {
+    height: 128pt;
+    width: 123pt
+    }
+.calibre135 {
+    height: 89.4pt;
+    width: 288pt
+    }
+.calibre136 {
+    height: 39.7pt;
+    width: 138pt
+    }
+.calibre137 {
+    height: 89.4pt;
+    width: 240pt
+    }
+.calibre138 {
+    height: 127pt;
+    width: 118pt
+    }
+.calibre139 {
+    height: 104pt;
+    width: 266pt
+    }
+.calibre140 {
+    height: 331pt;
+    width: 297pt
+    }
+.calibre141 {
+    height: 41pt;
+    width: 146pt
+    }
+.calibre142 {
+    height: 38.5pt;
+    width: 159pt
+    }
+.calibre143 {
+    height: 84.3pt;
+    width: 295pt
+    }
+.calibre144 {
+    height: 38.5pt;
+    width: 127pt
+    }
+.calibre145 {
+    height: 34.8pt;
+    width: 173pt
+    }
+.calibre146 {
+    height: 85.7pt;
+    width: 267pt
+    }
+.calibre147 {
+    height: 106pt;
+    width: 287pt
+    }
+.calibre148 {
+    height: 104pt;
+    width: 288pt
+    }
+.calibre149 {
+    height: 43.5pt;
+    width: 194pt
+    }
+.calibre150 {
+    height: 37.2pt;
+    width: 133pt
+    }
+.calibre151 {
+    height: 130pt;
+    width: 120pt
+    }
+.calibre152 {
+    height: 120pt;
+    width: 322pt
+    }
+.calibre153 {
+    height: 49.6pt;
+    width: 233pt
+    }
+.calibre154 {
+    height: 46pt;
+    width: 90.6pt
+    }
+.calibre155 {
+    height: 128pt;
+    width: 119pt
+    }
+.calibre156 {
+    height: 72.5pt;
+    width: 262pt
+    }
+.calibre157 {
+    height: 38.5pt;
+    width: 132pt
+    }
+.calibre158 {
+    height: 57.1pt;
+    width: 307pt
+    }
+.calibre159 {
+    height: 48.4pt;
+    width: 130pt
+    }
+.calibre160 {
+    height: 124pt;
+    width: 119pt
+    }
+.calibre161 {
+    height: 90.6pt;
+    width: 214pt
+    }
+.calibre162 {
+    height: 58.4pt;
+    width: 259pt
+    }
+.calibre163 {
+    height: 125pt;
+    width: 118pt
+    }
+.calibre164 {
+    height: 114pt;
+    width: 262pt
+    }
+.calibre165 {
+    height: 120pt;
+    width: 289pt
+    }
+.calibre166 {
+    height: 101pt;
+    width: 289pt
+    }
+.calibre167 {
+    height: 44.7pt;
+    width: 191pt
+    }
+.calibre168 {
+    height: 85.7pt;
+    width: 233pt
+    }
+.calibre169 {
+    height: 36pt;
+    width: 127pt
+    }
+.calibre170 {
+    height: 42.2pt;
+    width: 132pt
+    }
+.calibre171 {
+    height: 52.1pt;
+    width: 192pt
+    }
+.calibre172 {
+    height: 63.3pt;
+    width: 318pt
+    }
+.calibre173 {
+    height: 41pt;
+    width: 137pt
+    }
+.calibre174 {
+    height: 44.7pt;
+    width: 144pt
+    }
+.calibre175 {
+    height: 44.7pt;
+    width: 186pt
+    }
+.calibre176 {
+    height: 130pt;
+    width: 122pt
+    }
+.calibre177 {
+    height: 96.8pt;
+    width: 205pt
+    }
+.calibre178 {
+    height: 37.2pt;
+    width: 132pt
+    }
+.calibre179 {
+    height: 41pt;
+    width: 196pt
+    }
+.calibre180 {
+    height: 139pt;
+    width: 235pt
+    }
+.calibre181 {
+    height: 95.6pt;
+    width: 221pt
+    }
+.calibre182 {
+    height: 38.5pt;
+    width: 137pt
+    }
+.calibre183 {
+    height: 90.6pt;
+    width: 149pt
+    }
+.calibre184 {
+    height: 86.9pt;
+    width: 247pt
+    }
+.calibre185 {
+    height: 87.2pt;
+    width: 257pt
+    }
+.calibre186 {
+    height: 97.5pt;
+    width: 272pt
+    }
+.calibre187 {
+    height: 46pt;
+    width: 187pt
+    }
+.calibre188 {
+    height: 36pt;
+    width: 168pt
+    }
+.calibre189 {
+    height: 132pt;
+    width: 261pt
+    }
+.calibre190 {
+    height: 89.4pt;
+    width: 233pt
+    }
+.calibre191 {
+    height: 113pt;
+    width: 303pt
+    }
+.calibre192 {
+    height: 95.6pt;
+    width: 295pt
+    }
+.calibre193 {
+    height: 54.6pt;
+    width: 207pt
+    }
+.calibre194 {
+    height: 52.1pt;
+    width: 267pt
+    }
+.calibre195 {
+    height: 119pt;
+    width: 309pt
+    }
+.calibre196 {
+    height: 53.4pt;
+    width: 263pt
+    }
+.calibre197 {
+    height: 120pt;
+    width: 295pt
+    }
+.calibre198 {
+    height: 41pt;
+    width: 139pt
+    }
+.calibre199 {
+    height: 252pt;
+    width: 305pt
+    }
+.calibre200 {
+    height: 43.5pt;
+    width: 143pt
+    }
+.calibre201 {
+    height: 50.9pt;
+    width: 127pt
+    }
+.calibre202 {
+    height: 86.9pt;
+    width: 216pt
+    }
+.calibre203 {
+    height: 37.2pt;
+    width: 110pt
+    }
+.calibre204 {
+    height: 42.2pt;
+    width: 130pt
+    }
+.calibre205 {
+    height: 125pt;
+    width: 117pt
+    }
+.calibre206 {
+    height: 112pt;
+    width: 297pt
+    }
+.calibre207 {
+    height: 38.5pt;
+    width: 134pt
+    }
+.calibre208 {
+    height: 393pt;
+    width: 278pt
+    }
+.calibre209 {
+    height: 54.6pt;
+    width: 176pt
+    }
+.calibre210 {
+    height: 48.4pt;
+    width: 96.8pt
+    }
+.calibre211 {
+    height: 89.4pt;
+    width: 184pt
+    }
+.calibre212 {
+    height: 39.7pt;
+    width: 133pt
+    }
+.calibre213 {
+    height: 41pt;
+    width: 160pt
+    }
+.calibre214 {
+    height: 132pt;
+    width: 236pt
+    }
+.calibre215 {
+    height: 48.4pt;
+    width: 151pt
+    }
+.calibre216 {
+    height: 91.8pt;
+    width: 247pt
+    }
+.calibre217 {
+    height: 408pt;
+    width: 295pt
+    }
+.calibre218 {
+    height: 48.4pt;
+    width: 240pt
+    }
+.calibre219 {
+    height: 91.8pt;
+    width: 300pt
+    }
+.calibre220 {
+    height: 95.6pt;
+    width: 308pt
+    }
+.calibre221 {
+    height: 140pt;
+    width: 130pt
+    }
+.calibre222 {
+    height: 114pt;
+    width: 289pt
+    }
+.calibre223 {
+    height: 49.6pt;
+    width: 153pt
+    }
+.calibre224 {
+    height: 54.6pt;
+    width: 227pt
+    }
+.calibre225 {
+    height: 87pt;
+    width: 262pt
+    }
+.calibre226 {
+    height: 295pt;
+    width: 297pt
+    }
+.calibre227 {
+    height: 42.2pt;
+    width: 206pt
+    }
+.calibre228 {
+    height: 122pt;
+    width: 114pt
+    }
+.calibre229 {
+    height: 84.4pt;
+    width: 199pt
+    }
+.calibre230 {
+    height: 103pt;
+    width: 310pt
+    }
+.calibre231 {
+    height: 60.9pt;
+    width: 214pt
+    }
+.calibre232 {
+    height: 118pt;
+    width: 222pt
+    }
+.calibre233 {
+    height: 185pt;
+    width: 185pt
+    }
+.calibre234 {
+    height: 62pt;
+    width: 298pt
+    }
+.calibre235 {
+    height: 311pt;
+    width: 303pt
+    }
+.calibre236 {
+    height: 60.9pt;
+    width: 259pt
+    }
+.calibre237 {
+    height: 433pt;
+    width: 269pt
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text2 {
+    color: #000;
+    font-family: "Arial Black", sans-serif;
+    font-size: 2.4em;
+    letter-spacing: -1pt;
+    line-height: 1.2
+    }
+.text3 {
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: normal;
+    vertical-align: super
+    }
+.text4 {
+    font-variant: small-caps
+    }
+.text5 {
+    font-style: italic;
+    font-weight: bold
+    }

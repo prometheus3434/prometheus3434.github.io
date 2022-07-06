@@ -1,0 +1,251 @@
+@page
+    {margin: 5pt;}
+
+@font-face {
+  font-family: "Berling";
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Fonts/BerlingLTStd-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Berling";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Fonts/BerlingLTStd-Roman.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Berling";
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Fonts/BerlingLTStd-Italic.ttf') format("truetype");
+}
+
+
+
+@font-face {
+  font-family: "Goudy Cat";
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/GoudyCatTReg.ttf') format("truetype");
+}
+
+.kunye
+{font-size: 0.8em;
+text-indent: 0;
+line-height: 1.2em;
+margin-left: 1em;
+}
+
+.kunye p{
+text-indent: 0;
+margin: 0.25em 1em 0.25em 1em; 
+text-align:justify;}
+
+p
+    {
+font-family: "Berling";
+    text-indent: 1.5em;
+    line-height: 1.3em;
+    text-align: justify;
+    font-size: 1em;
+
+    widows: 2;
+    orphans: 2;
+    }
+
+.poems
+    {
+    margin-left:1.75em;
+     font-size: 0.9em;
+ line-height: 1.2em;
+ margin-top: 1em;
+ margin-bottom: 1em;
+font-family: "Berling";
+     }
+
+.poems p
+    {
+    text-indent: 0em;
+    widows: 2;
+    orphans: 2;
+    }
+
+.pi, .pi p
+	{
+	text-indent:0; 
+     font-size: 0.8em;
+ line-height: 1.3em;	
+	margin: 1em; 	
+	text-align:justify;
+font-family:  "Berling";
+	}
+
+.works, .works p
+	{
+	text-indent:0;
+     font-size: 0.8em;
+ line-height: 1.2em; 	
+	margin: 0.25em 0em 0.25em 0em; 	
+	text-align:center;
+font-family:  "Berling";
+	}
+
+a {
+  text-decoration: none;
+  -webkit-text-fill-color: #007bff;
+  color: #007bff;
+}
+
+h1
+    {
+    margin-top:1em;
+    margin-bottom:1em;
+    font-size: 2.0em;
+    text-align: center;
+ 
+    }
+h2
+    {
+    margin-top:15%;
+    margin-right:0em;
+    margin-bottom:2em;
+    margin-left:0em;
+	 line-height: 1.3em;
+    font-size: 1.40em;
+    text-align: center;
+font-weight: normal;
+font-family: "Berling";
+    }
+h3
+    {
+    margin-top:3em;
+    margin-bottom:2em;
+line-height: 1.8em;
+    font-size: 1.2em;
+    text-align: center;
+ font-family: "Berling";
+    }
+h4
+    {
+    margin-top:2.5em;
+    margin-bottom:2em;
+    font-size: 1.1em;
+    text-align: center;
+		font-weight: normal;
+    }
+h5
+    {
+    margin-top:-3em;
+    margin-bottom:2em;
+    font-size: 1em;
+line-height: 1.8em;
+    text-align: center;
+ 		font-weight: normal;
+    }
+h6
+    {
+    margin-top:2em;
+    margin-bottom:2em;
+    line-height:normal;
+    font-size: .90em;
+    text-align: center;
+     }
+
+.quotations
+    {margin-top:1em; margin-bottom:1em; margin-right:1.5em;	line-height: 1.35em; font-size: 1em;}
+
+.quotations p
+    {
+	 margin-left:1.5em;
+font-family: "Berling";
+    text-indent:1.5em;
+    text-align: justify;    
+    widows: 2;orphans: 2;
+    }
+
+
+h2 + p, h3 + p, h4 + p 
+{text-indent:1.5em;}
+
+
+.extract {
+  margin-top: 1.25em; text-indent: 1.5em
+}
+
+.title
+{text-align: center;
+text-indent:0em;
+font-family:"Goudy Cat";}
+
+.t-1 {
+  font-size: 1.40em;
+  margin: 2em auto 1em auto;
+}
+.t-2 {
+  font-size: 1.5em;
+margin-top:1em;
+}
+.t-23 {
+ font-size: 0.8em;
+margin-top:0.5em;
+}
+.t-22 {
+font-size: 0.7em;
+ margin-top:2em; margin-bottom:1em;
+}
+.t-25 {
+font-size: 0.8em;
+margin: 0;margin-top:0.2em;}
+
+.logo {
+ margin-top: 25%; font-size: 0.85em; text-align: center;
+}
+.logo_alt {
+  margin-top: 45%; font-size: 0.7em; text-align: center;
+}
+
+
+
+hr
+    {
+    width: 70%;
+    margin-left: 15%;
+    }
+.bosluk-1{margin-top:1.5em}
+.bosluk-3{margin-top:3em}
+.bosluk-5{margin-top:15%}
+
+
+
+.footnote {
+  font: normal normal 0.875em "Berling";
+  margin-bottom: 0.25em;
+  margin-left: 1em;
+  text-align: justify;
+  text-indent: 0;
+}
+.footnotelabel {
+  width: 1em;
+  float: left;
+  font-size: 0.93em;
+  line-height: 165%;
+}
+.footnoteref, .footnotetarget {
+  border: 1px solid #999;
+  font-size: 90%;
+  padding: 1px;
+  padding-top: 3px;
+}
+.footnotecontent {
+  padding-left: 1.5em;
+  margin-bottom: 20px;
+}
+.footnotecontent p {
+  text-indent: 0;
+  margin-left: 5px;
+  vertical-align: middle;
+margin-top: 1px;
+  page-break-before: avoid;
+  
+}
+

@@ -1,0 +1,157 @@
+.calibre {
+    display: block;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    color: #c00000;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.48em;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre2 {
+    line-height: 1.5
+    }
+.calibre3 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: -0.08em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: -0.08em;
+    text-indent: 0
+    }
+.calibre4 {
+    color: #7030a0;
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    text-align: center;
+    text-indent: 0
+    }
+.p {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.p1 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.p2 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: 0.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.p3 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: 0.4em;
+    margin-left: 0.8em;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.p4 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.p5 {
+    display: block;
+    font-family: Amasis, serif;
+    font-size: 114%;
+    line-height: 1.5;
+    margin-bottom: -0.08em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: -0.08em;
+    text-align: center;
+    text-indent: 0
+    }
+.t {
+    font-weight: bold;
+    line-height: 1.5
+    }
+.t1 {
+    font-size: 0.8em;
+    line-height: 1.5
+    }
+.t2 {
+    color: red;
+    font-weight: bold;
+    line-height: 1.5
+    }
+.t3 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.5
+    }
+.t4 {
+    font-style: italic;
+    line-height: 1.5
+    }
+.t5 {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.5
+    }
+.t6 {
+    line-height: 1.5;
+    text-decoration: underline
+    }
+.th {
+    color: red;
+    line-height: 1.5
+    }

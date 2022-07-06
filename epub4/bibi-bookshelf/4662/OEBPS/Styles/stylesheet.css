@@ -1,0 +1,291 @@
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre_rescale_ {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.calibre1 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre2 {
+  font-style: italic;
+}
+.calibre3 {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.calibre4 {
+  background-color: white;
+  background-position: initial initial;
+  background-repeat: initial initial;
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre5 {
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre6 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre7 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre8 {
+  background: white;
+  line-height: 1.2;
+}
+.calibre9 {
+  font-family: "Times New Roman", "serif";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre10 {
+  font-family: "Times New Roman", "serif";
+}
+.calibre11 {
+  font-weight: bold;
+}
+.calibre12 {
+  display: block;
+}
+.calibre13 {
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre14 {
+  font-family: "Times New Roman", "serif";
+  line-height: 1.2;
+}
+.calibre15 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre16 {
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+}
+.calibre17 {
+  display: block;
+}
+.calibre18 {
+  font-family: "Times New Roman", serif;
+}
+.calibre19 {
+  text-decoration: underline;
+}
+.calibre20 {
+  font-size: 0.75em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre21 {
+  font-family: "Times New Roman", serif;
+  line-height: 1.2;
+}
+.calibre22 {
+  font-family: Times New Roman, serif;
+}
+.cbj_banner {
+  -webkit-border-radius: 8px;
+  background: #eee;
+  color: black;
+  display: block;
+  text-indent: 1.5em;
+  padding: 1em;
+  border: black solid thin;
+  margin: 0.5em 1em;
+}
+.cbj_comments {
+  display: block;
+  font-family: sans-serif;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-indent: 1.5em;
+}
+.cbj_content {
+  display: table-cell;
+  font-family: sans-serif;
+  text-align: left;
+  vertical-align: inherit;
+  width: 67%;
+  padding: 1px;
+}
+.cbj_footer {
+  display: block;
+  font-family: sans-serif;
+  font-size: 0.75em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.cbj_header {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.cbj_label {
+  display: table-cell;
+  font-family: sans-serif;
+  text-align: right;
+  vertical-align: inherit;
+  width: 33%;
+  padding: 1px;
+}
+.cbj_series {
+  display: table-cell;
+  text-align: center;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.cbj_title {
+  display: table-cell;
+  font-size: 1.41667em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.metadata_divider {
+  color: gray;
+  display: block;
+  height: 2px;
+  width: 90%;
+  border-top: white solid 0;
+  border-right: white solid 0;
+  border-bottom: black solid 1px;
+  border-left: white solid 0;
+  margin: 0.5em auto 0.5em 5%;
+}
+.msonormal {
+  display: block;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.msonormal1 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+}
+.msonormal2 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  margin: 0.5em 0;
+}
+.msonormal3 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.67em 0;
+}
+.msonormal4 {
+  display: block;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.83em 0;
+}
+.msonormal5 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.67em 0 6pt;
+}
+.msonormal6 {
+  display: block;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0.83em 0 6pt;
+}
+.msonormal7 {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 1em 0;
+}
+.msonormal8 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0.5em 0;
+}
+.msonormal9 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0.67em 0;
+}
+.msonormal10 {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.msonormal11 {
+  display: block;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0.83em 0;
+}
+.title {
+  line-height: 1.2;
+}
+.wordsection {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+}

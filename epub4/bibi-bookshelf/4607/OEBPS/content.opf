@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Parasız Yatılı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Füruzan">Füruzan</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>1971-06-15T12:34:47+00:00</dc:date>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Literary</dc:subject>
+    <dc:description>25 yıldır okunan bir öyküler kitabı Parasız Yatılı. Füruzan&amp;#39;ın çağdaş bir klasiği...&amp;quot;Füruzan, sıcak, acılı, yer yer insanın içine işleyen anlatımıyla, toplumumuzdan çok iyi tanıdığı kesitler veriyor bize. Çok yazmasına karşın yavanlığa düşmemesinin nedenini, el atmış olduğu çevreyi, bu çevredeki insan kaynağını iyi tanıyor olmasıyla açıklayabiliriz.&amp;quot; Mehmet H. Doğan</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">9d33e362-f37c-4f92-9253-f38711eb4e5d</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750832710</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="GOOGLE">9c9MCgAAQBAJ</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="kapak_fmt.jpeg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Parasız Yatılı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Füruzan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="Text/4-6.html" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="Text/4-7.html" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="Text/4-8.html" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="Text/4-9.html" id="x4-9" media-type="application/xhtml+xml"/>
+    <item href="Text/4-10.html" id="x4-10" media-type="application/xhtml+xml"/>
+    <item href="Text/4-11.html" id="x4-11" media-type="application/xhtml+xml"/>
+    <item href="Text/4-12.html" id="x4-12" media-type="application/xhtml+xml"/>
+    <item href="Text/4-13.html" id="x4-13" media-type="application/xhtml+xml"/>
+    <item href="Text/4-14.html" id="x4-14" media-type="application/xhtml+xml"/>
+    <item href="Text/4-15.html" id="x4-15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+    <itemref idref="x4-9"/>
+    <itemref idref="x4-10"/>
+    <itemref idref="x4-11"/>
+    <itemref idref="x4-12"/>
+    <itemref idref="x4-13"/>
+    <itemref idref="x4-14"/>
+    <itemref idref="x4-15"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

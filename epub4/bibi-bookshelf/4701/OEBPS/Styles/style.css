@@ -1,0 +1,40 @@
+@font-face{font-family:"Air Force";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Harker";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Harker";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Top Secret";font-style:normal;font-weight:normal;}
+@font-face{font-family:"TR DextorOut";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:normal;font-weight:bold;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:normal;}
+@font-face{font-family:"Trebuchet MS";font-style:italic;font-weight:bold;}
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.7em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.5em;margin-bottom:.5em;font-family:"Trebuchet MS",sans-serif;font-size:109%}
+.p2{text-indent:0;margin-left:0;text-align:center}
+.p3{text-indent:0;margin-left:0;text-align:center;margin-bottom:2.5em}
+.p4{text-indent:0;margin-left:3.5em;text-align:left}
+.p8{text-indent:0;margin-left:0;text-align:center;margin-top:1.5em;margin-bottom:1.5em}
+.p11{margin-left:0;margin-right:0;text-align:justify;margin-top:1em;margin-bottom:1em;font-family:"Trebuchet MS",sans-serif;font-size:109%}
+
+
+h1{text-indent:0;margin-left:0;line-height:120%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.43em;margin-bottom:1.1em;font-family:Harker}
+.h11{text-indent:0;font-size:3em}
+.t1{font-size:.92em;line-height:120%}
+.t2{font-family:Harker;font-size:2.3em;line-height:120%;letter-spacing:.036em}
+.t3{font-family:Harker;font-size:6em;line-height:120%;letter-spacing:.028em}
+.t4{font-family:Harker;font-size:2.3em;line-height:120%;letter-spacing:.11em}
+.t5{font-family:Harker;font-size:2.3em;line-height:120%;font-weight:bold;letter-spacing:.11em}
+.t6{font-size:.92em;line-height:120%;font-weight:bold;text-decoration:underline}
+.t7{font-family:"Top Secret";font-size:1.0em;line-height:120%}
+.t11{font-weight:bold;font-style:italic}
+.t12{font-family:"Air Force";font-size:1.7em;line-height:120%}
+.t14{font-family:"TR DextorOut",fantasy;font-size:1.2em;line-height:120%;font-weight:bold}
+.t15{font-weight:bold}
+.t17{font-style:italic}
+.t18{font-size:.65em;line-height:120%;font-weight:bold;vertical-align:super}
+.t28{font-family:Harker;font-size:4em;line-height:120%}
+
+span.baslik{font-family:"TR DextorOut",serif;font-size : 3.9em;float : left;line-height : 1;margin-top : 0.0em;margin-right : 0.0em;margin-bottom : 0.0em;}
+
+p.Paragraf-Stili-1 {font-family : "TR DextorOut", serif;font-weight : 300;font-style : normal;font-size : 1em;text-decoration : none;font-variant : normal;line-height : 1.2;text-align : justify;color : #000000;text-indent : 8px;margin : 5px 0px;}

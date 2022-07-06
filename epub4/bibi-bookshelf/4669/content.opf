@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Polisiye Roman Okuyan Hırsız</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Block, Lawrence">lawrence block</dc:creator>
+    <dc:date>2010-10-30T14:07:27+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f3a1c1f7-0b02-4873-8d15-53a5ace95734</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fa43dbea-f8ad-4908-80c2-b797ebf75f28</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-10-30T14:07:27.795904+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Polisiye Roman Okuyan Hırsız"/>
+    <meta name="calibre:author_link_map" content="{&quot;lawrence block&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="index-2_1.jpg" id="id3" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
