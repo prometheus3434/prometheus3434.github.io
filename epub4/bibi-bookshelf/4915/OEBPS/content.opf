@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sisler bulvarı: şiirler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="İlhan, Attila">Attila İlhan</dc:creator>
+    <dc:identifier id="BookId">AWP-0E09D8BE-15B8-4A12-A26F-29CBEE1423A9</dc:identifier>
+    <dc:publisher>Seçilmiş Hikâyeler Dergisi Kitapları</dc:publisher>
+    <dc:date>1954-06-15T12:28:26+00:00</dc:date>
+    <dc:date opf:event="modification">2014-01-13</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">19e97b2c-487d-4ccf-a48b-ed85e5419ebb</dc:identifier>
+    <dc:identifier opf:scheme="MERITOKRASI NOTU">4</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">XW83vgEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sisler bulvarı: şiirler"/>
+    <meta name="calibre:author_link_map" content="{&quot;Attila İlhan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html#a5" title="Table of Contents" type="toc"/>
+    <reference href="Text/001.html#a0" title="Beginning" type="text"/>
+  </guide>
+</package>

@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sivil Itaatsizlik</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Thoreau, Henry David">Henry David Thoreau</dc:creator>
+    <dc:date>2018-08-15T12:01:40+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:720FE126-9B15-4C99-AE39-5C6E5BA408AA</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Say Yayinlari</dc:publisher>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">5a225284-e7b0-49e9-918b-42bfcd7a9275</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9786050204681</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE">rqx6xgEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Sivil Itaatsizlik"/>
+    <meta name="calibre:author_link_map" content="{&quot;Henry David Thoreau&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/Image827_fmt.jpeg" id="Image827_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image834_fmt.jpeg" id="Image834_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="ufykny3qIDMI3iN6vg8GhDB" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

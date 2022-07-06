@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Siyasi tarih</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sander, Oral">Oral Sander</dc:creator>
+    <dc:identifier id="BookId">AWP-7535711C-49AF-4EAA-9227-7B131140CA9A</dc:identifier>
+    <dc:publisher>Imge Kitabevi Yayinlari</dc:publisher>
+    <dc:date>2012-10-15T12:08:33+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">3c986f68-664d-4315-b6ad-7a91486f2c21</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755330051</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755330051</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">9w8mSgAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Siyasi tarih"/>
+    <meta name="calibre:author_link_map" content="{&quot;Oral Sander&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item id="logo.xhtml" href="Text/logo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.html" href="Text/yazar.html" media-type="application/xhtml+xml"/>
+    <item id="title.html" href="Text/title.html" media-type="application/xhtml+xml"/>
+    <item id="kunye.html" href="Text/kunye.html" media-type="application/xhtml+xml"/>
+    <item id="onsoz.html" href="Text/onsoz.html" media-type="application/xhtml+xml"/>
+    <item id="x01.html" href="Text/01.html" media-type="application/xhtml+xml"/>
+    <item id="x02.html" href="Text/02.html" media-type="application/xhtml+xml"/>
+    <item id="x03.html" href="Text/03.html" media-type="application/xhtml+xml"/>
+    <item id="x04.html" href="Text/04.html" media-type="application/xhtml+xml"/>
+    <item id="x05.html" href="Text/05.html" media-type="application/xhtml+xml"/>
+    <item id="x05a.html" href="Text/05a.html" media-type="application/xhtml+xml"/>
+    <item id="x06.html" href="Text/06.html" media-type="application/xhtml+xml"/>
+    <item id="kaynaklar.xhtml" href="Text/kaynaklar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.html" href="Text/notlar.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="logo1.jpg" href="Images/logo1.jpg" media-type="image/jpeg"/>
+    <item id="section.jpg" href="Images/section.jpg" media-type="image/jpeg"/>
+    <item id="BerlingLTStd-Italic.ttf" href="Fonts/BerlingLTStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerlingLTStd-Roman.ttf" href="Fonts/BerlingLTStd-Roman.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansStd-Italic.ttf" href="Fonts/GillSansStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansStd.ttf" href="Fonts/GillSansStd.ttf" media-type="application/x-font-truetype"/>
+    <item id="TradeGothicTR.otf" href="Fonts/TradeGothicTR.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="title.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x05a.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="kaynaklar.xhtml"/>
+    <itemref idref="notlar.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

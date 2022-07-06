@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Siddhartha (Dual-Language)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hesse, Hermann">Hermann Hesse</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2013-09-05T10:33:58+00:00</dc:date>
+    <dc:publisher>Courier Corporation</dc:publisher>
+    <dc:description>Nobel prize-winning author Hermann Hesse imagined life in India during the lifetime of the Buddha to create this memorable tale about a restless seeker of enlightenment. First published in 1922, Siddhartha employs powerful symbolism to impart its timeless teachings.The story concerns a young Brahman who quits his comfortable home to join a roving group of holy men in striving to empty their hearts of passion and desire through self-denial and meditation. Discouraged by his failure to find Nirvana after three years of the strictest asceticism, the young seeker turns to the fleshly world, where he becomes a wealthy merchant and partakes of sensual pleasures with a sophisticated courtesan. Years of materialistic self-indulgence numb Siddhartha&amp;#39;s soul, but at his moment of greatest despondency, he begins to experience his long-sought spiritual awakening. True enlightenment, he realizes, cannot be received from the lessons of others; it must be attained through individual struggle. This handy dual-language edition — with its excellent line-for-line English translation on pages facing the original German text — offers students an outstanding opportunity to hone their German-language skills while discovering a literary classic.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-02-21</dc:date>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Din</dc:subject>
+    <dc:subject>German</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Foreign Language Study</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">3674f5ef-d591-4dc7-89aa-1f850e8ae90d</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750719394</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">LSuoAAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9780486117690</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Siddhartha (Dual-Language)" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Hermann Hesse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/hop.xhtml" id="hop.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sev.xhtml" id="sev.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal1.xhtml" id="nakkal1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic1.xhtml" id="ic1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic2.xhtml" id="ic2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic3.xhtml" id="ic3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal2.xhtml" id="nakkal2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic4.xhtml" id="ic4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic5.xhtml" id="ic5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic6.xhtml" id="ic6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic7.xhtml" id="ic7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic8.xhtml" id="ic8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic9.xhtml" id="ic9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic10.xhtml" id="ic10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic11.xhtml" id="ic11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/Art_Pcommon.jpg" id="Art_Pcommon.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="hop.xhtml"/>
+    <itemref idref="sev.xhtml"/>
+    <itemref idref="nakkal1.xhtml"/>
+    <itemref idref="ic1.xhtml"/>
+    <itemref idref="ic2.xhtml"/>
+    <itemref idref="ic3.xhtml"/>
+    <itemref idref="nakkal2.xhtml"/>
+    <itemref idref="ic4.xhtml"/>
+    <itemref idref="ic5.xhtml"/>
+    <itemref idref="ic6.xhtml"/>
+    <itemref idref="ic7.xhtml"/>
+    <itemref idref="ic8.xhtml"/>
+    <itemref idref="ic9.xhtml"/>
+    <itemref idref="ic10.xhtml"/>
+    <itemref idref="ic11.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

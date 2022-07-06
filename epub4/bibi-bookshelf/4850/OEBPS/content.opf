@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sessiz Yığınların Gölgesinde ya da Toplumsalın Sonu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Baudrillard, Jean">Jean Baudrillard</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4c457f8b-d523-4aa9-ad8f-f267237c5a80</dc:identifier>
+    <dc:publisher>Ayrıntı Yayınevi</dc:publisher>
+    <dc:date>1991-01-17T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Sessiz çoğunluğun ya da kitlelerin düşsel bir gönderen olması, onun var olmadığı anlamına gelmez. Bunun anlamı sessiz çoğunluğun artık temsil edilemeyecek bir durumda bulunmasıdır. Kitleler artık temsil edilememektedirler. Ses vermeyen bu kitleler sondajlar aracılığıyla sık sık yoklanmaktadırlar. Düşünceleri yansıtılmamaktadır. Yalnızca ne düşündükleri konusunda testler yapılmaktadır. Referandum (kitle iletişim araçları da sonsuz bir soru / yanıt referandumudurlar) politik gönderenin yerini almıştır. Oysa sondajlar, testler, referandum ve kitle iletişim araçları temsil edici bir sisteme ait tertibatlar değil, simülatif bir sisteme ait olan tertibatlardır. Artık amaçlanan şey bir gönderen değil, bir modeldir." 
+
+Jean Baudrillard bu metinde yukarıdaki bakış açısından yola çıkmakta ve bu anlamda için için kaynama özelliğine sahip kitle, modern toplumlara ait bir özelliğe dönüşmektedir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Sosyoloji</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">d58efdab-2253-4218-94cc-f13002b40fd8</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:4c457f8b-d523-4aa9-ad8f-f267237c5a80</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9755390049</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sessiz Yığınların Gölgesinde ya da Toplumsalın Sonu"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean Baudrillard&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Title.xhtml" id="Title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Contents.xhtml" id="Contents.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Main.xhtml" id="Main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Notes.xhtml" id="Notes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/Cover.jpg" id="Cover.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="Title.xhtml"/>
+    <itemref idref="Contents.xhtml"/>
+    <itemref idref="Main.xhtml"/>
+    <itemref idref="Notes.xhtml"/>
+  </spine>
+  <guide/>
+</package>

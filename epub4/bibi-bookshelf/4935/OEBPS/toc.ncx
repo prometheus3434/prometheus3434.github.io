@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{C81C5E23-32BF-44A3-ADF1-044FC2BDE46A}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Siyasi Tarih #1 (İlkçağlardan 1918'e)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/O-001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Üçüncü Baskıya Önsöz</text>
+      </navLabel>
+      <content src="Text/O-002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I Tarih Nedir?</text>
+      </navLabel>
+      <content src="Text/B-001.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>A. TARİHTE OLAY1</text>
+        </navLabel>
+        <content src="Text/B-001.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>B. TARİHTE NEDEN</text>
+        </navLabel>
+        <content src="Text/B-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>C. TARİHTE EĞİLİM</text>
+        </navLabel>
+        <content src="Text/B-003.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>II Siyasi Tarih Nedir?</text>
+      </navLabel>
+      <content src="Text/B-004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>III XIX. Yüzyıla Kadar Dünya Tarihinin Anahatları</text>
+      </navLabel>
+      <content src="Text/B-005.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>A. TARIMA DAYALI UYGARLIKLAR ORTADOĞU’NUN ÜSTÜNLÜĞÜ DÖNEMİ (M.Ö. 5000-M.Ö. 500)</text>
+        </navLabel>
+        <content src="Text/B-006.xhtml"/>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>1. Yerleşik Topluluklar</text>
+          </navLabel>
+          <content src="Text/B-006.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>2. Göçebeler</text>
+          </navLabel>
+          <content src="Text/B-007.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>3. Din ve İlk Buluşlar</text>
+          </navLabel>
+          <content src="Text/B-008.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>4. Avrupa</text>
+          </navLabel>
+          <content src="Text/B-009.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>B. UYGARLIĞIN “GLOBAL” NİTELİK ALMAYA BAŞLAMASI (M.Ö. 500-M.S. 1500)</text>
+        </navLabel>
+        <content src="Text/B-010.xhtml"/>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>1. Grek Uygarlığı ve Helenizmin Genişlemesi (M.Ö. 500-M.S. 500)</text>
+          </navLabel>
+          <content src="Text/B-010.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>2. İslam Dünyasının Üstünlüğü (M.S. 600-1000)</text>
+          </navLabel>
+          <content src="Text/B-011.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>3. Steplerin Egemenliği: Moğollar ve Türkler (1000-1500)</text>
+          </navLabel>
+          <content src="Text/B-012.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>C. MODERN VE GLOBAL DÜNYAYA GEÇİŞ BATI8 EGEMENLİĞİ DÖNEMİ (1500’DEN GÜNÜMÜZE)</text>
+        </navLabel>
+        <content src="Text/B-013.xhtml"/>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>1. Batı’nın Yükselmesinin Temel Nedenleri</text>
+          </navLabel>
+          <content src="Text/B-013.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>2. Batı’nın Denizlerde Üstünlüğü Sağlaması (1500-1700)</text>
+          </navLabel>
+          <content src="Text/B-014.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>3. Dünya Dengesinin Sarsılması: Globalleşmeye Geçiş (1700-1850)</text>
+          </navLabel>
+          <content src="Text/B-015.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>IV Devrimler Dönemi(1776-1848)</text>
+      </navLabel>
+      <content src="Text/B-016.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>A. AMERİKAN DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/B-016.xhtml#sigil_toc_id_5"/>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>1. Kuzey Amerika’daki İngiliz Üstünlüğü</text>
+          </navLabel>
+          <content src="Text/B-016.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>2. Kuzey Amerika Halkının Ayırıcı Özellikleri</text>
+          </navLabel>
+          <content src="Text/B-017.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>3. ABD’nin Bağımsızlığı ve Sonuçları</text>
+          </navLabel>
+          <content src="Text/B-018.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>4. İç Savaş ve Sonrası</text>
+          </navLabel>
+          <content src="Text/B-019.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>B. BÜYÜK FRANSIZ DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/B-020.xhtml"/>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>1. Devrim Öncesi Ortamı</text>
+          </navLabel>
+          <content src="Text/B-020.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>2. Haklar Bildirisi ve Anayasa</text>
+          </navLabel>
+          <content src="Text/B-021.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>3. Devrimden Savaşa ve Terör Yönetimine</text>
+          </navLabel>
+          <content src="Text/B-022.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>4. Savaşın Değişen Niteliği ve Napoİyon Bonapart</text>
+          </navLabel>
+          <content src="Text/B-023.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>C. VİYANA KONGRESİ</text>
+        </navLabel>
+        <content src="Text/B-024.xhtml"/>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>1. Viyana Düzeninin Mimarları: Castlereagh ve Metternich</text>
+          </navLabel>
+          <content src="Text/B-024.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>2. Cezalandırma Yerine Denge</text>
+          </navLabel>
+          <content src="Text/B-025.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>3. Viyana Düzenlemeleri</text>
+          </navLabel>
+          <content src="Text/B-026.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>4. Genel Değerlendirme</text>
+          </navLabel>
+          <content src="Text/B-027.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Ç. 1830 ve 1848 DEVRİMLERİ</text>
+        </navLabel>
+        <content src="Text/B-028.xhtml"/>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>1. Ekonomik ve Toplumsal Ortam</text>
+          </navLabel>
+          <content src="Text/B-028.xhtml#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>2. Fransa’da 1830 ve 1848 Devrimleri</text>
+          </navLabel>
+          <content src="Text/B-029.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>3. Avrupa’da 1848 Devrimleri</text>
+          </navLabel>
+          <content src="Text/B-030.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>D. “OSMANLI RÖNESANSI” VE BATI AVRUPA İLE GELİŞEN DİPLOMASİ</text>
+        </navLabel>
+        <content src="Text/B-031.xhtml"/>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>1. Osmanlı Diplomasisinde Gelişmeler</text>
+          </navLabel>
+          <content src="Text/B-031.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>2. Rusya ve Avusturya ile ilişkiler: Prut ve Petervaradin</text>
+          </navLabel>
+          <content src="Text/B-032.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>3. Lale Devri ve Önemi</text>
+          </navLabel>
+          <content src="Text/B-033.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>4. Küçük Kaynarca ve İçten Dağılma Sürecinin Başlaması</text>
+          </navLabel>
+          <content src="Text/B-034.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>V Endüstri Devrimi ve Sonuçları: Globalleşme Dönemi25</text>
+      </navLabel>
+      <content src="Text/B-035.xhtml"/>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>A. ENDÜSTRİ DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/B-035.xhtml#sigil_toc_id_11"/>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>1. Endüstri Devriminin İlk Aşaması (1870’lere Kadar)</text>
+          </navLabel>
+          <content src="Text/B-036.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>2. Endüstri Devriminin İkinci Aşaması (1870’lerden Sonra)</text>
+          </navLabel>
+          <content src="Text/B-037.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>3. Sağlık, Beslenme, Çevre ve Nüfus</text>
+          </navLabel>
+          <content src="Text/B-038.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>4. Kitle Toplumunun Ortaya Çıkışı</text>
+          </navLabel>
+          <content src="Text/B-039.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>B. ALMAN VE İTALYAN ULUSAL BİRLİKLERİ</text>
+        </navLabel>
+        <content src="Text/B-040.xhtml"/>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>1. Temeli</text>
+          </navLabel>
+          <content src="Text/B-040.xhtml#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>2. İtalyan Birliği’nin Kuruluşu</text>
+          </navLabel>
+          <content src="Text/B-041.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>3. Almanya Birliği’nin Kuruluşu</text>
+          </navLabel>
+          <content src="Text/B-042.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>4. Alman Ulusal Birliği’nin Sonuçları</text>
+          </navLabel>
+          <content src="Text/B-043.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>C. EMPERYALİZM</text>
+        </navLabel>
+        <content src="Text/B-044.xhtml"/>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>1. Ekonomik Unsur</text>
+          </navLabel>
+          <content src="Text/B-045.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>2. Demografik Unsur</text>
+          </navLabel>
+          <content src="Text/B-046.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>3. Güvenlik Endişesi</text>
+          </navLabel>
+          <content src="Text/B-047.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>4. Ulusal İtibar ve Bütünlük Duygusu</text>
+          </navLabel>
+          <content src="Text/B-048.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>5. Berlin Konferansı</text>
+          </navLabel>
+          <content src="Text/B-049.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>6. Sömürge İmparatorlukları</text>
+          </navLabel>
+          <content src="Text/B-050.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>7. Emperyalizmin Sömürü İlişkisi</text>
+          </navLabel>
+          <content src="Text/B-051.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>VI Birinci Dünya Savaşı’na Nasıl Gidildi?</text>
+      </navLabel>
+      <content src="Text/B-052.xhtml"/>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>A. YENİ SÜREKLİLİK VE DEĞİŞİKLİK GÜÇLERİ</text>
+        </navLabel>
+        <content src="Text/B-052.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>B. SİYASET, EKONOMİ VE ASKERLİK ALANLARINDA YENİ ÖRGÜTLENME BİÇİMLERİ</text>
+        </navLabel>
+        <content src="Text/B-053.xhtml"/>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>1. Siyaset Alanında Gelişmeler</text>
+          </navLabel>
+          <content src="Text/B-053.xhtml#sigil_toc_id_14"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>2. Ekonomi Alanında Gelişmeler</text>
+          </navLabel>
+          <content src="Text/B-054.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>3. Askerlik Alanında Gelişmeler</text>
+          </navLabel>
+          <content src="Text/B-055.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>C. DIŞ POLİTİKANIN TEK ELDE TOPLANMASI</text>
+        </navLabel>
+        <content src="Text/B-056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Ç. AVRUPA UYUMUNUN SONU VE YENİ ULUSLARARASI GÜÇ DENGESİ</text>
+        </navLabel>
+        <content src="Text/B-057.xhtml"/>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>1. Avrupa Uyumunun Dayandığı Temellerin Yıkılması</text>
+          </navLabel>
+          <content src="Text/B-058.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>2. Güç Dengesinin Değişmesi</text>
+          </navLabel>
+          <content src="Text/B-059.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>D. ALMANYA’NIN KITA ÜSTÜNLÜĞÜ: ÜÇLÜ İTTİFAK</text>
+        </navLabel>
+        <content src="Text/B-060.xhtml"/>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>1. Alman-Fransız Düşmanlığı</text>
+          </navLabel>
+          <content src="Text/B-060.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>2. Almanya’nın Stratejik Zayıflığı</text>
+          </navLabel>
+          <content src="Text/B-061.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>3. Bismarck Antlaşmalar Sistemi</text>
+          </navLabel>
+          <content src="Text/B-062.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>4. Alman-İngiliz Rekabeti</text>
+          </navLabel>
+          <content src="Text/B-063.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>E. İNGİLTERE’NİN SÖMÜRGE (DENİZ) ÜSTÜNLÜĞÜ: ÜÇLÜ ANLAŞMA</text>
+        </navLabel>
+        <content src="Text/B-064.xhtml"/>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>1. Blok-Dışı Anlaşmalar</text>
+          </navLabel>
+          <content src="Text/B-064.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>2. Bismarck’ın Düşüşü ve II. Wilhelm</text>
+          </navLabel>
+          <content src="Text/B-065.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>3. Fransız-Rus Antlaşması</text>
+          </navLabel>
+          <content src="Text/B-066.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>4. İngiliz-Fransız Antlaşması (Entente Cordiale)</text>
+          </navLabel>
+          <content src="Text/B-067.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>5. İngiliz-Rus Sömürge Antlaşması</text>
+          </navLabel>
+          <content src="Text/B-068.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>6. Rus-Japon Savaşı ile Bloklaşmanın Önemi ve Sonuçları</text>
+          </navLabel>
+          <content src="Text/B-069.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>F. AVRUPA-DIŞI DÜNYA: BATI-KARŞITI İLK HAREKETLER25</text>
+        </navLabel>
+        <content src="Text/B-070.xhtml"/>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>1. Çin’de Çözülme ve Parçalanma</text>
+          </navLabel>
+          <content src="Text/B-071.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>3. Hindistan’da Ulusal Kongre’nin Kurulması</text>
+          </navLabel>
+          <content src="Text/B-072.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>4. Mısır’da Arabi Paşa Ayaklanması</text>
+          </navLabel>
+          <content src="Text/B-073.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>5. Genel Değerlendirme</text>
+          </navLabel>
+          <content src="Text/B-074.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>6. Afrika Parçalanıyor</text>
+          </navLabel>
+          <content src="Text/B-075.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>7. Latin Amerika’ya Erken Gelen Bağımsızlık</text>
+          </navLabel>
+          <content src="Text/B-076.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>G. OSMANLI DEVLETİNİN PARÇALANMASI</text>
+        </navLabel>
+        <content src="Text/B-077.xhtml"/>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>1. Osmanlı Devletinin 19. Yüzyıldaki Genel Görüntüsü</text>
+          </navLabel>
+          <content src="Text/B-078.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>2. Osmanlı Devletinin Parçalanma Nedenleri</text>
+          </navLabel>
+          <content src="Text/B-079.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>3. Napolyon Dönemindeki Osmanlı-Rus Savaşı</text>
+          </navLabel>
+          <content src="Text/B-080.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>4. Yunanistan’ın Bağımsızlığını Kazanması ve 1828-1829 Osmanlı-Rus Savaşı</text>
+          </navLabel>
+          <content src="Text/B-081.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>5. Kavalalı Mehmet Ali Paşa Ayaklanması: 1831-1841</text>
+          </navLabel>
+          <content src="Text/B-082.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>7. Kırım Savaşı ve Islahat Fermanı</text>
+          </navLabel>
+          <content src="Text/B-083.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>8. 1877-1878 Osmanlı-Rus Savaşı ve I. Meşrutiyet</text>
+          </navLabel>
+          <content src="Text/B-084.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>9. Osmanlı Devleti’ne Yeni Bir Dost: Almanya</text>
+          </navLabel>
+          <content src="Text/B-085.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>10. Ağır Bunalımlar Dönemi: 1908-1914</text>
+          </navLabel>
+          <content src="Text/B-085.xhtml#sigil_toc_id_17"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>H. 19. YÜZYILDA OSMANLI DİPLOMASİSİNDEKİ GELİŞMELER26</text>
+        </navLabel>
+        <content src="Text/B-086.xhtml"/>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>1. Çokyönlü Diplomasi Gereği</text>
+          </navLabel>
+          <content src="Text/B-086.xhtml#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>2. Reis-ül Küttaplık Dairesinin Önem Kazanması</text>
+          </navLabel>
+          <content src="Text/B-087.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-108" playOrder="108">
+          <navLabel>
+            <text>3. Dışişleri Bakanlığı ve Sivil Bürokrasinin Temelleri (1790-1839)</text>
+          </navLabel>
+          <content src="Text/B-088.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>4. Tanzimat Döneminde Sivil Bürokrasi (1839-1871)</text>
+          </navLabel>
+          <content src="Text/B-089.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>5. I. Meşrutiyet ve Sultan’ın Üstünlüğüne Geri Dönüş</text>
+          </navLabel>
+          <content src="Text/B-090.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>İ.BİRİNCİ DÜNYA SAVAŞI ÖNCESİ BUNALIMLARI</text>
+        </navLabel>
+        <content src="Text/B-091.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>VII Birinci Dünya Savaşı</text>
+      </navLabel>
+      <content src="Text/B-092.xhtml"/>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>A. SAVAŞIN YAKIN NEDENLERİ</text>
+        </navLabel>
+        <content src="Text/B-092.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>B. SAVAŞIN TEMEL NEDENLERİ</text>
+        </navLabel>
+        <content src="Text/B-093.xhtml"/>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>1. Emperyalizm</text>
+          </navLabel>
+          <content src="Text/B-094.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+          <navLabel>
+            <text>2. Almanya’nın Güvenlik Sorunu</text>
+          </navLabel>
+          <content src="Text/B-095.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-117" playOrder="117">
+          <navLabel>
+            <text>3. Değişken Güç Dengesi ve Uluslararası Güvensizlik</text>
+          </navLabel>
+          <content src="Text/B-096.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-118" playOrder="118">
+          <navLabel>
+            <text>4. Uluslararası Örgütlenmenin Olmaması</text>
+          </navLabel>
+          <content src="Text/B-097.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>5. Osmanlı Mirası Üzerinde Çatışma</text>
+          </navLabel>
+          <content src="Text/B-098.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>C.SAVAŞIN ÇIKIŞI</text>
+        </navLabel>
+        <content src="Text/B-099.xhtml"/>
+        <navPoint id="navPoint-121" playOrder="121">
+          <navLabel>
+            <text>1. Savaş İlanları</text>
+          </navLabel>
+          <content src="Text/B-099.xhtml#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>2. Çabuk Sönecek Büyük Ümitler</text>
+          </navLabel>
+          <content src="Text/B-100.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>D. 1914 VE 1915 YILLARINDA CEPHELER</text>
+        </navLabel>
+        <content src="Text/B-101.xhtml"/>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>1. 1914 Yılında Batı Cephesi</text>
+          </navLabel>
+          <content src="Text/B-101.xhtml#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>2. 1914 Yılında Doğu Cephesi</text>
+          </navLabel>
+          <content src="Text/B-102.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>3. 1915 Yılında Batı Cephesi</text>
+          </navLabel>
+          <content src="Text/B-103.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>4. 1915 Yılında Doğu Cephesi</text>
+          </navLabel>
+          <content src="Text/B-104.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>E. SAVAŞ VE OSMANLI DEVLETİ</text>
+        </navLabel>
+        <content src="Text/B-105.xhtml"/>
+        <navPoint id="navPoint-129" playOrder="129">
+          <navLabel>
+            <text>1. Osmanlı-Alman İttifakı</text>
+          </navLabel>
+          <content src="Text/B-105.xhtml#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="navPoint-130" playOrder="130">
+          <navLabel>
+            <text>2.Osmanlı Devletinin Savaş Dışı Durumu</text>
+          </navLabel>
+          <content src="Text/B-106.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>3. I. Dünya Savaşı’nda Osmanlı Cepheleri</text>
+          </navLabel>
+          <content src="Text/B-107.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>F. 1916 YILINDA CEPHELER</text>
+        </navLabel>
+        <content src="Text/B-108.xhtml"/>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>1. Batı Cephesi</text>
+          </navLabel>
+          <content src="Text/B-108.xhtml#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-134" playOrder="134">
+          <navLabel>
+            <text>2. Doğu Cephesi</text>
+          </navLabel>
+          <content src="Text/B-108.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>G. OSMANLI DEVLETİNİ PARÇALAYAN GİZLİ ANLAŞMALAR</text>
+        </navLabel>
+        <content src="Text/B-109.xhtml"/>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>1. Rusya ile Yapılan Boğazlar Anlaşması29</text>
+          </navLabel>
+          <content src="Text/B-110.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>2.Londra Anlaşması</text>
+          </navLabel>
+          <content src="Text/B-111.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-138" playOrder="138">
+          <navLabel>
+            <text>3. Sykes-Picot Antlaşması</text>
+          </navLabel>
+          <content src="Text/B-112.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>4. St. Jean de Maurienne Anlaşması</text>
+          </navLabel>
+          <content src="Text/B-113.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>H. 1917 YILINDAKİ GELİŞMELER</text>
+        </navLabel>
+        <content src="Text/B-114.xhtml"/>
+        <navPoint id="navPoint-141" playOrder="141">
+          <navLabel>
+            <text>1. ABD’nin Savaşa Girişi ve Wilson’ın 14 Noktası</text>
+          </navLabel>
+          <content src="Text/B-114.xhtml#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="navPoint-142" playOrder="142">
+          <navLabel>
+            <text>2. Sovyet Devrimi ve Rusya’nın Savaştan Çekilmesi</text>
+          </navLabel>
+          <content src="Text/B-115.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>I. SAVAŞIN SONU</text>
+        </navLabel>
+        <content src="Text/B-116.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>J. BİRİNCİ DÜNYA SAVAŞI’NIN SONUÇLARI</text>
+        </navLabel>
+        <content src="Text/B-117.xhtml"/>
+        <navPoint id="navPoint-145" playOrder="145">
+          <navLabel>
+            <text>1. Ekonomik ve Toplumsal Sonuçları</text>
+          </navLabel>
+          <content src="Text/B-117.xhtml#sigil_toc_id_26"/>
+        </navPoint>
+        <navPoint id="navPoint-146" playOrder="146">
+          <navLabel>
+            <text>2. Siyasal Sonuçları: Avrupa’nın Dünya Üstünlüğünün Sarsılması</text>
+          </navLabel>
+          <content src="Text/B-118.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-147" playOrder="147">
+          <navLabel>
+            <text>3. Genel Değerlendirme</text>
+          </navLabel>
+          <content src="Text/B-118.xhtml#sigil_toc_id_27"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>K. PARİS BARIŞ ANTLAŞMALARI</text>
+        </navLabel>
+        <content src="Text/B-119.xhtml"/>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>1. Karşılaşılan Sorunlar</text>
+          </navLabel>
+          <content src="Text/B-120.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>2. Barış Antlaşmasının Hükümleri</text>
+          </navLabel>
+          <content src="Text/B-121.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-151" playOrder="151">
+          <navLabel>
+            <text>3. Barış Düzenlemesinin Değerlendirilmesi</text>
+          </navLabel>
+          <content src="Text/B-122.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>L. TÜRK ULUSAL KURTULUŞ SAVAŞI30</text>
+        </navLabel>
+        <content src="Text/B-123.xhtml"/>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>1. Ulusal Kurtuluş Savaşının Örgütlenmesi ve Misakımilli</text>
+          </navLabel>
+          <content src="Text/B-123.xhtml#sigil_toc_id_28"/>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>2. Sevres Barış Antlaşması</text>
+          </navLabel>
+          <content src="Text/B-124.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>3. Savaş ve Diplomasi</text>
+          </navLabel>
+          <content src="Text/B-125.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>4. Lausanne (Lozan) Barış Antlaşması</text>
+          </navLabel>
+          <content src="Text/B-126.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>5. Türk Ulusal Kurtuluş Savaşı’nın Ayırıcı Özellikleri ve Atatürk</text>
+          </navLabel>
+          <content src="Text/B-127.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

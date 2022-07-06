@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sevgili Arsız Ölüm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tekin, Latife">Latife Tekin</dc:creator>
+    <dc:identifier id="BookId">AWP-A7ED2BA8-6C8F-4040-B0A5-0CB78CA56182</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:date>2022-05-01T10:02:20+00:00</dc:date>
+    <dc:date opf:event="modification">2015-05-01</dc:date>
+    <dc:description>… Kendi öz değerlerimi, dilimi ve birlikte doğup büyüdüğüm insanların durulmaz bir coşkuyla bana taşıdıkları sevgiyi koruyabilmek için direndim. Elinizdeki roman bu direnişim için aralarında büyüdüğüm insanların bana armağanıdır.Bu sözlerle anlatıyor Latife Tekin ilk romanı Sevgili Arsız Ölüm’ü. Yazarının yaşadıklarından damıttığı, sözlü kültürle harmanladığı bu benzersiz roman ilk kez 1983’te yayımlanmıştı. Aktaş ailesinin köyden kente göçünü, yaşama çabalarını, korkularını, aile bireylerinin giderek yalnızlaşmasını konu edinen Sevgili Arsız Ölüm, yoksulların yaralı bilincini benzersiz bir şekilde yansıtmakla birlikte, masallar, türküler, mâniler ve halk hikâyeleriyle örülmüş anlatımı nedeniyle eleştirmenlerce “büyülü gerçekçilik” akımına dahil edilmiştir.Yayımlandığında büyük yankı uyandırarak edebiyatımıza damga vuran Sevgili Arsız Ölüm, birçok dile çevrilmesinin yanı sıra tiyatroya da uyarlandı.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">724171a5-cae4-4ae2-a0b2-6005fa3c647d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">1hJzEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750511295</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750744402</dc:identifier>
+    <meta name="cover" content="Latife_Tekin_-_Sevgili_Arsız_Ölüm.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sevgili Arsız Ölüm"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Latife Tekin&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/img1.png" id="img1" media-type="image/png"/>
+    <item href="Images/Latife_Tekin_-_Sevgili_Arsiz_Olum.jpg" id="Latife_Tekin_-_Sevgili_Arsız_Ölüm.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

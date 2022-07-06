@@ -1,0 +1,124 @@
+p {text-indent: 1.5em;text-align:justify;margin:0.3em;line-height:1.3em}
+h2,h3,h5,h6 {text-indent: 0px;text-align:center;}
+
+h4 {text-indent: 0px;
+    text-align:center; 
+    margin-top: 1.5em; 
+    margin-bottom: 0.5em;}
+
+h1 {text-align:center;margin:0;font-size:2.5em;} 
+
+.ickapak {margin-top:2em}
+.ickapak p {text-indent:0em;text-align:center}
+.yazar {font-size:1.3em;margin-bottom:1em;}
+.yazarb {font-size:1.9em;margin-bottom:1em;}
+.kitap {font-size:3em;margin-bottom:0.5em}
+.cevirmen {font-size:0.9em}
+.logo {margin-top:6em}
+.tur {margin-top:0em;font-size:0.9em;margin-bottom:2em}
+.ickapak span {font-weight:normal;font-size:0.9em}
+
+.kunya p {
+          font-family :"Garamond";
+	      font-weight : normal;
+	      font-style : normal;
+	      font-size : 0.7em;
+	      text-decoration : none;
+	      font-variant : normal;
+	      line-height : 1.38;
+	      text-align:center;
+	      color : #000000;
+	      text-indent : 0px;
+	      margin : 3px 30px 0px 30px;
+          }
+
+.bosluk {
+         padding-top:4em;
+         padding-bottom:4em;
+         }
+
+.bosluk1 {
+         padding-top:0.3em;
+         padding-bottom:0.3em;
+         }
+.bosluk2 {
+         padding-top:1em;
+         padding-bottom:1em;
+         }
+
+a {
+   text-decoration: none;
+   color: #d10202;
+   font-size:0.9em;
+   }
+
+.n p {text-indent: 0em;text-align:justify;margin:0;line-height:1.3em}
+
+.n {text-indent: 0em;text-align:justify;margin:0;line-height:1.3em}
+
+.ithaf {
+       text-indent:0em;
+       text-align:center;
+       font-family:"Liberation Serif",Times;
+       font-size:0.99em;
+       margin-right:0.5in;
+       font-weight:normal;
+       font-style: normal;
+       margin-top:0em;
+       margin-bottom:0em;
+       }
+
+div.b{text-indent: 0em;
+      margin-left: 0.5in;
+      margin-right:0.3in; 
+      text-align:justify;
+      margin-bottom:2em;
+      font-size:0.9em;
+      }
+
+.ara { text-indent: 0em;
+       text-align: justify;
+       font-family: "Liberation Serif",Times;
+       font-size: 0.9em;
+       margin-left: 0.4in;
+       font-weight:normal;
+       font-style: normal;
+       margin-top: 1em;
+       margin-bottom: 1em;
+       }
+
+.dip { text-indent: 0em;
+       text-align: justify;
+       font-family: "Liberation Serif",Times;
+       font-size: 1em;
+       font-weight:normal;
+       font-style: normal;
+       margin-top: 1em;
+       margin-bottom: 1em;
+       }
+
+.arab { text-indent: 0em;
+       text-align: left;
+       font-size: 1.1em;
+       font-weight:bold;
+       font-style: italic;
+       margin-top: 1.5em;
+       margin-bottom: 0.5em;
+       }
+
+.y    { text-indent: 0em;
+       text-align: right;
+       font-size: 1em;
+       font-weight:bold;
+       font-style: italic;
+       margin-top: 0.5em;
+       margin-bottom: 0.5em;
+       }
+blockquote p {font-size: 0.9em;text-indent:1.5em;}
+
+.sekil {text-indent: 0em;
+       text-align:center;
+       font-size: 1em;
+       font-weight:bold;
+       font-style:normal;
+       }

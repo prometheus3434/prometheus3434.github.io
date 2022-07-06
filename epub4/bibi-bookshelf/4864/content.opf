@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>SevgiMasali</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2021-12-01T12:54:24+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1413dd2b-e487-4b1c-927c-b2d07e2cca6f</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">081a5508-1478-4769-b5e5-730e0a90c4e4</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-12-02T10:50:51.429224+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="SevgiMasali"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="urN89yqGP4mVMCT9tdyfyzC" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="SevgiMasali" href="OEBPS/SevgiMasali.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="x01.png" href="OEBPS/image/01.png" media-type="image/png"/>
+    <item id="x02.png" href="OEBPS/image/02.png" media-type="image/png"/>
+    <item id="x03.jpg" href="OEBPS/image/03.jpg" media-type="image/jpeg"/>
+    <item id="x04.png" href="OEBPS/image/04.png" media-type="image/png"/>
+    <item id="x05.jpg" href="OEBPS/image/05.jpg" media-type="image/jpeg"/>
+    <item id="x06.jpg" href="OEBPS/image/06.jpg" media-type="image/jpeg"/>
+    <item id="x07.png" href="OEBPS/image/07.png" media-type="image/png"/>
+    <item id="x08.jpg" href="OEBPS/image/08.jpg" media-type="image/jpeg"/>
+    <item id="x09.jpg" href="OEBPS/image/09.jpg" media-type="image/jpeg"/>
+    <item id="x10.png" href="OEBPS/image/10.png" media-type="image/png"/>
+    <item id="x11.jpg" href="OEBPS/image/11.jpg" media-type="image/jpeg"/>
+    <item id="x12.jpg" href="OEBPS/image/12.jpg" media-type="image/jpeg"/>
+    <item id="x13.jpg" href="OEBPS/image/13.jpg" media-type="image/jpeg"/>
+    <item id="x13.png" href="OEBPS/image/13.png" media-type="image/png"/>
+    <item id="x14.jpg" href="OEBPS/image/14.jpg" media-type="image/jpeg"/>
+    <item id="x15.png" href="OEBPS/image/15.png" media-type="image/png"/>
+    <item id="BirSeftaliBinSeftali.jpg" href="OEBPS/image/BirSeftaliBinSeftali.jpg" media-type="image/jpeg"/>
+    <item id="KucukKaraBalik.jpg" href="OEBPS/image/KucukKaraBalik.jpg" media-type="image/jpeg"/>
+    <item id="samed_behrengi_fars_a_isim.png" href="OEBPS/image/samed_behrengi_fars_a_isim.png" media-type="image/png"/>
+    <item id="cover" href="OEBPS/image/SevgiMasali.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="urN89yqGP4mVMCT9tdyfyzC"/>
+    <itemref idref="SevgiMasali"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover Image"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

@@ -1,0 +1,11 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+@font-face {
+  font-family: "Times New Roman";
+  font-weight: normal;
+  font-style: italic;
+
+  src: url(../Fonts/Times-New-Roman-Italic.ttf);
+  }

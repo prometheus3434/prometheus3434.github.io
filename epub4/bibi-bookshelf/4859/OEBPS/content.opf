@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sevgi masalı</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Behrengi, Samed &amp; Ekin, T.">Samed Behrengi</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">T. Ekin</dc:creator>
+    <dc:publisher>Su Yayınları</dc:publisher>
+    <dc:date>2009-06-15T12:47:54+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:EBFC06E8-1CF0-4665-9F40-5AD7EF78842E</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">ebc12b59-023a-41e2-97ca-1e8956ef1695</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789756709849</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="GOOGLE">SVcTcgAACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Sevgi masalı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Samed Behrengi&quot;: &quot;&quot;, &quot;T. Ekin&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="5-1.html" id="x5-1" media-type="application/xhtml+xml"/>
+    <item href="5-2.html" id="x5-2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/1_fmt1.jpeg" id="x1_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt1.jpeg" id="x6_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ulTnY666mgOvdkxwJ7B2UYF" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="x5-2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

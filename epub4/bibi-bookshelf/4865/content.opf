@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Sevil berberi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Beaumarchais, Pierre Augustin Caron de &amp; İlhan, Ertuğ">Pierre Augustin Caron de Beaumarchais</dc:creator>
+    <dc:creator opf:role="aut">Ertuğ İlhan</dc:creator>
+    <dc:publisher>Cumhuriyet</dc:publisher>
+    <dc:date>1999-06-15T12:48:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2b928a56-3c1c-4a0b-a898-e654bc6bdbf6</dc:identifier>
+    <dc:subject>www.iphonepub.com</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">849311ae-cf22-4efd-8547-6e51dcdbb07b</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">M5vUXwAACAAJ</dc:identifier>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:timestamp" content="2010-11-03T23:08:39.164387+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Sevil berberi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Pierre Augustin Caron de Beaumarchais&quot;: &quot;&quot;, &quot;Ertuğ İlhan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

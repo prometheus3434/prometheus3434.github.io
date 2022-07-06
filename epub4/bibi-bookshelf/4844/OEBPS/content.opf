@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sesini Duyur!</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="CROSSE, JOANNA">Joanna Crosse</dc:creator>
+    <dc:description>&lt;p&gt;Sesiniz özgündür ve onu kullanma şekliniz sizin hakkınızda çok şey söyler. Ama herkes bunu kendi avantajına nasıl kullanacağını bilmez.
+
+İster görüşmelerde kendinizi daha iyi pazarlamak, ister şirket sunumlarında kendinden daha emin görünmek, ister kendi fikirlerinizin arkasında durmak isteyin, Sesini Duyur sizin en iyi yardımcınız olacaktır. Deneyimli ses eğitmeni Joanna Crosse, istediğiniz mesajı iletmenize ve sesinize tam potansiyeli ile kullanmanıza yardımcı olacak.
+
+- Sesinizden nasıl en iyi şekilde faydalanacağınızı,
+
+- Hedef kitlenizi belirlemenin ve mesajınızın önemini,
+
+- Başkalarının sözlerini dinlemenin neden bizim söyleyeceklerimiz kadar önemli olduğunu,
+
+- Nasıl kendinizden emin olacağınızı ve açıkça iletişim kuracağınızı keşfedeceksiniz.
+&lt;/p&gt;</dc:description>
+    <dc:publisher>Derin Kitap</dc:publisher>
+    <dc:date>2011-10-08T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-10-01</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Kişisel Gelişim</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">ffe9f444-903e-4b94-9c1d-46a8c86648c6</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">2789785908203</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="KAPAK_fmt.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sesini Duyur!"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Joanna Crosse&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/KAPAK_fmt.png" id="KAPAK_fmt.png" media-type="image/png"/>
+    <item href="Images/Screen_Shot_2012-10-09__fmt.png" id="Screen-20Shot-202012-10-09-20_fmt.png" media-type="image/png"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

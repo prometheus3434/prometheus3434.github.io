@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sineklerin Tanrısı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Golding, William">William Golding</dc:creator>
+    <dc:description>Dünya klasikleri arasında gösterilen “Sineklerin Tanrısı”, William Golding’in en önemli eserleri arasında gösteriliyor. Nobel edebiyat ödülü almasıyla ise tüm dünyada büyük üne kavuşan eser, ıssız ada yaşamını bambaşka bir yönden ele alıyor. Karakter analizlerine ve davranışlara odaklanan kitap, saf ve temiz çocukların bile aslında ne kadar vahşileşebileceklerini gözler önüne seriyor. Okuyucuları, davranışlar üzerinde düşünmeye iten bu kitapla siz de hayatta kalma mücaledesine giren çocukların derinden etkileyen hikayesiyle baş başa kalacaksınız.Hayatta Kalmak İçin Verilen Acımasız Mücadelenin Öyküsü</dc:description>
+    <dc:identifier id="uuid">{2BE502AC-DA66-4203-819B-E10D7C9418DB}</dc:identifier>
+    <dc:publisher>İş Bankası Yayınları</dc:publisher>
+    <dc:subject>Orijinal</dc:subject>
+    <dc:subject>Antiques &amp; Collectibles</dc:subject>
+    <dc:subject>Books</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2022-01-11T12:32:59+00:00</dc:date>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">6a2618f9-df03-4056-8985-b38b1abbcddd</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754582901</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">K3ZYEAAAQBAJ</dc:identifier>
+    <meta name="calibre:title_sort" content="Sineklerin Tanrısı"/>
+    <meta name="calibre:author_link_map" content="{&quot;William Golding&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-4.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-5.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id7" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.jpg" id="id1" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+</package>

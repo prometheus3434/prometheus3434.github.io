@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sınırsız rüyalar diyarı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ballard, J. G.">J. G. Ballard</dc:creator>
+    <dc:description>&lt;p&gt;Dış uzaylara ve geleceğe yolculuk temalarının kısırlığından kurtulmayan klasik bilim- kurgunun, giderek bri teknoloji tapınmasına dönüşüp, verili dünyayı sorgulamadığını öne süren Ballard, alternatif bir bilim - kurgu yaratmaya çalışan yazarlardan.... 
+Geleceğin Şimdi'de yaşadığını ve "asıl yabancı gezegenin dünyamız olduğunu" bilierterek bizleri "iç yolculuklara" çaırıyor... 
+Sınırsız Rüyalar Diyarı'nda ise tam bir sınırsızlık söz konusudur. 
+Televizyonun karşısında sınırlı hayatlar yaşayan insanların rüyalarıyla yaşadıkları hayatlar arasında büyük bir uçurum anlatılır. 
+Kendi rüyasında yaşamaya başlayan düzen kaçkını Blake'in düşleyip, tropikal bir cennete dünüştürdüğü kasabasının sakinleri, kendilerini arzularının sınırsızlığına bırakırlar... İnsanların uçabildiği; kuşa, balığa ve memeli hayvanlara dönüşebilfdiği; çalışmaktan vazgeçtiği; bankların kasalarındaki paraları dağıtmak istediği; kısacası, zihinlerin ve bedenlerin ruhlara koyduğu bütün sınırlarının yok olduğu bir rüya yolculuğudur anlatılan... 
+Bütün cinsel arzuların serbestçe yaşadığı, herkesin çok cinsiyetli bir hayat sürdürebildiği; "bu dünyanın ahlaksızlıklarının öbür dünyada erdemlilik sağlayabileceğini" düşündüğü bir tür cinsel ütopya betimlenir romanda.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{C9F466BD-1A38-4BDA-80AA-8705C505A635}</dc:identifier>
+    <dc:date>1995-06-15T11:44:35+00:00</dc:date>
+    <dc:publisher>Ayrıntı</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Büyülü Gerçeklik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f1afb77f-61cd-43db-bb57-0e880b3a2814</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">lym0AAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755390970</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sınırsız rüyalar diyarı"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;J. G. Ballard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/srd.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

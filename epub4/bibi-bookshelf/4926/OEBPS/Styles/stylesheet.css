@@ -1,0 +1,315 @@
+.calibre {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    margin: 0
+    }
+.calibre2 {
+    font-size: 0.66667em
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    text-decoration: underline
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.calibre7 {
+    font-size: 1.22222em;
+    line-height: 1.2
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    font-size: 1.33333em;
+    line-height: 1.2
+    }
+.calibre10 {
+    font-style: italic
+    }
+.calibre11 {
+    font-size: 0.77778em;
+    line-height: 1.2
+    }
+.calibre12 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre13 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre14 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre15 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    margin: 0
+    }
+.calibre16 {
+    font-size: 1.33333em;
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.calibre17 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre18 {
+    font-size: 0.88889em;
+    line-height: 1.2
+    }
+.calibre19 {
+    color: #2E74B5;
+    display: block;
+    font-family: "Calibri Light", "sans-serif";
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: right;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre20 {
+    line-height: 1.2
+    }
+.calibre21 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre22 {
+    font-family: "Segoe UI", "sans-serif";
+    font-size: 1.33333em;
+    line-height: 1.2
+    }
+.calibre23 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    text-indent: 21pt;
+    margin: 0
+    }
+.calibre24 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 22pt;
+    margin: 0
+    }
+.calibre25 {
+    font-size: 0.875em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre26 {
+    color: #2E74B5;
+    display: block;
+    font-family: "Calibri Light", "sans-serif";
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre27 {
+    font-family: "Times New Roman", "serif";
+    font-size: 0.88889em;
+    line-height: 1.2
+    }
+.calibre28 {
+    color: #2E74B5;
+    display: block;
+    font-family: "Calibri Light", "sans-serif";
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre29 {
+    font-family: "Segoe UI", "sans-serif";
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.calibre30 {
+    color: windowtext;
+    display: none;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre31 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    margin: 0.5em auto;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px
+    }
+.font {
+    font-family: "Segoe UI", "sans-serif"
+    }
+.font1 {
+    font-family: "Times New Roman", "serif"
+    }
+.font2 {
+    font-family: "Book Antiqua", "serif"
+    }
+.font3 {
+    font-family: "Segoe UI", "sans-serif";
+    line-height: 1.2
+    }
+.font4 {
+    font-family: "Georgia", "serif"
+    }
+.font5 {
+    font-family: "Gulim", "sans-serif"
+    }
+.msoendnotereference {
+    vertical-align: super
+    }
+.msoendnotetext {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.77778em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.msohyperlink {
+    color: blue;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.msotoc {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.88889em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    tab-stops: right dotted 453.1pt;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.msotoc1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.88889em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    tab-stops: right dotted 453.1pt;
+    text-indent: 1.5em;
+    margin: 0 0 0 11pt
+    }
+.msotocheading {
+    border-bottom: 0;
+    border-top: 0;
+    color: #2E74B5;
+    display: block;
+    font-family: "Calibri Light", "sans-serif";
+    font-size: 1.11111em;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-top: 0;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 0
+    }
+.wordsection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    text-decoration: underline
+    }
