@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{BFB4FC6E-B6C8-474B-BCB0-7D7840B54E01}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ender Serisi #1.5 Savaş Okulunda Yılbaşı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1.Aziz Nick</text>
+      </navLabel>
+      <content src="Text/B-01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2.Ender'in Çorabı</text>
+      </navLabel>
+      <content src="Text/B-02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3.Şeytanın Soruları</text>
+      </navLabel>
+      <content src="Text/B-03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4.Sinterklaas Eve</text>
+      </navLabel>
+      <content src="Text/B-04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5.Sinterklaas Günü</text>
+      </navLabel>
+      <content src="Text/B-05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6.Kutsal Savaş</text>
+      </navLabel>
+      <content src="Text/B-06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7.Çoraplar</text>
+      </navLabel>
+      <content src="Text/B-07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8.Barış</text>
+      </navLabel>
+      <content src="Text/B-08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9.Wiggin</text>
+      </navLabel>
+      <content src="Text/B-09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10.İncelik</text>
+      </navLabel>
+      <content src="Text/B-10.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

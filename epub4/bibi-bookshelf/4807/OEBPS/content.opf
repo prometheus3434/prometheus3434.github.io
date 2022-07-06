@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Savaş okulunda yılbaşı: Ender'in hikayelerinden biri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Card, Orson Scott">Orson Scott Card</dc:creator>
+    <dc:identifier id="uuid">{BFB4FC6E-B6C8-474B-BCB0-7D7840B54E01}</dc:identifier>
+    <dc:date>2013-06-15T10:48:07+00:00</dc:date>
+    <dc:publisher>Altıkırkbeş Yayın</dc:publisher>
+    <dc:description>Chaos erupts at Battle School when a student places a gift in another student's shoe on Sinterklaaus Day, an act of rebellion that forces everyone to make a choice during the War over Santa Claus.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Logolu</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">65c0f204-a653-4bfe-8c40-3eae5b784378</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">DoiGoAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055150297</dc:identifier>
+    <meta content="0.8.901" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Savaş okulunda yılbaşı: Ender'in hikayelerinden biri"/>
+    <meta name="calibre:series" content="Ender Serisi"/>
+    <meta name="calibre:series_index" content="5.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Orson Scott Card&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Logo.xhtml" id="Logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayınevi Logo.xhtml" id="Yayınevi_Logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/İc Kapak.xhtml" id="İc_Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-01.xhtml" id="B-01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-02.xhtml" id="B-02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-03.xhtml" id="B-03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-04.xhtml" id="B-04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-05.xhtml" id="B-05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-06.xhtml" id="B-06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-07.xhtml" id="B-07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-08.xhtml" id="B-08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-09.xhtml" id="B-09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-10.xhtml" id="B-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/ege0.5.css" id="ege0.5.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/main-2.jpg" id="main-2.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/Bookerly-Bold.ttf" id="Bookerly-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Bookerly-BoldItalic.ttf" id="Bookerly-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Bookerly-Regular.ttf" id="Bookerly-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/Bookerly-RegularItalic.ttf" id="Bookerly-RegularItalic.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Logo.xhtml"/>
+    <itemref idref="Yayınevi_Logo.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="İc_Kapak.xhtml"/>
+    <itemref idref="B-01.xhtml"/>
+    <itemref idref="B-02.xhtml"/>
+    <itemref idref="B-03.xhtml"/>
+    <itemref idref="B-04.xhtml"/>
+    <itemref idref="B-05.xhtml"/>
+    <itemref idref="B-06.xhtml"/>
+    <itemref idref="B-07.xhtml"/>
+    <itemref idref="B-08.xhtml"/>
+    <itemref idref="B-09.xhtml"/>
+    <itemref idref="B-10.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

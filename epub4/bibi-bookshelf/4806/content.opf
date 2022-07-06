@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Savaş Atı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Michael Morpurgo</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Tudem Yayın Grubu</dc:publisher>
+    <dc:date>2020-12-28T10:46:17+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5dc74102-2d4b-440d-b82d-f98a634395f5</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">f7523ee1-dd93-40f5-9207-f810d829d3af</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-11-01T00:10:16.013829+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Savaş Atı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Michael Morpurgo&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="uQziNCO4kSHK6LZpZufngfG" href="OEBPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati" href="OEBPS/savas_ati.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-1" href="OEBPS/savas_ati-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-2" href="OEBPS/savas_ati-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-3" href="OEBPS/savas_ati-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-4" href="OEBPS/savas_ati-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-5" href="OEBPS/savas_ati-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-6" href="OEBPS/savas_ati-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-7" href="OEBPS/savas_ati-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-8" href="OEBPS/savas_ati-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-9" href="OEBPS/savas_ati-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-10" href="OEBPS/savas_ati-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-11" href="OEBPS/savas_ati-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-12" href="OEBPS/savas_ati-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-13" href="OEBPS/savas_ati-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-14" href="OEBPS/savas_ati-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-15" href="OEBPS/savas_ati-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-16" href="OEBPS/savas_ati-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-17" href="OEBPS/savas_ati-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-18" href="OEBPS/savas_ati-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-19" href="OEBPS/savas_ati-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-20" href="OEBPS/savas_ati-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-21" href="OEBPS/savas_ati-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-22" href="OEBPS/savas_ati-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-23" href="OEBPS/savas_ati-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-24" href="OEBPS/savas_ati-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-25" href="OEBPS/savas_ati-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="savas_ati-26" href="OEBPS/savas_ati-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OEBPS/image/1.png" media-type="image/png"/>
+    <item id="x2.jpg" href="OEBPS/image/2.jpg" media-type="image/jpeg"/>
+    <item id="x9789944694957_back_cover.jpg" href="OEBPS/image/9789944694957_back_cover.jpg" media-type="image/jpeg"/>
+    <item id="x9789944694957_front_cover.jpg" href="OEBPS/image/9789944694957_front_cover.jpg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="uQziNCO4kSHK6LZpZufngfG"/>
+    <itemref idref="savas_ati"/>
+    <itemref idref="savas_ati-1"/>
+    <itemref idref="savas_ati-2"/>
+    <itemref idref="savas_ati-3"/>
+    <itemref idref="savas_ati-4"/>
+    <itemref idref="savas_ati-5"/>
+    <itemref idref="savas_ati-6"/>
+    <itemref idref="savas_ati-7"/>
+    <itemref idref="savas_ati-8"/>
+    <itemref idref="savas_ati-9"/>
+    <itemref idref="savas_ati-10"/>
+    <itemref idref="savas_ati-11"/>
+    <itemref idref="savas_ati-12"/>
+    <itemref idref="savas_ati-13"/>
+    <itemref idref="savas_ati-14"/>
+    <itemref idref="savas_ati-15"/>
+    <itemref idref="savas_ati-16"/>
+    <itemref idref="savas_ati-17"/>
+    <itemref idref="savas_ati-18"/>
+    <itemref idref="savas_ati-19"/>
+    <itemref idref="savas_ati-20"/>
+    <itemref idref="savas_ati-21"/>
+    <itemref idref="savas_ati-22"/>
+    <itemref idref="savas_ati-23"/>
+    <itemref idref="savas_ati-24"/>
+    <itemref idref="savas_ati-25"/>
+    <itemref idref="savas_ati-26"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="OEBPS/cover.xhtml" title="Cover"/>
+    <reference type="other.titlepage" href="OEBPS/cover.xhtml" title="Title page"/>
+  </guide>
+</package>

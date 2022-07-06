@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="awp2015-10-23T18:18:05Z" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Serçe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Mary Doria Russel</text>
+      </navLabel>
+      <content src="Text/yazar.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/ickapak.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>1 Roma: Aralık 2059</text>
+      </navLabel>
+      <content src="Text/bolum01.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>2 Arecibo Radyo Teleskopu, Porto Riko: Şubat 2019</text>
+      </navLabel>
+      <content src="Text/bolum02.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>3 Roma: Ocak 2060</text>
+      </navLabel>
+      <content src="Text/bolum03.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>4 Arecibo, Porto Riko: Mart 2019</text>
+      </navLabel>
+      <content src="Text/bolum04.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>5 Cleveland, Ohio: Ağustos 2014 - Mayıs 2015</text>
+      </navLabel>
+      <content src="Text/bolum05.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>6 Roma ve Napoli: Mart-Nisan 2060</text>
+      </navLabel>
+      <content src="Text/bolum06.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>7 Cleveland ve San Juan: 2015 – 2019</text>
+      </navLabel>
+      <content src="Text/bolum07.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>8 Arecibo: Mayıs 2019</text>
+      </navLabel>
+      <content src="Text/bolum08.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>9 Napoli: Nisan 2060</text>
+      </navLabel>
+      <content src="Text/bolum09.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>10 San Juan, Porto Riko: 2-3 Ağustos 2019</text>
+      </navLabel>
+      <content src="Text/bolum10.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>11 Arecibo, Porto Riko: 3 Ağustos 2019</text>
+      </navLabel>
+      <content src="Text/bolum11.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>12 Dünya: 3-4 Ağustos 2019</text>
+      </navLabel>
+      <content src="Text/bolum12.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>13 Dünya: Ağustos-Eylül 2019</text>
+      </navLabel>
+      <content src="Text/bolum13.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>14 Napoli: Mayıs 2060</text>
+      </navLabel>
+      <content src="Text/bolum14.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>15 Güneş Sistemi: 2021 Stella Maris: Dünya Tarihiyle 2021-2022</text>
+      </navLabel>
+      <content src="Text/bolum15.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>16 Stella Maris: Dünya Tarihiyle 2031</text>
+      </navLabel>
+      <content src="Text/bolum16.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>17 Napoli: Haziran 2060</text>
+      </navLabel>
+      <content src="Text/bolum17.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>18 Stella Maris: Dünya Tarihiyle Eylül 2039</text>
+      </navLabel>
+      <content src="Text/bolum18.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>19 İniş, Rakhat: Dünya Tarihiyle 13 Ekim 2039</text>
+      </navLabel>
+      <content src="Text/bolum19.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>20 Napoli: Haziran 2060</text>
+      </navLabel>
+      <content src="Text/bolum20.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>21 Rakhat: İkinci Ay, Temas</text>
+      </navLabel>
+      <content src="Text/bolum21.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>22 Napoli: Haziran 2060</text>
+      </navLabel>
+      <content src="Text/bolum22.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>23 Gayjur Şehri: İkinci Na'alpa Kashan Köyü: Temastan Yedi Hafta Sonra</text>
+      </navLabel>
+      <content src="Text/bolum23.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>24 Kashan Köyü ve Gayjur Şehri: Na'alpa'nın Beşte Üçü</text>
+      </navLabel>
+      <content src="Text/bolum24.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>25 Napoli: Temmuz 2060</text>
+      </navLabel>
+      <content src="Text/bolum25.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>26 Kashan Köyü ve Güney Ormanları: Temastan Sekiz Hafta Sonra</text>
+      </navLabel>
+      <content src="Text/bolum26.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>27 Kashan Köyü: Yedinci Na'alpa - Beşinci Partan</text>
+      </navLabel>
+      <content src="Text/bolum27.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>28 Napoli: Ağustos 2060</text>
+      </navLabel>
+      <content src="Text/bolum28.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>29 Kashan Köyü: İkinci Yıl</text>
+      </navLabel>
+      <content src="Text/bolum29.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>30 Kashan Köyü ve Gayjur Şehri: Üçüncü Yıl</text>
+      </navLabel>
+      <content src="Text/bolum30.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>31 Napoli: Ağustos 2060</text>
+      </navLabel>
+      <content src="Text/bolum31.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>32 Napoli: Ağustos 2060</text>
+      </navLabel>
+      <content src="Text/bolum32.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:90b5a7bd-a052-4043-ae3d-13a3a1bb39f5" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sarı Yazma</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Sarı Yazma</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİR</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İKİ</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÜÇ</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>DÖRT</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>BEŞ</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ALTI</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>YEDİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>SEKİZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>DOKUZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ON</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>ON BİR</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>ON İKİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ON ÜÇ</text>
+      </navLabel>
+      <content src="Text/Section0002_split2.xhtml#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ON DÖRT</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>ON BEŞ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ON ALTI</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ON YEDİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>ON SEKIZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>ON DOKUZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>YİRMİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>YİRMi BİR</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_20"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>YİRMİ İKİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_21"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>YİRMİ ÜÇ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_22"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>YİRMİ DÖRT</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_23"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>YİRMİBEŞ</text>
+      </navLabel>
+      <content src="Text/Section0002_split1.xhtml#sigil_toc_id_24"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>YİRMİALTI</text>
+      </navLabel>
+      <content src="Text/Section0002_split3.xhtml#sigil_toc_id_25"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>YİRMİYEDİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split3.xhtml#sigil_toc_id_26"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>YİRMİSEKİZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split3.xhtml#sigil_toc_id_27"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>YİRMİDOKUZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split4.xhtml#sigil_toc_id_28"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>OTUZ</text>
+      </navLabel>
+      <content src="Text/Section0002_split4.xhtml#sigil_toc_id_29"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>OTUZ BİR</text>
+      </navLabel>
+      <content src="Text/Section0002_split4.xhtml#sigil_toc_id_30"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>OTUZ İKİ</text>
+      </navLabel>
+      <content src="Text/Section0002_split4.xhtml#sigil_toc_id_31"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>OTUZ ÜÇ</text>
+      </navLabel>
+      <content src="Text/Section0002_split4.xhtml#sigil_toc_id_32"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>OTUZ DÖRT</text>
+      </navLabel>
+      <content src="Text/Section0002_split4.xhtml#sigil_toc_id_33"/>
+    </navPoint>
+  </navMap>
+</ncx>

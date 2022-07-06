@@ -1,0 +1,55 @@
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:normal;src:url(../Fonts/ALEGREYA-REGULAR_0.OTF)}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLD.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:bold;src:url(../Fonts/ALEGREYA-BOLDITALIC.OTF)}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:normal;src:url(../Fonts/ALEGREYA-ITALIC.OTF)}
+@font-face{font-family:"TR Aqu El";font-style:normal;font-weight:normal;src:url(../Fonts/TR AQU EL.TTF)}
+@font-face{font-family:"TR Original Script ES";font-style:normal;font-weight:normal;src:url(../Fonts/TRORIGINALSCRIPTES-SCRIPT.TTF)}
+
+
+
+@page{margin-left:0.2cm;margin-right:0.2cm;margin-top:0.2cm;margin-bottom:0.2cm}
+
+body{margin:0}
+
+p{text-indent:.95em;margin-left:0;line-height:110%;margin-right:0;text-align:justify;margin-top:.1em;margin-bottom:.1em;font-family:Alegreya,monospace;font-size:109%}
+
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:0;margin-left:0;text-align:center}
+.p2{text-indent:0;margin-left:0;line-height:100%;text-align:center;margin-top:0;margin-bottom:0}
+.p3{text-indent:0;margin-left:3.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p4{text-indent:0;margin-left:3.5em;line-height:100%;margin-top:0;margin-bottom:0}
+.p5{text-indent:0;margin-left:0}
+.p6{text-indent:0;margin-left:3.5em;line-height:100%;text-align:left;margin-top:0.2em;margin-bottom:0.2em}
+.p7{text-indent:.95em;line-height:80%;margin-top:0;margin-bottom:0}
+.p8{text-indent:-.95em;margin-left:1.9em;line-height:80%;margin-top:0;margin-bottom:0}
+.p9{text-indent:-.71em;margin-left:.71em;line-height:100%;margin-top:0;margin-bottom:0}
+.p10{text-indent:0;margin-left:0;line-height:100%;margin-top:0;margin-bottom:0}
+
+h1{text-indent:0;margin-left:0;line-height:110%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.21em;margin-bottom:.21em;font-family:"TR Aqu El";font-size:255%;font-weight:normal}
+.h11{text-indent:0}
+
+h2{text-indent:0;margin-left:0;line-height:110%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.13em;margin-bottom:.13em;font-family:"TR Aqu El";font-size:218%;font-weight:normal}
+.h21{text-indent:0}
+
+h3{text-indent:0;margin-left:0;line-height:110%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.13em;margin-bottom:.13em;font-family:"TR Aqu El";font-size:3em;font-weight:normal}
+.h31{text-indent:0}
+
+.t2{font-size:2em;line-height:100%;font-weight:bold}
+.t3{font-size:1.2em;line-height:100%}
+.t4{font-size:.83em;line-height:100%;font-weight:bold}
+.t5{font-size:.83em;line-height:100%}
+.t6{font-size:1.2em;line-height:100%;font-weight:bold}
+.t11{font-size:.92em;line-height:100%}
+.t12{font-size:.92em;line-height:110%}
+.t13{font-size:1.2em;line-height:70%}
+.t14{font-size:.67em;line-height:70%}
+.t15{font-size:1.2em;line-height:110%;font-style:italic}
+.t17{font-family:"TR Aqu El";font-size:1.8em;line-height:110%}
+.t19{font-size:.85em;line-height:110%;vertical-align:super}
+.t22{font-size:1.2em;line-height:110%}
+.t24{font-family:"TR Original Script ES";font-size:2.2em;line-height:80%}
+.t25{font-family:"TR Aqu El";font-size:1.8em;line-height:110%;font-style:italic}
+.t27{font-size:.54em;line-height:100%;vertical-align:super}
+.t28{font-size:.83em;line-height:100%;font-style:italic}
+
+table.Tablo-Stili-3 {width:100%;height:100px;margin-bottom: 0;margin-left: 0;margin-top: 0;text-indent: 0;}

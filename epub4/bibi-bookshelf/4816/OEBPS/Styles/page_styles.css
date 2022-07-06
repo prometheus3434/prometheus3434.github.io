@@ -1,0 +1,118 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+@font-face {
+  font-family: "Times New Roman";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Times-New-Roman.ttf);
+  }
+@font-face {
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/Century-Gothic-Bold.ttf);
+  }
+@font-face {
+  font-family: "Century Gothic";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Century-Gothic.ttf);
+  }
+@font-face {
+  font-family: "Microsoft Sans Serif";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Microsoft-Sans-Serif.ttf);
+  }
+@font-face {
+  font-family: "Constantia";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../fonts/Constantia-Italic.ttf);
+  }
+@font-face {
+  font-family: "Constantia";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Constantia.ttf);
+  }
+@font-face {
+  font-family: "Sylfaen";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Sylfaen.ttf);
+  }
+@font-face {
+  font-family: "Franklin Gothic Heavy";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Franklin-Gothic-Heavy.ttf);
+  }
+@font-face {
+  font-family: "Times New Roman";
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/Times-New-Roman-Bold.ttf);
+  }
+@font-face {
+  font-family: "TR LCD";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/TR-LCD--ITCNormal.ttf);
+  }
+@font-face {
+  font-family: "Franklin Gothic Book";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../fonts/Franklin-Gothic-Book-Italic.ttf);
+  }
+@font-face {
+  font-family: "Franklin Gothic Book";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Franklin-Gothic-Book.ttf);
+  }
+@font-face {
+  font-family: "Franklin Gothic Heavy";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../fonts/Franklin-Gothic-Heavy-Italic.ttf);
+  }
+@font-face {
+  font-family: "Times New Roman";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../fonts/Times-New-Roman-Italic.ttf);
+  }
+@font-face {
+  font-family: "Trebuchet MS";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../fonts/Trebuchet-MS-Italic.ttf);
+  }
+@font-face {
+  font-family: "Trebuchet MS";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Trebuchet-MS.ttf);
+  }
+@font-face {
+  font-family: "Trebuchet MS";
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/Trebuchet-MS-Bold.ttf);
+  }
+@font-face {
+  font-family: "Calibri";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/Calibri.ttf);
+  }
+@font-face {
+  font-family: "Calibri";
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/Calibri-Bold.ttf);
+  }

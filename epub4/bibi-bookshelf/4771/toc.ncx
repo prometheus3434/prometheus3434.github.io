@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="9ad31bea-2f99-4d18-a92c-4f32365f3dcc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.37.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sağırdere</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{E8BE9010-A6CF-4BD7-9779-EB6F844E2517}" playOrder="1">
+      <navLabel>
+        <text>47</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{44CD05D8-B63F-4A71-9ACC-B20049242DAD}" playOrder="2">
+      <navLabel>
+        <text>87</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E26AF863-825E-4D5F-8D6F-8E2609ABA8F0}" playOrder="3">
+      <navLabel>
+        <text>141</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{37F7DF93-603E-4DCA-A91C-698C92DAEB3D}" playOrder="4">
+      <navLabel>
+        <text>182</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{19ED5858-014C-46F4-9402-DBF4A4C349E1}" playOrder="5">
+      <navLabel>
+        <text>222</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

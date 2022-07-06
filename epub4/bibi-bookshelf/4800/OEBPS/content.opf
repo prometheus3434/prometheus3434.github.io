@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Satranç Ustası - Bilinmeyen Bir Kadının Mektubu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ec1aef70-142f-462a-80cc-8eec4f1df594</dc:identifier>
+    <dc:publisher>Yordam Kitap</dc:publisher>
+    <dc:date>2014-09-15T09:54:01+00:00</dc:date>
+    <dc:description>Stefan Zweig’ın trajik intiharından sonra yayınlanan Satranç Ustası, yazarın en son ve en parlak yapıtlarından biri... Tahsin Yücel’in çevirisiyle sunduğumuz bu uzun öykü, bir yolcu gemisinde tesadüfen yaşanan müthiş bir rekabeti hikâye ediyor. Tahtanın bir tarafında, dünya satranç şampiyonu; karşısında ise, Naziler tarafından kapatıldığı hücresinde ekmeklerden yaptığı taşlarla ‘kendine karşı’ oynayarak maharetini geliştirmiş bir adam var. Bu metaforik savaş oyununu hangisi kazanacak? Yaşadığı travmanın izini hâlâ ruhunda taşıyan entelektüel mi, yoksa Hitler’i temsil ettiği söylenen dünya satranç şampiyonu mu? Kitabın ikinci uzun öyküsü Bilinmeyen Bir Kadının Mektubu, saplantılı bir aşkı, gurur ve tutkuyla mahvolan bir hayatı anlatıyor. Zweig’ın kalem ustalığı her zamanki gibi büyüleyici. Yordam Kitap, Avrupa’nın 20. yüzyılda yetiştirdiği en büyük yazarlardan Stefan Zweig’ın en önemli yapıtlarından oluşan seçkiyi okurlarına kıvançla sunuyor. Behçet Necatigil, Tahsin Yücel, Salâh Birsel, Hamdi Varoğlu, Ali Avni Öneş, Deniz Banoğlu gibi usta edebiyatçı çevirmenlerimizin yarattığı dil lezzetiyle...</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-02-27</dc:date>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Alman</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Orjinal</dc:subject>
+    <dc:subject>Klasik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">1eb92669-f1cc-4f84-ad1c-af28ceb5d7a9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055541835</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">j2F2DwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786053606116</dc:identifier>
+    <meta content="Bütün Eserler" name="calibre:series"/>
+    <meta content="2012-06-14T14:12:18.538000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="Satranç Ustası - Bilinmeyen Bir Kadının Mektubu" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Stefan Zweig&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/01 Klasik kitap_split_000.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/01 Klasik kitap_split_001.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/01 Klasik kitap_split_002.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/01 Klasik kitap_split_003.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/01 Klasik kitap_split_004.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/iskultur.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

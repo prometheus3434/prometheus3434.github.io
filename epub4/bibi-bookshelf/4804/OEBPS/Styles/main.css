@@ -1,0 +1,70 @@
+
+kapak {
+       text-align: center; 
+       padding; 0pt; 
+       margin: 0pt;
+      }
+p { text-align: justify;
+    text-indent: 1.3em;
+    font-size: 1em;
+    font-family: Times New Roman;
+   }
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    font-wieght: bold, italic;
+    margin-top: 1.0em;
+    margin-bottom: 0.5em;
+    }
+
+h2 {
+    text-align: center;
+    font-size: 2.0em;
+    font-weight: bold;
+    margin-top: 1.5em;
+    margin-bottom: 1.0em;
+   }
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: italic;
+    margin-bottom: 2.0em;
+   }
+h4 { text-align: center; font-size: 1.2em; font-weight: italic; margin-bottom: 3em; }
+.image {text-align: center; }
+.img {text-align: center;}
+
+.tur {text-align: center;
+      font-size: 1.2em;
+      margin-bottom: 1.2em;
+      }
+.index {font-size: 0.8em; margin: 0em; }
+.cevirmen {text-align: center; font-size: 1.2em; font-weight: italic; margin-bottom: 2em;}
+.yazar {text-align: justify; font-size: 1.0em; margin-top: 0em; margin-bottom: 1.5em;}
+.c-bilgi {text-align: justify; font-size: 1.0em;}
+.c-not {text-indent: 1.2em; font-size: 1em; margin-top: 1.5em;}
+.epigraf {text-align: justify; font-size: 0.8em; margin-top: 1.5em; text-indent: 1.2em;}
+
+.kunye00  {  
+          margin-top: 0em;
+          margin-bottom: 0em;
+          font-size: 0.8em;
+          text-align: left;
+          letter-spacing: 0em;
+         }
+
+          
+.kunye01 { font-size: 0.6em;
+          tex-align: left;
+          letter-spacing: 0em;
+         }
+
+.kunye02 {
+          margin-top: 1em;
+          margin-bottom: 1em;
+          font-size: 0.8em;
+          tex-align: left;
+          letter-spacing: 0em;
+         }

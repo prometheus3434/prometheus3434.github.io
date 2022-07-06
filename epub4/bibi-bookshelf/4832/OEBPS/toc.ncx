@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="AWP-61979C3A-F86F-426A-8E9F-F499F26F0F50" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bartimaeus Üçlemesi Birinci Kitap (Semerkant Tılsımı)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Birinci Kısım</text>
+      </navLabel>
+      <content src="Text/Birincikisim.html#ncx83"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/01-1.html#ncx86"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/01-1.html#ncx87"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/01-2.html#ncx133"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/01-3.html#ncx151"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/01-4.html#ncx162"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/01-5.html#ncx246"/>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>5</text>
+          </navLabel>
+          <content src="Text/01-5.html#ncx247"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/01-6.html#ncx314"/>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>6</text>
+          </navLabel>
+          <content src="Text/01-6.html#ncx315"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>7</text>
+          </navLabel>
+          <content src="Text/01-7.html#ncx348"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/01-8.html#ncx426"/>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>8</text>
+          </navLabel>
+          <content src="Text/01-8.html#ncx427"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>9</text>
+          </navLabel>
+          <content src="Text/01-9.html#ncx534"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/01-10.html#ncx616"/>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>10</text>
+          </navLabel>
+          <content src="Text/01-10.html#ncx617"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>11</text>
+          </navLabel>
+          <content src="Text/01-11.html#ncx679"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/01-12.html#ncx764"/>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>12</text>
+          </navLabel>
+          <content src="Text/01-12.html#ncx765"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>13</text>
+          </navLabel>
+          <content src="Text/01-13.html#ncx919"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/01-14.html#ncx999"/>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>14</text>
+          </navLabel>
+          <content src="Text/01-14.html#ncx1000"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>İkinci Kısım</text>
+      </navLabel>
+      <content src="Text/Ikincikisim.html#ncx1101"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/02-15.html#ncx1104"/>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>15</text>
+          </navLabel>
+          <content src="Text/02-15.html#ncx1105"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/02-16.html#ncx1175"/>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>16</text>
+          </navLabel>
+          <content src="Text/02-16.html#ncx1176"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>17</text>
+          </navLabel>
+          <content src="Text/02-17.html#ncx1264"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/02-18.html#ncx1383"/>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>18</text>
+          </navLabel>
+          <content src="Text/02-18.html#ncx1384"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>19</text>
+          </navLabel>
+          <content src="Text/02-19.html#ncx1444"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>20</text>
+          </navLabel>
+          <content src="Text/02-20.html#ncx1537"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/02-21.html#ncx1615"/>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>21</text>
+          </navLabel>
+          <content src="Text/02-21.html#ncx1616"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>22</text>
+          </navLabel>
+          <content src="Text/02-22.html#ncx1689"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/02-23.html#ncx1744"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>23</text>
+          </navLabel>
+          <content src="Text/02-23.html#ncx1745"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/02-24.html#ncx1840"/>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>24</text>
+          </navLabel>
+          <content src="Text/02-24.html#ncx1841"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>25</text>
+          </navLabel>
+          <content src="Text/02-25.html#ncx1894"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/02-26.html#ncx2019"/>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>26</text>
+          </navLabel>
+          <content src="Text/02-26.html#ncx2020"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>27</text>
+          </navLabel>
+          <content src="Text/02-27.html#ncx2117"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/02-28.html#ncx2156"/>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>28</text>
+          </navLabel>
+          <content src="Text/02-28.html#ncx2157"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/02-29.html#ncx2236"/>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>29</text>
+          </navLabel>
+          <content src="Text/02-29.html#ncx2237"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/02-30.html#ncx2313"/>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>30</text>
+          </navLabel>
+          <content src="Text/02-30.html#ncx2314"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Üçüncü Kısım</text>
+      </navLabel>
+      <content src="Text/Ucuncukisim.html#ncx2380"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/03-31.html#ncx2383"/>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>31</text>
+          </navLabel>
+          <content src="Text/03-31.html#ncx2384"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>32</text>
+          </navLabel>
+          <content src="Text/03-32.html#ncx2490"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>33</text>
+          </navLabel>
+          <content src="Text/03-33.html#ncx2606"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/03-34.html#ncx2712"/>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>34</text>
+          </navLabel>
+          <content src="Text/03-34.html#ncx2713"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>35</text>
+          </navLabel>
+          <content src="Text/03-35.html#ncx2834"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>36</text>
+          </navLabel>
+          <content src="Text/03-36.html#ncx2947"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/03-37.html#ncx3018"/>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>37</text>
+          </navLabel>
+          <content src="Text/03-37.html#ncx3019"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>38</text>
+          </navLabel>
+          <content src="Text/03-38.html#ncx3092"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/03-39.html#ncx3154"/>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>39</text>
+          </navLabel>
+          <content src="Text/03-39.html#ncx3155"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Nathaniel</text>
+        </navLabel>
+        <content src="Text/03-40.html#ncx3206"/>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>40</text>
+          </navLabel>
+          <content src="Text/03-40.html#ncx3207"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/03-41.html#ncx3282"/>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>41</text>
+          </navLabel>
+          <content src="Text/03-41.html#ncx3283"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>Nathaniel</text>
+          </navLabel>
+          <content src="Text/03-41.html#ncx3317"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>Bartimaeus</text>
+          </navLabel>
+          <content src="Text/03-41.html#ncx3354"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>Nathaniel</text>
+          </navLabel>
+          <content src="Text/03-41.html#ncx3368"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>Bartimaeus</text>
+          </navLabel>
+          <content src="Text/03-41.html#ncx3385"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/03-42.html#ncx3398"/>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>42</text>
+          </navLabel>
+          <content src="Text/03-42.html#ncx3399"/>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>Nathaniel</text>
+          </navLabel>
+          <content src="Text/03-42.html#ncx3437"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>Bartimaeus</text>
+          </navLabel>
+          <content src="Text/03-42.html#ncx3469"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>Nathaniel</text>
+          </navLabel>
+          <content src="Text/03-42.html#ncx3493"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>Bartimaeus</text>
+          </navLabel>
+          <content src="Text/03-42.html#ncx3530"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>Nathaniel</text>
+          </navLabel>
+          <content src="Text/03-42.html#ncx3549"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Bartimaeus</text>
+        </navLabel>
+        <content src="Text/03-43.html#ncx3571"/>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>43</text>
+          </navLabel>
+          <content src="Text/03-43.html#ncx3572"/>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>44</text>
+          </navLabel>
+          <content src="Text/03-44.html#ncx3593"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

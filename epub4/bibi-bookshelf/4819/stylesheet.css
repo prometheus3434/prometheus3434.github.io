@@ -1,0 +1,65 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.MsoPlainText {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.MsoPlainText1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.Section {
+    display: block
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    font-weight: bolder
+    }
+.calibre2 {
+    font-family: "Palatino Linotype";
+    font-size: 1.125em
+    }
+.calibre3 {
+    display: block;
+    page-break-before: always
+    }
+.calibre4 {
+    color: gray;
+    font-family: "Palatino Linotype"
+    }
+.calibre5 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre6 {
+    color: blue;
+    font-family: "Palatino Linotype"
+    }
+.calibre7 {
+    font-family: "Palatino Linotype"
+    }
+.calibre8 {
+    font-family: "Palatino Linotype";
+    font-size: 0.75em
+    }
+.calibre9 {
+    font-family: "Palatino Linotype";
+    font-size: 1em
+    }

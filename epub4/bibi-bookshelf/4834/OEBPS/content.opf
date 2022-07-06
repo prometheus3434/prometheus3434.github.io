@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Senin İçin</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Blackstone Serisi #2">Raine Miller</dc:creator>
+    <dc:identifier id="uuid">{317B218A-9AFF-4D38-B438-F160A61172A2}</dc:identifier>
+    <dc:date>2015-04-21T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">61871d25-f6db-4d0e-a91c-55b298ce0940</dc:identifier>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta content="0.6.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Senin İçin"/>
+    <meta name="calibre:author_link_map" content="{&quot;Raine Miller&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id26" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id25" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-15.png" id="id15" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-17.png" id="id17" media-type="image/png"/>
+    <item href="Images/main-18.png" id="id18" media-type="image/png"/>
+    <item href="Images/main-19.jpg" id="id19" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-8.png" id="id8" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+  </manifest>
+  <spine toc="id26">
+    <itemref idref="id0"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+  </spine>
+</package>

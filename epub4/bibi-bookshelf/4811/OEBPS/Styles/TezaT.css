@@ -1,0 +1,229 @@
+/* !!! BU CSS DOSYASININ İSMİNİN VEYA İÇERİĞİNİN 
+								DEĞİŞTİRİLMESİ KİTAP İÇERİSİNDEKİ TÜM DÜZENİ 
+											OLUMSUZ ETKİLER !!! 			 */
+/* İç Kapak için 
+
+				!! Bu ID'lerin hepisini birikte kullanırsan "margin-top" değerlerini düşür. 
+						Aksi halde bazı okuyucularda diğer sayfaya geçiş yapar.
+*/
+#Nakkal {
+  text-align: center;
+}
+#kitap-ismi {
+  font-weight: 900;
+  margin-top: 2.5em;
+}
+#seri-ismi {
+  font-weight: 700;
+  margin-top: 0;
+}
+#yazar {
+  font-weight: 700;
+  margin-top: 1.5em;
+}
+#cevirmen {
+  font-weight: 400;
+  margin-top: 3em;
+}
+#yayinevi {
+  font-weight: 400;
+  margin-top: 3em;
+}
+#bilgi {
+  font-size: 75%;
+  margin-top: 0.5em;
+  text-align: center;
+  text-indent: 0;
+}
+/* Yazı Düzeni için */
+p {
+  display: block;
+  font-family: "tahoma";
+  font-size: 1em;
+
+  text-align: justify;
+  text-indent: 30pt;
+  margin: 0.5em;
+}
+.psade {
+  display: block;
+  font-family: "tahoma";
+  font-size: 0.8em;
+
+  text-align: justify;
+  margin: 0.5em;
+}
+.pc {
+  display: block;
+  font-family: "tahoma";
+  font-size: 1em;
+
+  text-align: center;
+  margin: 0.5em;
+}
+/* b1 - Başlık, orta, kalın */
+.b1 {
+  display: block;
+  font-size: 2em;
+
+  font-weight: bolder;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.5em;
+}
+/* b2 - Başlık, kenar, normal */
+.b2 {
+  display: block;
+  font-size: 1em;
+
+  font-weight: bolder;
+
+  margin: 0.5em;
+}
+/* b3 - Başlık, kenar, kalın */
+.b3 {
+  display: block;
+  font-size: 1.25em;
+
+  font-weight: bolder;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.5em;
+}
+/* b0 - Başlık, orta, kalın, çerçeve */
+.b0 {
+  display: block;
+  border: currentColor inset 2px;
+  font-size: 2em;
+
+  font-weight: bolder;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.5em;
+}
+/* Sayfa Düzeni için */
+body {
+  padding: 1px 11px 1px 11px;
+}
+#dipnot {
+  text-align: justify;
+  font-family: "tahoma";
+  margin: 5px 0 20px 100px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 75%;
+}
+/* Sayfa içi link rengi için */
+a:link {
+  color: #2995b0;
+  text-decoration: underline;
+}
+a:visited {
+  color: #b02952;
+  text-decoration: underline;
+}
+a:hover {
+  color: #94d7c3;
+  text-decoration: underline;
+}
+/* Kitapiçi Resimler için 
+									[Resim ve altına açıklama metni:]
+									---------------------------------
+	<p class="resim">
+		<img src="../Images/3.jpg" />
+		<span> Resim altı yazı varsa </span>
+	</p>
+																*/
+p.resim {
+  text-align: center;
+}
+p.resim span {
+  display: block;
+  margin-top: 0.5em;
+  font-style: italic;
+  font-size: 80%;
+}
+#ilkharf {
+  font-size: 225%;
+  font-weight: bold;
+}
+/* <br> koduyla uğraşmamak için boşluk çeşitleri */
+#n0bosluk {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+#n1bosluk {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+#n2bosluk {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+#n3bosluk {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+#n4bosluk {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+/* Tablo inherit için */
+.nakkaltablo1 {
+  display: table-row;
+}
+.nakkaltablo2 {
+  background-color: #eee;
+  border: 1px solid #fff;
+  display: table-cell;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  text-align: left;
+  vertical-align: middle;
+  text-indent: 0;
+}
+.nakkaltablo3 {
+  background-color: #eee;
+  border: 1px solid #fff;
+  display: table-cell;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  margin-bottom: 0.3em;
+  margin-left: 1em;
+  margin-right: 2em;
+  margin-top: 0.3em;
+  padding-bottom: 0.2em;
+  padding-left: 2em;
+  padding-right: 0.3em;
+  padding-top: 0.2em;
+  text-align: justify;
+  vertical-align: middle;
+  text-indent: 0;
+}
+.chapter {
+  display: block;
+}
+.tablo {
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.n1 {
+  font-size: smaller;
+  line-height: normal;
+  vertical-align: super;
+}
+/*		Bu CSS dosyasının hazırlanması tamamiyle www.nakkal.in sitesine aittir.		*/

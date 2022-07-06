@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Schrödinger'in Kedisi I: Kâbus</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Alet Alatlı">Alet Alatlı</dc:creator>
+    <dc:publisher>http://kitaplik.tk</dc:publisher>
+    <dc:rights>Bu kitap, Kitaplık ekibince FineReader yazılımı ile OCR-Riplenmiş ve yazım denetimi yapılmıştır. Yorum ve önerileriniz için admin.kitaplik@gmail.com adresine yazabilirsiniz. Temmuz 2005. http://kitaplik.tk http://kitaplik.6x.to http://kitaplik.madpage.com</dc:rights>
+    <dc:description>2020’li yıllar... Postnişinde Yüce Pir’in oturduğu Yeni Dünya Düzeni tarikatı iktidarını hızla güçlendirmektedir. Tarikatı oluşturan vasıl, salik, mürid ve talipler, Son Hakikaté dedikleri dünya görüşlerini gezegenin bütününe tebliğ etmekle yükümlüdürler. Dünya hakları ya Tekleşmiş Varoluş'ta eriyecekler ya da genleri yok edilmek suretiyle mutlak bir biyolojij ölümle karşı bırakılan Sömürülmezler’in ve Lanetliler’in kaderini paylaşacaklardır. Postmodern Faşizm, Tek bir dünya, tek bir devlet, tek bir bayrak! sloganlarıyla özetlenen çağdaş değerlerini evrensel medyanın tüm olanaklarını kullanarak dayanır.</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d929260b-1b92-40bf-bd4b-09e8d0f15e63</dc:identifier>
+    <dc:subject>Literature/Poetry</dc:subject>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e20ab025-6f64-496b-a9a5-ec05767f3e69</dc:identifier>
+    <meta name="calibre:timestamp" content="2011-03-21T12:59:16.747751+00:00"/>
+    <meta name="cover" content="Ciibnn"/>
+    <meta name="calibre:title_sort" content="Schrödinger'in Kedisi I: Kâbus"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alet Alatlı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_000.htm" id="Kabus15" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_001.htm" id="Kabus14" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_002.htm" id="Kabus13" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_003.htm" id="Kabus12" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_004.htm" id="Kabus11" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_005.htm" id="Kabus10" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_006.htm" id="Kabus9" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_007.htm" id="Kabus8" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_008.htm" id="Kabus7" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_009.htm" id="Kabus6" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_010.htm" id="Kabus5" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_011.htm" id="Kabus4" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_012.htm" id="Kabus3" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_013.htm" id="Kabus2" media-type="application/xhtml+xml"/>
+    <item href="Kabus_split_014.htm" id="Kabus1" media-type="application/xhtml+xml"/>
+    <item href="Copright.htm" id="Copright" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Ciibnn.jpg" id="Ciibnn" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Kabus15"/>
+    <itemref idref="Kabus14"/>
+    <itemref idref="Kabus13"/>
+    <itemref idref="Kabus12"/>
+    <itemref idref="Kabus11"/>
+    <itemref idref="Kabus10"/>
+    <itemref idref="Kabus9"/>
+    <itemref idref="Kabus8"/>
+    <itemref idref="Kabus7"/>
+    <itemref idref="Kabus6"/>
+    <itemref idref="Kabus5"/>
+    <itemref idref="Kabus4"/>
+    <itemref idref="Kabus3"/>
+    <itemref idref="Kabus2"/>
+    <itemref idref="Kabus1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover image"/>
+    <reference href="Copright.htm" type="title-page" title="About this title link"/>
+  </guide>
+</package>

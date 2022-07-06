@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Sartre Sartre'ı Anlatıyor</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sartre, Jean-Paul">Jean-Paul Sartre</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">58300f05-70b5-4e86-a624-cb8df6181e3e</dc:identifier>
+    <dc:description>&lt;p&gt;Filozofun 70 Yaşındaki Otoportresi Michel Contat ile Söyleşi
+
+Michel Contat: Genç aydınların sizi daha çok okumalarına, sizi hakkınızdaki yanlış fikirlerle tanımalarına hayıflanıyor musunz?...
+
+Jean-Paul Sartre: Bunun, benim açımdan hayıflanacak bir şey olduğunu söylüyorum.
+
+M.C.:Sizin açınızdan mı, onların açısından mı?
+
+J-P.S.:Doğrusunu söylemek gerekirse, onların açısından da. Amam bunun bir dönem olduğunu düşünüyorum.&lt;/p&gt;</dc:description>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1994-03-14T22:00:00+00:00</dc:date>
+    <dc:subject>Söyleşi</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">048475f8-6807-4d9c-8258-2e9feaac9b72</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753632799</dc:identifier>
+    <meta content="Sartre Sartre'ı Anlatıyor" name="calibre:title_sort"/>
+    <meta content="2015-03-14T11:03:47+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jean-Paul Sartre&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

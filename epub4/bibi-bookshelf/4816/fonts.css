@@ -1,0 +1,43 @@
+@font-face {
+	src: url(fonts/Times-New-Roman.ttf);
+	font-family: "Times New Roman"
+}
+
+@font-face {
+	src: url(fonts/Microsoft-Sans-Serif.ttf);
+	font-family: "Microsoft Sans Serif"
+}
+
+@font-face {
+	src: url(fonts/Century-Gothic-Bold.ttf);
+	font-family: "Century Gothic";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(fonts/Constantia-Italic.ttf);
+	font-family: "Constantia";
+	font-style: italic
+}
+
+@font-face {
+	src: url(fonts/Sylfaen.ttf);
+	font-family: "Sylfaen"
+}
+
+@font-face {
+	src: url(fonts/Times-New-Roman-Bold.ttf);
+	font-family: "Times New Roman";
+	font-weight: bold
+}
+
+@font-face {
+	src: url(fonts/Calibri.ttf);
+	font-family: "Calibri"
+}
+
+@font-face {
+	src: url(fonts/Calibri-Bold.ttf);
+	font-family: "Calibri";
+	font-weight: bold
+}

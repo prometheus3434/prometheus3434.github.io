@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Sehvetiye Tarikati</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Saymaz, Ismail">Ismail Saymaz</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Iletisim Yayinlari</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bb3f9af6-fe0a-4067-95ab-efca45caf3f7</dc:identifier>
+    <dc:date>2019-06-15T12:07:34+00:00</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8e73fbbe-5370-4047-9636-18c35f6a31f0</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">6GA6yQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750528194</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750527173</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T08:33:03.123129+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Sehvetiye Tarikati"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ismail Saymaz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverxhtml" href="OPS/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright-pagexhtml" href="OPS/copyright-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="biographyxhtml" href="OPS/biography.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepagexhtml" href="OPS/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dedicationxhtml" href="OPS/dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epigraphxhtml" href="OPS/epigraph.xhtml" media-type="application/xhtml+xml"/>
+    <item id="introductionxhtml" href="OPS/introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1xhtml" href="OPS/chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2xhtml" href="OPS/chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3xhtml" href="OPS/chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4xhtml2" href="OPS/chapter4_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4xhtml1" href="OPS/chapter4_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5xhtml" href="OPS/chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter6xhtml" href="OPS/chapter6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epiloguexhtml" href="OPS/epilogue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="OPS/image/cover.jpg" media-type="image/jpeg"/>
+    <item id="image__logopng" href="OPS/image/logo.png" media-type="image/png"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="epigraphxhtml"/>
+    <itemref idref="introductionxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml2"/>
+    <itemref idref="chapter4xhtml1"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="epiloguexhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover Image"/>
+  </guide>
+</package>

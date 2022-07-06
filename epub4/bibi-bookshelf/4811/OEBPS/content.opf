@@ -1,0 +1,87 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Savaşçı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Monk, Karyn">Karyn Monk</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9c8c2af7-6757-4e88-bdce-141410e60dfd</dc:identifier>
+    <dc:publisher>Koridor Yayıncılık</dc:publisher>
+    <dc:date>2012-04-24T21:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Romantizmle ateşlenmiş kolay kolay akıldan çıkmayacak bir cesaret öyküsü. 
+
+
+Ariella MacKendrick için hayatta kalmanın tek bir yolu vardı: Kara Kurt olarak tanınan kahramanı bulmak ve onu klanı için savaşmaya ikna etmek. Fakat sonunda onu bulduğunda Malcolm MacFane'in, hayal ettiği muhteşem savaşçıyla hiç alakası olmadığını fark eder. Bir zamanlar binlerce kişiden oluşan orduyu yöneten ve korkusuz bir lider olan MacFane, artık eskisi kadar güçlü değildir. Ariella'nın ise ona güvenmekten başka çaresi yoktur. Çok geçmeden, gözden düşmüş kahramanın içinde bir şeyler kıpırdanmaya başlar. Damarlarında hâlâ dolaşmakta olan bu ateş, güzel İskoç'un onda uyandırdığı arzunun şiddetini de hiç ummadığı bir noktaya taşıyacaktır.
+
+"Karyn Monk dönemin romantizmini sayfalara taşırken okuyucuyu adeta büyülüyor. 
+Takip edilmesi gereken bir yazar."
+Romantic Times
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Aksiyon</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">cb57b1be-124a-48bd-820b-da18608bab34</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054629244</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:9c8c2af7-6757-4e88-bdce-141410e60dfd</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="baslik.jpg"/>
+    <meta name="calibre:title_sort" content="Savaşçı"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Karyn Monk&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yapim.xhtml" id="Yapim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla.xhtml" id="Basla.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla01.xhtml" id="Basla01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla02.xhtml" id="Basla02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla03.xhtml" id="Basla03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla04.xhtml" id="Basla04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla05.xhtml" id="Basla05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla06.xhtml" id="Basla06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla07.xhtml" id="Basla07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla08.xhtml" id="Basla08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla09.xhtml" id="Basla09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla10.xhtml" id="Basla10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla11.xhtml" id="Basla11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla12.xhtml" id="Basla12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla13.xhtml" id="Basla13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla14.xhtml" id="Basla14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Basla15.xhtml" id="Basla15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Arkakapak.xhtml" id="Arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derleme.xhtml" id="Derleme.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/TezaT.css" id="TezaT.css" media-type="text/css"/>
+    <item href="Images/001.jpg" id="x001.jpg" media-type="image/jpeg"/>
+    <item href="Images/002.jpg" id="x002.jpg" media-type="image/jpeg"/>
+    <item href="Images/baslik.jpg" id="baslik.jpg" media-type="image/jpeg"/>
+    <item href="Images/TezaT.jpg" id="TezaT.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="Yapim.xhtml"/>
+    <itemref idref="Basla.xhtml"/>
+    <itemref idref="Basla01.xhtml"/>
+    <itemref idref="Basla02.xhtml"/>
+    <itemref idref="Basla03.xhtml"/>
+    <itemref idref="Basla04.xhtml"/>
+    <itemref idref="Basla05.xhtml"/>
+    <itemref idref="Basla06.xhtml"/>
+    <itemref idref="Basla07.xhtml"/>
+    <itemref idref="Basla08.xhtml"/>
+    <itemref idref="Basla09.xhtml"/>
+    <itemref idref="Basla10.xhtml"/>
+    <itemref idref="Basla11.xhtml"/>
+    <itemref idref="Basla12.xhtml"/>
+    <itemref idref="Basla13.xhtml"/>
+    <itemref idref="Basla14.xhtml"/>
+    <itemref idref="Basla15.xhtml"/>
+    <itemref idref="Arkakapak.xhtml"/>
+    <itemref idref="Derleme.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

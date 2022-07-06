@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sainte-Beuve'e karşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Proust, Marcel &amp; Hakmen, Roza">Marcel Proust</dc:creator>
+    <dc:creator opf:role="aut">Roza Hakmen</dc:creator>
+    <dc:date>2006-06-15T10:11:47+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-1B4508BE-5A55-4CA0-8D0B-638F86E5E14A</dc:identifier>
+    <dc:publisher>Doğu Batı Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Mucizevi geçmiş zamanın, edebî ziyafetlerin ve kibar âlemlerin en parlak anlatıcısı olan Marcel Proust, edebiyat çevrelerinde mest edici bir zirve noktası sayılır. Yazı ve dile ait akla hayale sığmayan bütün oyunlar, sonu gelmeyen tasvirler, baş döndürücü hassasiyetler ve keskin zekâlar, Proust’un üslubunda toplanmıştır. Proust, uzun ve zor cümleleriyle zamanın ve eşyanın büyüleyici ilişkisini kelimelere aksettirirken, her halükârda duyular dünyasında adeta Platonik güzellikle kabaran bir heykeltıraş olduğunu anımsatıyor. Proust, Sainte- Beuve’e Karşı’da gündelik yaşamından kesitler sunmanın ötesinde, bir insanın çevresiyle kurabileceği olağanüstü ilişkiyi de gözler önüne seriyor. Proust, Sainte-Beuve etrafında Balzac, Baudelaire, Gérard de Nerval okumaları yapıyor. Bu kitaptaki denemeler aynı zamanda onun sanata ve romana bakışını yansıtan önemli taslaklardır. Kayıp Zamanın İzinde’yi Proust’a yaraşacak bir mükemmeliyet algısı içerisinde Türkçe’ye kazandıran Roza Hakmen, çevirinin sanatlar içerisinde nasıl bir sanata dönüşebileceğini de gösteriyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-03-12</dc:date>
+    <dc:subject>Hayat</dc:subject>
+    <dc:subject>Fransa</dc:subject>
+    <dc:subject>Biyografi</dc:subject>
+    <dc:subject>Kültür</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">533d75bc-da7d-430a-b0e8-88e910f019a7</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">56cxtwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758717170</dc:identifier>
+    <dc:identifier opf:scheme="ISBN13">9780300081459</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Sainte-Beuve'e karşı" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;, &quot;Roza Hakmen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.2" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+  </guide>
+</package>
