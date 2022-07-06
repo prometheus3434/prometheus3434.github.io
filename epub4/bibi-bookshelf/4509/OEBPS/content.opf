@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Osmanlıda Kadın Saltanatı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Kara, Yıldıray">Yıldıray Kara</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Yeditepe</dc:publisher>
+    <dc:date>2010-07-22T21:00:00+00:00</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-22</dc:date>
+    <dc:description>&lt;p&gt;Osmanlı saray kadınları nasıl oldu da bir padişah gibi davranmaya, iktidarı ellerine almaya ve nüfuz elde etmeye başladılar? Nasıl oldu da padişahlar, kadınlara bu kadar taviz verdiler ve yükselmelerine, güçlü konuma gelmelerine müsaade ettiler? Nasıl oldu da padişahlar, bu kadar zayıf kalabildiler, kadınların etkisine girebildiler? Kadınlar neden siyasi kimlik kazanmaya çalıştılar ve iktidar ihtirası içerisine girdiler? 
+
+Kadınlar niçin haremden dışarıya doğru bir etki ve nüfuz gücü oluşturmaya çalıştılar ve bu nüfuz gücüne dayanarak siyasi faaliyetlerde bulundular? Kadınları bu kadar güçlü kılan itici güç neydi ve neden entrikalar girdabı oluşturdular? İktidarı büyük ölçüde ele geçiren kadınlar, ülkeyi ve devleti nasıl yönettiler, hangi sorunlara yol açtılar ve hangi düzensizliklere neden oldular? 
+
+Osmanlı İmparatorluğu'nda Kadınlar Saltanatı neydi ve neyi ifade ediyordu?&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Osmanlı</dc:subject>
+    <dc:subject>tarih</dc:subject>
+    <dc:subject>Politik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4dc1f2c9-891c-4353-b881-d541b829e782</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786054052462</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak_fmt.png"/>
+    <meta name="calibre:title_sort" content="Osmanlıda Kadın Saltanatı"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yıldıray Kara&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

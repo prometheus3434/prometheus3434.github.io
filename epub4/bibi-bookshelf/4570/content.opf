@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Ölümden beter yazgılar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vonnegut, Kurt &amp; Dereli, Figen">Kurt Vonnegut</dc:creator>
+    <dc:creator opf:role="aut">Figen Dereli</dc:creator>
+    <dc:description>&lt;div&gt;&lt;div&gt;Kurt Vonnegut "Ölümden Beter Yazgılar"da canlı bölümlerle birbirine bağlanmış konuşmalar, makaleler, anılar koleksiyonunda okurlarıyla içli dışlı olmaktan çekinmeden, aile hayatının alkolizm ve intiharla sonuçlanan hüzünlü hikayelerini de büyük bir dürüstlükle aktarmayı ihmal etmeden dünya barışından sansüre kadar pek çok konuyu eleştirel ve ironik üslubuyla ele alıyor. Aslında kitap için tam olarak komik denemez. Ama yine de her gülüşün temelinde, yazarın kitapta da bahsetttiği kancalardan biri var.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2001-06-15T11:52:44+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">85c6c11e-1970-46ca-b929-6aa46d98d49e</dc:identifier>
+    <dc:publisher>Dost Kitabevi</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">003c655e-2f35-488b-a2a2-eaa41fcf223f</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">9tVRtwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789758457816</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Ölümden beter yazgılar"/>
+    <meta name="calibre:timestamp" content="2016-02-21T11:43:05.297000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Kurt Vonnegut&quot;: &quot;&quot;, &quot;Figen Dereli&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-8.png" id="id8" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

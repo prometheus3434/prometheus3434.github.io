@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ölümlüler uyurken</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Vonnegut, Kurt">Kurt Vonnegut</dc:creator>
+    <dc:identifier id="uuid">{55FA0387-5C76-4C9C-99F1-1953876075EF}</dc:identifier>
+    <dc:date>2011-06-15T09:57:01+00:00</dc:date>
+    <dc:publisher>A.P.R.I.L. Yayincilik</dc:publisher>
+    <dc:date opf:event="modification">2015-01-09</dc:date>
+    <dc:description>&lt;p&gt;İnsanlar ve makineler, sanat ve zanaat; servet, şöhret ve aşk ideallerinin sıradan yaşamlarda nasıl da garip virajlara neden olduğu üstüne öyküler bunlar.
+Buldozerler, greyderler ve asfalt sericilerden oluşan bir orduyu yöneterek yollar inşa eden bir adam, zamanını minyatür trenleriyle oynayarak çarçur ediyor-ta ki hayatındaki kadın hayallerindeki bu dünyayı yerle bir edinceye kadar. Stenografi havuzunda kısılıp kalmış hayalperest bir genç kız, kaçak bir soyguncudan gelen ses bandıyla ilginç bir teklif alıyor. Huysuz bir gazeteci Noel aydınlatmalarını değerlendirecek komitede zorla jüri üyesi yapılınca, önce şatafatlı yaşamıyla şüpheleri üstüne çeken eski bir hükümlüyle, sonra da bir mucizeyle karşılaşıyor. Yaşamını kocasından kalan domuz çiftliğinde sürdüren dul bir kadın, Schenectady'de yaşayan bir adamdan "ruhun o tanımlanamaz tatlı sızıları" ile ilgili esrarlı, beklenmedik mektuplar almaya başlıyor. Yüz yüze tanışmak için gittiğinde, acaba neyle karşılaşacak?&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tk</dc:language>
+    <dc:identifier opf:scheme="calibre">153104e4-819d-4917-a865-e94041fcbd74</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756006740</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">IDZUMwEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789756006740</dc:identifier>
+    <meta content="Ölümlüler uyurken" name="calibre:title_sort"/>
+    <meta content="{&quot;Kurt Vonnegut&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/olumluler.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

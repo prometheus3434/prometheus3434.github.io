@@ -1,0 +1,41 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre5 {
+    font-size: 17pt;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-size: 13.5pt;
+    line-height: 1.2
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }

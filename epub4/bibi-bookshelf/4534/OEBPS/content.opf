@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Ödüllerim</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="BERNHARD, THOMAS">Thomas Bernhard</dc:creator>
+    <dc:publisher>Yapı Kredi Kültür Sanat Yayıncılık</dc:publisher>
+    <dc:date>2010-06-15T11:43:22+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">42a5f62d-9e69-4e1b-bd32-482a2198ea48</dc:identifier>
+    <dc:date opf:event="modification">2014-05-30</dc:date>
+    <dc:description>&lt;p&gt;Thomas Bernhard, aldığı ödüllerin hikâyesini aktarırken zehir zemberek diliyle kendine özgü üslubunu koruyarak bu kişisel tecrübeleri okuruyla açık seçik paylaşıyor; kişisel zaaflarını da örtmeden, ödül almanın bütün çelişkilerini, çetrefilli bürokrasiyi, okuryazar, çok bilgili, şahin politikacıların edebiyat ödüllerine katkısını, protokolün edebiyat dünyasına karıştığı ince çizgide yazarın kendisini sakınmasının olanaksızlığını dile getiriyor. Bir ödül konuşmasının ağırlığı ne olursa olsun, ödülü alma sürecinde yazar için ağırlaştırıcı ve hafifletici sebeplerin varlığı, ödül kurumunun bütün dinamikleriyle yazar odağında yarattığı çatışmanın Etik tartışmasına açıldığını ortaya koyuyor.&lt;/p&gt;</dc:description>
+    <dc:subject>Alman Edebiyatı</dc:subject>
+    <dc:subject>Deneme</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">8d947675-b27d-4638-84b3-7c757ce6d906</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750817274</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">cIFNywAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750817274</dc:identifier>
+    <meta content="Ödüllerim" name="calibre:title_sort"/>
+    <meta content="2014-05-30T10:46:33.805000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Thomas Bernhard&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ODULLERIM_split_000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/ODULLERIM_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/ODULLERIM_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/ODULLERIM_split_002.html#filepos160058" title="Table of Contents" type="toc"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

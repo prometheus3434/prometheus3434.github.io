@@ -1,0 +1,213 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.basic-paragraph {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre10 {
+    height: 128px;
+    width: 520px
+    }
+.calibre11 {
+    height: 228px;
+    width: 227px
+    }
+.calibre12 {
+    height: 224px;
+    width: 223px
+    }
+.calibre13 {
+    height: 219px;
+    width: 233px
+    }
+.calibre14 {
+    height: 235px;
+    width: 233px
+    }
+.calibre15 {
+    height: 161px;
+    width: 469px
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre4 {
+    background-color: #eee;
+    border: 1px solid #fff;
+    display: table-cell;
+    font-family: Arial, sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.2em;
+    text-align: left;
+    vertical-align: inherit
+    }
+.calibre5 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    height: 358px;
+    width: 299px
+    }
+.calibre7 {
+    height: 360px;
+    width: 294px
+    }
+.calibre8 {
+    height: 169px;
+    width: 368px
+    }
+.calibre9 {
+    height: 154px;
+    width: 396px
+    }
+.chapter {
+    display: block
+    }
+.footnote-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.generictable {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h1baslik1 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.h1baslik2 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: justify;
+    text-indent: 1em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+ 

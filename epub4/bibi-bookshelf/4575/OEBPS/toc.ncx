@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-1CEEA4D9-3624-44E8-8747-9637A7BBDB55" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ölümsüzleştirme Kurulu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ölümsüzleştirme kurulu</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İzinler</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Önsöz:</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Çapraz-Yazışmalar</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Tanrı-Yaratıcılar</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Tatlı Ölümlülük</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Teşekkürler</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
