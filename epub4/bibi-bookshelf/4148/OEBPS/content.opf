@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Küvette bulunan günce</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lem, Stanislaw &amp; Öztek, Çiçek">Stanislaw Lem</dc:creator>
+    <dc:creator opf:role="aut">Çiçek Öztek</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9184ffa6-3b80-4f2b-a2ae-a18ae3838db6</dc:identifier>
+    <dc:date>1998-06-15T11:24:51+00:00</dc:date>
+    <dc:description>&lt;p&gt;Yine bir Lem klasiği ile karşı karşıyayız. Hem de yepyeni; Türkçe’de ilk kez yayımlanıyor. Kurgusu kadar, dilin de mükemmel kullanıldığı bu kitapta Lem, temel dilbilim ve anlambilim kuramlarından yararlanıyor. Kahramanımız, “Özel Görev” için seçilmiş özel biridir. Görev’in tebliğ edileceği binaya girer ve... kendini anlamsız bir labirentin koridorlarında bulur. Herkes göründüğünden farklı bir kişiliktedir. Kim kimdir, dost nedir, düşman nerededir, bilinmez. Belki de, bırakın “Özel Görevi”, ortalıkta verilmiş herhangi bir görev bile yoktur. İçinde yaşadıkları Bina organik bir yapıdır; içerde yaşananlar ise, merkezinde “küvette bulunan günce”nin olduğu birtakım metinler tarafından düzenlenmektedir. Günce, yazılı tarihin silinmesiyle ortaya çıkan kaosun tasvirini içermektedir. Lem, bu romanında göstergelerin işlevlerini değiştirerek karmaşık bir dünya yaratıyor.&lt;/p&gt;</dc:description>
+    <dc:date opf:event="modification">2015-01-31</dc:date>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:subject>Mizah</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">5fe44ad9-8c46-4984-8d28-4c72dc809b5f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754706703</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754706703</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">KCfYtgAACAAJ</dc:identifier>
+    <meta content="Küvette bulunan günce" name="calibre:title_sort"/>
+    <meta content="2015-01-28T13:33:17.120000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stanislaw Lem&quot;: &quot;&quot;, &quot;Çiçek Öztek&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>M.S. 2150</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Akaşa</text>
+      </navLabel>
+      <content src="Text/akasa.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Çevirenin Notu</text>
+      </navLabel>
+      <content src="Text/not.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Bölüm I : Lea</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Bölüm II : Bu Bir Düş müydü?</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bölüm III : Carol</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Bölüm IV : Alfa Eşleri</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bölüm V : Gerçeğin Sınanması</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Bölüm VI : Jon'un Alfası ve Rana</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bölüm VII : Sınırsız "Ben"</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Bölüm VIII : Makro Bağlantı</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bölüm IX : Aynası İştir Kişinin</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Bölüm X : Jon'un Geçmiş Yaşamları</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Bölüm XI : Neda</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bölüm XII : On Beş Metre Sıçramak</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bölüm XIII : Kayıp</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Bölüm XIV : Atılım</text>
+      </navLabel>
+      <content src="Text/bolum14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Bölüm XV : Mikro Adası</text>
+      </navLabel>
+      <content src="Text/bolum15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Bölüm XVI : Karma</text>
+      </navLabel>
+      <content src="Text/bolum16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Bölüm XVII : Tekâmül-aşma</text>
+      </navLabel>
+      <content src="Text/bolum17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>M.D.'Den Özet Bilgiler</text>
+      </navLabel>
+      <content src="Text/bilgiler.xhtml"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>M.D. 'ye Göre Makro Felsefe</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_1"/>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>MİKRO BENİN KENDİNİ SAVUNMA YÖNTEMLERİ</text>
+          </navLabel>
+          <content src="Text/bilgiler.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>M.D. 'Ye Göre Makro Toplum</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Makro Toplumda Birimlere Göre Nüfus Dağılımı</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>M.D. 'ye göre Mikro Adam</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>M.D. 'ye göre Akaşik Kayıtlar</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>M.D. 'ye göre Düşler</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>M.D. 'ye göre Farkındalık Düzeyini Yükseltme Yöntemleri</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>M.D. 'ye göre Metrik Zaman</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Makro Düzeyler-Ölçüt-Renkler</text>
+        </navLabel>
+        <content src="Text/bilgiler.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Alfa ve Beta Kat Planları</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

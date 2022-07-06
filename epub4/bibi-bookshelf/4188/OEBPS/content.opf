@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mahalleden Arkadaslar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aydemir, Selcuk">Selcuk Aydemir</dc:creator>
+    <dc:identifier id="uuid">{82B461CE-A739-498D-A6A6-1470C87B5CB5}</dc:identifier>
+    <dc:date>2015-06-15T12:50:14+00:00</dc:date>
+    <dc:publisher>Sayfa6</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">7ac1c7e7-8d72-425d-945c-d95c11fdd33a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751035356</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">qEIgrgEACAAJ</dc:identifier>
+    <meta name="cover" content="on_kapak.jpg"/>
+    <meta name="Sigil version" content="0.9.8"/>
+    <meta name="calibre:title_sort" content="Mahalleden Arkadaslar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Selcuk Aydemir&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main.xhtml" href="Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-1.xhtml" href="Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id31" href="Text/main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id32" href="Text/main-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id33" href="Text/main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id34" href="Text/main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id35" href="Text/main-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id36" href="Text/main-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id37" href="Text/main-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id38" href="Text/main-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id39" href="Text/main-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id40" href="Text/main-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id42" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id41" href="Styles/main.css" media-type="text/css"/>
+    <item id="ic_kapak.png" href="Images/ic_kapak.png" media-type="image/png"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="on_kapak.jpg" href="Images/on_kapak.jpg" media-type="image/jpeg"/>
+    <item id="resim.png" href="Images/resim.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id42">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

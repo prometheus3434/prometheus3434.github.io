@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kültür örüntüleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Benedict, Ruth">Ruth Benedict</dc:creator>
+    <dc:publisher>Öteki yayınevi</dc:publisher>
+    <dc:date>1998-06-15T10:52:32+00:00</dc:date>
+    <dc:description>&lt;p&gt;Ünlü antropolog Ruth Benedict’in, özellikle kültürel çalışmalar 
+konusunda temel başvuru kaynaklarından biri olarak görülen kitabı Kültür Örüntüleri, insan hayatının şekillenmesinde kültürün rolüne dair 
+çarpıcı bir bakış sunuyor. Üç Kızılderili toplumunun karşılaştırıldığı 
+bu çalışma, toplumların davranışlarındaki çeşitlilikleri yargılamadan 
+ortaya koyuyor. Dolayısıyla Batı toplumunun “en iyi, en gelişmiş” kültür olduğu yönündeki görüşü reddederek, her kültürün kendisini nasıl ele alıyorsa öyle kavranması gerektiğini öne sürüyor. 1930’lu yıllarda yazılmış olmasına rağmen, Kültür Örüntüleri’nin günümüzde hâlâ temel bir eser olmasını sağlayan da kültürel çeşitliliğe yaptığı bu vurgu. Özellikle antropoloji ve etnoloji alanlarında çığır açmış bir isim olan Benedict’in birey ve kültür ilişkisini incelemesi bakımından büyük önem taşıyan araştırması, insan olmanın anlamları üzerine derin bir kavrayış sağlıyor.  &lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Logolu</dc:subject>
+    <dc:subject>Antropoloji</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">44167dff-6c1d-46e3-b12a-b8d77a7a9440</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">bH4HrgEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755840345</dc:identifier>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Kültür örüntüleri" name="calibre:title_sort"/>
+    <meta content="{&quot;Ruth Benedict&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraf.xhtml" id="epigraf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cevonsoz.xhtml" id="cevonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.xhtml" id="tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz1.xhtml" id="onsoz1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz2.xhtml" id="onsoz2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sunus.xhtml" id="sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id11" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id10" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Fonts/BerkeleyBoldE.ttf" id="BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerkeleyItaE.ttf" id="BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/BerkeleyMediumE.ttf" id="BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/TradeGothicTR.otf" id="TradeGothicTR.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="epigraf.xhtml"/>
+    <itemref idref="cevonsoz.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="onsoz1.xhtml"/>
+    <itemref idref="onsoz2.xhtml"/>
+    <itemref idref="sunus.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,251 @@
+.ekdg-logo {
+  text-align: center;
+  margin: 5em 0 1em;
+}
+
+/*----H----*/
+h1 {
+  font: normal normal 1.25em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 10em;
+  text-align: center;
+}
+.chapter {
+  font: normal normal 1.25em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 10em;
+  text-align: left;
+}
+.num {
+font: normal normal 2em/1.2em "TradeGothic LT CondEighteen";
+text-align: right;
+margin-bottom:0;
+}
+hr {
+    padding: 0;
+   	background-color:#000;
+	color:#000;
+    height: 5px;
+	border: 0;
+	margin-top:-10px;
+}
+
+h2 {
+  font: normal normal 1em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+div.reference1 {
+  margin-left: 1em;
+}
+p.reference1 {
+font-family: "Berkeley";
+  font-size: 0.751em;
+  text-indent: -1em;
+  text-align: justify;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 4em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: center;
+}
+.t-1 {
+  font: normal normal 1.13em "Berkeley";
+  margin: 0 auto 0.2em auto;
+}
+.t-2 {
+  font: normal bold 3em "Berkeley";
+  margin: 0;
+}
+.t-21 {
+  font: normal normal 1.2em "Berkeley";
+  margin: 0;
+}
+.trans {
+  font-family: "Berkeley";
+  font-size: 0.83em;
+  margin-top: 4em;
+}
+.trans span {
+  font-size: 1.2em;
+  line-height: 2.5em;
+  display: block;
+}
+.logo {
+  margin: 3em auto 0 auto;
+}
+/************/
+.epigraf {
+  margin-top: 10em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.epigraf p {
+  font: normal normal 0.85em "Berkeley";
+  text-align: center;
+}
+p.right {
+  text-align: right;
+  font: normal normal .93em "Berkeley";
+}
+/*----P----*/
+p {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+p.indent {
+  font: normal normal .93em "Berkeley";
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+p.extract {
+  font: normal normal .93em "Berkeley";
+  margin-bottom: 0;
+  margin-top: 1.5em;
+  text-align: justify;
+  text-indent: 0;
+}
+p.nonindent {
+  font: normal normal .93em "Berkeley";
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 0;
+}
+/*----Block----*/
+div.block {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+p.bl_indent {
+  text-indent: 1.5em;
+   font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+p.bl_nonindent {
+  text-indent: 0;
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-top:0;
+  margin-bottom:0;
+  margin-right: 0;
+  text-align: justify;
+}
+.tmargin {
+font-family: "Berkeley";
+  font-size: 0.851em;
+	margin-top: 1em; 
+	margin-left: 1.5em;}
+p.bl_nonindent1 {
+  text-indent: 0;
+   font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 3em;
+  margin-top:0;
+  margin-bottom:0;
+  margin-right: 0;
+  text-align: justify;
+}
+/******FOOTNOTE******/
+.endnote {
+font-family: "Berkeley";
+font-size: .85em;
+text-align: justify;
+}
+.fnlabel {
+	width:1.5em; 
+	float:left;
+	font-size:0.8em;
+	line-height:165%;
+}
+.fnlabel a{color:#666666;
+	text-decoration: none;
+}
+.fncontent {
+	padding-left:1.8em;
+	margin-bottom:10px;
+}
+
+.fncontent p
+{
+margin-left:30px;
+vertical-align:middle;
+page-break-before:avoid;
+margin-top:1px;
+text-indent:1.5em;
+}
+.fncontent > p:first-child{text-indent:0;}
+/*Notlar*/
+.footnotes {
+  margin: 4em 0 1em;
+  text-align: justify;
+}
+.footnotes > p.footnote:last-child {
+  margin-bottom: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.footnote {
+   font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+}
+.noteref {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "TradeGothic LT CondEighteen";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/TradeGothicTR.otf);
+  }

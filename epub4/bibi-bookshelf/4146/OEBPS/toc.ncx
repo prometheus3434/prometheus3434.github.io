@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="7ebe8cf5-c0cb-4773-a3fa-19be8525dddd" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text/>
+  </docTitle>
+  <navMap>
+    <navPoint id="text1" playOrder="1">
+      <navLabel>
+        <text>birinci kitap</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="text2" playOrder="2">
+      <navLabel>
+        <text>ikinci kitap</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="text3" playOrder="3">
+      <navLabel>
+        <text>üçüncü kitap</text>
+      </navLabel>
+      <content src="Text/chapter14.xhtml"/>
+    </navPoint>
+    <navPoint id="text4" playOrder="4">
+      <navLabel>
+        <text>dördüncü kitap</text>
+      </navLabel>
+      <content src="Text/chapter32.xhtml"/>
+    </navPoint>
+    <navPoint id="text5" playOrder="5">
+      <navLabel>
+        <text>beşinci kitap</text>
+      </navLabel>
+      <content src="Text/chapter46.xhtml"/>
+    </navPoint>
+    <navPoint id="text6" playOrder="6">
+      <navLabel>
+        <text>altıncı kitap</text>
+      </navLabel>
+      <content src="Text/chapter52.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

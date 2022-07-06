@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Lanetli</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Palahniuk, Chuck">Chuck Palahniuk</dc:creator>
+    <dc:publisher>Ayrinti Yayinlari</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">82b18ab2-7e63-43fa-91df-16ce12df7e2a</dc:identifier>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt; Orada mısın, Şeytan? Benim ben, Madison. Şimdi geldim buraya,  Cehennem’e; ve belki de aşırı doz marihuanadan ölmek dışında hiçbir şey benim hatam değil. Belki de şişman… gerçek bir domuzcuk oldu-ğum için düştüm Cehennem’e. Kendine saygın yeterli olmadığı için Cehennem’e gidilebiliyor mu bilmiyorum ama ben bu yüzden buradayım. Keşke yalan söyle-yip, sarı saçlarım ve iri göğüslerimle bir deri bir kemik olduğumu anlatabilseydim sana. İnan bana, şişma-nım ama çok iyi nedenlerim var bunun için.Önce kendimi takdim edeyim…İşte böyle başlıyor daha on üç yaşındaki, narsist ve milyarder bir Hollywood yıldızının kızı Madison Spen-cer’ın heyecanlı, eğlenceli, biraz da korkunç Cehennem macerası…Dünyaya dair hatırladığı son şey, lüks bir otomobile bindiği ve uykuya daldığıdır. Sonra Cehennem’de bir hücrede uyanır. Yan hücrelerde kalan kendisi gibi genç günahkârlardan oluşan renkli bir grupla tıraş bıçağı, peçete ve izmarit atıkları, kırık camlar, kepek, zalim tarihsel şahsiyetler, bok, salya, balgam, cerahat dolu bataklıklar, göller ve okyanuslarla, her çeşit iblisle dolu ve elbette dehşetli ateşlerin yandığı Cehennem topraklarında zorlu bir yolculuğa çıkarlar.Baştan sona olağanüstü zeki gözlemlerle, toplumsal eleştiriyle, şiddetle, hicivle, akılla ve aşkla örülü, çok katmanlı ama büyük bir zevkle okunacak, sizi asla yanıltmayacak, o her zamanki irkiltici ama eğlenceli Palahniuk kitaplarından biri, Lanetli.&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:date>2020-06-15T12:12:54+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2a48173e-4daf-43da-984f-e648ba288e32</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789755398068</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">3030oAEACAAJ</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Lanetli"/>
+    <meta name="calibre:timestamp" content="2015-11-11T16:08:29.784000+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Chuck Palahniuk&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

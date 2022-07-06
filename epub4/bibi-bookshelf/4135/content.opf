@@ -1,0 +1,695 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Kült kitap: yazarken, okurken, çizerken</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Unknown">İlhan Berk</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>1998-06-15T11:56:58+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3dcecdf9-e17f-42bf-b1cf-39d771f63fca</dc:identifier>
+    <dc:publisher>Yapı Kredi Kültür Sanat Yayıncılık</dc:publisher>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">20881419-df30-4647-89d8-beefcfddabc9</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">WSeQss5IT6gC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753639460</dc:identifier>
+    <meta name="calibre:timestamp" content="2021-10-31T04:28:40.477412+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kült kitap: yazarken, okurken, çizerken"/>
+    <meta name="calibre:author_link_map" content="{&quot;İlhan Berk&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapak" href="OEBPS/kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1" href="OEBPS/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2" href="OEBPS/2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3" href="OEBPS/3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-1" href="OEBPS/3-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-2" href="OEBPS/3-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-3" href="OEBPS/3-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-4" href="OEBPS/3-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-5" href="OEBPS/3-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-6" href="OEBPS/3-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-7" href="OEBPS/3-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-8" href="OEBPS/3-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-9" href="OEBPS/3-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-10" href="OEBPS/3-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-11" href="OEBPS/3-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-12" href="OEBPS/3-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-13" href="OEBPS/3-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-14" href="OEBPS/3-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-15" href="OEBPS/3-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-16" href="OEBPS/3-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-17" href="OEBPS/3-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-18" href="OEBPS/3-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-19" href="OEBPS/3-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-20" href="OEBPS/3-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-21" href="OEBPS/3-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-22" href="OEBPS/3-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-23" href="OEBPS/3-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-24" href="OEBPS/3-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-25" href="OEBPS/3-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-26" href="OEBPS/3-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-27" href="OEBPS/3-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-28" href="OEBPS/3-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-29" href="OEBPS/3-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-30" href="OEBPS/3-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-31" href="OEBPS/3-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-32" href="OEBPS/3-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-33" href="OEBPS/3-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-34" href="OEBPS/3-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-35" href="OEBPS/3-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-36" href="OEBPS/3-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-37" href="OEBPS/3-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-38" href="OEBPS/3-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-39" href="OEBPS/3-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-40" href="OEBPS/3-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-41" href="OEBPS/3-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-42" href="OEBPS/3-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-43" href="OEBPS/3-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-44" href="OEBPS/3-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-45" href="OEBPS/3-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-46" href="OEBPS/3-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-47" href="OEBPS/3-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-48" href="OEBPS/3-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-49" href="OEBPS/3-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-50" href="OEBPS/3-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-51" href="OEBPS/3-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-52" href="OEBPS/3-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-53" href="OEBPS/3-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-54" href="OEBPS/3-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-55" href="OEBPS/3-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-56" href="OEBPS/3-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-57" href="OEBPS/3-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-58" href="OEBPS/3-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-59" href="OEBPS/3-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-60" href="OEBPS/3-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-61" href="OEBPS/3-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-62" href="OEBPS/3-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-63" href="OEBPS/3-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-64" href="OEBPS/3-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-65" href="OEBPS/3-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-66" href="OEBPS/3-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-67" href="OEBPS/3-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-68" href="OEBPS/3-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-69" href="OEBPS/3-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-70" href="OEBPS/3-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-71" href="OEBPS/3-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-72" href="OEBPS/3-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-73" href="OEBPS/3-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-74" href="OEBPS/3-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-75" href="OEBPS/3-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-76" href="OEBPS/3-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-77" href="OEBPS/3-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-78" href="OEBPS/3-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-79" href="OEBPS/3-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-80" href="OEBPS/3-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-81" href="OEBPS/3-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-82" href="OEBPS/3-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-83" href="OEBPS/3-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-84" href="OEBPS/3-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-85" href="OEBPS/3-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-86" href="OEBPS/3-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-87" href="OEBPS/3-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-88" href="OEBPS/3-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-89" href="OEBPS/3-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-90" href="OEBPS/3-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-91" href="OEBPS/3-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-92" href="OEBPS/3-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-93" href="OEBPS/3-93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-94" href="OEBPS/3-94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-95" href="OEBPS/3-95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-96" href="OEBPS/3-96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-97" href="OEBPS/3-97.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-98" href="OEBPS/3-98.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-99" href="OEBPS/3-99.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-100" href="OEBPS/3-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-101" href="OEBPS/3-101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-102" href="OEBPS/3-102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-103" href="OEBPS/3-103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-104" href="OEBPS/3-104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-105" href="OEBPS/3-105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-106" href="OEBPS/3-106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-107" href="OEBPS/3-107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-108" href="OEBPS/3-108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-109" href="OEBPS/3-109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-110" href="OEBPS/3-110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-111" href="OEBPS/3-111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-112" href="OEBPS/3-112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-113" href="OEBPS/3-113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-114" href="OEBPS/3-114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-115" href="OEBPS/3-115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-116" href="OEBPS/3-116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-117" href="OEBPS/3-117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-118" href="OEBPS/3-118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-119" href="OEBPS/3-119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-120" href="OEBPS/3-120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-121" href="OEBPS/3-121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-122" href="OEBPS/3-122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-123" href="OEBPS/3-123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-124" href="OEBPS/3-124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-125" href="OEBPS/3-125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-126" href="OEBPS/3-126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-127" href="OEBPS/3-127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-128" href="OEBPS/3-128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-129" href="OEBPS/3-129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-130" href="OEBPS/3-130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-131" href="OEBPS/3-131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-132" href="OEBPS/3-132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-133" href="OEBPS/3-133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-134" href="OEBPS/3-134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-135" href="OEBPS/3-135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-136" href="OEBPS/3-136.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-137" href="OEBPS/3-137.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-138" href="OEBPS/3-138.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-139" href="OEBPS/3-139.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-140" href="OEBPS/3-140.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-141" href="OEBPS/3-141.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-142" href="OEBPS/3-142.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-143" href="OEBPS/3-143.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-144" href="OEBPS/3-144.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-145" href="OEBPS/3-145.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-146" href="OEBPS/3-146.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-147" href="OEBPS/3-147.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-148" href="OEBPS/3-148.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-149" href="OEBPS/3-149.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-150" href="OEBPS/3-150.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-151" href="OEBPS/3-151.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-152" href="OEBPS/3-152.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-153" href="OEBPS/3-153.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-154" href="OEBPS/3-154.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-155" href="OEBPS/3-155.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-156" href="OEBPS/3-156.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-157" href="OEBPS/3-157.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-158" href="OEBPS/3-158.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-159" href="OEBPS/3-159.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-160" href="OEBPS/3-160.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-161" href="OEBPS/3-161.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-162" href="OEBPS/3-162.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-163" href="OEBPS/3-163.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-164" href="OEBPS/3-164.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-165" href="OEBPS/3-165.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-166" href="OEBPS/3-166.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-167" href="OEBPS/3-167.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-168" href="OEBPS/3-168.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-169" href="OEBPS/3-169.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-170" href="OEBPS/3-170.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-171" href="OEBPS/3-171.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-172" href="OEBPS/3-172.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-173" href="OEBPS/3-173.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-174" href="OEBPS/3-174.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-175" href="OEBPS/3-175.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-176" href="OEBPS/3-176.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-177" href="OEBPS/3-177.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-178" href="OEBPS/3-178.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-179" href="OEBPS/3-179.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-180" href="OEBPS/3-180.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-181" href="OEBPS/3-181.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-182" href="OEBPS/3-182.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-183" href="OEBPS/3-183.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-184" href="OEBPS/3-184.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-185" href="OEBPS/3-185.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-186" href="OEBPS/3-186.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-187" href="OEBPS/3-187.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-188" href="OEBPS/3-188.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-189" href="OEBPS/3-189.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-190" href="OEBPS/3-190.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-191" href="OEBPS/3-191.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-192" href="OEBPS/3-192.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-193" href="OEBPS/3-193.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-194" href="OEBPS/3-194.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-195" href="OEBPS/3-195.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-196" href="OEBPS/3-196.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-197" href="OEBPS/3-197.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-198" href="OEBPS/3-198.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-199" href="OEBPS/3-199.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-200" href="OEBPS/3-200.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-201" href="OEBPS/3-201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-202" href="OEBPS/3-202.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-203" href="OEBPS/3-203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-204" href="OEBPS/3-204.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-205" href="OEBPS/3-205.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-206" href="OEBPS/3-206.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-207" href="OEBPS/3-207.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-208" href="OEBPS/3-208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-209" href="OEBPS/3-209.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-210" href="OEBPS/3-210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-211" href="OEBPS/3-211.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-212" href="OEBPS/3-212.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-213" href="OEBPS/3-213.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-214" href="OEBPS/3-214.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-215" href="OEBPS/3-215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-216" href="OEBPS/3-216.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-217" href="OEBPS/3-217.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-218" href="OEBPS/3-218.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-219" href="OEBPS/3-219.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-220" href="OEBPS/3-220.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-221" href="OEBPS/3-221.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-222" href="OEBPS/3-222.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-223" href="OEBPS/3-223.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-224" href="OEBPS/3-224.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-225" href="OEBPS/3-225.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-226" href="OEBPS/3-226.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-227" href="OEBPS/3-227.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-228" href="OEBPS/3-228.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-229" href="OEBPS/3-229.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-230" href="OEBPS/3-230.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-231" href="OEBPS/3-231.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-232" href="OEBPS/3-232.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-233" href="OEBPS/3-233.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-234" href="OEBPS/3-234.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-235" href="OEBPS/3-235.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-236" href="OEBPS/3-236.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-237" href="OEBPS/3-237.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-238" href="OEBPS/3-238.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-239" href="OEBPS/3-239.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-240" href="OEBPS/3-240.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-241" href="OEBPS/3-241.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-242" href="OEBPS/3-242.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-243" href="OEBPS/3-243.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-244" href="OEBPS/3-244.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-245" href="OEBPS/3-245.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-246" href="OEBPS/3-246.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-247" href="OEBPS/3-247.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-248" href="OEBPS/3-248.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="x1_fmt.jpeg" href="OEBPS/image/1_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x10_fmt.jpeg" href="OEBPS/image/10_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x11_fmt.jpeg" href="OEBPS/image/11_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x13_fmt.jpeg" href="OEBPS/image/13_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x14_fmt.jpeg" href="OEBPS/image/14_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x15_fmt.jpeg" href="OEBPS/image/15_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x16_fmt.jpeg" href="OEBPS/image/16_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x17_fmt.jpeg" href="OEBPS/image/17_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x18_fmt.jpeg" href="OEBPS/image/18_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="cover" href="OEBPS/image/186.jpg" media-type="image/jpeg"/>
+    <item id="x19_fmt.jpeg" href="OEBPS/image/19_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x2_fmt.jpeg" href="OEBPS/image/2_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x20_fmt.jpeg" href="OEBPS/image/20_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x21_fmt.jpeg" href="OEBPS/image/21_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x22_fmt.jpeg" href="OEBPS/image/22_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x24_fmt.jpeg" href="OEBPS/image/24_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x25_fmt.jpeg" href="OEBPS/image/25_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x26_fmt.jpeg" href="OEBPS/image/26_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x27_fmt.jpeg" href="OEBPS/image/27_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x27422.jpg" href="OEBPS/image/27422.jpg" media-type="image/jpeg"/>
+    <item id="x27431.jpg" href="OEBPS/image/27431.jpg" media-type="image/jpeg"/>
+    <item id="x27436.jpg" href="OEBPS/image/27436.jpg" media-type="image/jpeg"/>
+    <item id="x27443.jpg" href="OEBPS/image/27443.jpg" media-type="image/jpeg"/>
+    <item id="x27448.jpg" href="OEBPS/image/27448.jpg" media-type="image/jpeg"/>
+    <item id="x27454.jpg" href="OEBPS/image/27454.jpg" media-type="image/jpeg"/>
+    <item id="x27459.jpg" href="OEBPS/image/27459.jpg" media-type="image/jpeg"/>
+    <item id="x27465.jpg" href="OEBPS/image/27465.jpg" media-type="image/jpeg"/>
+    <item id="x27472.jpg" href="OEBPS/image/27472.jpg" media-type="image/jpeg"/>
+    <item id="x27478.jpg" href="OEBPS/image/27478.jpg" media-type="image/jpeg"/>
+    <item id="x27526.jpg" href="OEBPS/image/27526.jpg" media-type="image/jpeg"/>
+    <item id="x27531.jpg" href="OEBPS/image/27531.jpg" media-type="image/jpeg"/>
+    <item id="x27536.jpg" href="OEBPS/image/27536.jpg" media-type="image/jpeg"/>
+    <item id="x27541.jpg" href="OEBPS/image/27541.jpg" media-type="image/jpeg"/>
+    <item id="x27548.jpg" href="OEBPS/image/27548.jpg" media-type="image/jpeg"/>
+    <item id="x27554.jpg" href="OEBPS/image/27554.jpg" media-type="image/jpeg"/>
+    <item id="x27561.jpg" href="OEBPS/image/27561.jpg" media-type="image/jpeg"/>
+    <item id="x27566.jpg" href="OEBPS/image/27566.jpg" media-type="image/jpeg"/>
+    <item id="x27596.jpg" href="OEBPS/image/27596.jpg" media-type="image/jpeg"/>
+    <item id="x27602.jpg" href="OEBPS/image/27602.jpg" media-type="image/jpeg"/>
+    <item id="x27607.jpg" href="OEBPS/image/27607.jpg" media-type="image/jpeg"/>
+    <item id="x27613.jpg" href="OEBPS/image/27613.jpg" media-type="image/jpeg"/>
+    <item id="x27651.jpg" href="OEBPS/image/27651.jpg" media-type="image/jpeg"/>
+    <item id="x27656.jpg" href="OEBPS/image/27656.jpg" media-type="image/jpeg"/>
+    <item id="x27661.jpg" href="OEBPS/image/27661.jpg" media-type="image/jpeg"/>
+    <item id="x27669.jpg" href="OEBPS/image/27669.jpg" media-type="image/jpeg"/>
+    <item id="x27678.jpg" href="OEBPS/image/27678.jpg" media-type="image/jpeg"/>
+    <item id="x27684.jpg" href="OEBPS/image/27684.jpg" media-type="image/jpeg"/>
+    <item id="x27689.jpg" href="OEBPS/image/27689.jpg" media-type="image/jpeg"/>
+    <item id="x27694.jpg" href="OEBPS/image/27694.jpg" media-type="image/jpeg"/>
+    <item id="x27699.jpg" href="OEBPS/image/27699.jpg" media-type="image/jpeg"/>
+    <item id="x27705.jpg" href="OEBPS/image/27705.jpg" media-type="image/jpeg"/>
+    <item id="x27765.jpg" href="OEBPS/image/27765.jpg" media-type="image/jpeg"/>
+    <item id="x27771.jpg" href="OEBPS/image/27771.jpg" media-type="image/jpeg"/>
+    <item id="x27776.jpg" href="OEBPS/image/27776.jpg" media-type="image/jpeg"/>
+    <item id="x27781.jpg" href="OEBPS/image/27781.jpg" media-type="image/jpeg"/>
+    <item id="x27786.jpg" href="OEBPS/image/27786.jpg" media-type="image/jpeg"/>
+    <item id="x27792.jpg" href="OEBPS/image/27792.jpg" media-type="image/jpeg"/>
+    <item id="x27797.jpg" href="OEBPS/image/27797.jpg" media-type="image/jpeg"/>
+    <item id="x27804.jpg" href="OEBPS/image/27804.jpg" media-type="image/jpeg"/>
+    <item id="x27900.jpg" href="OEBPS/image/27900.jpg" media-type="image/jpeg"/>
+    <item id="x27905.jpg" href="OEBPS/image/27905.jpg" media-type="image/jpeg"/>
+    <item id="x27913.jpg" href="OEBPS/image/27913.jpg" media-type="image/jpeg"/>
+    <item id="x27919.jpg" href="OEBPS/image/27919.jpg" media-type="image/jpeg"/>
+    <item id="x27948.jpg" href="OEBPS/image/27948.jpg" media-type="image/jpeg"/>
+    <item id="x27954.jpg" href="OEBPS/image/27954.jpg" media-type="image/jpeg"/>
+    <item id="x27960.jpg" href="OEBPS/image/27960.jpg" media-type="image/jpeg"/>
+    <item id="x27965.jpg" href="OEBPS/image/27965.jpg" media-type="image/jpeg"/>
+    <item id="x27970.jpg" href="OEBPS/image/27970.jpg" media-type="image/jpeg"/>
+    <item id="x27976.jpg" href="OEBPS/image/27976.jpg" media-type="image/jpeg"/>
+    <item id="x27981.jpg" href="OEBPS/image/27981.jpg" media-type="image/jpeg"/>
+    <item id="x27987.jpg" href="OEBPS/image/27987.jpg" media-type="image/jpeg"/>
+    <item id="x27992.jpg" href="OEBPS/image/27992.jpg" media-type="image/jpeg"/>
+    <item id="x27997.jpg" href="OEBPS/image/27997.jpg" media-type="image/jpeg"/>
+    <item id="x28_fmt.jpeg" href="OEBPS/image/28_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x28005.jpg" href="OEBPS/image/28005.jpg" media-type="image/jpeg"/>
+    <item id="x28096.jpg" href="OEBPS/image/28096.jpg" media-type="image/jpeg"/>
+    <item id="x28101.jpg" href="OEBPS/image/28101.jpg" media-type="image/jpeg"/>
+    <item id="x28107.jpg" href="OEBPS/image/28107.jpg" media-type="image/jpeg"/>
+    <item id="x28114.jpg" href="OEBPS/image/28114.jpg" media-type="image/jpeg"/>
+    <item id="x28120.jpg" href="OEBPS/image/28120.jpg" media-type="image/jpeg"/>
+    <item id="x28125.jpg" href="OEBPS/image/28125.jpg" media-type="image/jpeg"/>
+    <item id="x28130.jpg" href="OEBPS/image/28130.jpg" media-type="image/jpeg"/>
+    <item id="x28136.jpg" href="OEBPS/image/28136.jpg" media-type="image/jpeg"/>
+    <item id="x28142.jpg" href="OEBPS/image/28142.jpg" media-type="image/jpeg"/>
+    <item id="x28147.jpg" href="OEBPS/image/28147.jpg" media-type="image/jpeg"/>
+    <item id="x28155.jpg" href="OEBPS/image/28155.jpg" media-type="image/jpeg"/>
+    <item id="x28160.jpg" href="OEBPS/image/28160.jpg" media-type="image/jpeg"/>
+    <item id="x28166.jpg" href="OEBPS/image/28166.jpg" media-type="image/jpeg"/>
+    <item id="x28173.jpg" href="OEBPS/image/28173.jpg" media-type="image/jpeg"/>
+    <item id="x28180.jpg" href="OEBPS/image/28180.jpg" media-type="image/jpeg"/>
+    <item id="x28187.jpg" href="OEBPS/image/28187.jpg" media-type="image/jpeg"/>
+    <item id="x28211.jpg" href="OEBPS/image/28211.jpg" media-type="image/jpeg"/>
+    <item id="x28217.jpg" href="OEBPS/image/28217.jpg" media-type="image/jpeg"/>
+    <item id="x28222.jpg" href="OEBPS/image/28222.jpg" media-type="image/jpeg"/>
+    <item id="x28228.jpg" href="OEBPS/image/28228.jpg" media-type="image/jpeg"/>
+    <item id="x28233.jpg" href="OEBPS/image/28233.jpg" media-type="image/jpeg"/>
+    <item id="x28239.jpg" href="OEBPS/image/28239.jpg" media-type="image/jpeg"/>
+    <item id="x28245.jpg" href="OEBPS/image/28245.jpg" media-type="image/jpeg"/>
+    <item id="x28253.jpg" href="OEBPS/image/28253.jpg" media-type="image/jpeg"/>
+    <item id="x28260.jpg" href="OEBPS/image/28260.jpg" media-type="image/jpeg"/>
+    <item id="x28265.jpg" href="OEBPS/image/28265.jpg" media-type="image/jpeg"/>
+    <item id="x28270.jpg" href="OEBPS/image/28270.jpg" media-type="image/jpeg"/>
+    <item id="x28275.jpg" href="OEBPS/image/28275.jpg" media-type="image/jpeg"/>
+    <item id="x28281.jpg" href="OEBPS/image/28281.jpg" media-type="image/jpeg"/>
+    <item id="x28339.jpg" href="OEBPS/image/28339.jpg" media-type="image/jpeg"/>
+    <item id="x28345.jpg" href="OEBPS/image/28345.jpg" media-type="image/jpeg"/>
+    <item id="x28350.jpg" href="OEBPS/image/28350.jpg" media-type="image/jpeg"/>
+    <item id="x28356.jpg" href="OEBPS/image/28356.jpg" media-type="image/jpeg"/>
+    <item id="x28361.jpg" href="OEBPS/image/28361.jpg" media-type="image/jpeg"/>
+    <item id="x28367.jpg" href="OEBPS/image/28367.jpg" media-type="image/jpeg"/>
+    <item id="x28372.jpg" href="OEBPS/image/28372.jpg" media-type="image/jpeg"/>
+    <item id="x28378.jpg" href="OEBPS/image/28378.jpg" media-type="image/jpeg"/>
+    <item id="x28384.jpg" href="OEBPS/image/28384.jpg" media-type="image/jpeg"/>
+    <item id="x28495.jpg" href="OEBPS/image/28495.jpg" media-type="image/jpeg"/>
+    <item id="x28500.jpg" href="OEBPS/image/28500.jpg" media-type="image/jpeg"/>
+    <item id="x28505.jpg" href="OEBPS/image/28505.jpg" media-type="image/jpeg"/>
+    <item id="x28511.jpg" href="OEBPS/image/28511.jpg" media-type="image/jpeg"/>
+    <item id="x28518.jpg" href="OEBPS/image/28518.jpg" media-type="image/jpeg"/>
+    <item id="x28526.jpg" href="OEBPS/image/28526.jpg" media-type="image/jpeg"/>
+    <item id="x28531.jpg" href="OEBPS/image/28531.jpg" media-type="image/jpeg"/>
+    <item id="x29_fmt.jpeg" href="OEBPS/image/29_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x3_fmt.jpeg" href="OEBPS/image/3_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x30_fmt.jpeg" href="OEBPS/image/30_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x31_fmt.jpeg" href="OEBPS/image/31_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x32_fmt.jpeg" href="OEBPS/image/32_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x33_fmt.jpeg" href="OEBPS/image/33_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x34_fmt.jpeg" href="OEBPS/image/34_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x35_fmt.jpeg" href="OEBPS/image/35_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x36_fmt.jpeg" href="OEBPS/image/36_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x37_fmt.jpeg" href="OEBPS/image/37_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x38_fmt.jpeg" href="OEBPS/image/38_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x39_fmt.jpeg" href="OEBPS/image/39_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x4_fmt.jpeg" href="OEBPS/image/4_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x40_fmt.jpeg" href="OEBPS/image/40_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x41_fmt.jpeg" href="OEBPS/image/41_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x42_fmt.jpeg" href="OEBPS/image/42_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x43_fmt.jpeg" href="OEBPS/image/43_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x44_fmt.jpeg" href="OEBPS/image/44_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x45_fmt.jpeg" href="OEBPS/image/45_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x46_fmt.jpeg" href="OEBPS/image/46_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x47_fmt.jpeg" href="OEBPS/image/47_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x48_fmt.jpeg" href="OEBPS/image/48_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x49_fmt.jpeg" href="OEBPS/image/49_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x5_fmt.jpeg" href="OEBPS/image/5_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x50_fmt.jpeg" href="OEBPS/image/50_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x51_fmt.jpeg" href="OEBPS/image/51_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x52_fmt.jpeg" href="OEBPS/image/52_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x53_fmt.jpeg" href="OEBPS/image/53_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x54_fmt.jpeg" href="OEBPS/image/54_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x55_fmt.jpeg" href="OEBPS/image/55_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x56_fmt.jpeg" href="OEBPS/image/56_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x57_fmt.jpeg" href="OEBPS/image/57_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x58_fmt.jpeg" href="OEBPS/image/58_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x59_fmt.jpeg" href="OEBPS/image/59_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x6_fmt.jpeg" href="OEBPS/image/6_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x60_fmt.jpeg" href="OEBPS/image/60_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x61_fmt.jpeg" href="OEBPS/image/61_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x7_fmt.jpeg" href="OEBPS/image/7_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x8_fmt.jpeg" href="OEBPS/image/8_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="x9_fmt.jpeg" href="OEBPS/image/9_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="kapak_fmt.jpeg" href="OEBPS/image/kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="storytel_metadata" href="storytel_metadata.json" media-type="application/json"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x3-1"/>
+    <itemref idref="x3-2"/>
+    <itemref idref="x3-3"/>
+    <itemref idref="x3-4"/>
+    <itemref idref="x3-5"/>
+    <itemref idref="x3-6"/>
+    <itemref idref="x3-7"/>
+    <itemref idref="x3-8"/>
+    <itemref idref="x3-9"/>
+    <itemref idref="x3-10"/>
+    <itemref idref="x3-11"/>
+    <itemref idref="x3-12"/>
+    <itemref idref="x3-13"/>
+    <itemref idref="x3-14"/>
+    <itemref idref="x3-15"/>
+    <itemref idref="x3-16"/>
+    <itemref idref="x3-17"/>
+    <itemref idref="x3-18"/>
+    <itemref idref="x3-19"/>
+    <itemref idref="x3-20"/>
+    <itemref idref="x3-21"/>
+    <itemref idref="x3-22"/>
+    <itemref idref="x3-23"/>
+    <itemref idref="x3-24"/>
+    <itemref idref="x3-25"/>
+    <itemref idref="x3-26"/>
+    <itemref idref="x3-27"/>
+    <itemref idref="x3-28"/>
+    <itemref idref="x3-29"/>
+    <itemref idref="x3-30"/>
+    <itemref idref="x3-31"/>
+    <itemref idref="x3-32"/>
+    <itemref idref="x3-33"/>
+    <itemref idref="x3-34"/>
+    <itemref idref="x3-35"/>
+    <itemref idref="x3-36"/>
+    <itemref idref="x3-37"/>
+    <itemref idref="x3-38"/>
+    <itemref idref="x3-39"/>
+    <itemref idref="x3-40"/>
+    <itemref idref="x3-41"/>
+    <itemref idref="x3-42"/>
+    <itemref idref="x3-43"/>
+    <itemref idref="x3-44"/>
+    <itemref idref="x3-45"/>
+    <itemref idref="x3-46"/>
+    <itemref idref="x3-47"/>
+    <itemref idref="x3-48"/>
+    <itemref idref="x3-49"/>
+    <itemref idref="x3-50"/>
+    <itemref idref="x3-51"/>
+    <itemref idref="x3-52"/>
+    <itemref idref="x3-53"/>
+    <itemref idref="x3-54"/>
+    <itemref idref="x3-55"/>
+    <itemref idref="x3-56"/>
+    <itemref idref="x3-57"/>
+    <itemref idref="x3-58"/>
+    <itemref idref="x3-59"/>
+    <itemref idref="x3-60"/>
+    <itemref idref="x3-61"/>
+    <itemref idref="x3-62"/>
+    <itemref idref="x3-63"/>
+    <itemref idref="x3-64"/>
+    <itemref idref="x3-65"/>
+    <itemref idref="x3-66"/>
+    <itemref idref="x3-67"/>
+    <itemref idref="x3-68"/>
+    <itemref idref="x3-69"/>
+    <itemref idref="x3-70"/>
+    <itemref idref="x3-71"/>
+    <itemref idref="x3-72"/>
+    <itemref idref="x3-73"/>
+    <itemref idref="x3-74"/>
+    <itemref idref="x3-75"/>
+    <itemref idref="x3-76"/>
+    <itemref idref="x3-77"/>
+    <itemref idref="x3-78"/>
+    <itemref idref="x3-79"/>
+    <itemref idref="x3-80"/>
+    <itemref idref="x3-81"/>
+    <itemref idref="x3-82"/>
+    <itemref idref="x3-83"/>
+    <itemref idref="x3-84"/>
+    <itemref idref="x3-85"/>
+    <itemref idref="x3-86"/>
+    <itemref idref="x3-87"/>
+    <itemref idref="x3-88"/>
+    <itemref idref="x3-89"/>
+    <itemref idref="x3-90"/>
+    <itemref idref="x3-91"/>
+    <itemref idref="x3-92"/>
+    <itemref idref="x3-93"/>
+    <itemref idref="x3-94"/>
+    <itemref idref="x3-95"/>
+    <itemref idref="x3-96"/>
+    <itemref idref="x3-97"/>
+    <itemref idref="x3-98"/>
+    <itemref idref="x3-99"/>
+    <itemref idref="x3-100"/>
+    <itemref idref="x3-101"/>
+    <itemref idref="x3-102"/>
+    <itemref idref="x3-103"/>
+    <itemref idref="x3-104"/>
+    <itemref idref="x3-105"/>
+    <itemref idref="x3-106"/>
+    <itemref idref="x3-107"/>
+    <itemref idref="x3-108"/>
+    <itemref idref="x3-109"/>
+    <itemref idref="x3-110"/>
+    <itemref idref="x3-111"/>
+    <itemref idref="x3-112"/>
+    <itemref idref="x3-113"/>
+    <itemref idref="x3-114"/>
+    <itemref idref="x3-115"/>
+    <itemref idref="x3-116"/>
+    <itemref idref="x3-117"/>
+    <itemref idref="x3-118"/>
+    <itemref idref="x3-119"/>
+    <itemref idref="x3-120"/>
+    <itemref idref="x3-121"/>
+    <itemref idref="x3-122"/>
+    <itemref idref="x3-123"/>
+    <itemref idref="x3-124"/>
+    <itemref idref="x3-125"/>
+    <itemref idref="x3-126"/>
+    <itemref idref="x3-127"/>
+    <itemref idref="x3-128"/>
+    <itemref idref="x3-129"/>
+    <itemref idref="x3-130"/>
+    <itemref idref="x3-131"/>
+    <itemref idref="x3-132"/>
+    <itemref idref="x3-133"/>
+    <itemref idref="x3-134"/>
+    <itemref idref="x3-135"/>
+    <itemref idref="x3-136"/>
+    <itemref idref="x3-137"/>
+    <itemref idref="x3-138"/>
+    <itemref idref="x3-139"/>
+    <itemref idref="x3-140"/>
+    <itemref idref="x3-141"/>
+    <itemref idref="x3-142"/>
+    <itemref idref="x3-143"/>
+    <itemref idref="x3-144"/>
+    <itemref idref="x3-145"/>
+    <itemref idref="x3-146"/>
+    <itemref idref="x3-147"/>
+    <itemref idref="x3-148"/>
+    <itemref idref="x3-149"/>
+    <itemref idref="x3-150"/>
+    <itemref idref="x3-151"/>
+    <itemref idref="x3-152"/>
+    <itemref idref="x3-153"/>
+    <itemref idref="x3-154"/>
+    <itemref idref="x3-155"/>
+    <itemref idref="x3-156"/>
+    <itemref idref="x3-157"/>
+    <itemref idref="x3-158"/>
+    <itemref idref="x3-159"/>
+    <itemref idref="x3-160"/>
+    <itemref idref="x3-161"/>
+    <itemref idref="x3-162"/>
+    <itemref idref="x3-163"/>
+    <itemref idref="x3-164"/>
+    <itemref idref="x3-165"/>
+    <itemref idref="x3-166"/>
+    <itemref idref="x3-167"/>
+    <itemref idref="x3-168"/>
+    <itemref idref="x3-169"/>
+    <itemref idref="x3-170"/>
+    <itemref idref="x3-171"/>
+    <itemref idref="x3-172"/>
+    <itemref idref="x3-173"/>
+    <itemref idref="x3-174"/>
+    <itemref idref="x3-175"/>
+    <itemref idref="x3-176"/>
+    <itemref idref="x3-177"/>
+    <itemref idref="x3-178"/>
+    <itemref idref="x3-179"/>
+    <itemref idref="x3-180"/>
+    <itemref idref="x3-181"/>
+    <itemref idref="x3-182"/>
+    <itemref idref="x3-183"/>
+    <itemref idref="x3-184"/>
+    <itemref idref="x3-185"/>
+    <itemref idref="x3-186"/>
+    <itemref idref="x3-187"/>
+    <itemref idref="x3-188"/>
+    <itemref idref="x3-189"/>
+    <itemref idref="x3-190"/>
+    <itemref idref="x3-191"/>
+    <itemref idref="x3-192"/>
+    <itemref idref="x3-193"/>
+    <itemref idref="x3-194"/>
+    <itemref idref="x3-195"/>
+    <itemref idref="x3-196"/>
+    <itemref idref="x3-197"/>
+    <itemref idref="x3-198"/>
+    <itemref idref="x3-199"/>
+    <itemref idref="x3-200"/>
+    <itemref idref="x3-201"/>
+    <itemref idref="x3-202"/>
+    <itemref idref="x3-203"/>
+    <itemref idref="x3-204"/>
+    <itemref idref="x3-205"/>
+    <itemref idref="x3-206"/>
+    <itemref idref="x3-207"/>
+    <itemref idref="x3-208"/>
+    <itemref idref="x3-209"/>
+    <itemref idref="x3-210"/>
+    <itemref idref="x3-211"/>
+    <itemref idref="x3-212"/>
+    <itemref idref="x3-213"/>
+    <itemref idref="x3-214"/>
+    <itemref idref="x3-215"/>
+    <itemref idref="x3-216"/>
+    <itemref idref="x3-217"/>
+    <itemref idref="x3-218"/>
+    <itemref idref="x3-219"/>
+    <itemref idref="x3-220"/>
+    <itemref idref="x3-221"/>
+    <itemref idref="x3-222"/>
+    <itemref idref="x3-223"/>
+    <itemref idref="x3-224"/>
+    <itemref idref="x3-225"/>
+    <itemref idref="x3-226"/>
+    <itemref idref="x3-227"/>
+    <itemref idref="x3-228"/>
+    <itemref idref="x3-229"/>
+    <itemref idref="x3-230"/>
+    <itemref idref="x3-231"/>
+    <itemref idref="x3-232"/>
+    <itemref idref="x3-233"/>
+    <itemref idref="x3-234"/>
+    <itemref idref="x3-235"/>
+    <itemref idref="x3-236"/>
+    <itemref idref="x3-237"/>
+    <itemref idref="x3-238"/>
+    <itemref idref="x3-239"/>
+    <itemref idref="x3-240"/>
+    <itemref idref="x3-241"/>
+    <itemref idref="x3-242"/>
+    <itemref idref="x3-243"/>
+    <itemref idref="x3-244"/>
+    <itemref idref="x3-245"/>
+    <itemref idref="x3-246"/>
+    <itemref idref="x3-247"/>
+    <itemref idref="x3-248"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
