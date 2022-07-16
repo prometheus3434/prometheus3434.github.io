@@ -1,0 +1,77 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kibritçi Kız</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Ekiz, Alim">Alim Ekiz</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">04c1a8c3-b977-49a1-87d2-16cac48f516c</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kibritçi Kız"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alim Ekiz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="09_Kibritci_Kiz.xhtml" id="x09_Kibritci_Kiz" media-type="application/xhtml+xml"/>
+    <item href="09_Kibritci_Kiz-1.xhtml" id="x09_Kibritci_Kiz-1" media-type="application/xhtml+xml"/>
+    <item href="09_Kibritci_Kiz-2.xhtml" id="x09_Kibritci_Kiz-2" media-type="application/xhtml+xml"/>
+    <item href="09_Kibritci_Kiz-3.xhtml" id="x09_Kibritci_Kiz-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/09_Kibritci_Kiz.css" id="x09_Kibritci_Kiz.css" media-type="text/css"/>
+    <item href="image/01-KiralinElbisesi-S02_fmt.jpeg" id="x01-KiralinElbisesi-S02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/02-KiralinElbisesi-S03_fmt.jpeg" id="x02-KiralinElbisesi-S03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/03-KiralinElbisesi-S04_fmt.jpeg" id="x03-KiralinElbisesi-S04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04-KiralinElbisesi-S05_fmt.jpeg" id="x04-KiralinElbisesi-S05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05-KiralinElbisesi-S06_fmt.jpeg" id="x05-KiralinElbisesi-S06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06-KiralinElbisesi-S07_fmt.jpeg" id="x06-KiralinElbisesi-S07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/07-KiralinElbisesi-S08_fmt.jpeg" id="x07-KiralinElbisesi-S08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_Kibritci_Kiz_KAPAK-_fmt.jpeg" id="x09_Kibritci_Kiz_KAPAK-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_Kibritci_Kiz_KAPAK-o.jpg" id="x09_Kibritci_Kiz_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/11-KiralinElbisesi-S12_fmt.jpeg" id="x11-KiralinElbisesi-S12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/12-KiralinElbisesi-S14_fmt.jpeg" id="x12-KiralinElbisesi-S14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13-KiralinElbisesi-S15_fmt.jpeg" id="x13-KiralinElbisesi-S15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14-KiralinElbisesi-S16_fmt.jpeg" id="x14-KiralinElbisesi-S16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/15-KiralinElbises-S17_fmt.jpeg" id="x15-KiralinElbises-S17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/15-KiralinElbisesi-S17_fmt.jpeg" id="x15-KiralinElbisesi-S17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/16-KiralinElbisesi-S18_fmt.jpeg" id="x16-KiralinElbisesi-S18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/17-KiralinElbisesi-S19_fmt.jpeg" id="x17-KiralinElbisesi-S19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-03_fmt.jpeg" id="SF-03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-04_fmt.jpeg" id="SF-04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-06_fmt.jpeg" id="SF-06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-08_fmt.jpeg" id="SF-08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-09_fmt.jpeg" id="SF-09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-29_fmt.jpeg" id="SF-29_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-30_fmt.jpeg" id="SF-30_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-32_fmt.jpeg" id="SF-32_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-35_fmt.jpeg" id="SF-35_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-36_fmt.jpeg" id="SF-36_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-37_fmt.jpeg" id="SF-37_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-38_fmt.jpeg" id="SF-38_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-39_fmt.jpeg" id="SF-39_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/SF-40_fmt.jpeg" id="SF-40_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x09_Kibritci_Kiz"/>
+    <itemref idref="x09_Kibritci_Kiz-1"/>
+    <itemref idref="x09_Kibritci_Kiz-2"/>
+    <itemref idref="x09_Kibritci_Kiz-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

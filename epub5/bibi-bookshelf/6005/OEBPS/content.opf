@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Billur Köşk</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Hasocak, Yunus Emre">Yunus Emre Hasocak</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">76abec40-7ce6-4a17-8953-5e1426817a57</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Billur Köşk"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yunus Emre Hasocak&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="25_BillurKosk.xhtml" id="x25_BillurKosk" media-type="application/xhtml+xml"/>
+    <item href="25_BillurKosk-1.xhtml" id="x25_BillurKosk-1" media-type="application/xhtml+xml"/>
+    <item href="25_BillurKosk-2.xhtml" id="x25_BillurKosk-2" media-type="application/xhtml+xml"/>
+    <item href="25_BillurKosk-3.xhtml" id="x25_BillurKosk-3" media-type="application/xhtml+xml"/>
+    <item href="25_BillurKosk-4.xhtml" id="x25_BillurKosk-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/25_BillurKosk.css" id="x25_BillurKosk.css" media-type="text/css"/>
+    <item href="image/25_Billur Kosk_Kapak_on.jpg" id="x25_Billur-Kosk_Kapak_on.jpg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_01_fmt.jpeg" id="BillurKosk_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_02_fmt.jpeg" id="BillurKosk_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_02_fmt1.jpeg" id="BillurKosk_02_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_03_fmt.jpeg" id="BillurKosk_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_04_fmt.jpeg" id="BillurKosk_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_05_fmt.jpeg" id="BillurKosk_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_06_fmt.jpeg" id="BillurKosk_06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_07_fmt.jpeg" id="BillurKosk_07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_08_fmt.jpeg" id="BillurKosk_08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_09_fmt.jpeg" id="BillurKosk_09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_10_fmt.jpeg" id="BillurKosk_10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/BillurKosk_11_fmt.jpeg" id="BillurKosk_11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/cicek_bolumsonu_fmt.jpeg" id="cicek_bolumsonu_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x25_BillurKosk"/>
+    <itemref idref="x25_BillurKosk-1"/>
+    <itemref idref="x25_BillurKosk-2"/>
+    <itemref idref="x25_BillurKosk-3"/>
+    <itemref idref="x25_BillurKosk-4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

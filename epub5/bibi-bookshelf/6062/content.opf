@@ -1,0 +1,36 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Şişkolarla Sıskalar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Maurois, Andre">Andre Maurois</dc:creator>
+    <dc:publisher>OMERZEN</dc:publisher>
+    <dc:date>2014-02-05T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">65bf5845-b612-4da9-b06d-43695cd72a0e</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">ab940b73-7a82-49a1-8b50-6059c8ccefae</dc:identifier>
+    <meta name="calibre:title_sort" content="Şişkolarla Sıskalar"/>
+    <meta name="calibre:timestamp" content="2014-02-06T18:41:26.907000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Andre Maurois&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="OPS/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

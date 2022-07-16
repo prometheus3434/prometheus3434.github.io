@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mutlu Prens</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Wilde, Oscar &amp; Mat, Murat">Oscar Wilde</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Murat Mat</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">7e9ed88e-daad-47cc-9710-28ef83c7eddd</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Mutlu Prens"/>
+    <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;, &quot;Murat Mat&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="24_Mutlu Prens.xhtml" id="x24_Mutlu-Prens" media-type="application/xhtml+xml"/>
+    <item href="24_Mutlu Prens-1.xhtml" id="x24_Mutlu-Prens-1" media-type="application/xhtml+xml"/>
+    <item href="24_Mutlu Prens-2.xhtml" id="x24_Mutlu-Prens-2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/24_Mutlu Prens.css" id="x24_Mutlu-Prens.css" media-type="text/css"/>
+    <item href="image/24_Mutlu Prens_Kapak_a_fmt.jpeg" id="x24_Mutlu-Prens_Kapak_a_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/24_Mutlu Prens_Kapak_on.jpg" id="x24_Mutlu-Prens_Kapak_on.jpg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/MutluPrens_00_fmt.jpeg" id="MutluPrens_00_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/MutluPrens_01_fmt.jpeg" id="MutluPrens_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/MutluPrens_02_fmt.jpeg" id="MutluPrens_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/MutluPrens_03_fmt.jpeg" id="MutluPrens_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/MutluPrens_04_fmt.jpeg" id="MutluPrens_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/MutluPrens_05_fmt.jpeg" id="MutluPrens_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/YildizCocuk_01_fmt.jpeg" id="YildizCocuk_01_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/YildizCocuk_02_fmt.jpeg" id="YildizCocuk_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/YildizCocuk_03_fmt.jpeg" id="YildizCocuk_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x24_Mutlu-Prens"/>
+    <itemref idref="x24_Mutlu-Prens-1"/>
+    <itemref idref="x24_Mutlu-Prens-2"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

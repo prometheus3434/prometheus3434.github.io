@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="70aaa3f2-5e75-4c5f-bed8-d630fed56e10" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Saftirik Greg'in Günlüğü 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>EYLÜL</text>
+      </navLabel>
+      <content src="Text/main_split_001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>EKİM</text>
+      </navLabel>
+      <content src="Text/main_split_002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KASIM</text>
+      </navLabel>
+      <content src="Text/main_split_003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ARALIK</text>
+      </navLabel>
+      <content src="Text/main_split_004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>OCAK</text>
+      </navLabel>
+      <content src="Text/main-1_split_000.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ŞUBAT</text>
+      </navLabel>
+      <content src="Text/main-1_split_001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>MART</text>
+      </navLabel>
+      <content src="Text/main-1_split_002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>NİSAN</text>
+      </navLabel>
+      <content src="Text/main-1_split_003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>MAYIS</text>
+      </navLabel>
+      <content src="Text/main-1_split_004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>HAZİRAN</text>
+      </navLabel>
+      <content src="Text/main-1_split_005.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

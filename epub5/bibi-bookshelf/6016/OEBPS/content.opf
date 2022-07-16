@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kaybolan Çocuk</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Tucan, Erdoğan">Erdoğan Tucan</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0c30a452-1c13-4e24-8ab4-4a5bd954f149</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kaybolan Çocuk"/>
+    <meta name="calibre:author_link_map" content="{&quot;Erdoğan Tucan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk.xhtml" id="HKS_01_Kaybolan-Cocuk" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk-1.xhtml" id="HKS_01_Kaybolan-Cocuk-1" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk-2.xhtml" id="HKS_01_Kaybolan-Cocuk-2" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk-3.xhtml" id="HKS_01_Kaybolan-Cocuk-3" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk-4.xhtml" id="HKS_01_Kaybolan-Cocuk-4" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk-5.xhtml" id="HKS_01_Kaybolan-Cocuk-5" media-type="application/xhtml+xml"/>
+    <item href="HKS_01_Kaybolan Cocuk-6.xhtml" id="HKS_01_Kaybolan-Cocuk-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/HKS_01_Kaybolan Cocuk.css" id="HKS_01_Kaybolan-Cocuk.css" media-type="text/css"/>
+    <item href="image/01_kcocuk_fmt.jpeg" id="x01_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/02_kcocuk_fmt.jpeg" id="x02_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/03_kcocuk_fmt.jpeg" id="x03_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04_kcocuk_fmt.jpeg" id="x04_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05_kcocuk_fmt.jpeg" id="x05_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06_kcocuk_fmt.jpeg" id="x06_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/07_kcocuk_fmt.jpeg" id="x07_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/08_kcocuk_fmt.jpeg" id="x08_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_kcocuk_fmt.jpeg" id="x09_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/10_kcocuk_fmt.jpeg" id="x10_kcocuk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/HKS_01_Kaybolan Cocuk__fmt.jpeg" id="HKS_01_Kaybolan-Cocuk__fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/HKS_01_Kaybolan Cocuk_on_kapak.jpg" id="HKS_01_Kaybolan-Cocuk_on_kapak.jpg" media-type="image/jpeg"/>
+    <item href="image/zambak_adres (11-2011)_fmt.jpeg" id="zambak_adres--11-2011-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPS-BoldMT.ttf" id="TimesNewRomanPS-BoldMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk-1"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk-2"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk-3"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk-4"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk-5"/>
+    <itemref idref="HKS_01_Kaybolan-Cocuk-6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

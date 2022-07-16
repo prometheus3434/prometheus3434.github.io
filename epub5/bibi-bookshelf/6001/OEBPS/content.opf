@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Alice Harikalar Diyarında</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Carroll, Lewis">Lewis Carroll</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7ad2f163-a017-4381-9c29-819ed9fca694</dc:identifier>
+    <dc:date>2007-05-03T21:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Alice Harikalar Ülkesinde, tam yüz otuz beş yıl önce yazıldı ve o günden beri tüm dünya çocuklarının hayranlıkla okuduğu bir kitap oldu. Yazarı Lewis Carroll, aslında başarılı bir metamatikçiydi. Bir dostunun Alice adındaki kızını oyalamak amacıyla anlattığı öyküleri bir kitapta toplamayı düşündü ve ortaya bu unutulmaz çocuk romanı çıktı. Alice Harikalar Ülkesinde, içine giren herkesi büyüleyen bir hayal ve masal ülkesi. Normal bir küçük kız olan Alice, bir gün yolda tuhaf giyimli bir tavşanla karşılaşır; tavşan randevusuna geç kalmamak için koştururken durmaksızın saatine bakmaktadır. Alice, tavşanın peşinden bir deliğe dalar ve o anda kendini olağanüstü bir serüvenin içinde bulur. İnanılmaz kahramanlarla dolu, budala bir korkunç Kupa Kraliçe'nin yönettiği Harikalar Ülkesi'ne girmiştir. Alice, kendisini ya küçücük yapan ya da dev gibi büyüten büyülü yiyecek ve içeceklerin yardımıyla Harikalar Ülkesi'nde gezinmeye başlar. Filozof bir Tırtıl'ın öğütlerini dinler, Vankara Kedisi'ne yol sorar, Deli Şapkacı'yla Mart Tavşanı'nın verdiği çay partisine katılır, Tarla Faresi'yle havadan sudan konuşur, her kızdığının kafasını uçurtan, öfkelenince gözü hiçbir şeyi görmeyen Kraliçe ile çelikçomak oynar. Harikalar Ülkesi'nde karşılaştığı bütün bu tuhaf yaratıkların dünyasına giren Alice, neredeyse onlardan biri olmak üzereyken...
+
+Bu kitabın devamı olan Aynanın İçinden'de bir başka dünyada Alice'nin yeni bir serüvenini bulacaksınız.
+&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Çocuk edebiyatı</dc:subject>
+    <dc:subject>Fantastik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">df15e256-501b-4cf1-86fe-a6b074bcdbc2</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:7ad2f163-a017-4381-9c29-819ed9fca694</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750706141</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="Alice.png"/>
+    <meta name="calibre:title_sort" content="Alice Harikalar Diyarında"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Lewis Carroll&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style(p).css" id="Style_p_.css" media-type="text/css"/>
+    <item href="Images/Alice.png" id="Alice.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

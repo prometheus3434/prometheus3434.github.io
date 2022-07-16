@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Guliverin Gezileri</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Swift, Jonathan &amp; Buğrahan, M. Orhan">Jonathan Swift</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">M. Orhan Buğrahan</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (6.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">7f00b9f3-e374-4d03-be13-fddbd9bded13</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Guliverin Gezileri"/>
+    <meta name="calibre:author_link_map" content="{&quot;Jonathan Swift&quot;: &quot;&quot;, &quot;M. Orhan Buğrahan&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="26_Guliverin Gezileri.xhtml" id="x26_Guliverin-Gezileri" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/26_Guliverin Gezileri.css" id="x26_Guliverin-Gezileri.css" media-type="text/css"/>
+    <item href="image/00_Guluver_Giris_fmt.jpeg" id="x00_Guluver_Giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/01_Guluver_fmt.jpeg" id="x01_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/02_Guluver_fmt.jpeg" id="x02_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/03_Guluver_fmt.jpeg" id="x03_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04_Guluver_fmt.jpeg" id="x04_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05_Guluver_fmt.jpeg" id="x05_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06_Guluver_fmt.jpeg" id="x06_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/07_Guluver_fmt.jpeg" id="x07_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/08_Guluver_fmt.jpeg" id="x08_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/09_Guluver_fmt.jpeg" id="x09_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/10_Guluver_fmt.jpeg" id="x10_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_Guluver_fmt.jpeg" id="x11_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/12_Guluver_fmt.jpeg" id="x12_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13_Guluver_fmt.jpeg" id="x13_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_Guluver_fmt.jpeg" id="x14_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/15_Guluver_fmt.jpeg" id="x15_Guluver_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/26_Guliverin Gezileri__fmt.jpeg" id="x26_Guliverin-Gezileri__fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/26_Guliverin Gezileri_Kapak_on.jpg" id="x26_Guliverin-Gezileri_Kapak_on.jpg" media-type="image/jpeg"/>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_fmt.jpeg" id="ZambakLogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS.ttf" id="TrebuchetMS.ttf" media-type="application/x-font-ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x26_Guliverin-Gezileri"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
