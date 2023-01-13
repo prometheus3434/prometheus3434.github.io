@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Affan - PWA Mobile HTML Template">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#0134d4">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+    <title>Güven Timleri</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="img/icons/icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/icon-180x180.png">
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tiny-slider.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css">
+    <link rel="stylesheet" href="css/rangeslider.css">
+    <link rel="stylesheet" href="css/vanilla-dataTables.min.css">
+    <link rel="stylesheet" href="css/apexcharts.css">
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="manifest.json">
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div class="spinner-grow text-primary" role="status"><span class="visually-hidden">Loading...</span></div>
+    </div>
+    <!-- Internet Connection Status -->
+    <!-- # This code for showing internet connection status -->
+    <div class="internet-connection-status" id="internetStatus"></div>
+    
+    <!-- Dark mode switching -->
+    <div class="dark-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="dark-mode-text text-center">
+          <svg class="bi bi-moon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M14.53 10.53a7 7 0 0 1-9.058-9.058A7.003 7.003 0 0 0 8 15a7.002 7.002 0 0 0 6.53-4.47z"></path>
+          </svg>
+          <p class="mb-0">Switching to dark mode</p>
+        </div>
+        <div class="light-mode-text text-center">
+          <svg class="bi bi-brightness-high" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"></path>
+          </svg>
+          <p class="mb-0">Switching to light mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- RTL mode switching -->
+    <div class="rtl-mode-switching">
+      <div class="d-flex w-100 h-100 align-items-center justify-content-center">
+        <div class="rtl-mode-text text-center">
+          <svg class="bi bi-text-right" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm4-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to RTL mode</p>
+        </div>
+        <div class="ltr-mode-text text-center">
+          <svg class="bi bi-text-left" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+          </svg>
+          <p class="mb-0">Switching to default mode</p>
+        </div>
+      </div>
+    </div>
+    <!-- Setting Popup Overlay -->
+    <div id="setting-popup-overlay"></div>
+    <!-- Setting Popup Card -->
+    <div class="card setting-popup-card shadow-lg" id="settingCard">
+      <div class="card-body">
+        <div class="container">
+          <div class="setting-heading d-flex align-items-center justify-content-between mb-3">
+            <p class="mb-0">Settings</p>
+            <div class="btn-close" id="settingCardClose"></div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="availabilityStatus" checked>
+              <label class="form-check-label" for="availabilityStatus">Availability status</label>
+            </div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="sendMeNotifications" checked>
+              <label class="form-check-label" for="sendMeNotifications">Send me notifications</label>
+            </div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch mb-2">
+              <input class="form-check-input" type="checkbox" id="darkSwitch">
+              <label class="form-check-label" for="darkSwitch">Dark mode</label>
+            </div>
+          </div>
+          <div class="single-setting-panel">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" id="rtlSwitch">
+              <label class="form-check-label" for="rtlSwitch">RTL mode</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Header Area -->
+    <div class="header-area" id="headerArea">
+      <div class="container">
+        <!-- Header Content -->
+        <div class="header-content position-relative d-flex align-items-center justify-content-between">
+          <!-- Back Button -->
+          <div class="back-button">
+              <svg class="bi bi-arrow-left-short" width="32" height="32" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"></path>
+              </svg></a></div>
+          <!-- Page Title -->
+          <div class="page-heading">
+            <h3 class="mb-0">E-Kütüphane</h3>
+          </div>
+            <!-- Search -->
+            <div class="search-wrapper"><a class="search-trigger-btn" href="eboox.html">
+                <svg class="bi bi-search" width="25" height="25" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"></path>
+                  <path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"></path>
+                </svg></a></div>
+        </div>
+      </div>
+    </div>
+              </svg><span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page-content-wrapper py-3">
+      <div class="blog-wrapper direction-rtl">
+        <div class="container">
+          <div class="row g-1">
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2010"><img src="https://gvnteams.github.io/dist/img/ebook/2010.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2021"><img src="https://gvnteams.github.io/dist/img/ebook/2021.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2036"><img src="https://gvnteams.github.io/dist/img/ebook/2036.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2041"><img src="https://gvnteams.github.io/dist/img/ebook/2041.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2042"><img src="https://gvnteams.github.io/dist/img/ebook/2042.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2043"><img src="https://gvnteams.github.io/dist/img/ebook/2043.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2044"><img src="https://gvnteams.github.io/dist/img/ebook/2044.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2045"><img src="https://gvnteams.github.io/dist/img/ebook/2045.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2046"><img src="https://gvnteams.github.io/dist/img/ebook/2046.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2048"><img src="https://gvnteams.github.io/dist/img/ebook/2048.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2049"><img src="https://gvnteams.github.io/dist/img/ebook/2049.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2051"><img src="https://gvnteams.github.io/dist/img/ebook/2051.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2052"><img src="https://gvnteams.github.io/dist/img/ebook/2052.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2053"><img src="https://gvnteams.github.io/dist/img/ebook/2053.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2054"><img src="https://gvnteams.github.io/dist/img/ebook/2054.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2055"><img src="https://gvnteams.github.io/dist/img/ebook/2055.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2056"><img src="https://gvnteams.github.io/dist/img/ebook/2056.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2057"><img src="https://gvnteams.github.io/dist/img/ebook/2057.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2058"><img src="https://gvnteams.github.io/dist/img/ebook/2058.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2060"><img src="https://gvnteams.github.io/dist/img/ebook/2060.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2063"><img src="https://gvnteams.github.io/dist/img/ebook/2063.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2070"><img src="https://gvnteams.github.io/dist/img/ebook/2070.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2071"><img src="https://gvnteams.github.io/dist/img/ebook/2071.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2073"><img src="https://gvnteams.github.io/dist/img/ebook/2073.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2077"><img src="https://gvnteams.github.io/dist/img/ebook/2077.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2078"><img src="https://gvnteams.github.io/dist/img/ebook/2078.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2079"><img src="https://gvnteams.github.io/dist/img/ebook/2079.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2081"><img src="https://gvnteams.github.io/dist/img/ebook/2081.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2086"><img src="https://gvnteams.github.io/dist/img/ebook/2086.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2096"><img src="https://gvnteams.github.io/dist/img/ebook/2096.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2097"><img src="https://gvnteams.github.io/dist/img/ebook/2097.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2099"><img src="https://gvnteams.github.io/dist/img/ebook/2099.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2101"><img src="https://gvnteams.github.io/dist/img/ebook/2101.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2102"><img src="https://gvnteams.github.io/dist/img/ebook/2102.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2105"><img src="https://gvnteams.github.io/dist/img/ebook/2105.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2108"><img src="https://gvnteams.github.io/dist/img/ebook/2108.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2109"><img src="https://gvnteams.github.io/dist/img/ebook/2109.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2110"><img src="https://gvnteams.github.io/dist/img/ebook/2110.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2111"><img src="https://gvnteams.github.io/dist/img/ebook/2111.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2112"><img src="https://gvnteams.github.io/dist/img/ebook/2112.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2118"><img src="https://gvnteams.github.io/dist/img/ebook/2118.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2121"><img src="https://gvnteams.github.io/dist/img/ebook/2121.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2124"><img src="https://gvnteams.github.io/dist/img/ebook/2124.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2125"><img src="https://gvnteams.github.io/dist/img/ebook/2125.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2127"><img src="https://gvnteams.github.io/dist/img/ebook/2127.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2128"><img src="https://gvnteams.github.io/dist/img/ebook/2128.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2129"><img src="https://gvnteams.github.io/dist/img/ebook/2129.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2131"><img src="https://gvnteams.github.io/dist/img/ebook/2131.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2132"><img src="https://gvnteams.github.io/dist/img/ebook/2132.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2133"><img src="https://gvnteams.github.io/dist/img/ebook/2133.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2136"><img src="https://gvnteams.github.io/dist/img/ebook/2136.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2137"><img src="https://gvnteams.github.io/dist/img/ebook/2137.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2138"><img src="https://gvnteams.github.io/dist/img/ebook/2138.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2139"><img src="https://gvnteams.github.io/dist/img/ebook/2139.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2140"><img src="https://gvnteams.github.io/dist/img/ebook/2140.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2141"><img src="https://gvnteams.github.io/dist/img/ebook/2141.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2154"><img src="https://gvnteams.github.io/dist/img/ebook/2154.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2157"><img src="https://gvnteams.github.io/dist/img/ebook/2157.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2160"><img src="https://gvnteams.github.io/dist/img/ebook/2160.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2161"><img src="https://gvnteams.github.io/dist/img/ebook/2161.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2163"><img src="https://gvnteams.github.io/dist/img/ebook/2163.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2166"><img src="https://gvnteams.github.io/dist/img/ebook/2166.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2168"><img src="https://gvnteams.github.io/dist/img/ebook/2168.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2169"><img src="https://gvnteams.github.io/dist/img/ebook/2169.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2173"><img src="https://gvnteams.github.io/dist/img/ebook/2173.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2174"><img src="https://gvnteams.github.io/dist/img/ebook/2174.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2175"><img src="https://gvnteams.github.io/dist/img/ebook/2175.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2179"><img src="https://gvnteams.github.io/dist/img/ebook/2179.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2181"><img src="https://gvnteams.github.io/dist/img/ebook/2181.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2182"><img src="https://gvnteams.github.io/dist/img/ebook/2182.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2183"><img src="https://gvnteams.github.io/dist/img/ebook/2183.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2184"><img src="https://gvnteams.github.io/dist/img/ebook/2184.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2191"><img src="https://gvnteams.github.io/dist/img/ebook/2191.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2194"><img src="https://gvnteams.github.io/dist/img/ebook/2194.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2196"><img src="https://gvnteams.github.io/dist/img/ebook/2196.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2197"><img src="https://gvnteams.github.io/dist/img/ebook/2197.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2199"><img src="https://gvnteams.github.io/dist/img/ebook/2199.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2203"><img src="https://gvnteams.github.io/dist/img/ebook/2203.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2205"><img src="https://gvnteams.github.io/dist/img/ebook/2205.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2206"><img src="https://gvnteams.github.io/dist/img/ebook/2206.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2208"><img src="https://gvnteams.github.io/dist/img/ebook/2208.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2211"><img src="https://gvnteams.github.io/dist/img/ebook/2211.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2212"><img src="https://gvnteams.github.io/dist/img/ebook/2212.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2213"><img src="https://gvnteams.github.io/dist/img/ebook/2213.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2214"><img src="https://gvnteams.github.io/dist/img/ebook/2214.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2215"><img src="https://gvnteams.github.io/dist/img/ebook/2215.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2219"><img src="https://gvnteams.github.io/dist/img/ebook/2219.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2221"><img src="https://gvnteams.github.io/dist/img/ebook/2221.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2223"><img src="https://gvnteams.github.io/dist/img/ebook/2223.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2224"><img src="https://gvnteams.github.io/dist/img/ebook/2224.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2227"><img src="https://gvnteams.github.io/dist/img/ebook/2227.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2231"><img src="https://gvnteams.github.io/dist/img/ebook/2231.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2232"><img src="https://gvnteams.github.io/dist/img/ebook/2232.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2234"><img src="https://gvnteams.github.io/dist/img/ebook/2234.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2245"><img src="https://gvnteams.github.io/dist/img/ebook/2245.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2247"><img src="https://gvnteams.github.io/dist/img/ebook/2247.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2249"><img src="https://gvnteams.github.io/dist/img/ebook/2249.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2250"><img src="https://gvnteams.github.io/dist/img/ebook/2250.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2251"><img src="https://gvnteams.github.io/dist/img/ebook/2251.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2255"><img src="https://gvnteams.github.io/dist/img/ebook/2255.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2257"><img src="https://gvnteams.github.io/dist/img/ebook/2257.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2258"><img src="https://gvnteams.github.io/dist/img/ebook/2258.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2259"><img src="https://gvnteams.github.io/dist/img/ebook/2259.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2260"><img src="https://gvnteams.github.io/dist/img/ebook/2260.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2261"><img src="https://gvnteams.github.io/dist/img/ebook/2261.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2262"><img src="https://gvnteams.github.io/dist/img/ebook/2262.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2266"><img src="https://gvnteams.github.io/dist/img/ebook/2266.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2268"><img src="https://gvnteams.github.io/dist/img/ebook/2268.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2269"><img src="https://gvnteams.github.io/dist/img/ebook/2269.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2270"><img src="https://gvnteams.github.io/dist/img/ebook/2270.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2271"><img src="https://gvnteams.github.io/dist/img/ebook/2271.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2272"><img src="https://gvnteams.github.io/dist/img/ebook/2272.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2273"><img src="https://gvnteams.github.io/dist/img/ebook/2273.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2275"><img src="https://gvnteams.github.io/dist/img/ebook/2275.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2281"><img src="https://gvnteams.github.io/dist/img/ebook/2281.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2283"><img src="https://gvnteams.github.io/dist/img/ebook/2283.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2287"><img src="https://gvnteams.github.io/dist/img/ebook/2287.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2291"><img src="https://gvnteams.github.io/dist/img/ebook/2291.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2292"><img src="https://gvnteams.github.io/dist/img/ebook/2292.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2299"><img src="https://gvnteams.github.io/dist/img/ebook/2299.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2300"><img src="https://gvnteams.github.io/dist/img/ebook/2300.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2301"><img src="https://gvnteams.github.io/dist/img/ebook/2301.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2303"><img src="https://gvnteams.github.io/dist/img/ebook/2303.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2304"><img src="https://gvnteams.github.io/dist/img/ebook/2304.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2306"><img src="https://gvnteams.github.io/dist/img/ebook/2306.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2307"><img src="https://gvnteams.github.io/dist/img/ebook/2307.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2316"><img src="https://gvnteams.github.io/dist/img/ebook/2316.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2317"><img src="https://gvnteams.github.io/dist/img/ebook/2317.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2318"><img src="https://gvnteams.github.io/dist/img/ebook/2318.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2321"><img src="https://gvnteams.github.io/dist/img/ebook/2321.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2323"><img src="https://gvnteams.github.io/dist/img/ebook/2323.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2324"><img src="https://gvnteams.github.io/dist/img/ebook/2324.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2327"><img src="https://gvnteams.github.io/dist/img/ebook/2327.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2328"><img src="https://gvnteams.github.io/dist/img/ebook/2328.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2330"><img src="https://gvnteams.github.io/dist/img/ebook/2330.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2331"><img src="https://gvnteams.github.io/dist/img/ebook/2331.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2332"><img src="https://gvnteams.github.io/dist/img/ebook/2332.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2333"><img src="https://gvnteams.github.io/dist/img/ebook/2333.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2334"><img src="https://gvnteams.github.io/dist/img/ebook/2334.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2335"><img src="https://gvnteams.github.io/dist/img/ebook/2335.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2338"><img src="https://gvnteams.github.io/dist/img/ebook/2338.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2339"><img src="https://gvnteams.github.io/dist/img/ebook/2339.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2343"><img src="https://gvnteams.github.io/dist/img/ebook/2343.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2344"><img src="https://gvnteams.github.io/dist/img/ebook/2344.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2345"><img src="https://gvnteams.github.io/dist/img/ebook/2345.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2346"><img src="https://gvnteams.github.io/dist/img/ebook/2346.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2347"><img src="https://gvnteams.github.io/dist/img/ebook/2347.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2349"><img src="https://gvnteams.github.io/dist/img/ebook/2349.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2351"><img src="https://gvnteams.github.io/dist/img/ebook/2351.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2356"><img src="https://gvnteams.github.io/dist/img/ebook/2356.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2357"><img src="https://gvnteams.github.io/dist/img/ebook/2357.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2358"><img src="https://gvnteams.github.io/dist/img/ebook/2358.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2360"><img src="https://gvnteams.github.io/dist/img/ebook/2360.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2361"><img src="https://gvnteams.github.io/dist/img/ebook/2361.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2363"><img src="https://gvnteams.github.io/dist/img/ebook/2363.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2368"><img src="https://gvnteams.github.io/dist/img/ebook/2368.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2369"><img src="https://gvnteams.github.io/dist/img/ebook/2369.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2370"><img src="https://gvnteams.github.io/dist/img/ebook/2370.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2373"><img src="https://gvnteams.github.io/dist/img/ebook/2373.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2374"><img src="https://gvnteams.github.io/dist/img/ebook/2374.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2377"><img src="https://gvnteams.github.io/dist/img/ebook/2377.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2381"><img src="https://gvnteams.github.io/dist/img/ebook/2381.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2387"><img src="https://gvnteams.github.io/dist/img/ebook/2387.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2389"><img src="https://gvnteams.github.io/dist/img/ebook/2389.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2391"><img src="https://gvnteams.github.io/dist/img/ebook/2391.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2394"><img src="https://gvnteams.github.io/dist/img/ebook/2394.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2395"><img src="https://gvnteams.github.io/dist/img/ebook/2395.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2396"><img src="https://gvnteams.github.io/dist/img/ebook/2396.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2403"><img src="https://gvnteams.github.io/dist/img/ebook/2403.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2404"><img src="https://gvnteams.github.io/dist/img/ebook/2404.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2405"><img src="https://gvnteams.github.io/dist/img/ebook/2405.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2406"><img src="https://gvnteams.github.io/dist/img/ebook/2406.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2407"><img src="https://gvnteams.github.io/dist/img/ebook/2407.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2409"><img src="https://gvnteams.github.io/dist/img/ebook/2409.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2410"><img src="https://gvnteams.github.io/dist/img/ebook/2410.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2411"><img src="https://gvnteams.github.io/dist/img/ebook/2411.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2412"><img src="https://gvnteams.github.io/dist/img/ebook/2412.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2414"><img src="https://gvnteams.github.io/dist/img/ebook/2414.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2415"><img src="https://gvnteams.github.io/dist/img/ebook/2415.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2416"><img src="https://gvnteams.github.io/dist/img/ebook/2416.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2417"><img src="https://gvnteams.github.io/dist/img/ebook/2417.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2420"><img src="https://gvnteams.github.io/dist/img/ebook/2420.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2421"><img src="https://gvnteams.github.io/dist/img/ebook/2421.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2424"><img src="https://gvnteams.github.io/dist/img/ebook/2424.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2430"><img src="https://gvnteams.github.io/dist/img/ebook/2430.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2431"><img src="https://gvnteams.github.io/dist/img/ebook/2431.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2433"><img src="https://gvnteams.github.io/dist/img/ebook/2433.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2434"><img src="https://gvnteams.github.io/dist/img/ebook/2434.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2444"><img src="https://gvnteams.github.io/dist/img/ebook/2444.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2445"><img src="https://gvnteams.github.io/dist/img/ebook/2445.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2446"><img src="https://gvnteams.github.io/dist/img/ebook/2446.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2448"><img src="https://gvnteams.github.io/dist/img/ebook/2448.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2452"><img src="https://gvnteams.github.io/dist/img/ebook/2452.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2453"><img src="https://gvnteams.github.io/dist/img/ebook/2453.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2456"><img src="https://gvnteams.github.io/dist/img/ebook/2456.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2461"><img src="https://gvnteams.github.io/dist/img/ebook/2461.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2462"><img src="https://gvnteams.github.io/dist/img/ebook/2462.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2464"><img src="https://gvnteams.github.io/dist/img/ebook/2464.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2466"><img src="https://gvnteams.github.io/dist/img/ebook/2466.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2468"><img src="https://gvnteams.github.io/dist/img/ebook/2468.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2470"><img src="https://gvnteams.github.io/dist/img/ebook/2470.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2471"><img src="https://gvnteams.github.io/dist/img/ebook/2471.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2472"><img src="https://gvnteams.github.io/dist/img/ebook/2472.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2475"><img src="https://gvnteams.github.io/dist/img/ebook/2475.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2476"><img src="https://gvnteams.github.io/dist/img/ebook/2476.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2477"><img src="https://gvnteams.github.io/dist/img/ebook/2477.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2478"><img src="https://gvnteams.github.io/dist/img/ebook/2478.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2479"><img src="https://gvnteams.github.io/dist/img/ebook/2479.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2480"><img src="https://gvnteams.github.io/dist/img/ebook/2480.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2481"><img src="https://gvnteams.github.io/dist/img/ebook/2481.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2482"><img src="https://gvnteams.github.io/dist/img/ebook/2482.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2483"><img src="https://gvnteams.github.io/dist/img/ebook/2483.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2484"><img src="https://gvnteams.github.io/dist/img/ebook/2484.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2485"><img src="https://gvnteams.github.io/dist/img/ebook/2485.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2501"><img src="https://gvnteams.github.io/dist/img/ebook/2501.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2502"><img src="https://gvnteams.github.io/dist/img/ebook/2502.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2505"><img src="https://gvnteams.github.io/dist/img/ebook/2505.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2507"><img src="https://gvnteams.github.io/dist/img/ebook/2507.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2514"><img src="https://gvnteams.github.io/dist/img/ebook/2514.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2515"><img src="https://gvnteams.github.io/dist/img/ebook/2515.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2517"><img src="https://gvnteams.github.io/dist/img/ebook/2517.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2518"><img src="https://gvnteams.github.io/dist/img/ebook/2518.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2519"><img src="https://gvnteams.github.io/dist/img/ebook/2519.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2521"><img src="https://gvnteams.github.io/dist/img/ebook/2521.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2522"><img src="https://gvnteams.github.io/dist/img/ebook/2522.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2523"><img src="https://gvnteams.github.io/dist/img/ebook/2523.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2527"><img src="https://gvnteams.github.io/dist/img/ebook/2527.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2536"><img src="https://gvnteams.github.io/dist/img/ebook/2536.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2537"><img src="https://gvnteams.github.io/dist/img/ebook/2537.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2538"><img src="https://gvnteams.github.io/dist/img/ebook/2538.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2539"><img src="https://gvnteams.github.io/dist/img/ebook/2539.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2540"><img src="https://gvnteams.github.io/dist/img/ebook/2540.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2541"><img src="https://gvnteams.github.io/dist/img/ebook/2541.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2542"><img src="https://gvnteams.github.io/dist/img/ebook/2542.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2543"><img src="https://gvnteams.github.io/dist/img/ebook/2543.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2546"><img src="https://gvnteams.github.io/dist/img/ebook/2546.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2551"><img src="https://gvnteams.github.io/dist/img/ebook/2551.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2557"><img src="https://gvnteams.github.io/dist/img/ebook/2557.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2562"><img src="https://gvnteams.github.io/dist/img/ebook/2562.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2563"><img src="https://gvnteams.github.io/dist/img/ebook/2563.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2571"><img src="https://gvnteams.github.io/dist/img/ebook/2571.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2574"><img src="https://gvnteams.github.io/dist/img/ebook/2574.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2575"><img src="https://gvnteams.github.io/dist/img/ebook/2575.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2581"><img src="https://gvnteams.github.io/dist/img/ebook/2581.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2589"><img src="https://gvnteams.github.io/dist/img/ebook/2589.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2592"><img src="https://gvnteams.github.io/dist/img/ebook/2592.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2594"><img src="https://gvnteams.github.io/dist/img/ebook/2594.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2599"><img src="https://gvnteams.github.io/dist/img/ebook/2599.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2602"><img src="https://gvnteams.github.io/dist/img/ebook/2602.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2604"><img src="https://gvnteams.github.io/dist/img/ebook/2604.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2605"><img src="https://gvnteams.github.io/dist/img/ebook/2605.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2606"><img src="https://gvnteams.github.io/dist/img/ebook/2606.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2607"><img src="https://gvnteams.github.io/dist/img/ebook/2607.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2608"><img src="https://gvnteams.github.io/dist/img/ebook/2608.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2610"><img src="https://gvnteams.github.io/dist/img/ebook/2610.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2614"><img src="https://gvnteams.github.io/dist/img/ebook/2614.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2616"><img src="https://gvnteams.github.io/dist/img/ebook/2616.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2617"><img src="https://gvnteams.github.io/dist/img/ebook/2617.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2619"><img src="https://gvnteams.github.io/dist/img/ebook/2619.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2622"><img src="https://gvnteams.github.io/dist/img/ebook/2622.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2623"><img src="https://gvnteams.github.io/dist/img/ebook/2623.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2624"><img src="https://gvnteams.github.io/dist/img/ebook/2624.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2630"><img src="https://gvnteams.github.io/dist/img/ebook/2630.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2634"><img src="https://gvnteams.github.io/dist/img/ebook/2634.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2635"><img src="https://gvnteams.github.io/dist/img/ebook/2635.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2636"><img src="https://gvnteams.github.io/dist/img/ebook/2636.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2637"><img src="https://gvnteams.github.io/dist/img/ebook/2637.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2638"><img src="https://gvnteams.github.io/dist/img/ebook/2638.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2641"><img src="https://gvnteams.github.io/dist/img/ebook/2641.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2642"><img src="https://gvnteams.github.io/dist/img/ebook/2642.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2643"><img src="https://gvnteams.github.io/dist/img/ebook/2643.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2645"><img src="https://gvnteams.github.io/dist/img/ebook/2645.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2647"><img src="https://gvnteams.github.io/dist/img/ebook/2647.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2648"><img src="https://gvnteams.github.io/dist/img/ebook/2648.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2649"><img src="https://gvnteams.github.io/dist/img/ebook/2649.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2651"><img src="https://gvnteams.github.io/dist/img/ebook/2651.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2652"><img src="https://gvnteams.github.io/dist/img/ebook/2652.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2653"><img src="https://gvnteams.github.io/dist/img/ebook/2653.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2654"><img src="https://gvnteams.github.io/dist/img/ebook/2654.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2655"><img src="https://gvnteams.github.io/dist/img/ebook/2655.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2657"><img src="https://gvnteams.github.io/dist/img/ebook/2657.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2658"><img src="https://gvnteams.github.io/dist/img/ebook/2658.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2659"><img src="https://gvnteams.github.io/dist/img/ebook/2659.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2660"><img src="https://gvnteams.github.io/dist/img/ebook/2660.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2663"><img src="https://gvnteams.github.io/dist/img/ebook/2663.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2664"><img src="https://gvnteams.github.io/dist/img/ebook/2664.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2665"><img src="https://gvnteams.github.io/dist/img/ebook/2665.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2666"><img src="https://gvnteams.github.io/dist/img/ebook/2666.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2671"><img src="https://gvnteams.github.io/dist/img/ebook/2671.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2672"><img src="https://gvnteams.github.io/dist/img/ebook/2672.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2673"><img src="https://gvnteams.github.io/dist/img/ebook/2673.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2675"><img src="https://gvnteams.github.io/dist/img/ebook/2675.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2676"><img src="https://gvnteams.github.io/dist/img/ebook/2676.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2677"><img src="https://gvnteams.github.io/dist/img/ebook/2677.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2678"><img src="https://gvnteams.github.io/dist/img/ebook/2678.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2679"><img src="https://gvnteams.github.io/dist/img/ebook/2679.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2680"><img src="https://gvnteams.github.io/dist/img/ebook/2680.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2682"><img src="https://gvnteams.github.io/dist/img/ebook/2682.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2683"><img src="https://gvnteams.github.io/dist/img/ebook/2683.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2684"><img src="https://gvnteams.github.io/dist/img/ebook/2684.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2687"><img src="https://gvnteams.github.io/dist/img/ebook/2687.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2688"><img src="https://gvnteams.github.io/dist/img/ebook/2688.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2690"><img src="https://gvnteams.github.io/dist/img/ebook/2690.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2691"><img src="https://gvnteams.github.io/dist/img/ebook/2691.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2692"><img src="https://gvnteams.github.io/dist/img/ebook/2692.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2693"><img src="https://gvnteams.github.io/dist/img/ebook/2693.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2694"><img src="https://gvnteams.github.io/dist/img/ebook/2694.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2695"><img src="https://gvnteams.github.io/dist/img/ebook/2695.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2696"><img src="https://gvnteams.github.io/dist/img/ebook/2696.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2697"><img src="https://gvnteams.github.io/dist/img/ebook/2697.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2699"><img src="https://gvnteams.github.io/dist/img/ebook/2699.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2703"><img src="https://gvnteams.github.io/dist/img/ebook/2703.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2704"><img src="https://gvnteams.github.io/dist/img/ebook/2704.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2707"><img src="https://gvnteams.github.io/dist/img/ebook/2707.jpg" alt=""></a></div></div></div>
+<div class="col-4"><div class="card partner-slide-card border bg-gray"><div class="card-body p-2"><a href="https://prometheus3434.github.io/epub2/bibi/?book=2708"><img src="https://gvnteams.github.io/dist/img/ebook/2708.jpg" alt=""></a></div></div></div>
+
+
+        </div>			
+        </div>
+      </div>
+      <div class="container">
+        <div class="card mt-3">
+          <div class="card-body p-3">
+            <nav aria-label="Page navigation example">
+              <ul class="pagination justify-content-center pagination-one direction-rtl">
+                <li class="page-item disabled"><a class="page-link" href="#" aria-label="Previous">
+                    <svg class="bi bi-chevron-left" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"></path>
+                    </svg></a></li>
+                <li class="page-item active"><a class="page-link" href="1.html">1</a></li>
+                <li class="page-item"><a class="page-link" href="2.html">2</a></li>
+                <li class="page-item"><a class="page-link" href="3.html">3</a></li>
+                <li class="page-item"><a class="page-link" href="4.html">4</a></li>
+                <li class="page-item"><a class="page-link" href="5.html">5</a></li>
+                <li class="page-item"><a class="page-link" href="2.html" aria-label="Next">
+                    <svg class="bi bi-chevron-right" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"></path>
+                    </svg></a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="pb-3"></div>
+    </div>
+
+    <!-- All JavaScript Files -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/slideToggle.min.js"></script>
+    <script src="js/internet-status.js"></script>
+    <script src="js/tiny-slider.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/rangeslider.min.js"></script>
+    <script src="js/vanilla-dataTables.min.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/magic-grid.min.js"></script>
+    <script src="js/dark-rtl.js"></script>
+    <script src="js/active.js"></script>
+    <!-- PWA -->
+    <script src="js/pwa.js"></script>
+  </body>
+</html>
